@@ -108,9 +108,28 @@ class ModuleMetrics:
         """Общая оценка качества."""
         issues = 0
         
-        # Критические проблемы
+        # Критические проблемы с квизом
         if not self.has_quiz:
-            issues += 2
+            # Нет квиза - критическая проблема
+            issues += 3
+        else:
+            # Квиз есть, проверяем его полноту
+            if self.quiz_questions < 15:
+                # Слишком мало вопросов - критическая проблема
+                issues += 3
+            elif self.quiz_questions < 20:
+                # Меньше рекомендуемого минимума
+                issues += 1
+            
+            # Проверяем наличие обязательных компонентов независимо
+            if not self.quiz_has_answer_key:
+                # Нет ключа ответов - критическая проблема (нельзя использовать квиз)
+                issues += 3
+            if not self.quiz_has_scoring:
+                # Нет шкалы оценки - серьезная проблема
+                issues += 2
+        
+        # Критические проблемы с лекцией
         if self.lecture_lines < 400:
             issues += 2
         if not self.has_learning_objectives:
@@ -125,8 +144,17 @@ class ModuleMetrics:
             issues += 1
         if self.code_blocks < 15:
             issues += 1
-        if self.has_quiz and self.quiz_questions < 20:
-            issues += 1
+        
+        # Нельзя получить "Отлично" без полного квиза
+        # Проверяем, что квиз полностью готов (20+ вопросов, Answer Key, Scoring Guide)
+        has_full_quiz = (self.has_quiz and 
+                        self.quiz_questions >= 20 and 
+                        self.quiz_has_answer_key and 
+                        self.quiz_has_scoring)
+        
+        if issues == 0:
+            if not has_full_quiz:
+                issues += 1  # Недостаточно для "Отлично"
         
         if issues == 0:
             return "✅ Отлично"
@@ -201,6 +229,16 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_has_scoring': False,
         }
     
+    # Проверяем размер файла - пустые файлы не считаются квизами
+    file_size = filepath.stat().st_size
+    if file_size < 100:  # Меньше 100 байт - скорее всего пустой файл
+        return {
+            'has_quiz': False,
+            'quiz_questions': 0,
+            'quiz_has_answer_key': False,
+            'quiz_has_scoring': False,
+        }
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -213,8 +251,26 @@ def analyze_quiz(filepath: Path) -> dict:
         # Еще один формат: просто нумерованные вопросы
         questions = len(re.findall(r'^##\s*\d+\.', content, re.MULTILINE))
     
-    has_answer_key = bool(re.search(r'Answer Key|Ответы|Answer Sheet', content, re.IGNORECASE))
-    has_scoring = bool(re.search(r'Scoring Guide|Шкала оценки|Scoring', content, re.IGNORECASE))
+    # Проверка наличия Answer Key - ищем более точные паттерны
+    has_answer_key = bool(re.search(
+        r'##\s*Answer\s+Key|##\s*Ответы|Answer\s+Key|Ключ\s+ответов',
+        content, re.IGNORECASE
+    ))
+    
+    # Проверка наличия Scoring Guide - ищем более точные паттерны
+    has_scoring = bool(re.search(
+        r'##\s*Scoring\s+Guide|##\s*Шкала\s+оценки|Scoring\s+Guide|Шкала\s+оценки',
+        content, re.IGNORECASE
+    ))
+    
+    # Если вопросов нет, то это не квиз
+    if questions == 0:
+        return {
+            'has_quiz': False,
+            'quiz_questions': 0,
+            'quiz_has_answer_key': False,
+            'quiz_has_scoring': False,
+        }
     
     return {
         'has_quiz': True,
@@ -309,6 +365,11 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
         print(" ✅")
     print(f"   Всего вопросов в квизах: {total_quiz_questions}")
     
+    # Проверка полноты квизов
+    modules_with_full_quiz = sum(1 for m in modules if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_has_scoring)
+    if modules_with_full_quiz < len(modules):
+        print(f"   Модулей с полным квизом (20+ вопросов, Answer Key, Scoring): {modules_with_full_quiz}/{len(modules)} ⚠️")
+    
     # Структура
     with_prereq = sum(1 for m in modules if m.has_prerequisites)
     with_lo = sum(1 for m in modules if m.has_learning_objectives)
@@ -340,7 +401,20 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
     print("-" * 100)
     
     for m in modules:
-        quiz_info = f"{m.quiz_questions}" if m.has_quiz else "—"
+        if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_has_scoring:
+            quiz_info = f"{m.quiz_questions}✅"
+        elif m.has_quiz:
+            # Квиз есть, но неполный
+            missing = []
+            if m.quiz_questions < 20:
+                missing.append(f"<20")
+            if not m.quiz_has_answer_key:
+                missing.append("нет Key")
+            if not m.quiz_has_scoring:
+                missing.append("нет Scoring")
+            quiz_info = f"{m.quiz_questions}⚠️"
+        else:
+            quiz_info = "—"
         print(f"{m.module:<25} {m.lecture_lines:>7} {m.h2_sections:>4} {m.code_blocks:>5} {m.learning_objectives:>4} {m.key_takeaways:>4} {quiz_info:>6} {m.overall_quality():<20}")
     
     print("-" * 100)

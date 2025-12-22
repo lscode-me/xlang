@@ -11,6 +11,7 @@ Courses/__pycache__/
 !course_write_meta/**
 !course_validate_tools/
 !course_validate_tools/**
+course_validate_tools/__pycache__/
 
 # Скрипты сборки HTML
 !build_html/

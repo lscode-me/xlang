@@ -42,6 +42,8 @@ class ModuleMetrics:
     quiz_questions: int = 0
     quiz_has_answer_key: bool = False
     quiz_has_scoring: bool = False
+    quiz_answer_key_format_valid: bool = False  # Соответствует ли формат шаблону
+    quiz_answer_key_answers_count: int = 0  # Количество ответов в Answer Key
     
     def lecture_status(self) -> str:
         """Статус длины лекции."""
@@ -125,6 +127,13 @@ class ModuleMetrics:
             if not self.quiz_has_answer_key:
                 # Нет ключа ответов - критическая проблема (нельзя использовать квиз)
                 issues += 3
+            elif not self.quiz_answer_key_format_valid:
+                # Неправильный формат Answer Key - критическая проблема (не работает shuffle)
+                issues += 3
+            elif self.quiz_answer_key_answers_count != self.quiz_questions:
+                # Количество ответов не совпадает с количеством вопросов
+                issues += 2
+            
             if not self.quiz_has_scoring:
                 # Нет шкалы оценки - серьезная проблема
                 issues += 2
@@ -146,10 +155,12 @@ class ModuleMetrics:
             issues += 1
         
         # Нельзя получить "Отлично" без полного квиза
-        # Проверяем, что квиз полностью готов (20+ вопросов, Answer Key, Scoring Guide)
+        # Проверяем, что квиз полностью готов (20+ вопросов, Answer Key с правильным форматом, Scoring Guide)
         has_full_quiz = (self.has_quiz and 
                         self.quiz_questions >= 20 and 
                         self.quiz_has_answer_key and 
+                        self.quiz_answer_key_format_valid and
+                        self.quiz_answer_key_answers_count == self.quiz_questions and
                         self.quiz_has_scoring)
         
         if issues == 0:
@@ -227,6 +238,8 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_questions': 0,
             'quiz_has_answer_key': False,
             'quiz_has_scoring': False,
+            'quiz_answer_key_format_valid': False,
+            'quiz_answer_key_answers_count': 0,
         }
     
     # Проверяем размер файла - пустые файлы не считаются квизами
@@ -237,6 +250,8 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_questions': 0,
             'quiz_has_answer_key': False,
             'quiz_has_scoring': False,
+            'quiz_answer_key_format_valid': False,
+            'quiz_answer_key_answers_count': 0,
         }
     
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -263,6 +278,48 @@ def analyze_quiz(filepath: Path) -> dict:
         content, re.IGNORECASE
     ))
     
+    # Проверка формата Answer Key
+    answer_key_format_valid = False
+    answer_key_answers_count = 0
+    
+    if has_answer_key:
+        # Ищем секцию Answer Key
+        answer_key_match = re.search(
+            r'##\s*Answer\s+Key.*?(?=\n##|\Z)',
+            content, re.DOTALL | re.IGNORECASE
+        )
+        
+        if answer_key_match:
+            answer_key_section = answer_key_match.group(0)
+            
+            # Проверяем формат 1: Таблица | # | Answer | Explanation |
+            table_format = re.findall(
+                r'^\|\s*(\d+)\s*\|\s*([A-D])\s*\|\s*.+?\s*\|',
+                answer_key_section, re.MULTILINE
+            )
+            if table_format:
+                answer_key_format_valid = True
+                answer_key_answers_count = len(table_format)
+            else:
+                # Проверяем формат 2: Список 1. **B** - explanation
+                list_format = re.findall(
+                    r'^(\d+)\.\s*\*\*([A-D])\*\*\s*[-–—]\s*.+',
+                    answer_key_section, re.MULTILINE
+                )
+                if list_format:
+                    answer_key_format_valid = True
+                    answer_key_answers_count = len(list_format)
+                else:
+                    # Проверяем неправильный формат: 1. B) answer
+                    wrong_format = re.findall(
+                        r'^(\d+)\.\s*([A-D])\)\s*.+',
+                        answer_key_section, re.MULTILINE
+                    )
+                    if wrong_format:
+                        # Это неправильный формат - не соответствует шаблону
+                        answer_key_format_valid = False
+                        answer_key_answers_count = len(wrong_format)
+    
     # Если вопросов нет, то это не квиз
     if questions == 0:
         return {
@@ -270,6 +327,8 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_questions': 0,
             'quiz_has_answer_key': False,
             'quiz_has_scoring': False,
+            'quiz_answer_key_format_valid': False,
+            'quiz_answer_key_answers_count': 0,
         }
     
     return {
@@ -277,6 +336,8 @@ def analyze_quiz(filepath: Path) -> dict:
         'quiz_questions': questions,
         'quiz_has_answer_key': has_answer_key,
         'quiz_has_scoring': has_scoring,
+        'quiz_answer_key_format_valid': answer_key_format_valid,
+        'quiz_answer_key_answers_count': answer_key_answers_count,
     }
 
 
@@ -309,6 +370,8 @@ def analyze_module(course_path: Path, module_name: str, course_name: str) -> Opt
     metrics.quiz_questions = quiz_data['quiz_questions']
     metrics.quiz_has_answer_key = quiz_data['quiz_has_answer_key']
     metrics.quiz_has_scoring = quiz_data['quiz_has_scoring']
+    metrics.quiz_answer_key_format_valid = quiz_data['quiz_answer_key_format_valid']
+    metrics.quiz_answer_key_answers_count = quiz_data['quiz_answer_key_answers_count']
     
     return metrics
 
@@ -370,6 +433,20 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
     if modules_with_full_quiz < len(modules):
         print(f"   Модулей с полным квизом (20+ вопросов, Answer Key, Scoring): {modules_with_full_quiz}/{len(modules)} ⚠️")
     
+    # Проверка формата Answer Key
+    modules_with_valid_format = sum(1 for m in modules if m.has_quiz and m.quiz_has_answer_key and m.quiz_answer_key_format_valid)
+    modules_with_wrong_format = sum(1 for m in modules if m.has_quiz and m.quiz_has_answer_key and not m.quiz_answer_key_format_valid)
+    if modules_with_wrong_format > 0:
+        print(f"   Модулей с правильным форматом Answer Key: {modules_with_valid_format}/{modules_with_quiz} ⚠️")
+        print(f"   Модулей с неправильным форматом Answer Key: {modules_with_wrong_format} ⚠️")
+    
+    # Проверка соответствия количества ответов количеству вопросов
+    modules_with_matching_counts = sum(1 for m in modules if m.has_quiz and m.quiz_has_answer_key and m.quiz_answer_key_answers_count == m.quiz_questions)
+    modules_with_mismatched_counts = sum(1 for m in modules if m.has_quiz and m.quiz_has_answer_key and m.quiz_answer_key_answers_count != m.quiz_questions)
+    if modules_with_mismatched_counts > 0:
+        print(f"   Модулей с совпадающим количеством ответов: {modules_with_matching_counts}/{modules_with_quiz} ⚠️")
+        print(f"   Модулей с несовпадающим количеством ответов: {modules_with_mismatched_counts} ⚠️")
+    
     # Структура
     with_prereq = sum(1 for m in modules if m.has_prerequisites)
     with_lo = sum(1 for m in modules if m.has_learning_objectives)
@@ -401,7 +478,7 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
     print("-" * 100)
     
     for m in modules:
-        if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_has_scoring:
+        if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_answer_key_format_valid and m.quiz_answer_key_answers_count == m.quiz_questions and m.quiz_has_scoring:
             quiz_info = f"{m.quiz_questions}✅"
         elif m.has_quiz:
             # Квиз есть, но неполный
@@ -410,6 +487,10 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
                 missing.append(f"<20")
             if not m.quiz_has_answer_key:
                 missing.append("нет Key")
+            elif not m.quiz_answer_key_format_valid:
+                missing.append("неверный формат")
+            elif m.quiz_answer_key_answers_count != m.quiz_questions:
+                missing.append(f"несовпадение ({m.quiz_answer_key_answers_count}/{m.quiz_questions})")
             if not m.quiz_has_scoring:
                 missing.append("нет Scoring")
             quiz_info = f"{m.quiz_questions}⚠️"

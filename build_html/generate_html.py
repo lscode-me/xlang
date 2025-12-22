@@ -332,8 +332,8 @@ class CourseHTMLGenerator:
     <header>
         <div class="container">
             <div class="header-links">
-                <a href="mailto:admin@lscode.me">admin@lscode.me</a>
-                <a href="https://t.me/lscode_me_bot" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:admin@xlang.me">admin@xlang.me</a>
+                <a href="https://t.me/xlang_me_bot" target="_blank" rel="noopener noreferrer">
                     <svg class="telegram-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.169 1.858-.896 6.375-1.269 8.453-.152.855-.45 1.14-.74 1.17-.63.06-1.11-.415-1.72-.815-.955-.64-1.496-1.038-2.424-1.662-1.074-.72-.378-1.116.234-1.763.162-.17 2.97-2.723 3.024-2.954.006-.03.011-.15-.056-.212-.067-.058-.166-.038-.238-.023-.101.02-1.705 1.085-4.816 3.188-.456.31-.87.461-1.241.453-.409-.009-1.195-.231-1.78-.42-.718-.234-1.288-.36-1.24-.76.024-.2.36-.405.99-.614 3.884-1.7 6.48-2.82 7.785-3.36 3.774-1.6 4.556-1.88 5.068-1.89.114-.002.37.027.536.16.133.106.17.25.188.352.017.102.038.335.02.515z"/>
                     </svg>
@@ -388,7 +388,7 @@ class CourseHTMLGenerator:
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 lscode.me | {category_display}</p>
+            <p>&copy; 2025 xlang.me | {category_display}</p>
         </div>
     </footer>
 
@@ -1833,8 +1833,8 @@ class CourseHTMLGenerator:
     <header>
         <div class="container">
             <div class="header-links">
-                <a href="mailto:admin@lscode.me">admin@lscode.me</a>
-                <a href="https://t.me/lscode_me_bot" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:admin@xlang.me">admin@xlang.me</a>
+                <a href="https://t.me/xlang_me_bot" target="_blank" rel="noopener noreferrer">
                     <svg class="telegram-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.169 1.858-.896 6.375-1.269 8.453-.152.855-.45 1.14-.74 1.17-.63.06-1.11-.415-1.72-.815-.955-.64-1.496-1.038-2.424-1.662-1.074-.72-.378-1.116.234-1.763.162-.17 2.97-2.723 3.024-2.954.006-.03.011-.15-.056-.212-.067-.058-.166-.038-.238-.023-.101.02-1.705 1.085-4.816 3.188-.456.31-.87.461-1.241.453-.409-.009-1.195-.231-1.78-.42-.718-.234-1.288-.36-1.24-.76.024-.2.36-.405.99-.614 3.884-1.7 6.48-2.82 7.785-3.36 3.774-1.6 4.556-1.88 5.068-1.89.114-.002.37.027.536.16.133.106.17.25.188.352.017.102.038.335.02.515z"/>
                     </svg>
@@ -1853,7 +1853,7 @@ class CourseHTMLGenerator:
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 lscode.me</p>
+            <p>&copy; 2025 xlang.me</p>
         </div>
     </footer>
     <!-- Highlight.js JS -->
@@ -1941,7 +1941,7 @@ class CourseHTMLGenerator:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lscode.me - Все курсы</title>
+    <title>xlang.me - Все курсы</title>
     <style>
         * {{
             margin: 0;
@@ -2145,15 +2145,15 @@ class CourseHTMLGenerator:
     <header>
         <div class="container">
             <div class="header-links">
-                <a href="mailto:admin@lscode.me">admin@lscode.me</a>
-                <a href="https://t.me/lscode_me_bot" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:admin@xlang.me">admin@xlang.me</a>
+                <a href="https://t.me/xlang_me_bot" target="_blank" rel="noopener noreferrer">
                     <svg class="telegram-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.169 1.858-.896 6.375-1.269 8.453-.152.855-.45 1.14-.74 1.17-.63.06-1.11-.415-1.72-.815-.955-.64-1.496-1.038-2.424-1.662-1.074-.72-.378-1.116.234-1.763.162-.17 2.97-2.723 3.024-2.954.006-.03.011-.15-.056-.212-.067-.058-.166-.038-.238-.023-.101.02-1.705 1.085-4.816 3.188-.456.31-.87.461-1.241.453-.409-.009-1.195-.231-1.78-.42-.718-.234-1.288-.36-1.24-.76.024-.2.36-.405.99-.614 3.884-1.7 6.48-2.82 7.785-3.36 3.774-1.6 4.556-1.88 5.068-1.89.114-.002.37.027.536.16.133.106.17.25.188.352.017.102.038.335.02.515z"/>
                     </svg>
                     Mini App
                 </a>
             </div>
-            <h1>📚 lscode.me</h1>
+            <h1>📚 xlang.me</h1>
             <p>Курсы по программированию, IT и естественным наукам</p>
         </div>
     </header>
@@ -2164,7 +2164,7 @@ class CourseHTMLGenerator:
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 lscode.me</p>
+            <p>&copy; 2025 xlang.me</p>
         </div>
     </footer>
 </body>

@@ -44,7 +44,7 @@ INDEX_HTML_TEMPLATE = """<!doctype html>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>LSCode Mini App</title>
+  <title>XLang Mini App</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css" />
@@ -568,8 +568,8 @@ INDEX_HTML_TEMPLATE = """<!doctype html>
   <div id="app">
     <header>
       <div>
-        <div class="app-title">LSCode Mini App</div>
-        <div class="app-subtitle">Курсы и квизы из <a href="https://lscode.me" target="_blank" rel="noopener noreferrer">lscode.me</a> | <a href="mailto:admin@lscode.me">admin@lscode.me</a></div>
+        <div class="app-title">XLang Mini App</div>
+        <div class="app-subtitle">Курсы и квизы из <a href="https://xlang.me" target="_blank" rel="noopener noreferrer">xlang.me</a> | <a href="mailto:admin@xlang.me">admin@xlang.me</a></div>
       </div>
       <div id="user-pill" class="user-pill" title=""></div>
     </header>

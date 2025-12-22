@@ -1,0 +1,250 @@
+# İstemek + Mastar - Quiz
+
+Проверьте свои знания конструкции istemek + инфинитив в турецком языке.
+
+---
+
+## Question 1: Порядок слов - Тип: Выбор правильной формы
+
+Как правильно сказать "Я хочу работать"?
+
+A) Çalışmak istiyorum
+
+B) İstiyorum çalışmak
+
+C) İstiyorum çalışıyorum
+
+D) Çalışıyorum istiyorum
+
+---
+
+## Question 2: Инфинитив - Тип: Выбор правильной формы
+
+Как правильно сказать "Я хочу читать"?
+
+A) Ben okuyorum istiyorum
+
+B) Ben okumek istiyorum
+
+C) Ben okuma istiyorum
+
+D) Ben okumak istiyorum
+
+---
+
+## Question 3: Спряжение - Тип: Выбор правильной формы
+
+Как правильно сказать "Ты хочешь работать"?
+
+A) Sen çalışmak istiyorsun
+
+B) Sen çalışmak istiyoruz
+
+C) Sen çalışmak istiyor
+
+D) Sen çalışmak istiyorum
+
+---
+
+## Question 4: Спряжение - Тип: Выбор правильной формы
+
+Как правильно сказать "Он/Она хочет идти"?
+
+A) O gitmek istiyorsun
+
+B) O gitmek istiyoruz
+
+C) O gitmek istiyorum
+
+D) O gitmek istiyor
+
+---
+
+## Question 5: Вопрос - Тип: Выбор правильной формы
+
+Как правильно спросить "Что ты хочешь делать?"?
+
+A) Yapmak ne istiyorsun?
+
+B) Ne yapmak istiyorum?
+
+C) Ne yapıyorsun istiyorsun?
+
+D) Ne yapmak istiyorsun?
+
+---
+
+## Question 6: С дополнением - Тип: Выбор правильной формы
+
+Как правильно сказать "Я хочу пить кофе"?
+
+A) Ben içmek kahve istiyorum
+
+B) Ben kahve içiyorum istiyorum
+
+C) Ben kahve içmek istiyorum
+
+D) Ben istiyorum kahve içmek
+
+---
+
+## Question 7: Отрицание - Тип: Выбор правильной формы
+
+Как правильно сказать "Я не хочу идти"?
+
+A) Ben gitmek istemiyorum
+
+B) Ben gitmemek istiyorum
+
+C) Ben gitmek istemiyorum
+
+D) Ben gitmiyorum istiyorum
+
+---
+
+## Question 8: Различие - Тип: Выбор правильного ответа
+
+В чем разница между "Kitap okumak istiyorum" и "Kitap okumayı seviyorum"?
+
+A) Первое - желание (хочу), второе - предпочтение (люблю)
+
+B) Первое - неправильная форма
+
+C) Нет разницы
+
+D) Второе - неправильная форма
+
+---
+
+## Question 9: С обстоятельством - Тип: Выбор правильной формы
+
+Как правильно сказать "Я сегодня хочу остаться дома"?
+
+A) Ben bugün evde kalmak istiyorum
+
+B) Ben istiyorum bugün evde kalmak
+
+C) Ben bugün istiyorum evde kalmak
+
+D) Ben evde kalmak bugün istiyorum
+
+---
+
+## Question 10: Вопрос о месте - Тип: Выбор правильной формы
+
+Как правильно спросить "Куда ты хочешь идти?"?
+
+A) Nereye gitmek istiyorum?
+
+B) Nereye gitmek istiyorsun?
+
+C) Gitmek nereye istiyorsun?
+
+D) Nereye gidiyorsun istiyorsun?
+
+---
+
+## Question 11: Ошибка - Тип: Выбор правильной формы
+
+Какая форма правильная для "я хочу работать"?
+
+A) Çalışmak istiyorum
+
+B) Çalışıyorum istiyorum
+
+C) Çalışmek istiyorum
+
+D) Çalışma istiyorum
+
+---
+
+## Question 12: Все лица - Тип: Выбор правильной формы
+
+Как правильно сказать "Мы хотим работать"?
+
+A) Biz çalışmak istiyorlar
+
+B) Biz çalışmak istiyoruz
+
+C) Biz çalışmak istiyorum
+
+D) Biz çalışmak istiyorsun
+
+---
+
+## Question 13: Полное предложение - Тип: Выбор правильной формы
+
+Выберите правильную форму предложения "Я хочу читать книгу":
+
+A) Ben kitap okumak istiyorum
+
+B) Ben istiyorum kitap okumak
+
+C) Ben okumak kitap istiyorum
+
+D) Ben kitap okuyorum istiyorum
+
+---
+
+## Question 14: Вопрос о желании - Тип: Выбор правильной формы
+
+Как правильно спросить "Что ты хочешь пить?"?
+
+A) Ne içmek istiyorsun?
+
+B) İçmek ne istiyorsun?
+
+C) Ne içiyorsun istiyorsun?
+
+D) Ne içmek istiyorum?
+
+---
+
+## Question 15: С отрицанием - Тип: Выбор правильной формы
+
+Как правильно сказать "Ты не хочешь работать"?
+
+A) Sen çalışmıyorsun istiyorsun
+
+B) Sen çalışmak istemiyorsun
+
+C) Sen çalışmak istemiyorum
+
+D) Sen çalışmemek istiyorsun
+
+---
+
+---
+
+## Answer Key
+
+| # | Answer | Explanation |
+|---|--------|-------------|
+| 1 | A | Правильный порядок: инфинитив + istemek: Çalışmak istiyorum. |
+| 2 | D | С модальным глаголом используется инфинитив: Ben okumak istiyorum. |
+| 3 | A | Для второго лица: Sen çalışmak istiyorsun. |
+| 4 | D | Для третьего лица: O gitmek istiyor. |
+| 5 | D | Вопрос о желании: Ne yapmak istiyorsun? |
+| 6 | C | Правильный порядок: дополнение + инфинитив + istemek: Ben kahve içmek istiyorum. |
+| 7 | C | Отрицание добавляется к istemek: Ben gitmek istemiyorum. |
+| 8 | A | "İstiyorum" - желание (хочу), "seviyorum" - предпочтение (люблю). |
+| 9 | A | Правильный порядок: обстоятельство + дополнение + инфинитив + istemek: Ben bugün evde kalmak istiyorum. |
+| 10 | B | Вопрос о месте: Nereye gitmek istiyorsun? |
+| 11 | A | Правильная форма: Çalışmak istiyorum (инфинитив + istemek). |
+| 12 | B | Для первого лица множественного числа: Biz çalışmak istiyoruz. |
+| 13 | A | Правильный порядок: Ben kitap okumak istiyorum. |
+| 14 | A | Вопрос о желании: Ne içmek istiyorsun? |
+| 15 | B | Отрицание добавляется к istemek: Sen çalışmak istemiyorsun. |
+
+---
+
+## Scoring Guide
+
+| Результат | Оценка | Рекомендации |
+|-----------|--------|--------------|
+| **14-15 правильных (90-100%)** | 🏆 Отлично! | Вы отлично усвоили конструкцию istemek + инфинитив. Переходите к следующему модулю. |
+| **11-13 правильных (70-89%)** | ✅ Хорошо | Хороший результат! Повторите темы, в которых ошиблись, особенно порядок слов. |
+| **8-10 правильных (50-69%)** | ⚠️ Удовлетворительно | Рекомендуется перечитать соответствующие разделы лекции. |
+| **Менее 8 правильных (<50%)** | 📚 Нужно повторить | Внимательно перечитайте лекцию про конструкцию istemek + инфинитив. |
+
+---

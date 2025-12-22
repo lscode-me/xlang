@@ -178,7 +178,7 @@ Review → Правки → Публикация
 - [Шаблон лекции](LECTURE_TEMPLATE.md) — готовая структура
 - [Шаблон квиза](QUIZ_TEMPLATE.md) — структура quiz.md
 - [Сводка](STANDARDS_SUMMARY.md) — обзор и workflow
-- [Руководство генерации](GENERATION_GUIDE.md) — процесс создания из course.txt
+- [Руководство генерации](GENERATION_GUIDE.md) — процесс создания из description.md
 - [Образцовая лекция](LECTURE_EXAMPLE.md) — эталонный пример
 
 ---

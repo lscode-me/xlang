@@ -214,6 +214,76 @@ D) akşam
 
 ---
 
+## Question 16: Частота
+
+Какое наречие означает "всегда"?
+
+A) bazen
+
+B) nadiren
+
+C) hiç
+
+D) her zaman
+
+---
+
+## Question 17: С будущим временем
+
+Как правильно сказать "Я завтра пойду в школу"?
+
+A) Okula gideceğim yarın
+
+B) Yarın okula gideceğim
+
+C) Gideceğim yarın okula
+
+D) Yarın gideceğim okula
+
+---
+
+## Question 18: Наречие "вчера"
+
+Как правильно сказать "Я вчера работал"?
+
+A) Dün çalıştım
+
+B) Çalıştım dün
+
+C) Dün çalışıyorum
+
+D) Çalışıyorum dün
+
+---
+
+## Question 19: Позиция в предложении
+
+Где обычно стоит наречие времени в турецком предложении?
+
+A) В конце предложения
+
+B) После глагола
+
+C) В начале предложения или после подлежащего
+
+D) Между дополнением и глаголом
+
+---
+
+## Question 20: С вопросительным словом
+
+Как правильно спросить "Когда ты придёшь?"?
+
+A) Geleceksin ne zaman?
+
+B) Ne zaman geliyorsun?
+
+C) Ne zaman geleceksin?
+
+D) Geleceksin zaman ne?
+
+---
+
 ---
 
 ## Answer Key

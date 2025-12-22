@@ -214,6 +214,76 @@ D) Нет разницы
 
 ---
 
+## Question 16: Третье лицо
+
+Как правильно сказать "Он/Она любит смотреть фильмы"?
+
+A) O film izlemeyi seviyorum
+
+B) O film izlemeyi seviyor
+
+C) O film izlemek seviyor
+
+D) O film izlemeyi seviyorsun
+
+---
+
+## Question 17: С обстоятельством места
+
+Как правильно сказать "Я люблю работать дома"?
+
+A) Ben evde çalışmak seviyorum
+
+B) Ben evde çalışmayı seviyorum
+
+C) Ben çalışmayı evde seviyorum
+
+D) Ben seviyorum evde çalışmayı
+
+---
+
+## Question 18: Вопросительная форма
+
+Как правильно спросить "Ты любишь плавать?"?
+
+A) Yüzmeyi seviyor musun?
+
+B) Yüzmeyi seviyorsun mu?
+
+C) Yüzmeyi mi seviyorsun?
+
+D) Yüzmeyi musun seviyor?
+
+---
+
+## Question 19: Множественное число
+
+Как правильно сказать "Они любят танцевать"?
+
+A) Onlar dans etmeyi seviyoruz
+
+B) Onlar dans etmeyi seviyorlar
+
+C) Onlar dans etmeyi seviyor
+
+D) Onlar dans etmek seviyorlar
+
+---
+
+## Question 20: Отрицательная форма со всеми лицами
+
+Как правильно сказать "Мы не любим рано вставать"?
+
+A) Biz erken kalkmayı sevmiyoruz
+
+B) Biz erken kalkmak sevmiyoruz
+
+C) Biz erken kalkmayı sevmiyorum
+
+D) Biz erken kalkmamayı seviyoruz
+
+---
+
 ---
 
 ## Answer Key

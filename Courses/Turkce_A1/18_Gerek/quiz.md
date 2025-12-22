@@ -214,6 +214,76 @@ D) Нет разницы
 
 ---
 
+## Question 16: Третье лицо мн. числа
+
+Как правильно сказать "Им нужно работать"?
+
+A) Onlar çalışmak gerek
+
+B) Onların çalışmaları gerek
+
+C) Onlar çalışmak istiyorlar
+
+D) Onlar çalışmaları gerek
+
+---
+
+## Question 17: С обстоятельством места
+
+Как правильно сказать "Мне нужно пойти в школу"?
+
+A) Ben okula gitmem gerek
+
+B) Ben okulda gitmem gerek
+
+C) Ben okul gitmem gerek
+
+D) Ben gitmem okula gerek
+
+---
+
+## Question 18: Вопросительная форма
+
+Как правильно спросить "Тебе нужно идти?"?
+
+A) Gitmen gerek mi?
+
+B) Gitmek gerek mi?
+
+C) Gitmen mi gerek?
+
+D) Gitmek mi gerek?
+
+---
+
+## Question 19: Сравнение с sevmek
+
+Какая форма инфинитива используется с gerek?
+
+A) Винительный падеж (-mayı/-meyi)
+
+B) Дательный падеж (-maya/-meye)
+
+C) Инфинитив с личным окончанием (-mam/-mem)
+
+D) Простой инфинитив (-mak/-mek)
+
+---
+
+## Question 20: Полное предложение
+
+Как правильно сказать "Тебе завтра нужно рано встать"?
+
+A) Sen yarın erken kalkman gerek
+
+B) Sen yarın erken kalkmak gerek
+
+C) Yarın sen erken kalkman gerek
+
+D) Sen erken yarın kalkman gerek
+
+---
+
 ---
 
 ## Answer Key

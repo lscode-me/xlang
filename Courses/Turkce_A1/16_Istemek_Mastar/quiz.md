@@ -214,6 +214,76 @@ D) Sen çalışmemek istiyorsun
 
 ---
 
+## Question 16: С обстоятельством времени
+
+Как правильно сказать "Я завтра хочу отдохнуть"?
+
+A) Ben yarın dinlenmek istiyorum
+
+B) Ben istiyorum yarın dinlenmek
+
+C) Yarın ben istiyorum dinlenmek
+
+D) Ben dinlenmek yarın istiyorum
+
+---
+
+## Question 17: Третье лицо мн. числа
+
+Как правильно сказать "Они хотят играть"?
+
+A) Onlar oynamak istiyoruz
+
+B) Onlar oynamak istiyorlar
+
+C) Onlar oynamak istiyor
+
+D) Onlar oynamak istiyorsun
+
+---
+
+## Question 18: Вопросительная форма
+
+Как правильно спросить "Ты хочешь пойти?"?
+
+A) Gitmek istiyor musun?
+
+B) Gitmek istiyorsun mu?
+
+C) Gitmek mi istiyorsun?
+
+D) Gitmek musun istiyor?
+
+---
+
+## Question 19: С местоимением "o"
+
+Как правильно сказать "Он/Она хочет спать"?
+
+A) O uyumak istiyorum
+
+B) O uyumak istiyorsun
+
+C) O uyumak istiyoruz
+
+D) O uyumak istiyor
+
+---
+
+## Question 20: Сложная конструкция
+
+Как правильно сказать "Я хочу пойти в кино"?
+
+A) Ben sinemada gitmek istiyorum
+
+B) Ben sinemadan gitmek istiyorum
+
+C) Ben gitmek sinemaya istiyorum
+
+D) Ben sinemaya gitmek istiyorum
+
+---
+
 ---
 
 ## Answer Key

@@ -214,6 +214,76 @@ D) ama
 
 ---
 
+## Question 16: Союз "ya da"
+
+Как правильно сказать "Чай или кофе"?
+
+A) Çay kahve
+
+B) Çay ve kahve
+
+C) Çay ama kahve
+
+D) Çay ya da kahve
+
+---
+
+## Question 17: Союз "hem...hem"
+
+Как правильно сказать "И красивый, и умный"?
+
+A) Güzel ve akıllı
+
+B) Hem güzel hem akıllı
+
+C) Güzel ama akıllı
+
+D) Güzel çünkü akıllı
+
+---
+
+## Question 18: Порядок слов
+
+Как правильно сказать "Я не иду, потому что болен"?
+
+A) Çünkü gitmiyorum hastayım
+
+B) Gitmiyorum çünkü hastayım
+
+C) Gitmiyorum hastayım çünkü
+
+D) Hastayım gitmiyorum çünkü
+
+---
+
+## Question 19: Союз "eğer...ise"
+
+Как правильно сказать "Если устал, отдохни"?
+
+A) Yorgunsan dinlen
+
+B) Yorgun dinlen
+
+C) Yorgun ve dinlen
+
+D) Dinlen yorgunsan
+
+---
+
+## Question 20: Сложное предложение
+
+Как правильно сказать "Я хочу пойти, но я устал"?
+
+A) Gitmek istiyorum ama yorgunum
+
+B) Ama gitmek istiyorum yorgunum
+
+C) Gitmek istiyorum yorgunum ama
+
+D) Gitmek istiyorum ve yorgunum
+
+---
+
 ---
 
 ## Answer Key

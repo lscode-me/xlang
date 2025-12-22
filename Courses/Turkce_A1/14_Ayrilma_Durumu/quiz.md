@@ -213,7 +213,75 @@ C) Okuldan geliyorum
 D) Okula geliyorum
 
 ---
+## Question 16: С городами
 
+Как правильно сказать "Я приехал из Анкары"?
+
+A) Ankara'ya geldim
+
+B) Ankara'da geldim
+
+C) Ankara geldim
+
+D) Ankara'dan geldim
+
+---
+
+## Question 17: С личными местоимениями
+
+Как правильно сказать "Я прихожу от тебя"?
+
+A) Sana geliyorum
+
+B) Senden geliyorum
+
+C) Sende geliyorum
+
+D) Sen geliyorum
+
+---
+
+## Question 18: Сравнение падежей
+
+Выберите предложение с исходным падежом:
+
+A) Okula gidiyorum
+
+B) Okuldan geliyorum
+
+C) Okulda çalışıyorum
+
+D) Okulun kapısı
+
+---
+
+## Question 19: Выражение материала
+
+Как правильно сказать "стол из дерева"?
+
+A) Ağaçta masa
+
+B) Ağaç masa
+
+C) Ağaca masa
+
+D) Ağaçtan masa
+
+---
+
+## Question 20: Вопросительное слово
+
+Какое вопросительное слово используется с исходным падежом?
+
+A) Nereye
+
+B) Nerede
+
+C) Nereden
+
+D) Ne
+
+---
 ---
 
 ## Answer Key

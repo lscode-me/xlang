@@ -324,7 +324,7 @@ içmek (пить) → içme (питьё)
 1. Çalışmaya devam ediyorum.
    Я продолжаю работать.
 
-2. Beklemеye devam ediyorum.
+2. Beklemeye devam ediyorum.
    Я продолжаю ждать.
 
 3. Türkçe öğrenmeye devam ediyorum.
@@ -374,10 +374,10 @@ içmek (пить) → içme (питьё)
 
 ```
 
-1. Senin gelmenе çok sevindim.
+1. Senin gelmene çok sevindim.
    Я очень рад твоему приходу.
 
-2. Onun gitmesinе üzüldüm.
+2. Onun gitmesine üzüldüm.
    Я огорчён его/её уходом.
 
 3. Bizim kazanmamıza inanıyorum.

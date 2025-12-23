@@ -309,7 +309,7 @@ Ben kitabı okumadan geri verdim.
 
 ### 6.2 С bilmek (знать)
 
-**Example: -madаn bilmek**
+**Example: -madan bilmek**
 
 ```
 

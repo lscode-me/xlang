@@ -212,11 +212,11 @@ D) -mız/-miz
 
 A) Bizim gelmek önemli
 
-B) Bizim gelme önemли
+B) Bizim gelme önemli
 
-C) Bizim gelmemiz önemли
+C) Bizim gelmemiz önemli
 
-D) Bizim gelmemizi önemли
+D) Bizim gelmemizi önemli
 
 ---
 
@@ -239,7 +239,7 @@ D) Sizin çalışmanızı güzel
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Bizim _____ önemли.
+Bizim _____ önemli.
 Наш приход важен.
 ```
 
@@ -393,20 +393,20 @@ D) Ali'nin çalışmasını gerekli
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Onun gelmesi önemли |
+| 1 | C | Onun gelmesi önemli |
 | 2 | C | Ali'nin geç kalması beni kızdırdı |
 | 3 | C | Onun çalışması başarılı |
 | 4 | C | gelmesi |
 | 5 | C | kalması |
 | 6 | B | Действие с конкретным субъектом |
 | 7 | B | -ma без субъекта, -ması с субъектом |
-| 8 | C | Benim gelmem önemли |
+| 8 | C | Benim gelmem önemli |
 | 9 | C | Senin çalışman güzel |
 | 10 | C | gelmem |
 | 11 | C | çalışman |
 | 12 | C | -sı/-si |
 | 13 | A | -m |
-| 14 | C | Bizim gelmemiz önemли |
+| 14 | C | Bizim gelmemiz önemli |
 | 15 | C | Sizin çalışmanız güzel |
 | 16 | C | gelmemiz |
 | 17 | C | Родительный (genitive) |

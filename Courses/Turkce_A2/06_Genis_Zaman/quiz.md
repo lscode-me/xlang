@@ -268,7 +268,7 @@ D) şimdi (сейчас)
 
 A) O çok konuşacak
 
-B) O çок konuşur
+B) O çok konuşur
 
 C) O çok konuşuyor
 

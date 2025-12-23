@@ -297,15 +297,15 @@ D) bilmek, görmek, anlamak
 
 ## Question 20: Выбор падежа
 
-Как правильно сказать "Я боюсь опоздать"?
+Как правильно сказать "Я хочу научиться играть на пианино"?
 
-A) Geç kalmak korkuyorum
+A) Piyano çalmak öğrenmek istiyorum
 
-B) Geç kalmayı korkuyorum
+B) Piyano çalmayı öğrenmek istiyorum
 
-C) Geç kalmaya korkuyorum
+C) Piyano çalmaya başlamak istiyorum
 
-D) Geç kalması korkuyorum
+D) Piyano çalması öğrenmek istiyorum
 
 ---
 
@@ -372,15 +372,15 @@ D) Для будущего действия
 
 ## Question 25: Выбор падежа
 
-Как правильно сказать "Я стесняюсь опаздывать"?
+Как правильно сказать "Я решил начать заниматься спортом"?
 
-A) Geç kalmak çekiniyorum
+A) Spor yapmak başlamak karar verdim
 
-B) Geç kalmayı çekiniyorum
+B) Spor yapmayı başlamak karar verdim
 
-C) Geç kalmaya çekiniyorum
+C) Spor yapmaya başlamak karar verdim
 
-D) Geç kalması çekiniyorum
+D) Spor yapması başlamak karar verdim
 
 ---
 
@@ -407,12 +407,12 @@ D) Geç kalması çekiniyorum
 | 17 | B | Erken kalkmayı nefret ediyorum |
 | 18 | B | sevmek, istemek, hoşlanmak |
 | 19 | B | başlamak, devam etmek, karar vermek |
-| 20 | A | Geç kalmaktan korkuyorum (особый случай - исходный падеж) |
+| 20 | B | Piyano çalmayı öğrenmek istiyorum - винительный падеж для объекта действия |
 | 21 | A | tercih |
 | 22 | B | Yalan söylemeyi kaçınıyorum |
 | 23 | B | Для прямого объекта действия |
 | 24 | B | Для начала, продолжения или решения о действии |
-| 25 | A | Geç kalmaktan çekiniyorum (особый случай - исходный падеж) |
+| 25 | C | Spor yapmaya başlamak karar verdim - дательный падеж для решения о действии |
 
 ---
 

@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Изучать английский трудно"?
+Как правильно сказать "Изучать французский трудно"?
 
-A) İngilizce öğrenmeyi zor
+A) Fransızca öğrenmeyi zor
 
-B) İngilizce öğrenmek zor
+B) Fransızca öğrenmek zor
 
-C) İngilizce öğrenme zor
+C) Fransızca öğrenme zor
 
-D) İngilizce öğrenmesi zor
+D) Fransızca öğrenmesi zor
 
 ---
 
@@ -149,8 +149,8 @@ D) Geç kalmasi korkuyorum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-İngilizce _____ zor ama önemli.
-Изучать английский трудно, но важно.
+Fransızca _____ zor ama önemli.
+Изучать французский трудно, но важно.
 ```
 
 A) öğrenmek
@@ -313,7 +313,7 @@ D) Kitap okuması güzel
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | İngilizce öğrenmek zor |
+| 1 | B | Fransızca öğrenmek zor |
 | 2 | B | Erken kalkmak iyi |
 | 3 | B | Sigara içmek kötü |
 | 4 | B | Yüzmek sağlıklı |
@@ -323,7 +323,7 @@ D) Kitap okuması güzel
 | 8 | B | Çok yemekten kilo aldım |
 | 9 | B | Erken kalkmaktan nefret ediyorum |
 | 10 | B | Geç kalmaktan korkuyorum |
-| 11 | A | öğrenmek |
+| 11 | A | öğrenmek (Fransızca öğrenmek) |
 | 12 | B | öğrenmekten |
 | 13 | B | Yazmaktan |
 | 14 | A | kalkmak |

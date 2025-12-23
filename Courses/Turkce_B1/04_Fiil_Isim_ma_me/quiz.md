@@ -20,15 +20,15 @@ D) Mektup yazması seviyorum
 
 ## Question 2: Выбор формы
 
-Как правильно сказать "Я начал изучать английский"?
+Как правильно сказать "Я начал изучать испанский"?
 
-A) İngilizce öğrenmek başladım
+A) İspanyolca öğrenmek başladım
 
-B) İngilizce öğrenmeye başladım
+B) İspanyolca öğrenmeye başladım
 
-C) İngilizce öğrenme başladım
+C) İspanyolca öğrenme başladım
 
-D) İngilizce öğrenmesi başladım
+D) İspanyolca öğrenmesi başladım
 
 ---
 
@@ -168,8 +168,8 @@ D) yazması
 Выберите правильную форму для заполнения пропуска:
 
 ```
-İngilizce _____ başladım.
-Я начал изучать английский.
+İspanyolca _____ başladım.
+Я начал изучать испанский.
 ```
 
 A) öğrenmek
@@ -314,7 +314,7 @@ D) Okuması güzel
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | B | Mektup yazmayı seviyorum |
-| 2 | B | İngilizce öğrenmeye başladım |
+| 2 | B | İspanyolca öğrenmeye başladım |
 | 3 | B | Kütüphaneye gitmeye karar verdim |
 | 4 | C | Çalışma önemli |
 | 5 | B | Müzik dinlemeyi tercih ediyorum |
@@ -324,7 +324,7 @@ D) Okuması güzel
 | 9 | B | Для конкретных действий с субъектом |
 | 10 | B | Yüzmeyi hoşlanmıyorum |
 | 11 | B | yazmayı |
-| 12 | B | öğrenmeye |
+| 12 | B | öğrenmeye (İspanyolca öğrenmeye) |
 | 13 | B | gitmeye |
 | 14 | C | Çalışma |
 | 15 | B | dinlemeyi |

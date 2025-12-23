@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Я знаю, что он ушел"?
+Как правильно сказать "Я знаю, что он уехал"?
 
-A) Onun gitmek biliyorum
+A) Onun ayrılmak biliyorum
 
-B) Onun gittiğini biliyorum
+B) Onun ayrıldığını biliyorum
 
-C) Onun gitme biliyorum
+C) Onun ayrılma biliyorum
 
-D) Onun gitmesi biliyorum
+D) Onun ayrılması biliyorum
 
 ---
 
@@ -305,15 +305,15 @@ D) Gitmesi zor
 
 ## Question 20: Выбор формы
 
-Как правильно сказать "Я знаю его уход"?
+Как правильно сказать "Я знаю, что он уехал"?
 
-A) Onun gitmek biliyorum
+A) Onun ayrılmak biliyorum
 
-B) Onun gitmeni biliyorum
+B) Onun ayrılmanı biliyorum
 
-C) Onun gittiğini biliyorum
+C) Onun ayrıldığını biliyorum
 
-D) Onun gitmesi biliyorum
+D) Onun ayrılması biliyorum
 
 ---
 
@@ -321,7 +321,7 @@ D) Onun gitmesi biliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Onun gittiğini biliyorum |
+| 1 | B | Onun ayrıldığını biliyorum |
 | 2 | C | Senin görmeni istiyorum |
 | 3 | B | Müzik öğrenmek ilginç |
 | 4 | B | Müzik dinlemeyi seviyorum |
@@ -340,7 +340,7 @@ D) Onun gitmesi biliyorum
 | 17 | A | 1-2-3 (Senin görmeni istiyorum) |
 | 18 | B | Глагол превращается в существительное и используется как объект предложения |
 | 19 | A | Gitmek zor |
-| 20 | C | Onun gittiğini biliyorum |
+| 20 | C | Onun ayrıldığını biliyorum |
 
 ---
 

@@ -38,16 +38,16 @@ D) Gideceğimiz yerden seçtik
 
 ```
 Yarın ne _____ bilmiyorum.
-Я не знаю, что я сделаю завтра.
+Я не знаю, что я скажу завтра.
 ```
 
-A) yapmak
+A) söylemek
 
-B) yapma
+B) söyleme
 
-C) yapacağımı
+C) söyleyeceğimi
 
-D) yapması
+D) söylemesi
 
 ---
 
@@ -385,7 +385,7 @@ D) -ecek/-acağı
 |---|--------|-------------|
 | 1 | C | Yarın ne yapacağımı bilmiyorum |
 | 2 | A | Gideceğimiz yeri seçtik |
-| 3 | C | yapacağımı |
+| 3 | C | söyleyeceğimi |
 | 4 | B | Будущее действие как объект |
 | 5 | B | "то, что сделает/сделает..." |
 | 6 | A | Gideceğim yeri seçtim |

@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор падежа
 
-Как правильно сказать "Я не понял, что он сделал"?
+Как правильно сказать "Я не понял, что он написал"?
 
-A) Ne yaptığını anlamadım
+A) Ne yazdığını anlamadım
 
-B) Ne yaptığı anlamadım
+B) Ne yazdığı anlamadım
 
-C) Ne yaptığına anlamadım
+C) Ne yazdığına anlamadım
 
-D) Ne yaptığından anlamadım
+D) Ne yazdığından anlamadım
 
 ---
 
@@ -37,17 +37,17 @@ D) Geldiğinden sevindim
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Ne _____ anlamadım.
-Я не понял, что он сделал.
+Ne _____ duydum.
+Я услышал, что он сказал.
 ```
 
-A) yaptığını
+A) söylediğini
 
-B) yaptığı
+B) söylediği
 
-C) yaptığına
+C) söylediğine
 
-D) yaptığından
+D) söylediğinden
 
 ---
 
@@ -95,7 +95,7 @@ D) Başarılı olduğundan inanıyorum
 
 ## Question 7: Выбор падежа
 
-Как правильно сказать "Я слышал, что он пришел сюда"?
+Как правильно сказать "Я слышал, что она пришла сюда"?
 
 A) Buraya geldiğini duydum
 
@@ -292,7 +292,7 @@ D) Винительный для прошедшего, дательный для
 
 ## Question 20: Выбор падежа
 
-Как правильно сказать "Я понял, что он сказал"?
+Как правильно сказать "Я понял, что она сказала"?
 
 A) Ne söylediğini anladım
 
@@ -310,7 +310,7 @@ D) Ne söylediğinden anladım
 
 ```
 Ne _____ anladım.
-Я понял, что он сказал.
+Я понял, что она сказала.
 ```
 
 A) söylediğini
@@ -325,15 +325,15 @@ D) söylediğinden
 
 ## Question 22: Выбор падежа
 
-Как правильно сказать "Я видел, что он сделал"?
+Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yaptığını gördüm
+A) Ne yazdığını gördüm
 
-B) Ne yaptığı gördüm
+B) Ne yazdığı gördüm
 
-C) Ne yaptığına gördüm
+C) Ne yazdığına gördüm
 
-D) Ne yaptığından gördüm
+D) Ne yazdığından gördüm
 
 ---
 
@@ -367,15 +367,15 @@ D) -diğinde
 
 ## Question 25: Выбор падежа
 
-Как правильно сказать "Я знаю, что он пришел"?
+Как правильно сказать "Я знаю, что он ушел"?
 
-A) Geldiğini biliyorum
+A) Gittiğini biliyorum
 
-B) Geldiği biliyorum
+B) Gittiği biliyorum
 
-C) Geldiğine biliyorum
+C) Gittiğine biliyorum
 
-D) Geldiğinden biliyorum
+D) Gittiğinden biliyorum
 
 ---
 
@@ -383,9 +383,9 @@ D) Geldiğinden biliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Ne yaptığını anlamadım |
+| 1 | A | Ne yazdığını anlamadım |
 | 2 | C | Geldiğine sevindim |
-| 3 | A | yaptığını |
+| 3 | A | söylediğini |
 | 4 | B | Винительный (-nı/-ni) |
 | 5 | C | Дательный (-e/-a) |
 | 6 | C | Başarılı olduğuna inanıyorum |
@@ -404,10 +404,10 @@ D) Geldiğinden biliyorum
 | 19 | B | Винительный для знания, дательный для эмоций |
 | 20 | A | Ne söylediğini anladım |
 | 21 | A | söylediğini |
-| 22 | A | Ne yaptığını gördüm |
+| 22 | A | Ne yazdığını gördüm |
 | 23 | D | -diğinden |
 | 24 | D | -diğinde |
-| 25 | A | Geldiğini biliyorum |
+| 25 | A | Gittiğini biliyorum |
 
 ---
 

@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Я знаю, что он пришел"?
+Как правильно сказать "Я знаю, что он ушел"?
 
-A) Onun gelmek biliyorum
+A) Onun gitmek biliyorum
 
-B) Onun gelme biliyorum
+B) Onun gitme biliyorum
 
-C) Onun geldiğini biliyorum
+C) Onun gittiğini biliyorum
 
-D) Onun gelmesi biliyorum
+D) Onun gitmesi biliyorum
 
 ---
 
@@ -38,7 +38,7 @@ D) Yaptığın işten beğendim
 
 ```
 Onun _____ biliyorum.
-Я знаю, что он пришел.
+Я знаю, что она пришла.
 ```
 
 A) gelmek
@@ -56,17 +56,17 @@ D) gelmesi
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Yaptığın _____ beğendim.
-Мне понравилась работа, которую ты сделал.
+Yazdığın _____ beğendim.
+Мне понравилось письмо, которое ты написал.
 ```
 
-A) işi
+A) mektubu
 
-B) iş
+B) mektup
 
-C) işe
+C) mektuba
 
-D) işten
+D) mektuptan
 
 ---
 
@@ -189,21 +189,21 @@ D) Исчезает
 
 ## Question 13: Выбор формы
 
-Как правильно сказать "Я видел, что он сделал"?
+Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yaptığını gördüm
+A) Ne yazdığını gördüm
 
-B) Ne yaptığını görüyorum
+B) Ne yazdığını görüyorum
 
-C) Ne yaptığını göreceğim
+C) Ne yazdığını göreceğim
 
-D) Ne yaptığını görüyordum
+D) Ne yazdığını görüyordum
 
 ---
 
 ## Question 14: Выбор формы
 
-Как правильно сказать "Я слышал, что он пришел сюда"?
+Как правильно сказать "Я слышал, что она пришла сюда"?
 
 A) Buraya gelmek duydum
 
@@ -221,16 +221,16 @@ D) Buraya gelmesi duydum
 
 ```
 Ne _____ gördüm.
-Я видел, что он сделал.
+Я видел, что он написал.
 ```
 
-A) yaptığını
+A) yazdığını
 
-B) yapacağını
+B) yazacağını
 
-C) yapmasını
+C) yazmasını
 
-D) yapmayı
+D) yazmayı
 
 ---
 
@@ -250,15 +250,15 @@ D) -dik для настоящего, -ma для прошедшего
 
 ## Question 17: Выбор формы
 
-Как правильно сказать "Я не знаю, что он сделал"?
+Как правильно сказать "Я не знаю, что он сказал"?
 
-A) Ne yaptığını bilmiyorum
+A) Ne söylediğini bilmiyorum
 
-B) Ne yaptığını bilmiyordum
+B) Ne söylediğini bilmiyordum
 
-C) Ne yaptığını bilmeyeceğim
+C) Ne söylediğini bilmeyeceğim
 
-D) Ne yaptığını bilmiyordum
+D) Ne söylediğini bilmiyordum
 
 ---
 
@@ -282,7 +282,7 @@ D) Yaptığın işten beğenmedim
 
 ```
 Buraya _____ duydum.
-Я слышал, что он пришел сюда.
+Я слышал, что она пришла сюда.
 ```
 
 A) gelmek
@@ -388,10 +388,10 @@ D) Onların gelmesi biliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Onun geldiğini biliyorum |
+| 1 | C | Onun gittiğini biliyorum |
 | 2 | A | Yaptığın işi beğendim |
 | 3 | C | geldiğini |
-| 4 | A | işi |
+| 4 | A | mektubu |
 | 5 | B | Прошедшее действие как объект |
 | 6 | B | "то, что сделал/сделала..." |
 | 7 | C | Benim geldiğimi biliyorum |
@@ -400,11 +400,11 @@ D) Onların gelmesi biliyorum
 | 10 | A | -ğim |
 | 11 | C | -ği |
 | 12 | B | Меняется на "ğ" |
-| 13 | A | Ne yaptığını gördüm |
+| 13 | A | Ne yazdığını gördüm |
 | 14 | C | Buraya geldiğini duydum |
-| 15 | A | yaptığını |
+| 15 | A | yazdığını |
 | 16 | B | -dik для прошедшего, -ma для будущего/настоящего |
-| 17 | A | Ne yaptığını bilmiyorum |
+| 17 | A | Ne söylediğini bilmiyorum |
 | 18 | A | Yaptığın işi beğenmedim |
 | 19 | C | geldiğini |
 | 20 | B | bilmek, görmek, duymak, anlamak |

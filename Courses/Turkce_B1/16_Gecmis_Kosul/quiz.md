@@ -38,16 +38,16 @@ D) Söyleyecek gelirdim
 
 ```
 Daha erken _____ iyi olurdu.
-Если бы ты пришел раньше, было бы хорошо.
+Если бы ты ушел раньше, было бы хорошо.
 ```
 
-A) gelse
+A) gitse
 
-B) gelseydin
+B) gitseydin
 
-C) geldi
+C) gitti
 
-D) gelecek
+D) gidecek
 
 ---
 
@@ -390,7 +390,7 @@ D) Gelecek iyi olurdu
 |---|--------|-------------|
 | 1 | B | Daha erken gelseydin iyi olurdu |
 | 2 | B | Söyleseydin gelirdim |
-| 3 | B | gelseydin |
+| 3 | B | gitseydin |
 | 4 | B | Условие, которое не выполнилось в прошлом |
 | 5 | B | -seydi/-saydı |
 | 6 | B | Çalışsaydı başarılı olurdu |

@@ -52,7 +52,7 @@ D) Ali'nin çalışmasını istiyorum
 
 ```
 Onun _____ bekliyorum.
-Я жду его прихода.
+Я жду ее прихода.
 ```
 
 A) gelmek
@@ -71,7 +71,7 @@ D) gelmesini
 
 ```
 Bunu _____ istiyorum.
-Я хочу, чтобы он это сделал.
+Я хочу, чтобы она это сделала.
 ```
 
 A) yapmak

@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Изучать турецкий трудно"?
+Как правильно сказать "Изучать английский трудно"?
 
-A) Türkçe öğrenmeyi zor
+A) İngilizce öğrenmeyi zor
 
-B) Türkçe öğrenmek zor
+B) İngilizce öğrenmek zor
 
-C) Türkçe öğrenme zor
+C) İngilizce öğrenme zor
 
-D) Türkçe öğrenmesi zor
+D) İngilizce öğrenmesi zor
 
 ---
 
@@ -62,29 +62,29 @@ D) Yüzmesi sağlıklı
 
 ## Question 5: Выбор формы
 
-Как правильно сказать "Я устал от того, что много работал"?
+Как правильно сказать "Я устал от того, что много учился"?
 
-A) Çok çalışmak için yoruldum
+A) Çok öğrenmek için yoruldum
 
-B) Çok çalışmaktan yoruldum
+B) Çok öğrenmekten yoruldum
 
-C) Çok çalışmayı yoruldum
+C) Çok öğrenmeyi yoruldum
 
-D) Çok çalışması yoruldum
+D) Çok öğrenmesi yoruldum
 
 ---
 
 ## Question 6: Выбор формы
 
-Как правильно сказать "Мне не нравится работать"?
+Как правильно сказать "Мне не нравится писать"?
 
-A) Çalışmak hoşlanmıyorum
+A) Yazmak hoşlanmıyorum
 
-B) Çalışmaktan hoşlanmıyorum
+B) Yazmaktan hoşlanmıyorum
 
-C) Çalışmayı hoşlanmıyorum
+C) Yazmayı hoşlanmıyorum
 
-D) Çalışması hoşlanmıyorum
+D) Yazması hoşlanmıyorum
 
 ---
 
@@ -149,8 +149,8 @@ D) Geç kalmasi korkuyorum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Türkçe _____ zor ama önemli.
-Изучать турецкий трудно, но важно.
+İngilizce _____ zor ama önemli.
+Изучать английский трудно, но важно.
 ```
 
 A) öğrenmek
@@ -169,16 +169,16 @@ D) öğrenmesi
 
 ```
 Çok _____ yoruldum.
-Я устал от того, что много работал.
+Я устал от того, что много учился.
 ```
 
-A) çalışmak
+A) öğrenmek
 
-B) çalışmaktan
+B) öğrenmekten
 
-C) çalışmayı
+C) öğrenmeyi
 
-D) çalışması
+D) öğrenmesi
 
 ---
 
@@ -188,16 +188,16 @@ D) çalışması
 
 ```
 _____ hoşlanmıyorum.
-Мне не нравится работать.
+Мне не нравится писать.
 ```
 
-A) Çalışmak
+A) Yazmak
 
-B) Çalışmaktan
+B) Yazmaktan
 
-C) Çalışmayı
+C) Yazmayı
 
-D) Çalışması
+D) Yazması
 
 ---
 
@@ -313,19 +313,19 @@ D) Kitap okuması güzel
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Türkçe öğrenmek zor |
+| 1 | B | İngilizce öğrenmek zor |
 | 2 | B | Erken kalkmak iyi |
 | 3 | B | Sigara içmek kötü |
 | 4 | B | Yüzmek sağlıklı |
-| 5 | B | Çok çalışmaktan yoruldum |
-| 6 | B | Çalışmaktan hoşlanmıyorum |
+| 5 | B | Çok öğrenmekten yoruldum |
+| 6 | B | Yazmaktan hoşlanmıyorum |
 | 7 | B | Для абстрактных действий без указания на конкретного субъекта |
 | 8 | B | Çok yemekten kilo aldım |
 | 9 | B | Erken kalkmaktan nefret ediyorum |
 | 10 | B | Geç kalmaktan korkuyorum |
 | 11 | A | öğrenmek |
-| 12 | B | çalışmaktan |
-| 13 | B | Çalışmaktan |
+| 12 | B | öğrenmekten |
+| 13 | B | Yazmaktan |
 | 14 | A | kalkmak |
 | 15 | A | Sigara içmek |
 | 16 | A | -mak |

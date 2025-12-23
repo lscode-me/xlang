@@ -20,15 +20,15 @@ D) Hasta olması için gelmedi
 
 ## Question 2: Выбор формы причины
 
-Как правильно сказать "Я устал, потому что много работал"?
+Как правильно сказать "Я устал, потому что много учился"?
 
-A) Çok çalışmak için yoruldum
+A) Çok öğrenmek için yoruldum
 
-B) Çok çalıştığı için yoruldum
+B) Çok öğrendiği için yoruldum
 
-C) Çok çalışmaktan yoruldum
+C) Çok öğrenmekten yoruldum
 
-D) Çok çalışması için yoruldum
+D) Çok öğrenmesi için yoruldum
 
 ---
 
@@ -65,8 +65,8 @@ D) Geç kalması için özür diledi
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Çok çalıştığı _____ yoruldum.
-Я устал, потому что много работал.
+Çok öğrendiği _____ yoruldum.
+Я устал, потому что много учился.
 ```
 
 A) için
@@ -84,8 +84,8 @@ D) maktan
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Çok çalışmaktan _____ yoruldum.
-Я устал из-за того, что много работал.
+Çok öğrenmekten _____ yoruldum.
+Я устал из-за того, что много учился.
 ```
 
 A) için
@@ -208,29 +208,29 @@ D) -diği для настоящего, -diğinden для прошлого
 
 ## Question 14: Выбор формы
 
-Как правильно сказать "Я поправился из-за того, что много ел"?
+Как правильно сказать "Я поправился из-за того, что много спал"?
 
-A) Çok yemek için kilo aldım
+A) Çok uyumak için kilo aldım
 
-B) Çok yediği için kilo aldım
+B) Çok uyuduğu için kilo aldım
 
-C) Çok yemekten dolayı kilo aldım
+C) Çok uyumaktan dolayı kilo aldım
 
-D) Çok yemesi için kilo aldım
+D) Çok uyuması için kilo aldım
 
 ---
 
 ## Question 15: Выбор формы
 
-Как правильно сказать "Я устал от того, что много работал"?
+Как правильно сказать "Я устал от того, что много читал"?
 
-A) Çok çalışmak için yoruldum
+A) Çok okumak için yoruldum
 
-B) Çok çalıştığı için yoruldum
+B) Çok okuduğu için yoruldum
 
-C) Çok çalışmaktan dolayı yoruldum
+C) Çok okumaktan dolayı yoruldum
 
-D) Çok çalışması için yoruldum
+D) Çok okuması için yoruldum
 
 ---
 
@@ -239,8 +239,8 @@ D) Çok çalışması için yoruldum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Çok yemekten _____ kilo aldım.
-Я поправился из-за того, что много ел.
+Çok uyumaktan _____ kilo aldım.
+Я поправился из-за того, что много спал.
 ```
 
 A) için
@@ -399,7 +399,7 @@ D) -diğinden
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | B | Hasta olduğu için gelmedi |
-| 2 | B | Çok çalıştığı için yoruldum |
+| 2 | B | Çok öğrendiği için yoruldum |
 | 3 | C | Koşmaktan dolayı yoruldum |
 | 4 | C | Geç kaldığından özür diledi |
 | 5 | A | için |
@@ -411,8 +411,8 @@ D) -diğinden
 | 11 | B | Для разговорного стиля |
 | 12 | B | -diği для конкретных причин, -maktan для общих |
 | 13 | A | -diği для формального стиля, -diğinden для разговорного |
-| 14 | C | Çok yemekten dolayı kilo aldım |
-| 15 | C | Çok çalışmaktan dolayı yoruldum |
+| 14 | C | Çok uyumaktan dolayı kilo aldım |
+| 15 | C | Çok okumaktan dolayı yoruldum |
 | 16 | B | dolayı |
 | 17 | C | özür |
 | 18 | C | Geç kaldığından gelmedi |

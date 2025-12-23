@@ -6,15 +6,15 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Я учусь, чтобы выучить турецкий"?
+Как правильно сказать "Я учусь, чтобы выучить английский"?
 
-A) Türkçe öğrenmek çalışıyorum
+A) İngilizce öğrenmek çalışıyorum
 
-B) Türkçe öğrenmek için çalışıyorum
+B) İngilizce öğrenmek için çalışıyorum
 
-C) Türkçe öğrenmesi çalışıyorum
+C) İngilizce öğrenmesi çalışıyorum
 
-D) Türkçe öğrenmesi için çalışıyorum
+D) İngilizce öğrenmesi için çalışıyorum
 
 ---
 
@@ -37,8 +37,8 @@ D) Gelmem için seni aradım
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Türkçe öğrenmek _____ çalışıyorum.
-Я учусь, чтобы выучить турецкий.
+İngilizce öğrenmek _____ çalışıyorum.
+Я учусь, чтобы выучить английский.
 ```
 
 A) için
@@ -81,29 +81,29 @@ D) Для выражения времени действия
 
 ## Question 6: Выбор формы
 
-Как правильно сказать "Я работаю, чтобы заработать деньги"?
+Как правильно сказать "Я работаю, чтобы купить дом"?
 
-A) Para kazanmak çalışıyorum
+A) Ev almak çalışıyorum
 
-B) Para kazanmak için çalışıyorum
+B) Ev almak için çalışıyorum
 
-C) Para kazanması çalışıyorum
+C) Ev alması çalışıyorum
 
-D) Para kazanması için çalışıyorum
+D) Ev alması için çalışıyorum
 
 ---
 
 ## Question 7: Выбор формы
 
-Как правильно сказать "Я помог Али, чтобы он работал"?
+Как правильно сказать "Я помог Айше, чтобы она училась"?
 
-A) Ali'nin çalışmak ona yardım ettim
+A) Ayşe'nin öğrenmek ona yardım ettim
 
-B) Ali'nin çalışmak için ona yardım ettim
+B) Ayşe'nin öğrenmek için ona yardım ettim
 
-C) Ali'nin çalışması ona yardım ettim
+C) Ayşe'nin öğrenmesi ona yardım ettim
 
-D) Ali'nin çalışması için ona yardım ettim
+D) Ayşe'nin öğrenmesi için ona yardım ettim
 
 ---
 
@@ -173,8 +173,8 @@ D) Başarılı olması için çalışıyorum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Ali'nin çalışması _____ ona yardım ettim.
-Я помог Али, чтобы он работал.
+Ayşe'nin öğrenmesi _____ ona yardım ettim.
+Я помог Айше, чтобы она училась.
 ```
 
 A) için
@@ -234,8 +234,8 @@ D) Benim gelmek için seni aradım
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Para kazanmak _____ çalışıyorum.
-Я работаю, чтобы заработать деньги.
+Ev almak _____ çalışıyorum.
+Я работаю, чтобы купить дом.
 ```
 
 A) için
@@ -278,7 +278,7 @@ D) -dik için
 
 ## Question 19: Выбор формы
 
-Как правильно сказать "Я позвонил тебе, чтобы он пришел"?
+Как правильно сказать "Я позвонил тебе, чтобы она пришла"?
 
 A) Onun gelmesi seni aradım
 
@@ -325,15 +325,15 @@ D) -mek для прошедшего, -mesi для будущего
 
 ## Question 22: Выбор формы
 
-Как правильно сказать "Я учусь, чтобы выучить турецкий, но позвонил тебе, чтобы ты пришел"?
+Как правильно сказать "Я учусь, чтобы выучить английский, но позвонил тебе, чтобы ты пришел"?
 
-A) Türkçe öğrenmek için çalışıyorum, ama gelmen için seni aradım
+A) İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım
 
-B) Türkçe öğrenmek çalışıyorum, ama gelmen seni aradım
+B) İngilizce öğrenmek çalışıyorum, ama gelmen seni aradım
 
-C) Türkçe öğrenmesi için çalışıyorum, ama gelmen için seni aradım
+C) İngilizce öğrenmesi için çalışıyorum, ama gelmen için seni aradım
 
-D) Türkçe öğrenmek için çalışıyorum, ama gelmen seni aradım
+D) İngilizce öğrenmek için çalışıyorum, ama gelmen seni aradım
 
 ---
 
@@ -372,15 +372,15 @@ D) -dik için
 
 ## Question 25: Выбор формы
 
-Как правильно сказать "Я работаю, чтобы заработать деньги, но помог Али, чтобы он работал"?
+Как правильно сказать "Я работаю, чтобы купить дом, но помог Айше, чтобы она училась"?
 
-A) Para kazanmak için çalışıyorum, ama Ali'nin çalışması için ona yardım ettim
+A) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
 
-B) Para kazanmak çalışıyorum, ama Ali'nin çalışması ona yardım ettim
+B) Ev almak çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
 
-C) Para kazanması için çalışıyorum, ama Ali'nin çalışması için ona yardım ettim
+C) Ev alması için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
 
-D) Para kazanmak için çalışıyorum, ama Ali'nin çalışması ona yardım ettim
+D) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
 
 ---
 
@@ -388,13 +388,13 @@ D) Para kazanmak için çalışıyorum, ama Ali'nin çalışması ona yardım et
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Türkçe öğrenmek için çalışıyorum |
+| 1 | B | İngilizce öğrenmek için çalışıyorum |
 | 2 | B | Gelmen için seni aradım |
 | 3 | A | için |
 | 4 | B | Для выражения собственной цели действия |
 | 5 | B | Для выражения цели другого лица |
-| 6 | B | Para kazanmak için çalışıyorum |
-| 7 | D | Ali'nin çalışması için ona yardım ettim |
+| 6 | B | Ev almak için çalışıyorum |
+| 7 | D | Ayşe'nin öğrenmesi için ona yardım ettim |
 | 8 | A | için |
 | 9 | B | -mek для собственной цели, -mesi для цели другого |
 | 10 | B | Bilmen için seni aradım |
@@ -409,10 +409,10 @@ D) Para kazanmak için çalışıyorum, ama Ali'nin çalışması ona yardım et
 | 19 | B | Onun gelmesi için seni aradım |
 | 20 | A | için |
 | 21 | A | -mek для абстрактной цели, -mesi для конкретной цели с субъектом |
-| 22 | A | Türkçe öğrenmek için çalışıyorum, ama gelmen için seni aradım |
+| 22 | A | İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım |
 | 23 | A | için |
 | 24 | B | -mek için |
-| 25 | A | Para kazanmak için çalışıyorum, ama Ali'nin çalışması için ona yardım ettim |
+| 25 | A | Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim |
 
 ---
 

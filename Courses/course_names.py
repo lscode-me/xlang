@@ -22,5 +22,10 @@ COURSE_NAMES = {
         "name": "Турецкий Язык B1",
         "sections": {"Türkçe"}
     },
+    "English_A1": {
+        "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🅰️1️⃣",
+        "name": "Английский Язык B1",
+        "sections": {"English"}
+    },
 }
 

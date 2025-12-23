@@ -6,57 +6,57 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Я знаю, что он пришел"?
+Как правильно сказать "Я знаю, что он ушел"?
 
-A) Onun gelmek biliyorum
+A) Onun gitmek biliyorum
 
-B) Onun geldiğini biliyorum
+B) Onun gittiğini biliyorum
 
-C) Onun gelme biliyorum
+C) Onun gitme biliyorum
 
-D) Onun gelmesi biliyorum
+D) Onun gitmesi biliyorum
 
 ---
 
 ## Question 2: Выбор формы
 
-Как правильно сказать "Я хочу, чтобы ты пришел"?
+Как правильно сказать "Я хочу, чтобы ты увидел это"?
 
-A) Senin gelmek istiyorum
+A) Senin görmek istiyorum
 
-B) Senin geldiğini istiyorum
+B) Senin gördüğünü istiyorum
 
-C) Senin gelmeni istiyorum
+C) Senin görmeni istiyorum
 
-D) Senin gelmesi istiyorum
+D) Senin görmesi istiyorum
 
 ---
 
 ## Question 3: Выбор формы
 
-Как правильно сказать "Изучать турецкий трудно"?
+Как правильно сказать "Изучать музыку интересно"?
 
-A) Türkçe öğrenmeyi zor
+A) Müzik öğrenmeyi ilginç
 
-B) Türkçe öğrenmek zor
+B) Müzik öğrenmek ilginç
 
-C) Türkçe öğrenme zor
+C) Müzik öğrenme ilginç
 
-D) Türkçe öğrenmesi zor
+D) Müzik öğrenmesi ilginç
 
 ---
 
 ## Question 4: Выбор формы
 
-Как правильно сказать "Я люблю читать книги"?
+Как правильно сказать "Я люблю слушать музыку"?
 
-A) Kitap okumak seviyorum
+A) Müzik dinlemek seviyorum
 
-B) Kitap okumayı seviyorum
+B) Müzik dinlemeyi seviyorum
 
-C) Kitap okuma seviyorum
+C) Müzik dinleme seviyorum
 
-D) Kitap okuması seviyorum
+D) Müzik dinlemesi seviyorum
 
 ---
 
@@ -76,21 +76,21 @@ D) Потому что турецкий язык использует тольк
 
 ## Question 6: Выбор формы
 
-Как правильно сказать "Я не знаю, что он сделал"?
+Как правильно сказать "Я не знаю, что он сказал"?
 
-A) Ne yapmak bilmiyorum
+A) Ne söylemek bilmiyorum
 
-B) Ne yaptığını bilmiyorum
+B) Ne söylediğini bilmiyorum
 
-C) Ne yapmayı bilmiyorum
+C) Ne söylemeyi bilmiyorum
 
-D) Ne yapması bilmiyorum
+D) Ne söylemesi bilmiyorum
 
 ---
 
 ## Question 7: Выбор формы
 
-Как правильно сказать "Я жду, чтобы он пришел сюда"?
+Как правильно сказать "Я жду, чтобы она пришла сюда"?
 
 A) Onun buraya gelmek bekliyorum
 
@@ -149,17 +149,17 @@ D) -ması
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Türkçe _____ zor.
-Изучать турецкий трудно.
+Spor _____ sağlıklı.
+Заниматься спортом полезно.
 ```
 
-A) öğrenmek
+A) yapmak
 
-B) öğrenmeyi
+B) yapmayı
 
-C) öğrenme
+C) yapma
 
-D) öğrenmesi
+D) yapması
 
 ---
 
@@ -188,7 +188,7 @@ D) okuması
 
 ```
 Onun _____ biliyorum.
-Я знаю, что он пришел.
+Я знаю, что она пришла.
 ```
 
 A) gelmek
@@ -207,16 +207,16 @@ D) gelmesi
 
 ```
 Senin _____ istiyorum.
-Я хочу, чтобы ты пришел.
+Я хочу, чтобы ты прочитал это.
 ```
 
-A) gelmek
+A) okumak
 
-B) gelmeni
+B) okumanı
 
-C) geldiğini
+C) okuduğunu
 
-D) gelmesi
+D) okuması
 
 ---
 
@@ -244,16 +244,16 @@ D) yapması
 Выберите правильный порядок слов:
 
 ```
-1) Onun 2) geldiğini 3) biliyorum
+1) Onun 2) gittiğini 3) biliyorum
 ```
 
-A) 1-2-3 (Onun geldiğini biliyorum)
+A) 1-2-3 (Onun gittiğini biliyorum)
 
-B) 3-1-2 (Biliyorum onun geldiğini)
+B) 3-1-2 (Biliyorum onun gittiğini)
 
-C) 2-1-3 (Geldiğini onun biliyorum)
+C) 2-1-3 (Gittiğini onun biliyorum)
 
-D) 1-3-2 (Onun biliyorum geldiğini)
+D) 1-3-2 (Onun biliyorum gittiğini)
 
 ---
 
@@ -262,16 +262,16 @@ D) 1-3-2 (Onun biliyorum geldiğini)
 Выберите правильный порядок слов:
 
 ```
-1) Senin 2) gelmeni 3) istiyorum
+1) Senin 2) görmeni 3) istiyorum
 ```
 
-A) 1-2-3 (Senin gelmeni istiyorum)
+A) 1-2-3 (Senin görmeni istiyorum)
 
-B) 3-1-2 (İstiyorum senin gelmeni)
+B) 3-1-2 (İstiyorum senin görmeni)
 
-C) 2-1-3 (Gelmeni senin istiyorum)
+C) 2-1-3 (Görmeni senin istiyorum)
 
-D) 1-3-2 (Senin istiyorum gelmeni)
+D) 1-3-2 (Senin istiyorum görmeni)
 
 ---
 
@@ -291,29 +291,29 @@ D) Глагол используется как обстоятельство
 
 ## Question 19: Выбор формы
 
-Как правильно сказать "Приходить трудно"?
+Как правильно сказать "Уходить трудно"?
 
-A) Gelmek zor
+A) Gitmek zor
 
-B) Gelmeni zor
+B) Gitmeni zor
 
-C) Geldiğini zor
+C) Gittiğini zor
 
-D) Gelmesi zor
+D) Gitmesi zor
 
 ---
 
 ## Question 20: Выбор формы
 
-Как правильно сказать "Я знаю его приход"?
+Как правильно сказать "Я знаю его уход"?
 
-A) Onun gelmek biliyorum
+A) Onun gitmek biliyorum
 
-B) Onun gelmeni biliyorum
+B) Onun gitmeni biliyorum
 
-C) Onun geldiğini biliyorum
+C) Onun gittiğini biliyorum
 
-D) Onun gelmesi biliyorum
+D) Onun gitmesi biliyorum
 
 ---
 
@@ -321,26 +321,26 @@ D) Onun gelmesi biliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Onun geldiğini biliyorum |
-| 2 | C | Senin gelmeni istiyorum |
-| 3 | B | Türkçe öğrenmek zor |
-| 4 | B | Kitap okumayı seviyorum |
+| 1 | B | Onun gittiğini biliyorum |
+| 2 | C | Senin görmeni istiyorum |
+| 3 | B | Müzik öğrenmek ilginç |
+| 4 | B | Müzik dinlemeyi seviyorum |
 | 5 | B | Потому что глагол превращается в существительное и используется как объект |
-| 6 | B | Ne yaptığını bilmiyorum |
+| 6 | B | Ne söylediğini bilmiyorum |
 | 7 | C | Onun buraya gelmesini bekliyorum |
 | 8 | A | -mak |
 | 9 | B | -ma |
 | 10 | C | -dik |
-| 11 | A | öğrenmek |
+| 11 | A | yapmak |
 | 12 | B | okumayı |
 | 13 | C | geldiğini |
-| 14 | B | gelmeni |
+| 14 | B | okumanı |
 | 15 | C | yaptığını |
-| 16 | A | 1-2-3 (Onun geldiğini biliyorum) |
-| 17 | A | 1-2-3 (Senin gelmeni istiyorum) |
+| 16 | A | 1-2-3 (Onun gittiğini biliyorum) |
+| 17 | A | 1-2-3 (Senin görmeni istiyorum) |
 | 18 | B | Глагол превращается в существительное и используется как объект предложения |
-| 19 | A | Gelmek zor |
-| 20 | C | Onun geldiğini biliyorum |
+| 19 | A | Gitmek zor |
+| 20 | C | Onun gittiğini biliyorum |
 
 ---
 

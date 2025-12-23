@@ -95,29 +95,29 @@ D) -ecek/-acağı
 
 ## Question 7: Выбор формы
 
-Как правильно сказать "Я понял, что он сделал"?
+Как правильно сказать "Я понял, что он написал"?
 
-A) Ne yaptığını anladım
+A) Ne yazdığını anladım
 
-B) Ne yaptığı anladım
+B) Ne yazdığı anladım
 
-C) Ne yaptığına anladım
+C) Ne yazdığına anladım
 
-D) Ne yaptığından anladım
+D) Ne yazdığından anladım
 
 ---
 
 ## Question 8: Выбор формы
 
-Как правильно сказать "Они сказали, что Али пришел"?
+Как правильно сказать "Они сказали, что Айше пришла"?
 
-A) Ali'nin geldiğini söylediler
+A) Ayşe'nin geldiğini söylediler
 
-B) Ali'nin geldiği söylediler
+B) Ayşe'nin geldiği söylediler
 
-C) Ali'nin geldiğine söylediler
+C) Ayşe'nin geldiğine söylediler
 
-D) Ali'nin geldiğinden söylediler
+D) Ayşe'nin geldiğinden söylediler
 
 ---
 
@@ -170,15 +170,15 @@ D) Geç kalması öğrendim
 
 ## Question 12: Выбор формы
 
-Как правильно сказать "Я знаю, что он сделал"?
+Как правильно сказать "Я знаю, что он написал"?
 
-A) Ne yaptığını biliyorum
+A) Ne yazdığını biliyorum
 
-B) Ne yaptığı biliyorum
+B) Ne yazdığı biliyorum
 
-C) Ne yaptığına biliyorum
+C) Ne yazdığına biliyorum
 
-D) Ne yaptığından biliyorum
+D) Ne yazdığından biliyorum
 
 ---
 
@@ -188,16 +188,16 @@ D) Ne yaptığından biliyorum
 
 ```
 Ne _____ anladım.
-Я понял, что он сделал.
+Я понял, что он сказал.
 ```
 
-A) yaptığını
+A) söylediğini
 
-B) yaptığı
+B) söylediği
 
-C) yaptığına
+C) söylediğine
 
-D) yaptığından
+D) söylediğinden
 
 ---
 
@@ -217,29 +217,29 @@ D) Прямая речь для прошедшего, косвенная для 
 
 ## Question 15: Выбор формы
 
-Как правильно сказать "Он сказал, что пришел"?
+Как правильно сказать "Он сказал, что ушел"?
 
-A) Geldiğini söyledi
+A) Gittiğini söyledi
 
-B) Geldiği söyledi
+B) Gittiği söyledi
 
-C) Geldiğine söyledi
+C) Gittiğine söyledi
 
-D) Geldiğinden söyledi
+D) Gittiğinden söyledi
 
 ---
 
 ## Question 16: Выбор формы
 
-Как правильно сказать "Я видел, что он сделал"?
+Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yaptığını gördüm
+A) Ne yazdığını gördüm
 
-B) Ne yaptığı gördüm
+B) Ne yazdığı gördüm
 
-C) Ne yaptığına gördüm
+C) Ne yazdığına gördüm
 
-D) Ne yaptığından gördüm
+D) Ne yazdığından gördüm
 
 ---
 
@@ -292,15 +292,15 @@ D) Ne demek istediğinden anladım
 
 ## Question 20: Выбор формы
 
-Как правильно сказать "Я не понял, что он сделал"?
+Как правильно сказать "Я не понял, что он сказал"?
 
-A) Ne yaptığını anlamadım
+A) Ne söylediğini anlamadım
 
-B) Ne yaptığı anlamadım
+B) Ne söylediği anlamadım
 
-C) Ne yaptığına anlamadım
+C) Ne söylediğine anlamadım
 
-D) Ne yaptığından anlamadım
+D) Ne söylediğinden anlamadım
 
 ---
 
@@ -389,20 +389,20 @@ D) Прямую речь
 | 4 | B | Передача информации без прямой цитаты через именные формы |
 | 5 | C | -dik/-diği |
 | 6 | D | -ecek/-acağı |
-| 7 | A | Ne yaptığını anladım |
-| 8 | A | Ali'nin geldiğini söylediler |
+| 7 | A | Ne yazdığını anladım |
+| 8 | A | Ayşe'nin geldiğini söylediler |
 | 9 | A | olduğunu |
 | 10 | B | söylemek, demek, duymak, görmek, bilmek, anlamak |
 | 11 | C | Geç kalacağını öğrendim |
-| 12 | A | Ne yaptığını biliyorum |
-| 13 | A | yaptığını |
+| 12 | A | Ne yazdığını biliyorum |
+| 13 | A | söylediğini |
 | 14 | A | Прямая речь использует кавычки, косвенная - именные формы |
-| 15 | A | Geldiğini söyledi |
-| 16 | A | Ne yaptığını gördüm |
+| 15 | A | Gittiğini söyledi |
+| 16 | A | Ne yazdığını gördüm |
 | 17 | C | kalacağını |
 | 18 | B | Косвенная речь более естественна в письменной речи |
 | 19 | A | Ne demek istediğini anladım |
-| 20 | A | Ne yaptığını anlamadım |
+| 20 | A | Ne söylediğini anlamadım |
 | 21 | A | yaptığını |
 | 22 | A | -diğini |
 | 23 | A | -eceğini |

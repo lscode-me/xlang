@@ -6,43 +6,43 @@
 
 ## Question 1: Выбор падежа
 
-Как правильно сказать "Я люблю читать книги"?
+Как правильно сказать "Я люблю писать рассказы"?
 
-A) Kitap okumak seviyorum
+A) Hikaye yazmak seviyorum
 
-B) Kitap okumayı seviyorum
+B) Hikaye yazmayı seviyorum
 
-C) Kitap okuma seviyorum
+C) Hikaye yazma seviyorum
 
-D) Kitap okuması seviyorum
+D) Hikaye yazması seviyorum
 
 ---
 
 ## Question 2: Выбор падежа
 
-Как правильно сказать "Я начал изучать турецкий"?
+Как правильно сказать "Я начал изучать французский"?
 
-A) Türkçe öğrenmek başladım
+A) Fransızca öğrenmek başladım
 
-B) Türkçe öğrenmeye başladım
+B) Fransızca öğrenmeye başladım
 
-C) Türkçe öğrenme başladım
+C) Fransızca öğrenme başladım
 
-D) Türkçe öğrenmesi başladım
+D) Fransızca öğrenmesi başladım
 
 ---
 
 ## Question 3: Выбор падежа
 
-Как правильно сказать "Я решил пойти в спортзал"?
+Как правильно сказать "Я решил пойти в театр"?
 
-A) Spora gitmek karar verdim
+A) Tiyatroya gitmek karar verdim
 
-B) Spora gitmeye karar verdim
+B) Tiyatroya gitmeye karar verdim
 
-C) Spora gitme karar verdim
+C) Tiyatroya gitme karar verdim
 
-D) Spora gitmesi karar verdim
+D) Tiyatroya gitmesi karar verdim
 
 ---
 
@@ -79,17 +79,17 @@ D) Çalışması tercih ediyorum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Kitap _____ seviyorum.
-Я люблю читать книги.
+Hikaye _____ seviyorum.
+Я люблю писать рассказы.
 ```
 
-A) okumak
+A) yazmak
 
-B) okumayı
+B) yazmayı
 
-C) okuma
+C) yazma
 
-D) okuması
+D) yazması
 
 ---
 
@@ -98,8 +98,8 @@ D) okuması
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Türkçe _____ başladım.
-Я начал изучать турецкий.
+Fransızca _____ başladım.
+Я начал изучать французский.
 ```
 
 A) öğrenmek
@@ -117,8 +117,8 @@ D) öğrenmesi
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Spora _____ karar verdim.
-Я решил пойти в спортзал.
+Tiyatroya _____ karar verdim.
+Я решил пойти в театр.
 ```
 
 A) gitmek
@@ -388,12 +388,12 @@ D) Geç kalması çekiniyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Kitap okumayı seviyorum |
-| 2 | B | Türkçe öğrenmeye başladım |
-| 3 | B | Spora gitmeye karar verdim |
+| 1 | B | Hikaye yazmayı seviyorum |
+| 2 | B | Fransızca öğrenmeye başladım |
+| 3 | B | Tiyatroya gitmeye karar verdim |
 | 4 | B | Yüzmeyi hoşlanıyorum |
 | 5 | B | Çalışmayı tercih ediyorum |
-| 6 | B | okumayı |
+| 6 | B | yazmayı |
 | 7 | B | öğrenmeye |
 | 8 | B | gitmeye |
 | 9 | B | Винительный (-mayı/-meyi) |

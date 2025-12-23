@@ -52,16 +52,16 @@ D) Onun çalışmasını başarılı
 
 ```
 Onun _____ önemli.
-Его приход важен.
+Его уход важен.
 ```
 
-A) gelmek
+A) gitmek
 
-B) gelme
+B) gitme
 
-C) gelmesi
+C) gitmesi
 
-D) gelmesini
+D) gitmesini
 
 ---
 
@@ -70,8 +70,8 @@ D) gelmesini
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Ali'nin geç _____ beni kızdırdı.
-Опоздание Али меня разозлило.
+Ayşe'nin geç _____ beni kızdırdı.
+Опоздание Айше меня разозлило.
 ```
 
 A) kalmak
@@ -396,7 +396,7 @@ D) Ali'nin çalışmasını gerekli
 | 1 | C | Onun gelmesi önemli |
 | 2 | C | Ali'nin geç kalması beni kızdırdı |
 | 3 | C | Onun çalışması başarılı |
-| 4 | C | gelmesi |
+| 4 | C | gitmesi |
 | 5 | C | kalması |
 | 6 | B | Действие с конкретным субъектом |
 | 7 | B | -ma без субъекта, -ması с субъектом |

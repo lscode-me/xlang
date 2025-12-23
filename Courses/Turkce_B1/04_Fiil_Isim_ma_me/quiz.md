@@ -6,43 +6,43 @@
 
 ## Question 1: Выбор формы
 
-Как правильно сказать "Я люблю читать книги"?
+Как правильно сказать "Я люблю писать письма"?
 
-A) Kitap okumak seviyorum
+A) Mektup yazmak seviyorum
 
-B) Kitap okumayı seviyorum
+B) Mektup yazmayı seviyorum
 
-C) Kitap okuma seviyorum
+C) Mektup yazma seviyorum
 
-D) Kitap okuması seviyorum
+D) Mektup yazması seviyorum
 
 ---
 
 ## Question 2: Выбор формы
 
-Как правильно сказать "Я начал изучать турецкий"?
+Как правильно сказать "Я начал изучать английский"?
 
-A) Türkçe öğrenmek başladım
+A) İngilizce öğrenmek başladım
 
-B) Türkçe öğrenmeye başladım
+B) İngilizce öğrenmeye başladım
 
-C) Türkçe öğrenme başladım
+C) İngilizce öğrenme başladım
 
-D) Türkçe öğrenmesi başladım
+D) İngilizce öğrenmesi başladım
 
 ---
 
 ## Question 3: Выбор формы
 
-Как правильно сказать "Я решил пойти в спортзал"?
+Как правильно сказать "Я решил пойти в библиотеку"?
 
-A) Spora gitmek karar verdim
+A) Kütüphaneye gitmek karar verdim
 
-B) Spora gitmeye karar verdim
+B) Kütüphaneye gitmeye karar verdim
 
-C) Spora gitme karar verdim
+C) Kütüphaneye gitme karar verdim
 
-D) Spora gitmesi karar verdim
+D) Kütüphaneye gitmesi karar verdim
 
 ---
 
@@ -149,17 +149,17 @@ D) Yüzmesi hoşlanmıyorum
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Kitap _____ seviyorum.
-Я люблю читать книги.
+Mektup _____ seviyorum.
+Я люблю писать письма.
 ```
 
-A) okumak
+A) yazmak
 
-B) okumayı
+B) yazmayı
 
-C) okuma
+C) yazma
 
-D) okuması
+D) yazması
 
 ---
 
@@ -168,8 +168,8 @@ D) okuması
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Türkçe _____ başladım.
-Я начал изучать турецкий.
+İngilizce _____ başladım.
+Я начал изучать английский.
 ```
 
 A) öğrenmek
@@ -187,8 +187,8 @@ D) öğrenmesi
 Выберите правильную форму для заполнения пропуска:
 
 ```
-Spora _____ karar verdim.
-Я решил пойти в спортзал.
+Kütüphaneye _____ karar verdim.
+Я решил пойти в библиотеку.
 ```
 
 A) gitmek
@@ -313,9 +313,9 @@ D) Okuması güzel
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Kitap okumayı seviyorum |
-| 2 | B | Türkçe öğrenmeye başladım |
-| 3 | B | Spora gitmeye karar verdim |
+| 1 | B | Mektup yazmayı seviyorum |
+| 2 | B | İngilizce öğrenmeye başladım |
+| 3 | B | Kütüphaneye gitmeye karar verdim |
 | 4 | C | Çalışma önemli |
 | 5 | B | Müzik dinlemeyi tercih ediyorum |
 | 6 | B | Винительный (-mayı/-meyi) |
@@ -323,7 +323,7 @@ D) Okuması güzel
 | 8 | C | Дательный (-maya/-meye) |
 | 9 | B | Для конкретных действий с субъектом |
 | 10 | B | Yüzmeyi hoşlanmıyorum |
-| 11 | B | okumayı |
+| 11 | B | yazmayı |
 | 12 | B | öğrenmeye |
 | 13 | B | gitmeye |
 | 14 | C | Çalışma |

@@ -24,6 +24,16 @@ COURSE_NAMES = {
     },
     "English_A1": {
         "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🅰️1️⃣",
+        "name": "Английский Язык A1",
+        "sections": {"English"}
+    },
+    "English_A2": {
+        "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🅰️2️⃣",
+        "name": "Английский Язык A2",
+        "sections": {"English"}
+    },
+    "English_B1": {
+        "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 🅱️1️⃣",
         "name": "Английский Язык B1",
         "sections": {"English"}
     },

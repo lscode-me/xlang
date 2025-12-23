@@ -4,13 +4,14 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я знаю, что он уехал"?
 
-A) Onun ayrılmak biliyorum
+A) Onun ayrıldığını biliyorum
 
-B) Onun ayrıldığını biliyorum
+B) Onun ayrılmak biliyorum
 
 C) Onun ayrılma biliyorum
 
@@ -22,13 +23,13 @@ D) Onun ayrılması biliyorum
 
 Как правильно сказать "Я хочу, чтобы ты увидел это"?
 
-A) Senin görmek istiyorum
+A) Senin görmesi istiyorum
 
 B) Senin gördüğünü istiyorum
 
 C) Senin görmeni istiyorum
 
-D) Senin görmesi istiyorum
+D) Senin görmek istiyorum
 
 ---
 
@@ -40,9 +41,9 @@ A) Müzik öğrenmeyi ilginç
 
 B) Müzik öğrenmek ilginç
 
-C) Müzik öğrenme ilginç
+C) Müzik öğrenmesi ilginç
 
-D) Müzik öğrenmesi ilginç
+D) Müzik öğrenme ilginç
 
 ---
 
@@ -50,13 +51,13 @@ D) Müzik öğrenmesi ilginç
 
 Как правильно сказать "Я люблю слушать музыку"?
 
-A) Müzik dinlemek seviyorum
+A) Müzik dinlemesi seviyorum
 
-B) Müzik dinlemeyi seviyorum
+B) Müzik dinlemek seviyorum
 
-C) Müzik dinleme seviyorum
+C) Müzik dinlemeyi seviyorum
 
-D) Müzik dinlemesi seviyorum
+D) Müzik dinleme seviyorum
 
 ---
 
@@ -64,11 +65,11 @@ D) Müzik dinlemesi seviyorum
 
 Почему в турецком языке нет союза "что"?
 
-A) Потому что турецкий язык проще русского
+A) Потому что турецкий язык не имеет подчиненных предложений
 
 B) Потому что глагол превращается в существительное и используется как объект
 
-C) Потому что турецкий язык не имеет подчиненных предложений
+C) Потому что турецкий язык проще русского
 
 D) Потому что турецкий язык использует только простые предложения
 
@@ -78,13 +79,13 @@ D) Потому что турецкий язык использует тольк
 
 Как правильно сказать "Я не знаю, что он сказал"?
 
-A) Ne söylemek bilmiyorum
+A) Ne söylediğini bilmiyorum
 
-B) Ne söylediğini bilmiyorum
+B) Ne söylemesi bilmiyorum
 
-C) Ne söylemeyi bilmiyorum
+C) Ne söylemek bilmiyorum
 
-D) Ne söylemesi bilmiyorum
+D) Ne söylemeyi bilmiyorum
 
 ---
 
@@ -92,13 +93,13 @@ D) Ne söylemesi bilmiyorum
 
 Как правильно сказать "Я жду, чтобы она пришла сюда"?
 
-A) Onun buraya gelmek bekliyorum
+A) Onun buraya gelmesi bekliyorum
 
-B) Onun buraya geldiğini bekliyorum
+B) Onun buraya gelmesini bekliyorum
 
-C) Onun buraya gelmesini bekliyorum
+C) Onun buraya geldiğini bekliyorum
 
-D) Onun buraya gelmesi bekliyorum
+D) Onun buraya gelmek bekliyorum
 
 ---
 
@@ -122,9 +123,9 @@ D) -ması
 
 A) -mak
 
-B) -ma
+B) -dik
 
-C) -dik
+C) -ma
 
 D) -ması
 
@@ -134,13 +135,13 @@ D) -ması
 
 Какая форма используется для прошедшего действия?
 
-A) -mak
+A) -ması
 
 B) -ma
 
-C) -dik
+C) -mak
 
-D) -ması
+D) -dik
 
 ---
 
@@ -157,9 +158,9 @@ A) yapmak
 
 B) yapmayı
 
-C) yapma
+C) yapması
 
-D) yapması
+D) yapma
 
 ---
 
@@ -172,13 +173,13 @@ Kitap _____ seviyorum.
 Я люблю читать книги.
 ```
 
-A) okumak
+A) okumayı
 
-B) okumayı
+B) okuması
 
 C) okuma
 
-D) okuması
+D) okumak
 
 ---
 
@@ -191,13 +192,13 @@ Onun _____ biliyorum.
 Я знаю, что она пришла.
 ```
 
-A) gelmek
+A) gelmesi
 
-B) gelmeni
+B) gelmek
 
-C) geldiğini
+C) gelmeni
 
-D) gelmesi
+D) geldiğini
 
 ---
 
@@ -210,13 +211,13 @@ Senin _____ istiyorum.
 Я хочу, чтобы ты прочитал это.
 ```
 
-A) okumak
+A) okumanı
 
-B) okumanı
+B) okumak
 
-C) okuduğunu
+C) okuması
 
-D) okuması
+D) okuduğunu
 
 ---
 
@@ -229,13 +230,13 @@ Ne _____ bilmiyorum.
 Я не знаю, что он сделал.
 ```
 
-A) yapmak
+A) yapmayı
 
-B) yapmayı
+B) yapmak
 
-C) yaptığını
+C) yapması
 
-D) yapması
+D) yaptığını
 
 ---
 
@@ -247,13 +248,13 @@ D) yapması
 1) Onun 2) gittiğini 3) biliyorum
 ```
 
-A) 1-2-3 (Onun gittiğini biliyorum)
+A) 1-3-2 (Onun biliyorum gittiğini)
 
 B) 3-1-2 (Biliyorum onun gittiğini)
 
-C) 2-1-3 (Gittiğini onun biliyorum)
+C) 1-2-3 (Onun gittiğini biliyorum)
 
-D) 1-3-2 (Onun biliyorum gittiğini)
+D) 2-1-3 (Gittiğini onun biliyorum)
 
 ---
 
@@ -265,13 +266,13 @@ D) 1-3-2 (Onun biliyorum gittiğini)
 1) Senin 2) görmeni 3) istiyorum
 ```
 
-A) 1-2-3 (Senin görmeni istiyorum)
+A) 1-3-2 (Senin istiyorum görmeni)
 
-B) 3-1-2 (İstiyorum senin görmeni)
+B) 2-1-3 (Görmeni senin istiyorum)
 
-C) 2-1-3 (Görmeni senin istiyorum)
+C) 1-2-3 (Senin görmeni istiyorum)
 
-D) 1-3-2 (Senin istiyorum görmeni)
+D) 3-1-2 (İstiyorum senin görmeni)
 
 ---
 
@@ -279,13 +280,13 @@ D) 1-3-2 (Senin istiyorum görmeni)
 
 Что означает "глагол как объект"?
 
-A) Глагол используется как подлежащее
+A) Глагол превращается в существительное и используется как объект предложения
 
-B) Глагол превращается в существительное и используется как объект предложения
+B) Глагол используется как определение
 
-C) Глагол используется как определение
+C) Глагол используется как обстоятельство
 
-D) Глагол используется как обстоятельство
+D) Глагол используется как подлежащее
 
 ---
 
@@ -297,9 +298,9 @@ A) Gitmek zor
 
 B) Gitmeni zor
 
-C) Gittiğini zor
+C) Gitmesi zor
 
-D) Gitmesi zor
+D) Gittiğini zor
 
 ---
 
@@ -307,13 +308,15 @@ D) Gitmesi zor
 
 Как правильно сказать "Я знаю, что он уехал"?
 
-A) Onun ayrılmak biliyorum
+A) Onun ayrılmanı biliyorum
 
-B) Onun ayrılmanı biliyorum
+B) Onun ayrılması biliyorum
 
-C) Onun ayrıldığını biliyorum
+C) Onun ayrılmak biliyorum
 
-D) Onun ayrılması biliyorum
+D) Onun ayrıldığını biliyorum
+
+---
 
 ---
 
@@ -321,26 +324,26 @@ D) Onun ayrılması biliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Onun ayrıldığını biliyorum |
+| 1 | A | Onun ayrıldığını biliyorum |
 | 2 | C | Senin görmeni istiyorum |
 | 3 | B | Müzik öğrenmek ilginç |
-| 4 | B | Müzik dinlemeyi seviyorum |
+| 4 | C | Müzik dinlemeyi seviyorum |
 | 5 | B | Потому что глагол превращается в существительное и используется как объект |
-| 6 | B | Ne söylediğini bilmiyorum |
-| 7 | C | Onun buraya gelmesini bekliyorum |
+| 6 | A | Ne söylediğini bilmiyorum |
+| 7 | B | Onun buraya gelmesini bekliyorum |
 | 8 | A | -mak |
-| 9 | B | -ma |
-| 10 | C | -dik |
+| 9 | C | -ma |
+| 10 | D | -dik |
 | 11 | A | yapmak |
-| 12 | B | okumayı |
-| 13 | C | geldiğini |
-| 14 | B | okumanı |
-| 15 | C | yaptığını |
-| 16 | A | 1-2-3 (Onun gittiğini biliyorum) |
-| 17 | A | 1-2-3 (Senin görmeni istiyorum) |
-| 18 | B | Глагол превращается в существительное и используется как объект предложения |
+| 12 | A | okumayı |
+| 13 | D | geldiğini |
+| 14 | A | okumanı |
+| 15 | D | yaptığını |
+| 16 | C | 1-2-3 (Onun gittiğini biliyorum) |
+| 17 | C | 1-2-3 (Senin görmeni istiyorum) |
+| 18 | A | Глагол превращается в существительное и используется как объект предложения |
 | 19 | A | Gitmek zor |
-| 20 | C | Onun ayrıldığını biliyorum |
+| 20 | D | Onun ayrıldığını biliyorum |
 
 ---
 

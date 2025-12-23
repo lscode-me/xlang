@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Суффикс винительного падежа
 
 Какой суффикс винительного падежа используется для "kitap" (книга)?
 
-A) -u
+A) -ü
 
-B) -ı
+B) -u
 
-C) -ü
+C) -i
 
-D) -i
+D) -ı
 
 ---
 
@@ -22,13 +24,13 @@ D) -i
 
 Какой суффикс винительного падежа используется для "ev" (дом)?
 
-A) -i
+A) -ı
 
 B) -u
 
 C) -ü
 
-D) -ı
+D) -i
 
 ---
 
@@ -36,11 +38,11 @@ D) -ı
 
 Какой суффикс винительного падежа используется для "okul" (школа)?
 
-A) -i
+A) -ü
 
-B) -ü
+B) -u
 
-C) -u
+C) -i
 
 D) -ı
 
@@ -52,11 +54,11 @@ D) -ı
 
 A) Kitabım okuyorum
 
-B) Kitabın okuyorum
+B) Kitabı okuyorum
 
-C) Kitabı okuyorum
+C) Kitap okuyorum
 
-D) Kitap okuyorum
+D) Kitabın okuyorum
 
 ---
 
@@ -64,13 +66,13 @@ D) Kitap okuyorum
 
 Как правильно сказать "Я читаю книгу" (вообще, любую)?
 
-A) Kitap okuyorum
+A) Bir kitabı okuyorum
 
-B) Bir kitabı okuyorum
+B) Kitap okuyorum
 
-C) Kitabı okuyorum
+C) Kitabım okuyorum
 
-D) Kitabım okuyorum
+D) Kitabı okuyorum
 
 ---
 
@@ -78,13 +80,13 @@ D) Kitabım okuyorum
 
 Как правильно сказать "Я читаю эту книгу"?
 
-A) Bu kitabım okuyorum
+A) Kitabı bu okuyorum
 
-B) Bu kitabı okuyorum
+B) Bu kitabım okuyorum
 
 C) Bu kitap okuyorum
 
-D) Kitabı bu okuyorum
+D) Bu kitabı okuyorum
 
 ---
 
@@ -92,13 +94,13 @@ D) Kitabı bu okuyorum
 
 Как правильно сказать "Я читаю какую-то книгу"?
 
-A) Bir kitap okuyorum
+A) Bir kitabım okuyorum
 
-B) Kitabı bir okuyorum
+B) Bir kitap okuyorum
 
-C) Bir kitabım okuyorum
+C) Bir kitabı okuyorum
 
-D) Bir kitabı okuyorum
+D) Kitabı bir okuyorum
 
 ---
 
@@ -110,9 +112,9 @@ A) Hangi kitap okuyorsun?
 
 B) Okuyorsun hangi kitap?
 
-C) Kitap hangi okuyorsun?
+C) Hangi kitabı okuyorsun?
 
-D) Hangi kitabı okuyorsun?
+D) Kitap hangi okuyorsun?
 
 ---
 
@@ -120,13 +122,13 @@ D) Hangi kitabı okuyorsun?
 
 Как правильно образовать винительный падеж от "elma" (яблоко)?
 
-A) elmayı
+A) elmayi
 
-B) elmayi
+B) elmai
 
-C) elmai
+C) elmaı
 
-D) elmaı
+D) elmayı
 
 ---
 
@@ -136,11 +138,11 @@ D) elmaı
 
 A) Kitabımı okuyorum
 
-B) Kitabım okuyorum
+B) Benim kitabım okuyorum
 
-C) Kitabı benim okuyorum
+C) Kitabım okuyorum
 
-D) Benim kitabım okuyorum
+D) Kitabı benim okuyorum
 
 ---
 
@@ -148,13 +150,13 @@ D) Benim kitabım okuyorum
 
 Какой суффикс правильный для "masa" (стол)?
 
-A) -u
+A) -i
 
-B) -i
+B) -ı
 
-C) -ü
+C) -u
 
-D) -ı
+D) -ü
 
 ---
 
@@ -162,11 +164,11 @@ D) -ı
 
 Какой суффикс правильный для "kalem" (ручка)?
 
-A) -u
+A) -ı
 
-B) -ı
+B) -i
 
-C) -i
+C) -u
 
 D) -ü
 
@@ -176,9 +178,9 @@ D) -ü
 
 Какая форма правильная для "я читаю эту книгу"?
 
-A) Bu kitabım okuyorum
+A) Kitabı bu okuyorum
 
-B) Kitabı bu okuyorum
+B) Bu kitabım okuyorum
 
 C) Bu kitabı okuyorum
 
@@ -190,11 +192,11 @@ D) Bu kitap okuyorum
 
 Какая форма правильная для "я читаю какую-то книгу"?
 
-A) Bir kitabı okuyorum
+A) Bir kitabım okuyorum
 
-B) Bir kitabım okuyorum
+B) Bir kitap okuyorum
 
-C) Bir kitap okuyorum
+C) Bir kitabı okuyorum
 
 D) Kitabı bir okuyorum
 
@@ -204,13 +206,13 @@ D) Kitabı bir okuyorum
 
 Как правильно сказать "Он/Она видит машину" (определенную)?
 
-A) O arabayı görüyor
+A) Araba o görüyor
 
 B) O araba görüyor
 
-C) Araba o görüyor
+C) O arabası görüyor
 
-D) O arabası görüyor
+D) O arabayı görüyor
 
 ---
 
@@ -218,13 +220,13 @@ D) O arabası görüyor
 
 В чем разница между "Kitabı okuyorum" и "Kitap okuyorum"?
 
-A) Нет разницы
+A) Второе - неправильная форма
 
-B) Второе - неправильная форма
+B) Первое - неправильная форма
 
-C) Первое - неправильная форма
+C) Первое - определенный объект, второе - неопределенный
 
-D) Первое - определенный объект, второе - неопределенный
+D) Нет разницы
 
 ---
 
@@ -232,13 +234,13 @@ D) Первое - определенный объект, второе - неоп
 
 Как правильно сказать "Ты читаешь твою книгу"?
 
-A) Senin kitabın okuyorsun
+A) Kitabını okuyorsun
 
-B) Kitabın okuyorsun
+B) Kitabı senin okuyorsun
 
-C) Kitabı senin okuyorsun
+C) Senin kitabın okuyorsun
 
-D) Kitabını okuyorsun
+D) Kitabın okuyorsun
 
 ---
 
@@ -248,11 +250,11 @@ D) Kitabını okuyorsun
 
 A) Ne okuyorsun?
 
-B) Ne kitap okuyorsun?
+B) Hangi kitabı okuyorsun?
 
 C) Kitap ne okuyorsun?
 
-D) Hangi kitabı okuyorsun?
+D) Ne kitap okuyorsun?
 
 ---
 
@@ -260,13 +262,13 @@ D) Hangi kitabı okuyorsun?
 
 Как правильно образовать винительный падеж от "anne" (мама)?
 
-A) anneyı
+A) anneyi
 
-B) annei
+B) anneyı
 
-C) anneı
+C) annei
 
-D) anneyi
+D) anneı
 
 ---
 
@@ -276,11 +278,11 @@ D) anneyi
 
 A) Elmayım yiyorum
 
-B) Yiyorum elma
+B) Elma yiyorum
 
-C) Elma yiyorum
+C) Elmayı yiyorum
 
-D) Elmayı yiyorum
+D) Yiyorum elma
 
 ---
 
@@ -290,26 +292,26 @@ D) Elmayı yiyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | В слове "kitap" последняя гласная "a" твердая, поэтому используется -ı: kitabı. |
-| 2 | A | В слове "ev" последняя гласная "e" мягкая, поэтому используется -i: evi. |
-| 3 | C | В слове "okul" последняя гласная "u" твердая, поэтому используется -u: okulu. |
-| 4 | C | Для определенного объекта используется винительный падеж: Kitabı okuyorum. |
-| 5 | A | Для неопределенного объекта винительный падеж не используется: Kitap okuyorum. |
-| 6 | B | С указательным местоимением используется винительный падеж: Bu kitabı okuyorum. |
-| 7 | A | С "bir" винительный падеж не используется: Bir kitap okuyorum. |
-| 8 | D | Вопрос "hangi" предполагает определенный объект: Hangi kitabı okuyorsun? |
-| 9 | A | Для слов на гласную вставляется "y": elmayı. |
+| 1 | D | В слове "kitap" последняя гласная "a" твердая, поэтому используется -ı: kitabı. |
+| 2 | D | В слове "ev" последняя гласная "e" мягкая, поэтому используется -i: evi. |
+| 3 | B | В слове "okul" последняя гласная "u" твердая, поэтому используется -u: okulu. |
+| 4 | B | Для определенного объекта используется винительный падеж: Kitabı okuyorum. |
+| 5 | B | Для неопределенного объекта винительный падеж не используется: Kitap okuyorum. |
+| 6 | D | С указательным местоимением используется винительный падеж: Bu kitabı okuyorum. |
+| 7 | B | С "bir" винительный падеж не используется: Bir kitap okuyorum. |
+| 8 | C | Вопрос "hangi" предполагает определенный объект: Hangi kitabı okuyorsun? |
+| 9 | D | Для слов на гласную вставляется "y": elmayı. |
 | 10 | A | С притяжательным суффиксом винительный падеж добавляется после: Kitabımı okuyorum. |
-| 11 | D | В слове "masa" последняя гласная "a" твердая, поэтому -ı: masayı (с вставкой "y"). |
-| 12 | C | В слове "kalem" последняя гласная "e" мягкая, поэтому -i: kalemi. |
+| 11 | B | В слове "masa" последняя гласная "a" твердая, поэтому -ı: masayı (с вставкой "y"). |
+| 12 | B | В слове "kalem" последняя гласная "e" мягкая, поэтому -i: kalemi. |
 | 13 | C | С указательным местоимением обязательно винительный падеж: Bu kitabı okuyorum. |
-| 14 | C | С "bir" винительный падеж не используется: Bir kitap okuyorum. |
-| 15 | A | Для определенного объекта используется винительный падеж: O arabayı görüyor. |
-| 16 | D | "Kitabı okuyorum" - определенный объект, "Kitap okuyorum" - неопределенный. |
-| 17 | D | С притяжательным суффиксом винительный падеж добавляется после: Kitabını okuyorsun. |
-| 18 | D | Вопрос "hangi" предполагает определенный объект: Hangi kitabı okuyorsun? |
-| 19 | D | Для слов на гласную вставляется "y": anneyi. |
-| 20 | D | Для определенного объекта используется винительный падеж: Elmayı yiyorum. |
+| 14 | B | С "bir" винительный падеж не используется: Bir kitap okuyorum. |
+| 15 | D | Для определенного объекта используется винительный падеж: O arabayı görüyor. |
+| 16 | C | "Kitabı okuyorum" - определенный объект, "Kitap okuyorum" - неопределенный. |
+| 17 | A | С притяжательным суффиксом винительный падеж добавляется после: Kitabını okuyorsun. |
+| 18 | B | Вопрос "hangi" предполагает определенный объект: Hangi kitabı okuyorsun? |
+| 19 | A | Для слов на гласную вставляется "y": anneyi. |
+| 20 | C | Для определенного объекта используется винительный падеж: Elmayı yiyorum. |
 
 ---
 

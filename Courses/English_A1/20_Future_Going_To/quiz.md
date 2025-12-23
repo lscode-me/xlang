@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Выбор правильной формы
 
 Выберите правильное предложение:
@@ -13,13 +15,13 @@
 Я собираюсь изучать английский завтра.
 ```
 
-A) I going to study English tomorrow.
+A) I am going to to study English tomorrow.
 
-B) I am going to study English tomorrow.
+B) I going to study English tomorrow.
 
-C) I am going study English tomorrow.
+C) I am going to study English tomorrow.
 
-D) I am going to to study English tomorrow.
+D) I am going study English tomorrow.
 
 ---
 
@@ -34,11 +36,11 @@ D) I am going to to study English tomorrow.
 
 A) She isn't going to buy that car.
 
-B) She isn't going buy that car.
+B) She don't going to buy that car.
 
-C) She don't going to buy that car.
+C) She not going to buy that car.
 
-D) She not going to buy that car.
+D) She isn't going buy that car.
 
 ---
 
@@ -51,13 +53,13 @@ D) She not going to buy that car.
 Ты будешь смотреть фильм сегодня вечером?
 ```
 
-A) Are you going watch the movie tonight?
+A) Do you going to watch the movie tonight?
 
-B) You are going to watch the movie tonight?
+B) Are you going to watch the movie tonight?
 
-C) Do you going to watch the movie tonight?
+C) You are going to watch the movie tonight?
 
-D) Are you going to watch the movie tonight?
+D) Are you going watch the movie tonight?
 
 ---
 
@@ -71,13 +73,13 @@ They _____ going to visit London next summer.
 Они собираются посетить Лондон следующим летом.
 ```
 
-A) is
+A) am
 
-B) am
+B) be
 
-C) be
+C) are
 
-D) are
+D) is
 
 ---
 
@@ -92,11 +94,11 @@ D) are
 
 A) What you are going to do tomorrow?
 
-B) What are you going do tomorrow?
+B) What are you going to do tomorrow?
 
-C) What are you going to do tomorrow?
+C) What do you going to do tomorrow?
 
-D) What do you going to do tomorrow?
+D) What are you going do tomorrow?
 
 ---
 
@@ -104,13 +106,13 @@ D) What do you going to do tomorrow?
 
 Выберите предложение, которое говорит о будущем плане (не о движении прямо сейчас):
 
-A) I'm going to the park.
+A) I'm going to school.
 
-B) I'm going to school.
+B) I'm going to play in the park.
 
-C) I'm going to play in the park.
+C) I'm going home.
 
-D) I'm going home.
+D) I'm going to the park.
 
 ---
 
@@ -124,13 +126,13 @@ Is she going to come to the party? - Yes, ___.
 Она придёт на вечеринку? - Да.
 ```
 
-A) she will
+A) she's going
 
-B) she's going
+B) she does
 
-C) she is
+C) she will
 
-D) she does
+D) she is
 
 ---
 
@@ -142,9 +144,9 @@ A) It's raining.
 
 B) It's going to rain.
 
-C) It rains.
+C) It will rain.
 
-D) It will rain.
+D) It rains.
 
 ---
 
@@ -152,13 +154,13 @@ D) It will rain.
 
 Выберите правильное предложение:
 
-A) We am going to study tonight.
+A) We going to study tonight.
 
-B) We are going to study tonight.
+B) We am going to study tonight.
 
 C) We is going to study tonight.
 
-D) We going to study tonight.
+D) We are going to study tonight.
 
 ---
 
@@ -185,11 +187,11 @@ D) I not going to work tomorrow.
 
 Выберите правильное предложение:
 
-A) He is going to became a doctor.
+A) He is going to become a doctor.
 
-B) He is going to become a doctor.
+B) He is going to becoming a doctor.
 
-C) He is going to becoming a doctor.
+C) He is going to became a doctor.
 
 D) He is going to becomes a doctor.
 
@@ -204,11 +206,11 @@ D) He is going to becomes a doctor.
 Куда она собирается поехать?
 ```
 
-A) Where she is going to go?
+A) Where she going to go?
 
-B) Where she going to go?
+B) Where does she going to go?
 
-C) Where does she going to go?
+C) Where she is going to go?
 
 D) Where is she going to go?
 
@@ -218,13 +220,13 @@ D) Where is she going to go?
 
 Выберите предложение, где все формы правильные:
 
-A) I'm going to study, she's going to work, and they're going to play.
+A) I'm going study, she's going work, and they're going play.
 
-B) I'm going study, she's going work, and they're going play.
+B) I'm going to study, she's going to work, and they're going to play.
 
-C) I going to study, she going to work, and they going to play.
+C) I'm going to study, she's going to work, and they going to play.
 
-D) I'm going to study, she's going to work, and they going to play.
+D) I going to study, she going to work, and they going to play.
 
 ---
 
@@ -238,13 +240,13 @@ He _____ going to buy a new phone.
 Он собирается купить новый телефон.
 ```
 
-A) is
+A) be
 
-B) am
+B) are
 
-C) be
+C) am
 
-D) are
+D) is
 
 ---
 
@@ -254,9 +256,9 @@ D) are
 
 A) They're going to London tomorrow morning.
 
-B) I'm going to the cinema now.
+B) We're going to watch a movie tonight.
 
-C) We're going to watch a movie tonight.
+C) I'm going to the cinema now.
 
 D) She's going to work by bus.
 
@@ -273,11 +275,11 @@ D) She's going to work by bus.
 
 A) She isn't going to go on vacation.
 
-B) She don't going to go on vacation.
+B) She not going to go on vacation.
 
-C) She doesn't going to go on vacation.
+C) She don't going to go on vacation.
 
-D) She not going to go on vacation.
+D) She doesn't going to go on vacation.
 
 ---
 
@@ -290,13 +292,13 @@ D) She not going to go on vacation.
 Почему они собираются уезжать?
 ```
 
-A) Why they are going to leave?
+A) Why they going to leave?
 
-B) Why they going to leave?
+B) Why do they going to leave?
 
-C) Why are they going to leave?
+C) Why they are going to leave?
 
-D) Why do they going to leave?
+D) Why are they going to leave?
 
 ---
 
@@ -304,13 +306,13 @@ D) Why do they going to leave?
 
 Выберите правильное предложение для ситуации: кто-то несёт слишком много сумок и вот-вот уронит их.
 
-A) You're going to drop the bags.
+A) You drop the bags.
 
 B) You dropped the bags.
 
-C) You drop the bags.
+C) You're dropping the bags.
 
-D) You're dropping the bags.
+D) You're going to drop the bags.
 
 ---
 
@@ -324,13 +326,13 @@ I _____ going to call you later.
 Я позвоню тебе позже.
 ```
 
-A) is
+A) am
 
-B) are
+B) is
 
-C) am
+C) be
 
-D) be
+D) are
 
 ---
 
@@ -338,13 +340,13 @@ D) be
 
 Выберите правильное предложение:
 
-A) I'm going visit London next year.
+A) I'm going to visited London next year.
 
-B) I'm going to visit London next year.
+B) I'm going visit London next year.
 
-C) I'm going to visiting London next year.
+C) I'm going to visit London next year.
 
-D) I'm going to visited London next year.
+D) I'm going to visiting London next year.
 
 ---
 
@@ -354,26 +356,26 @@ D) I'm going to visited London next year.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Правильный ответ B. |
+| 1 | C | Правильный ответ B. |
 | 2 | A | Правильный ответ B. |
-| 3 | D | Правильный ответ C. |
-| 4 | D | Правильный ответ C. |
-| 5 | C | Правильный ответ B. |
-| 6 | C | Правильный ответ B. |
-| 7 | C | Правильный ответ B. |
+| 3 | B | Правильный ответ C. |
+| 4 | C | Правильный ответ C. |
+| 5 | B | Правильный ответ B. |
+| 6 | B | Правильный ответ B. |
+| 7 | D | Правильный ответ B. |
 | 8 | B | Правильный ответ C. |
-| 9 | B | Правильный ответ B. |
+| 9 | D | Правильный ответ B. |
 | 10 | B | Правильный ответ C. |
-| 11 | B | Правильный ответ B. |
+| 11 | A | Правильный ответ B. |
 | 12 | D | Правильный ответ B. |
-| 13 | A | Правильный ответ B. |
-| 14 | A | Правильный ответ B. |
-| 15 | C | Правильный ответ C. |
+| 13 | B | Правильный ответ B. |
+| 14 | D | Правильный ответ B. |
+| 15 | B | Правильный ответ C. |
 | 16 | A | Правильный ответ B. |
-| 17 | C | Правильный ответ B. |
-| 18 | A | Правильный ответ C. |
-| 19 | C | Правильный ответ A. |
-| 20 | B | Правильный ответ B. |
+| 17 | D | Правильный ответ B. |
+| 18 | D | Правильный ответ C. |
+| 19 | A | Правильный ответ A. |
+| 20 | C | Правильный ответ B. |
 
 ---
 

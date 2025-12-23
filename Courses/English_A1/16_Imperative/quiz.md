@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Утвердительная форма
 
 Выберите правильную форму команды:
@@ -13,11 +15,11 @@
 Открой дверь!
 ```
 
-A) You open the door!
+A) To open the door!
 
 B) Opening the door!
 
-C) To open the door!
+C) You open the door!
 
 D) Open the door!
 
@@ -32,13 +34,13 @@ D) Open the door!
 Не беги!
 ```
 
-A) Don't to run!
+A) No run!
 
-B) Don't run!
+B) Not run!
 
-C) No run!
+C) Don't to run!
 
-D) Not run!
+D) Don't run!
 
 ---
 
@@ -51,13 +53,13 @@ D) Not run!
 Будь осторожен!
 ```
 
-A) Be careful!
+A) Been careful!
 
-B) Is careful!
+B) Are careful!
 
-C) Are careful!
+C) Is careful!
 
-D) Been careful!
+D) Be careful!
 
 ---
 
@@ -70,13 +72,13 @@ D) Been careful!
 Пожалуйста, сядь.
 ```
 
-A) Please sits down.
+A) Please sit down.
 
-B) Please sit down.
+B) Please sitting down.
 
 C) Please to sit down.
 
-D) Please sitting down.
+D) Please sits down.
 
 ---
 
@@ -84,13 +86,13 @@ D) Please sitting down.
 
 Выберите правильный вариант:
 
-A) Open the please window.
+A) Open please the window.
 
-B) Open the window please.
+B) Open the window, please.
 
-C) Open please the window.
+C) Open the window please.
 
-D) Open the window, please.
+D) Open the please window.
 
 ---
 
@@ -103,13 +105,13 @@ D) Open the window, please.
 Не опаздывай!
 ```
 
-A) Don't are late!
+A) Don't be late!
 
-B) Not be late!
+B) Don't is late!
 
-C) Don't is late!
+C) Don't are late!
 
-D) Don't be late!
+D) Not be late!
 
 ---
 
@@ -122,9 +124,9 @@ D) Don't be late!
 Давай пойдём в кино!
 ```
 
-A) Let's go to the cinema!
+A) Let go to the cinema!
 
-B) Let go to the cinema!
+B) Let's go to the cinema!
 
 C) Let's goes to the cinema!
 
@@ -141,13 +143,13 @@ D) Lets go to the cinema!
 Закрой окно!
 ```
 
-A) To close the window!
+A) Closing the window!
 
-B) Close the window!
+B) To close the window!
 
-C) Closing the window!
+C) You close the window!
 
-D) You close the window!
+D) Close the window!
 
 ---
 
@@ -162,11 +164,11 @@ D) You close the window!
 
 A) Don't please worry.
 
-B) Please don't worry.
+B) Please don't to worry.
 
-C) Please don't to worry.
+C) Please not worry.
 
-D) Please not worry.
+D) Please don't worry.
 
 ---
 
@@ -179,11 +181,11 @@ D) Please not worry.
 Поверни направо на углу.
 ```
 
-A) You turn right at the corner.
+A) Turning right at the corner.
 
-B) Turning right at the corner.
+B) To turn right at the corner.
 
-C) To turn right at the corner.
+C) You turn right at the corner.
 
 D) Turn right at the corner.
 
@@ -198,13 +200,13 @@ D) Turn right at the corner.
 Посмотри на доску!
 ```
 
-A) Look at the board!
+A) To look at the board!
 
-B) Looking at the board!
+B) You look at the board!
 
-C) To look at the board!
+C) Looking at the board!
 
-D) You look at the board!
+D) Look at the board!
 
 ---
 
@@ -217,11 +219,11 @@ D) You look at the board!
 Не будь грубым!
 ```
 
-A) Not be rude!
+A) Don't be rude!
 
 B) Don't are rude!
 
-C) Don't be rude!
+C) Not be rude!
 
 D) Don't is rude!
 
@@ -236,13 +238,13 @@ D) Don't is rude!
 Открой книгу и читай текст.
 ```
 
-A) Open your book and read the text.
+A) To open your book and to read the text.
 
-B) You open your book and you read the text.
+B) Open your book and read the text.
 
 C) Opening your book and reading the text.
 
-D) To open your book and to read the text.
+D) You open your book and you read the text.
 
 ---
 
@@ -257,11 +259,11 @@ D) To open your book and to read the text.
 
 A) Don't let's be late.
 
-B) Let's don't be late.
+B) Let's not late.
 
-C) Let's not be late.
+C) Let's don't be late.
 
-D) Let's not late.
+D) Let's not be late.
 
 ---
 
@@ -269,13 +271,13 @@ D) Let's not late.
 
 Какое предложение НЕПРАВИЛЬНОЕ?
 
-A) To close the door!
+A) Please help me.
 
 B) Be quiet!
 
 C) Don't forget your keys!
 
-D) Please help me.
+D) To close the door!
 
 ---
 
@@ -288,13 +290,13 @@ D) Please help me.
 Запиши это!
 ```
 
-A) Write it down!
+A) Writing it down!
 
-B) You write it down!
+B) To write it down!
 
-C) Writing it down!
+C) You write it down!
 
-D) To write it down!
+D) Write it down!
 
 ---
 
@@ -307,13 +309,13 @@ D) To write it down!
 Не забудь свой паспорт!
 ```
 
-A) Not forget your passport!
+A) Don't to forget your passport!
 
-B) Don't forgets your passport!
+B) Don't forget your passport!
 
-C) Don't to forget your passport!
+C) Don't forgets your passport!
 
-D) Don't forget your passport!
+D) Not forget your passport!
 
 ---
 
@@ -326,13 +328,13 @@ D) Don't forget your passport!
 Давай выпьем кофе!
 ```
 
-A) Lets have a coffee!
+A) Let's have a coffee!
 
-B) Let's have a coffee!
+B) Let's having a coffee!
 
 C) Let's to have a coffee!
 
-D) Let's having a coffee!
+D) Lets have a coffee!
 
 ---
 
@@ -345,13 +347,13 @@ D) Let's having a coffee!
 Будьте тихими, пожалуйста.
 ```
 
-A) Please are quiet.
+A) Please be quiet.
 
-B) Please be quiet.
+B) Please are quiet.
 
-C) Please is quiet.
+C) Please been quiet.
 
-D) Please been quiet.
+D) Please is quiet.
 
 ---
 
@@ -364,13 +366,13 @@ D) Please been quiet.
 Встань, открой окно и закрой дверь.
 ```
 
-A) Stand up, open the window and close the door.
+A) You stand up, you open the window and you close the door.
 
 B) Standing up, opening the window and closing the door.
 
 C) To stand up, to open the window and to close the door.
 
-D) You stand up, you open the window and you close the door.
+D) Stand up, open the window and close the door.
 
 ---
 
@@ -381,25 +383,25 @@ D) You stand up, you open the window and you close the door.
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | D | Правильный ответ C. |
-| 2 | B | Правильный ответ C. |
-| 3 | A | Правильный ответ C. |
-| 4 | B | Правильный ответ B. |
-| 5 | D | Правильный ответ D. |
-| 6 | D | Правильный ответ B. |
-| 7 | A | Правильный ответ C. |
-| 8 | B | Правильный ответ A. |
-| 9 | B | Правильный ответ C. |
+| 2 | D | Правильный ответ C. |
+| 3 | D | Правильный ответ C. |
+| 4 | A | Правильный ответ B. |
+| 5 | B | Правильный ответ D. |
+| 6 | A | Правильный ответ B. |
+| 7 | B | Правильный ответ C. |
+| 8 | D | Правильный ответ A. |
+| 9 | D | Правильный ответ C. |
 | 10 | D | Правильный ответ B. |
-| 11 | A | Правильный ответ A. |
-| 12 | C | Правильный ответ C. |
-| 13 | A | Правильный ответ A. |
-| 14 | C | Правильный ответ C. |
-| 15 | A | Правильный ответ C. |
-| 16 | A | Правильный ответ B. |
-| 17 | D | Правильный ответ C. |
-| 18 | B | Правильный ответ A. |
-| 19 | B | Правильный ответ B. |
-| 20 | A | Правильный ответ A. |
+| 11 | D | Правильный ответ A. |
+| 12 | A | Правильный ответ C. |
+| 13 | B | Правильный ответ A. |
+| 14 | D | Правильный ответ C. |
+| 15 | D | Правильный ответ C. |
+| 16 | D | Правильный ответ B. |
+| 17 | B | Правильный ответ C. |
+| 18 | A | Правильный ответ A. |
+| 19 | A | Правильный ответ B. |
+| 20 | D | Правильный ответ A. |
 
 ---
 

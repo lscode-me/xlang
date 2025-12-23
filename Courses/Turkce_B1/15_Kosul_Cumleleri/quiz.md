@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Если у тебя есть время, приходи"?
 
-A) Zamanın var gel
+A) Zamanın varacak gel
 
-B) Zamanın varsa gel
+B) Zamanın var gel
 
 C) Zamanın vardı gel
 
-D) Zamanın varacak gel
+D) Zamanın varsa gel
 
 ---
 
@@ -22,13 +23,13 @@ D) Zamanın varacak gel
 
 Как правильно сказать "Если ты будешь работать, ты добьешься успеха"?
 
-A) Çalışırsan başarırsın
+A) Çalışırsanız başarırsın
 
 B) Çalışırsa başarırsın
 
-C) Çalışırsak başarırsın
+C) Çalışırsan başarırsın
 
-D) Çalışırsanız başarırsın
+D) Çalışırsak başarırsın
 
 ---
 
@@ -41,13 +42,13 @@ Paran _____ gel.
 Если у тебя есть деньги, приходи.
 ```
 
-A) var
+A) varacak
 
 B) varsa
 
-C) vardı
+C) var
 
-D) varacak
+D) vardı
 
 ---
 
@@ -55,13 +56,13 @@ D) varacak
 
 Что выражают условные предложения?
 
-A) Время действия
+A) Причину действия
 
-B) Условие и результат
+B) Время действия
 
-C) Причину действия
+C) Цель действия
 
-D) Цель действия
+D) Условие и результат
 
 ---
 
@@ -69,13 +70,13 @@ D) Цель действия
 
 Какой суффикс используется для выражения условия?
 
-A) -mak
+A) -dik
 
-B) -se/-sa
+B) -ecek
 
-C) -dik
+C) -mak
 
-D) -ecek
+D) -se/-sa
 
 ---
 
@@ -83,13 +84,13 @@ D) -ecek
 
 Как правильно сказать "Если погода хорошая, мы выйдем на улицу"?
 
-A) Hava güzel dışarı çıkarız
+A) Hava güzeldi dışarı çıkarız
 
-B) Hava güzelse dışarı çıkarız
+B) Hava güzel dışarı çıkarız
 
-C) Hava güzeldi dışarı çıkarız
+C) Hava güzel olacak dışarı çıkarız
 
-D) Hava güzel olacak dışarı çıkarız
+D) Hava güzelse dışarı çıkarız
 
 ---
 
@@ -97,13 +98,13 @@ D) Hava güzel olacak dışarı çıkarız
 
 Как правильно сказать "Если он придет завтра, мы встретимся"?
 
-A) Yarın gelirse görüşürüz
+A) Yarın geldi görüşürüz
 
 B) Yarın gelir görüşürüz
 
-C) Yarın geldi görüşürüz
+C) Yarın gelecek görüşürüz
 
-D) Yarın gelecek görüşürüz
+D) Yarın gelirse görüşürüz
 
 ---
 
@@ -116,13 +117,13 @@ D) Yarın gelecek görüşürüz
 Если ты будешь работать, ты добьешься успеха.
 ```
 
-A) başarırsın
+A) başarırsa
 
-B) başarırsa
+B) başarırsanız
 
 C) başarırsak
 
-D) başarırsanız
+D) başarırsın
 
 ---
 
@@ -132,11 +133,11 @@ D) başarırsanız
 
 A) -se
 
-B) -sa
+B) -se veya -sa
 
-C) -se veya -sa
+C) -dik
 
-D) -dik
+D) -sa
 
 ---
 
@@ -146,11 +147,11 @@ D) -dik
 
 A) -se
 
-B) -sa
+B) -se veya -sa
 
-C) -se veya -sa
+C) -dik
 
-D) -dik
+D) -sa
 
 ---
 
@@ -158,11 +159,11 @@ D) -dik
 
 Как правильно сказать "Если ты придешь, я буду рад"?
 
-A) Gelirsen mutlu olurum
+A) Gelirsa mutlu olurum
 
-B) Gelirsa mutlu olurum
+B) Gelirsek mutlu olurum
 
-C) Gelirsek mutlu olurum
+C) Gelirsen mutlu olurum
 
 D) Gelirseniz mutlu olurum
 
@@ -172,11 +173,11 @@ D) Gelirseniz mutlu olurum
 
 Как правильно сказать "Если он работает, он успешен"?
 
-A) Çalışırsa başarılı
+A) Çalışırsak başarılı
 
 B) Çalışırsan başarılı
 
-C) Çalışırsak başarılı
+C) Çalışırsa başarılı
 
 D) Çalışırsanız başarılı
 
@@ -191,13 +192,13 @@ Hava güzelse _____.
 Если погода хорошая, мы выйдем на улицу.
 ```
 
-A) dışarı çıkarız
+A) dışarı çıkıyoruz
 
-B) dışarı çıkardık
+B) dışarı çıkacağız
 
-C) dışarı çıkacağız
+C) dışarı çıkardık
 
-D) dışarı çıkıyoruz
+D) dışarı çıkarız
 
 ---
 
@@ -207,11 +208,11 @@ D) dışarı çıkıyoruz
 
 A) Условие, которое не может выполниться
 
-B) Условие, которое может выполниться
+B) Условие в прошедшем времени
 
-C) Условие в прошедшем времени
+C) Условие в будущем времени
 
-D) Условие в будущем времени
+D) Условие, которое может выполниться
 
 ---
 
@@ -219,13 +220,13 @@ D) Условие в будущем времени
 
 Как правильно сказать "Если ты хочешь, можешь прийти"?
 
-A) İstersen gelebilirsin
+A) İsterse gelebilirsin
 
-B) İstersa gelebilirsin
+B) İstersen gelebilirsin
 
-C) İsterse gelebilirsin
+C) İstersek gelebilirsin
 
-D) İstersek gelebilirsin
+D) İstersa gelebilirsin
 
 ---
 
@@ -233,13 +234,13 @@ D) İstersek gelebilirsin
 
 Как правильно сказать "Если он придет, я буду рад"?
 
-A) Gelirse mutlu olurum
+A) Gelirseniz mutlu olurum
 
-B) Gelirsa mutlu olurum
+B) Gelirse mutlu olurum
 
 C) Gelirsek mutlu olurum
 
-D) Gelirseniz mutlu olurum
+D) Gelirsa mutlu olurum
 
 ---
 
@@ -252,11 +253,11 @@ Yarın gelirse _____.
 Если он придет завтра, мы встретимся.
 ```
 
-A) görüşürüz
+A) görüşürsak
 
-B) görüşürsak
+B) görüşürseniz
 
-C) görüşürseniz
+C) görüşürüz
 
 D) görüşürler
 
@@ -268,11 +269,11 @@ D) görüşürler
 
 A) Нет, суффикс не обязателен
 
-B) Да, суффикс обязателен для выражения условия
+B) Суффикс обязателен только для будущего времени
 
 C) Суффикс обязателен только для прошедшего времени
 
-D) Суффикс обязателен только для будущего времени
+D) Да, суффикс обязателен для выражения условия
 
 ---
 
@@ -280,9 +281,9 @@ D) Суффикс обязателен только для будущего вр
 
 Как правильно сказать "Если у нас есть время, мы пойдем"?
 
-A) Zamanımız var gideriz
+A) Zamanımız varsa gideriz
 
-B) Zamanımız varsa gideriz
+B) Zamanımız var gideriz
 
 C) Zamanımız vardı gideriz
 
@@ -299,13 +300,13 @@ D) Zamanımız varacak gideriz
 Если ты хочешь, можешь прийти.
 ```
 
-A) gelebilirsin
+A) gelebilirsa
 
-B) gelebilirsa
+B) gelebilirseniz
 
 C) gelebilirsek
 
-D) gelebilirseniz
+D) gelebilirsin
 
 ---
 
@@ -315,11 +316,11 @@ D) gelebilirseniz
 
 A) Реальное может выполниться, нереальное не может
 
-B) Реальное не может выполниться, нереальное может
+B) Реальное для прошедшего, нереальное для будущего
 
-C) Нет отличия
+C) Реальное не может выполниться, нереальное может
 
-D) Реальное для прошедшего, нереальное для будущего
+D) Нет отличия
 
 ---
 
@@ -329,11 +330,11 @@ D) Реальное для прошедшего, нереальное для б�
 
 A) Çalışırsan başarılısın
 
-B) Çalışırsa başarılısın
+B) Çalışırsanız başarılısın
 
-C) Çalışırsak başarılısın
+C) Çalışırsa başarılısın
 
-D) Çalışırsanız başarılısın
+D) Çalışırsak başarılısın
 
 ---
 
@@ -346,13 +347,13 @@ Zamanımız varsa _____.
 Если у нас есть время, мы пойдем.
 ```
 
-A) gideriz
+A) gidersak
 
-B) gidersak
+B) giderler
 
-C) giderseniz
+C) gideriz
 
-D) giderler
+D) giderseniz
 
 ---
 
@@ -360,13 +361,13 @@ D) giderler
 
 Какая структура у условного предложения?
 
-A) Результат + условие
+A) Условие + условие
 
 B) Условие + результат
 
-C) Условие + условие
+C) Результат + результат
 
-D) Результат + результат
+D) Результат + условие
 
 ---
 
@@ -374,13 +375,15 @@ D) Результат + результат
 
 Как правильно сказать "Если он придет, мы встретимся"?
 
-A) Gelirse görüşürüz
+A) Gelirsek görüşürüz
 
-B) Gelirsa görüşürüz
+B) Gelirse görüşürüz
 
-C) Gelirsek görüşürüz
+C) Gelirseniz görüşürüz
 
-D) Gelirseniz görüşürüz
+D) Gelirsa görüşürüz
+
+---
 
 ---
 
@@ -388,31 +391,31 @@ D) Gelirseniz görüşürüz
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Zamanın varsa gel |
-| 2 | A | Çalışırsan başarırsın |
+| 1 | D | Zamanın varsa gel |
+| 2 | C | Çalışırsan başarırsın |
 | 3 | B | varsa |
-| 4 | B | Условие и результат |
-| 5 | B | -se/-sa |
-| 6 | B | Hava güzelse dışarı çıkarız |
-| 7 | A | Yarın gelirse görüşürüz |
-| 8 | A | başarırsın |
-| 9 | B | -sa |
+| 4 | D | Условие и результат |
+| 5 | D | -se/-sa |
+| 6 | D | Hava güzelse dışarı çıkarız |
+| 7 | D | Yarın gelirse görüşürüz |
+| 8 | D | başarırsın |
+| 9 | D | -sa |
 | 10 | A | -se |
-| 11 | A | Gelirsen mutlu olurum |
-| 12 | A | Çalışırsa başarılı |
-| 13 | A | dışarı çıkarız |
-| 14 | B | Условие, которое может выполниться |
-| 15 | A | İstersen gelebilirsin |
-| 16 | A | Gelirse mutlu olurum |
-| 17 | A | görüşürüz |
-| 18 | B | Да, суффикс обязателен для выражения условия |
-| 19 | B | Zamanımız varsa gideriz |
-| 20 | A | gelebilirsin |
+| 11 | C | Gelirsen mutlu olurum |
+| 12 | C | Çalışırsa başarılı |
+| 13 | D | dışarı çıkarız |
+| 14 | D | Условие, которое может выполниться |
+| 15 | B | İstersen gelebilirsin |
+| 16 | B | Gelirse mutlu olurum |
+| 17 | C | görüşürüz |
+| 18 | D | Да, суффикс обязателен для выражения условия |
+| 19 | A | Zamanımız varsa gideriz |
+| 20 | D | gelebilirsin |
 | 21 | A | Реальное может выполниться, нереальное не может |
 | 22 | A | Çalışırsan başarılısın |
-| 23 | A | gideriz |
+| 23 | C | gideriz |
 | 24 | B | Условие + результат |
-| 25 | A | Gelirse görüşürüz |
+| 25 | B | Gelirse görüşürüz |
 
 ---
 

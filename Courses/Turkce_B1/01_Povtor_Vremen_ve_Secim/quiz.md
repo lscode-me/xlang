@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Question 1: Выбор между аористом и -yor
 
 Выберите правильную форму глагола для регулярного действия:
@@ -15,9 +16,9 @@ Her gün okula _____.
 
 A) gideceğim
 
-B) gittim
+B) gidiyorum
 
-C) gidiyorum
+C) gittim
 
 D) giderim
 
@@ -32,13 +33,13 @@ D) giderim
 Что ты сейчас делаешь?
 ```
 
-A) yaparsın
+A) yapacaksın
 
-B) yapıyorsun
+B) yaptın
 
-C) yapacaksın
+C) yaparsın
 
-D) yaptın
+D) yapıyorsun
 
 ---
 
@@ -51,11 +52,11 @@ Güneş doğudan _____.
 Солнце встает на востоке.
 ```
 
-A) doğacak
+A) doğuyor
 
-B) doğdu
+B) doğacak
 
-C) doğuyor
+C) doğdu
 
 D) doğar
 
@@ -70,13 +71,13 @@ Dün akşam film _____.
 Вчера вечером я смотрел фильм.
 ```
 
-A) izleyeceğim
+A) izlerim
 
 B) izledim
 
-C) izlerim
+C) izliyorum
 
-D) izliyorum
+D) izleyeceğim
 
 ---
 
@@ -89,13 +90,13 @@ Ali dün İstanbul'a _____.
 Али вчера поехал в Стамбул (я узнал от других).
 ```
 
-A) gidiyor
+A) gitti
 
-B) gitmiş
+B) gidecek
 
-C) gidecek
+C) gitmiş
 
-D) gitti
+D) gidiyor
 
 ---
 
@@ -108,13 +109,13 @@ Yarın İstanbul'a _____.
 Завтра я поеду в Стамбул.
 ```
 
-A) gittim
+A) gidiyorum
 
-B) giderim
+B) gittim
 
-C) gideceğim
+C) giderim
 
-D) gidiyorum
+D) gideceğim
 
 ---
 
@@ -122,13 +123,13 @@ D) gidiyorum
 
 В каком предложении правильно используется -miş?
 
-A) Dün okula gittim, çok güzel bir ders varmış.
+A) Dün okula gitmiş, çok güzel bir ders vardı.
 
-B) Dün okula gitmiş, çok güzel bir ders vardı.
+B) Dün okula gittim, çok güzel bir ders varmış.
 
-C) Dün okula gittim, çok güzel bir ders vardı.
+C) Dün okula gitmiş, çok güzel bir ders varmış.
 
-D) Dün okula gitmiş, çok güzel bir ders varmış.
+D) Dün okula gittim, çok güzel bir ders vardı.
 
 ---
 
@@ -136,13 +137,13 @@ D) Dün okula gitmiş, çok güzel bir ders varmış.
 
 Выберите правильную пару:
 
-A) Her gün çalışıyorum / Şu anda çalışırım
+A) Her gün çalışırım / Şu anda çalışıyorum
 
 B) Her gün çalıştım / Şu anda çalışıyorum
 
-C) Her gün çalışırım / Şu anda çalıştım
+C) Her gün çalışıyorum / Şu anda çalışırım
 
-D) Her gün çalışırım / Şu anda çalışıyorum
+D) Her gün çalışırım / Şu anda çalıştım
 
 ---
 
@@ -150,13 +151,13 @@ D) Her gün çalışırım / Şu anda çalışıyorum
 
 Какое время правильно для выражения действия, которое происходит в настоящий период?
 
-A) -yor
+A) -di
 
-B) -di
+B) -ecek
 
-C) Аорист
+C) -yor
 
-D) -ecek
+D) Аорист
 
 ---
 
@@ -169,11 +170,11 @@ Ali çok iyi Türkçe _____.
 Али очень хорошо говорит по-турецки.
 ```
 
-A) konuşur
+A) konuşacak
 
-B) konuşuyor
+B) konuşur
 
-C) konuşacak
+C) konuşuyor
 
 D) konuştu
 
@@ -183,11 +184,11 @@ D) konuştu
 
 В разговорной речи какое время можно использовать для планов?
 
-A) Только будущее время (-ecek)
+A) И будущее время, и -yor
 
-B) И будущее время, и -yor
+B) Только -yor
 
-C) Только -yor
+C) Только будущее время (-ecek)
 
 D) Только аорист
 
@@ -202,13 +203,13 @@ Kapıyı açtım, içeride kimse _____!
 Я открыл дверь, а внутри никого не было!
 ```
 
-A) yok olacak
+A) yok
 
-B) yoktu
+B) yokmuş
 
-C) yokmuş
+C) yoktu
 
-D) yok
+D) yok olacak
 
 ---
 
@@ -216,13 +217,13 @@ D) yok
 
 Какое время используется для регулярных действий?
 
-A) Аорист
+A) -di
 
-B) -di
+B) -yor
 
 C) -ecek
 
-D) -yor
+D) Аорист
 
 ---
 
@@ -235,13 +236,13 @@ Ben dün okula _____, ama Ali gitmemiş.
 Я вчера ходил в школу, но Али не ходил.
 ```
 
-A) giderim
+A) gidiyorum
 
-B) gidiyorum
+B) gideceğim
 
-C) gideceğim
+C) gittim
 
-D) gittim
+D) giderim
 
 ---
 
@@ -258,9 +259,9 @@ A) yağıyor
 
 B) yağdı
 
-C) yağar
+C) yağacak
 
-D) yağacak
+D) yağar
 
 ---
 
@@ -273,13 +274,13 @@ Bu hafta çok _____.
 На этой неделе я много работаю.
 ```
 
-A) çalışacağım
+A) çalıştım
 
-B) çalışıyorum
+B) çalışacağım
 
-C) çalıştım
+C) çalışırım
 
-D) çalışırım
+D) çalışıyorum
 
 ---
 
@@ -287,13 +288,13 @@ D) çalışırım
 
 Какое время используется для завершенных событий в прошлом?
 
-A) -yor
+A) -di
 
-B) -ecek
+B) Аорист
 
-C) Аорист
+C) -yor
 
-D) -di
+D) -ecek
 
 ---
 
@@ -306,11 +307,11 @@ Ali çok beğenmiş. (я так узнал)
 Али очень понравилось (я так узнал).
 ```
 
-A) beğendi
+A) beğeniyor
 
 B) beğenmiş
 
-C) beğeniyor
+C) beğendi
 
 D) beğenir
 
@@ -320,13 +321,13 @@ D) beğenir
 
 Выберите правильную пару для контраста:
 
-A) Genellikle evde yemek yapıyorum / Bugün restoranda yiyorum
+A) Genellikle evde yemek yaptım / Bugün restoranda yiyorum
 
 B) Genellikle evde yemek yaparım / Bugün restoranda yerim
 
 C) Genellikle evde yemek yaparım / Bugün restoranda yiyorum
 
-D) Genellikle evde yemek yaptım / Bugün restoranda yiyorum
+D) Genellikle evde yemek yapıyorum / Bugün restoranda yiyorum
 
 ---
 
@@ -334,13 +335,13 @@ D) Genellikle evde yemek yaptım / Bugün restoranda yiyorum
 
 При выборе времени нужно учитывать:
 
-A) Временной контекст, характер действия, источник информации и стиль речи
+A) Только временной контекст
 
-B) Только стиль речи
+B) Временной контекст, характер действия, источник информации и стиль речи
 
-C) Только характер действия
+C) Только стиль речи
 
-D) Только временной контекст
+D) Только характер действия
 
 ---
 
@@ -348,13 +349,13 @@ D) Только временной контекст
 
 Какое предложение неправильное?
 
-A) Her gün çalışırım.
+A) Dün çalıştım.
 
-B) Her gün çalışıyorum.
+B) Şu anda çalışıyorum.
 
-C) Dün çalıştım.
+C) Her gün çalışırım.
 
-D) Şu anda çalışıyorum.
+D) Her gün çalışıyorum.
 
 ---
 
@@ -362,13 +363,13 @@ D) Şu anda çalışıyorum.
 
 В каком случае правильно используется -miş?
 
-A) Dün Ali'yi gördüm, çok mutluydu. (если я сам видел)
+A) Dün Ali'yi gördüm, çok mutlu olur.
 
 B) Dün Ali'yi gördüm, çok mutlu olacak.
 
 C) Dün Ali'yi gördüm, çok mutluymuş. (если я сам видел)
 
-D) Dün Ali'yi gördüm, çok mutlu olur.
+D) Dün Ali'yi gördüm, çok mutluydu. (если я сам видел)
 
 ---
 
@@ -376,13 +377,13 @@ D) Dün Ali'yi gördüm, çok mutlu olur.
 
 Какая форма более формальна для выражения плана?
 
-A) Yarın İstanbul'a gittim.
+A) Yarın İstanbul'a gideceğim.
 
-B) Yarın İstanbul'a gidiyorum.
+B) Yarın İstanbul'a giderim.
 
-C) Yarın İstanbul'a gideceğim.
+C) Yarın İstanbul'a gidiyorum.
 
-D) Yarın İstanbul'a giderim.
+D) Yarın İstanbul'a gittim.
 
 ---
 
@@ -392,11 +393,11 @@ D) Yarın İstanbul'a giderim.
 
 A) -ecek
 
-B) -di
+B) -yor
 
 C) Аорист
 
-D) -yor
+D) -di
 
 ---
 
@@ -409,13 +410,13 @@ Her sabah saat yedide _____.
 Каждое утро я встаю в семь часов.
 ```
 
-A) kalkacağım
+A) kalktım
 
-B) kalktım
+B) kalkacağım
 
-C) kalkarım
+C) kalkıyorum
 
-D) kalkıyorum
+D) kalkarım
 
 ---
 
@@ -426,30 +427,30 @@ D) kalkıyorum
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | D | giderim - Аорист используется для регулярных действий |
-| 2 | B | yapıyorsun - -yor используется для действий в момент речи |
+| 2 | D | yapıyorsun - -yor используется для действий в момент речи |
 | 3 | D | doğar - Аорист используется для общих истин |
 | 4 | B | izledim - -di используется для личного опыта в прошлом |
-| 5 | B | gitmiş - -miş используется для информации от других |
-| 6 | C | gideceğim - Будущее время используется для планов |
-| 7 | A | -miş правильно используется для информации от других |
-| 8 | D | Аорист для регулярного действия, -yor для действия сейчас |
-| 9 | A | -yor используется для действий в настоящий период |
-| 10 | A | konuşur - Аорист для постоянных характеристик |
-| 11 | B | В разговорной речи можно использовать и будущее время, и -yor |
-| 12 | C | yokmuş - -miş выражает удивление от неожиданного открытия |
-| 13 | A | Аорист используется для регулярных действий |
-| 14 | D | gittim - -di для личного опыта |
-| 15 | D | yağacak - Будущее время для предсказаний |
-| 16 | B | çalışıyorum - -yor для временных ситуаций |
-| 17 | D | -di используется для завершенных событий в прошлом |
+| 5 | C | gitmiş - -miş используется для информации от других |
+| 6 | D | gideceğim - Будущее время используется для планов |
+| 7 | B | -miş правильно используется для информации от других |
+| 8 | A | Аорист для регулярного действия, -yor для действия сейчас |
+| 9 | C | -yor используется для действий в настоящий период |
+| 10 | B | konuşur - Аорист для постоянных характеристик |
+| 11 | A | В разговорной речи можно использовать и будущее время, и -yor |
+| 12 | B | yokmuş - -miş выражает удивление от неожиданного открытия |
+| 13 | D | Аорист используется для регулярных действий |
+| 14 | C | gittim - -di для личного опыта |
+| 15 | C | yağacak - Будущее время для предсказаний |
+| 16 | D | çalışıyorum - -yor для временных ситуаций |
+| 17 | A | -di используется для завершенных событий в прошлом |
 | 18 | B | beğenmiş - -miş для информации от других |
 | 19 | C | Аорист для регулярного, -yor для действия сегодня |
-| 20 | A | Нужно учитывать все факторы: контекст, характер, источник, стиль |
-| 21 | B | Her gün çalışıyorum - неправильно, нужно использовать аорист |
-| 22 | A | -di правильно для личного опыта |
-| 23 | C | Будущее время более формально |
+| 20 | B | Нужно учитывать все факторы: контекст, характер, источник, стиль |
+| 21 | D | Her gün çalışıyorum - неправильно, нужно использовать аорист |
+| 22 | D | -di правильно для личного опыта |
+| 23 | A | Будущее время более формально |
 | 24 | C | Аорист используется для общих истин |
-| 25 | C | kalkarım - Аорист для регулярных действий |
+| 25 | D | kalkarım - Аорист для регулярных действий |
 
 ---
 

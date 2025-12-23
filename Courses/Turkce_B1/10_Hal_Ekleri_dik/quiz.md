@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Question 1: Выбор падежа
 
 Как правильно сказать "Я не понял, что он написал"?
@@ -22,11 +23,11 @@ D) Ne yazdığından anlamadım
 
 Как правильно сказать "Я обрадовался тому, что он пришел"?
 
-A) Geldiğini sevindim
+A) Geldiğine sevindim
 
 B) Geldiği sevindim
 
-C) Geldiğine sevindim
+C) Geldiğini sevindim
 
 D) Geldiğinden sevindim
 
@@ -41,13 +42,13 @@ Ne _____ duydum.
 Я услышал, что он сказал.
 ```
 
-A) söylediğini
+A) söylediğine
 
 B) söylediği
 
-C) söylediğine
+C) söylediğinden
 
-D) söylediğinden
+D) söylediğini
 
 ---
 
@@ -57,11 +58,11 @@ D) söylediğinden
 
 A) Именительный
 
-B) Винительный (-nı/-ni)
+B) Дательный (-e/-a)
 
-C) Дательный (-e/-a)
+C) Исходный (-den/-dan)
 
-D) Исходный (-den/-dan)
+D) Винительный (-nı/-ni)
 
 ---
 
@@ -71,11 +72,11 @@ D) Исходный (-den/-dan)
 
 A) Именительный
 
-B) Винительный (-nı/-ni)
+B) Исходный (-den/-dan)
 
 C) Дательный (-e/-a)
 
-D) Исходный (-den/-dan)
+D) Винительный (-nı/-ni)
 
 ---
 
@@ -83,13 +84,13 @@ D) Исходный (-den/-dan)
 
 Как правильно сказать "Я верю, что он стал успешным"?
 
-A) Başarılı olduğunu inanıyorum
+A) Başarılı olduğuna inanıyorum
 
-B) Başarılı olduğu inanıyorum
+B) Başarılı olduğundan inanıyorum
 
-C) Başarılı olduğuna inanıyorum
+C) Başarılı olduğu inanıyorum
 
-D) Başarılı olduğundan inanıyorum
+D) Başarılı olduğunu inanıyorum
 
 ---
 
@@ -97,13 +98,13 @@ D) Başarılı olduğundan inanıyorum
 
 Как правильно сказать "Я слышал, что она пришла сюда"?
 
-A) Buraya geldiğini duydum
+A) Buraya geldiği duydum
 
-B) Buraya geldiği duydum
+B) Buraya geldiğinden duydum
 
-C) Buraya geldiğine duydum
+C) Buraya geldiğini duydum
 
-D) Buraya geldiğinden duydum
+D) Buraya geldiğine duydum
 
 ---
 
@@ -116,13 +117,13 @@ Başarılı _____ inanıyorum.
 Я верю, что он стал успешным.
 ```
 
-A) olduğunu
+A) olduğundan
 
 B) olduğu
 
-C) olduğuna
+C) olduğunu
 
-D) olduğundan
+D) olduğuna
 
 ---
 
@@ -130,13 +131,13 @@ D) olduğundan
 
 Какие глаголы требуют винительного падежа с формой -dik?
 
-A) gelmek, gitmek, olmak
+A) bilmek, görmek, duymak, anlamak
 
-B) bilmek, görmek, duymak, anlamak
+B) sevmek, hoşlanmak, tercih etmek
 
-C) sevmek, hoşlanmak, tercih etmek
+C) başlamak, devam etmek, karar vermek
 
-D) başlamak, devam etmek, karar vermek
+D) gelmek, gitmek, olmak
 
 ---
 
@@ -146,11 +147,11 @@ D) başlamak, devam etmek, karar vermek
 
 A) bilmek, görmek, duymak, anlamak
 
-B) sevinmek, inanmak, şaşırmak
+B) başlamak, devam etmek, karar vermek
 
 C) gelmek, gitmek, olmak
 
-D) başlamak, devam etmek, karar vermek
+D) sevinmek, inanmak, şaşırmak
 
 ---
 
@@ -158,13 +159,13 @@ D) başlamak, devam etmek, karar vermek
 
 Как правильно сказать "Он не пришел, потому что заболел"?
 
-A) Hasta olduğunu gelmedi
+A) Hasta olduğu gelmedi
 
-B) Hasta olduğu gelmedi
+B) Hasta olduğundan gelmedi
 
 C) Hasta olduğuna gelmedi
 
-D) Hasta olduğundan gelmedi
+D) Hasta olduğunu gelmedi
 
 ---
 
@@ -172,13 +173,13 @@ D) Hasta olduğundan gelmedi
 
 Как правильно сказать "Когда он пришел, я был дома"?
 
-A) Geldiğini evdeydim
+A) Geldiği evdeydim
 
-B) Geldiği evdeydim
+B) Geldiğini evdeydim
 
-C) Geldiğine evdeydim
+C) Geldiğinde evdeydim
 
-D) Geldiğinde evdeydim
+D) Geldiğine evdeydim
 
 ---
 
@@ -191,13 +192,13 @@ Hasta _____ gelmedi.
 Он не пришел, потому что заболел.
 ```
 
-A) olduğunu
+A) olduğuna
 
-B) olduğu
+B) olduğunu
 
-C) olduğuna
+C) olduğundan
 
-D) olduğundan
+D) olduğu
 
 ---
 
@@ -205,11 +206,11 @@ D) olduğundan
 
 Когда используется исходный падеж -diğinden с формой -dik?
 
-A) Для выражения прямого объекта
+A) Для выражения направления
 
 B) Для выражения причины прошедшего действия
 
-C) Для выражения направления
+C) Для выражения прямого объекта
 
 D) Для выражения времени
 
@@ -219,13 +220,13 @@ D) Для выражения времени
 
 Когда используется местный падеж -diğinde с формой -dik?
 
-A) Для выражения прямого объекта
+A) Для выражения времени прошедшего действия
 
-B) Для выражения причины прошедшего действия
+B) Для выражения направления
 
-C) Для выражения направления
+C) Для выражения причины прошедшего действия
 
-D) Для выражения времени прошедшего действия
+D) Для выражения прямого объекта
 
 ---
 
@@ -235,11 +236,11 @@ D) Для выражения времени прошедшего действи�
 
 A) Geldiğini şaşırdım
 
-B) Geldiği şaşırdım
+B) Geldiğinden şaşırdım
 
-C) Geldiğine şaşırdım
+C) Geldiği şaşırdım
 
-D) Geldiğinden şaşırdım
+D) Geldiğine şaşırdım
 
 ---
 
@@ -252,9 +253,9 @@ _____ evdeydim.
 Когда он пришел, я был дома.
 ```
 
-A) Geldiğini
+A) Geldiği
 
-B) Geldiği
+B) Geldiğini
 
 C) Geldiğine
 
@@ -268,11 +269,11 @@ D) Geldiğinde
 
 A) Başarılı olduğunu sevindim
 
-B) Başarılı olduğu sevindim
+B) Başarılı olduğundan sevindim
 
 C) Başarılı olduğuna sevindim
 
-D) Başarılı olduğundan sevindim
+D) Başarılı olduğu sevindim
 
 ---
 
@@ -280,13 +281,13 @@ D) Başarılı olduğundan sevindim
 
 В чем отличие винительного падежа от дательного падежа с формой -dik?
 
-A) Винительный для эмоций, дательный для знания
+A) Нет отличия
 
-B) Винительный для знания, дательный для эмоций
+B) Винительный для эмоций, дательный для знания
 
-C) Нет отличия
+C) Винительный для прошедшего, дательный для будущего
 
-D) Винительный для прошедшего, дательный для будущего
+D) Винительный для знания, дательный для эмоций
 
 ---
 
@@ -296,11 +297,11 @@ D) Винительный для прошедшего, дательный для
 
 A) Ne söylediğini anladım
 
-B) Ne söylediği anladım
+B) Ne söylediğine anladım
 
-C) Ne söylediğine anladım
+C) Ne söylediğinden anladım
 
-D) Ne söylediğinden anladım
+D) Ne söylediği anladım
 
 ---
 
@@ -313,13 +314,13 @@ Ne _____ anladım.
 Я понял, что она сказала.
 ```
 
-A) söylediğini
+A) söylediğinden
 
-B) söylediği
+B) söylediğine
 
-C) söylediğine
+C) söylediğini
 
-D) söylediğinden
+D) söylediği
 
 ---
 
@@ -327,13 +328,13 @@ D) söylediğinden
 
 Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yazdığını gördüm
+A) Ne yazdığına gördüm
 
-B) Ne yazdığı gördüm
+B) Ne yazdığından gördüm
 
-C) Ne yazdığına gördüm
+C) Ne yazdığını gördüm
 
-D) Ne yazdığından gördüm
+D) Ne yazdığı gördüm
 
 ---
 
@@ -341,13 +342,13 @@ D) Ne yazdığından gördüm
 
 Какая форма используется для выражения причины прошедшего действия?
 
-A) -diğini
+A) -diğine
 
-B) -diği
+B) -diğinden
 
-C) -diğine
+C) -diğini
 
-D) -diğinden
+D) -diği
 
 ---
 
@@ -355,13 +356,13 @@ D) -diğinden
 
 Какая форма используется для выражения времени прошедшего действия?
 
-A) -diğini
+A) -diğinde
 
-B) -diği
+B) -diğini
 
-C) -diğine
+C) -diği
 
-D) -diğinde
+D) -diğine
 
 ---
 
@@ -379,34 +380,36 @@ D) Gittiğinden biliyorum
 
 ---
 
+---
+
 ## Answer Key
 
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | A | Ne yazdığını anlamadım |
-| 2 | C | Geldiğine sevindim |
-| 3 | A | söylediğini |
-| 4 | B | Винительный (-nı/-ni) |
+| 2 | A | Geldiğine sevindim |
+| 3 | D | söylediğini |
+| 4 | D | Винительный (-nı/-ni) |
 | 5 | C | Дательный (-e/-a) |
-| 6 | C | Başarılı olduğuna inanıyorum |
-| 7 | A | Buraya geldiğini duydum |
-| 8 | C | olduğuna |
-| 9 | B | bilmek, görmek, duymak, anlamak |
-| 10 | B | sevinmek, inanmak, şaşırmak |
-| 11 | D | Hasta olduğundan gelmedi |
-| 12 | D | Geldiğinde evdeydim |
-| 13 | D | olduğundan |
+| 6 | A | Başarılı olduğuna inanıyorum |
+| 7 | C | Buraya geldiğini duydum |
+| 8 | D | olduğuna |
+| 9 | A | bilmek, görmek, duymak, anlamak |
+| 10 | D | sevinmek, inanmak, şaşırmak |
+| 11 | B | Hasta olduğundan gelmedi |
+| 12 | C | Geldiğinde evdeydim |
+| 13 | C | olduğundan |
 | 14 | B | Для выражения причины прошедшего действия |
-| 15 | D | Для выражения времени прошедшего действия |
-| 16 | C | Geldiğine şaşırdım |
+| 15 | A | Для выражения времени прошедшего действия |
+| 16 | D | Geldiğine şaşırdım |
 | 17 | D | Geldiğinde |
 | 18 | C | Başarılı olduğuna sevindim |
-| 19 | B | Винительный для знания, дательный для эмоций |
+| 19 | D | Винительный для знания, дательный для эмоций |
 | 20 | A | Ne söylediğini anladım |
-| 21 | A | söylediğini |
-| 22 | A | Ne yazdığını gördüm |
-| 23 | D | -diğinden |
-| 24 | D | -diğinde |
+| 21 | C | söylediğini |
+| 22 | C | Ne yazdığını gördüm |
+| 23 | B | -diğinden |
+| 24 | A | -diğinde |
 | 25 | A | Gittiğini biliyorum |
 
 ---

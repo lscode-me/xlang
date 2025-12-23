@@ -443,6 +443,7 @@ She's going to call you next week.
 ### 7.1 Ошибка: going to для спонтанных решений
 
 **❌ Неправильно:**
+
 ```
 
 — The phone is ringing.
@@ -450,6 +451,7 @@ She's going to call you next week.
 ```
 
 **✅ Правильно:**
+
 ```
 
 — The phone is ringing.
@@ -459,6 +461,7 @@ She's going to call you next week.
 ### 7.2 Ошибка: will для заранее запланированных действий
 
 **❌ Неправильно:**
+
 ```
 
 — What are your plans for the summer?
@@ -467,6 +470,7 @@ She's going to call you next week.
 ```
 
 **✅ Правильно:**
+
 ```
 
 — What are your plans for the summer?
@@ -476,12 +480,14 @@ She's going to call you next week.
 ### 7.3 Ошибка: going to для обещаний
 
 **❌ Неправильно:**
+
 ```
 
 I'm going to help you. I promise!
 ```
 
 **✅ Правильно:**
+
 ```
 
 I will help you. I promise!
@@ -490,12 +496,14 @@ I will help you. I promise!
 ### 7.4 Ошибка: will для видимых доказательств
 
 **❌ Неправильно:**
+
 ```
 
 Look at those clouds! It will rain!
 ```
 
 **✅ Правильно:**
+
 ```
 
 Look at those clouds! It's going to rain!

@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Суффикс дательного падежа
 
 Какой суффикс дательного падежа используется для "okul" (школа)?
 
-A) -i
+A) -ı
 
-B) -ı
+B) -e
 
-C) -e
+C) -i
 
 D) -a
 
@@ -22,13 +24,13 @@ D) -a
 
 Какой суффикс дательного падежа используется для "ev" (дом)?
 
-A) -ı
+A) -a
 
-B) -e
+B) -i
 
-C) -a
+C) -ı
 
-D) -i
+D) -e
 
 ---
 
@@ -36,13 +38,13 @@ D) -i
 
 Как правильно сказать "Я иду в школу"?
 
-A) Okul gidiyorum
+A) Okulda gidiyorum
 
-B) Okula gidiyorum
+B) Okul gidiyorum
 
-C) Okulda gidiyorum
+C) Okuldan gidiyorum
 
-D) Okuldan gidiyorum
+D) Okula gidiyorum
 
 ---
 
@@ -50,13 +52,13 @@ D) Okuldan gidiyorum
 
 Как правильно сказать "Я прихожу домой"?
 
-A) Eve geliyorum
+A) Evden geliyorum
 
-B) Evden geliyorum
+B) Ev geliyorum
 
-C) Ev geliyorum
+C) Evde geliyorum
 
-D) Evde geliyorum
+D) Eve geliyorum
 
 ---
 
@@ -64,13 +66,13 @@ D) Evde geliyorum
 
 Как правильно спросить "Куда ты идешь?"?
 
-A) Nereden gidiyorsun?
+A) Nereye gidiyorsun?
 
-B) Ne gidiyorsun?
+B) Nereden gidiyorsun?
 
-C) Nerede gidiyorsun?
+C) Ne gidiyorsun?
 
-D) Nereye gidiyorsun?
+D) Nerede gidiyorsun?
 
 ---
 
@@ -78,11 +80,11 @@ D) Nereye gidiyorsun?
 
 Как правильно сказать "Я иду работать"?
 
-A) Çalışmaya gidiyorum
+A) Çalışmaktan gidiyorum
 
-B) Çalışmak gidiyorum
+B) Çalışmaya gidiyorum
 
-C) Çalışmaktan gidiyorum
+C) Çalışmak gidiyorum
 
 D) Çalışmakta gidiyorum
 
@@ -92,13 +94,13 @@ D) Çalışmakta gidiyorum
 
 Какой суффикс правильный для "iş" (работа)?
 
-A) -e
+A) -ı
 
-B) -a
+B) -i
 
-C) -i
+C) -e
 
-D) -ı
+D) -a
 
 ---
 
@@ -106,13 +108,13 @@ D) -ı
 
 Какой суффикс правильный для "şehir" (город)?
 
-A) -i
+A) -ı
 
 B) -a
 
 C) -e
 
-D) -ı
+D) -i
 
 ---
 
@@ -124,9 +126,9 @@ A) masae
 
 B) masaa
 
-C) masaye
+C) masaya
 
-D) masaya
+D) masaye
 
 ---
 
@@ -136,11 +138,11 @@ D) masaya
 
 A) Okulda gidiyorum
 
-B) Okula gidiyorum
+B) Okul gidiyorum
 
-C) Okuldan gidiyorum
+C) Okula gidiyorum
 
-D) Okul gidiyorum
+D) Okuldan gidiyorum
 
 ---
 
@@ -152,9 +154,9 @@ A) Первое - направление (куда?), второе - место�
 
 B) Первое - неправильная форма
 
-C) Нет разницы
+C) Второе - неправильная форма
 
-D) Второе - неправильная форма
+D) Нет разницы
 
 ---
 
@@ -162,11 +164,11 @@ D) Второе - неправильная форма
 
 Как правильно сказать "Утром я иду в школу"?
 
-A) Okula sabah gidiyorum
+A) Gidiyorum sabah okula
 
-B) Sabah okul gidiyorum
+B) Okula sabah gidiyorum
 
-C) Gidiyorum sabah okula
+C) Sabah okul gidiyorum
 
 D) Sabah okula gidiyorum
 
@@ -176,13 +178,13 @@ D) Sabah okula gidiyorum
 
 Как правильно сказать "Я иду читать"?
 
-A) Okumak gidiyorum
+A) Okumakta gidiyorum
 
 B) Okumaktan gidiyorum
 
-C) Okumaya gidiyorum
+C) Okumak gidiyorum
 
-D) Okumakta gidiyorum
+D) Okumaya gidiyorum
 
 ---
 
@@ -192,11 +194,11 @@ D) Okumakta gidiyorum
 
 A) Mağazadan gidiyorum
 
-B) Mağazada gidiyorum
+B) Mağazaya gidiyorum
 
-C) Mağazaya gidiyorum
+C) Mağaza gidiyorum
 
-D) Mağaza gidiyorum
+D) Mağazada gidiyorum
 
 ---
 
@@ -204,9 +206,9 @@ D) Mağaza gidiyorum
 
 Выберите правильную форму предложения "Я прихожу домой":
 
-A) Eve geliyorum
+A) Evden geliyorum
 
-B) Evden geliyorum
+B) Eve geliyorum
 
 C) Ev geliyorum
 
@@ -220,9 +222,9 @@ D) Evde geliyorum
 
 A) Sende geliyorum
 
-B) Senden geliyorum
+B) Sana geliyorum
 
-C) Sana geliyorum
+C) Senden geliyorum
 
 D) Sen geliyorum
 
@@ -232,11 +234,11 @@ D) Sen geliyorum
 
 Как правильно сказать "Я еду в Стамбул"?
 
-A) İstanbul gidiyorum
+A) İstanbul'dan gidiyorum
 
-B) İstanbul'dan gidiyorum
+B) İstanbul'da gidiyorum
 
-C) İstanbul'da gidiyorum
+C) İstanbul gidiyorum
 
 D) İstanbul'a gidiyorum
 
@@ -251,13 +253,13 @@ Yarın _____ gidiyorum.
 Завтра я иду в школу.
 ```
 
-A) okul
+A) okuldan
 
-B) okula
+B) okulda
 
-C) okulda
+C) okul
 
-D) okuldan
+D) okula
 
 ---
 
@@ -267,9 +269,9 @@ D) okuldan
 
 A) Исходный падеж (-den/-dan)
 
-B) Дательный падеж (-e/-a)
+B) Местный падеж (-de/-da)
 
-C) Местный падеж (-de/-da)
+C) Дательный падеж (-e/-a)
 
 D) Родительный падеж (-in/-ın)
 
@@ -283,9 +285,9 @@ A) Ben okula gidiyorum, sen eve gidiyorsun
 
 B) Ben okulda gidiyorum, sen evde gidiyorsun
 
-C) Ben okul gidiyorum, sen ev gidiyorsun
+C) Ben okuldan gidiyorum, sen evden gidiyorsun
 
-D) Ben okuldan gidiyorum, sen evden gidiyorsun
+D) Ben okul gidiyorum, sen ev gidiyorsun
 
 ---
 
@@ -296,24 +298,24 @@ D) Ben okuldan gidiyorum, sen evden gidiyorsun
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | D | В слове "okul" последняя гласная "u" твердая, поэтому используется -a: okula. |
-| 2 | B | В слове "ev" последняя гласная "e" мягкая, поэтому используется -e: eve. |
-| 3 | B | Для направления используется дательный падеж: Okula gidiyorum. |
-| 4 | A | Для направления используется дательный падеж: Eve geliyorum. |
-| 5 | D | Вопрос о направлении: "Nereye gidiyorsun?" (Куда ты идешь?). |
-| 6 | A | Инфинитив в дательном падеже выражает цель: Çalışmaya gidiyorum. |
-| 7 | A | В слове "iş" последняя гласная "i" мягкая, поэтому используется -e: işe. |
+| 2 | D | В слове "ev" последняя гласная "e" мягкая, поэтому используется -e: eve. |
+| 3 | D | Для направления используется дательный падеж: Okula gidiyorum. |
+| 4 | D | Для направления используется дательный падеж: Eve geliyorum. |
+| 5 | A | Вопрос о направлении: "Nereye gidiyorsun?" (Куда ты идешь?). |
+| 6 | B | Инфинитив в дательном падеже выражает цель: Çalışmaya gidiyorum. |
+| 7 | C | В слове "iş" последняя гласная "i" мягкая, поэтому используется -e: işe. |
 | 8 | C | В слове "şehir" последняя гласная "i" мягкая, поэтому используется -e: şehre. |
-| 9 | D | Для слов на гласную вставляется "y": masaya. |
-| 10 | B | Для направления обязательно используется дательный падеж: Okula gidiyorum. |
+| 9 | C | Для слов на гласную вставляется "y": masaya. |
+| 10 | C | Для направления обязательно используется дательный падеж: Okula gidiyorum. |
 | 11 | A | "Okula" - направление (куда?), "Okulda" - местоположение (где?). |
 | 12 | D | Правильный порядок: обстоятельство времени + место в дательном падеже: Sabah okula gidiyorum. |
-| 13 | C | Инфинитив в дательном падеже: Okumaya gidiyorum. |
-| 14 | C | Для направления используется дательный падеж: Mağazaya gidiyorum. |
-| 15 | A | Для направления используется дательный падеж: Eve geliyorum. |
-| 16 | C | Для "к тебе" используется "sana" (дательный падеж от "sen"): Sana geliyorum. |
+| 13 | D | Инфинитив в дательном падеже: Okumaya gidiyorum. |
+| 14 | B | Для направления используется дательный падеж: Mağazaya gidiyorum. |
+| 15 | B | Для направления используется дательный падеж: Eve geliyorum. |
+| 16 | B | Для "к тебе" используется "sana" (дательный падеж от "sen"): Sana geliyorum. |
 | 17 | D | Для названий городов добавляется апостроф + суффикс: İstanbul'a gidiyorum. |
-| 18 | B | С обстоятельством времени: Yarın okula gidiyorum. |
-| 19 | B | С глаголами движения (gelmek, gitmek) для места прибытия используется дательный падеж. |
+| 18 | D | С обстоятельством времени: Yarın okula gidiyorum. |
+| 19 | C | С глаголами движения (gelmek, gitmek) для места прибытия используется дательный падеж. |
 | 20 | A | Каждая часть сохраняет дательный падеж для направления: Ben okula gidiyorum, sen eve gidiyorsun. |
 
 ---

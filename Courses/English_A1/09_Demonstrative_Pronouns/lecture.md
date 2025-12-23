@@ -436,6 +436,7 @@ Waiter: Yes, those are our homemade desserts.
 ### 7.1 Путаница единственного и множественного числа
 
 ❌ **Неправильно:**
+
 ```
 
 This are my books.
@@ -443,6 +444,7 @@ These is my book.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 These are my books. (множественное число)
@@ -455,6 +457,7 @@ This/that используются только с единственным чи
 ### 7.2 Неправильное согласование с существительными
 
 ❌ **Неправильно:**
+
 ```
 
 This books are interesting.
@@ -462,6 +465,7 @@ These book is interesting.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 These books are interesting.
@@ -474,6 +478,7 @@ This book is interesting.
 ### 7.3 Неправильное использование в кратких ответах
 
 ❌ **Неправильно:**
+
 ```
 
 Is this your bag? - Yes, this is.
@@ -481,6 +486,7 @@ Are these your books? - Yes, these are.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Is this your bag? - Yes, it is.
@@ -493,6 +499,7 @@ Are these your books? - Yes, they are.
 ### 7.4 Путаница между this/that и it
 
 ❌ **Неправильно:**
+
 ```
 
 Look at my phone. That is new.
@@ -500,6 +507,7 @@ Where is your bag? This is on the table.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Look at my phone. It is new.
@@ -514,6 +522,7 @@ This/that используются для первого упоминания и
 ### 7.5 Неправильное расстояние
 
 ❌ **Неправильно:**
+
 ```
 
 This is Moscow. (говорю из Нью-Йорка)
@@ -521,6 +530,7 @@ That is my phone. (телефон в руке)
 ```
 
 ✅ **Правильно:**
+
 ```
 
 That is Moscow. (Москва далеко от меня)

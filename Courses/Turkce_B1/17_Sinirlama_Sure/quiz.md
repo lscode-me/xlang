@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Жди, пока не придешь домой"?
 
 A) Eve gelene bekle
 
-B) Eve gelene kadar bekle
+B) Eve gelinceye bekle
 
-C) Eve gelince bekle
+C) Eve gelene kadar bekle
 
-D) Eve gelinceye bekle
+D) Eve gelince bekle
 
 ---
 
@@ -22,13 +23,13 @@ D) Eve gelinceye bekle
 
 Как правильно сказать "Мы будем работать, пока не закончим работу"?
 
-A) İş bitinceye çalışacağız
+A) İş bitene çalışacağız
 
-B) İş bitinceye kadar çalışacağız
+B) İş bitene kadar çalışacağız
 
-C) İş bitene çalışacağız
+C) İş bitinceye kadar çalışacağız
 
-D) İş bitene kadar çalışacağız
+D) İş bitinceye çalışacağız
 
 ---
 
@@ -41,11 +42,11 @@ Eve gelene _____ bekle.
 Жди, пока не придешь домой (до прихода).
 ```
 
-A) kadar
+A) dolayı
 
-B) dolayı
+B) için
 
-C) için
+C) kadar
 
 D) maktan
 
@@ -55,13 +56,13 @@ D) maktan
 
 Что выражает форма -ene kadar / -inceye kadar?
 
-A) Причину действия
+A) Условие действия
 
 B) Ограничение времени - действие продолжается до момента выполнения другого действия
 
-C) Цель действия
+C) Причину действия
 
-D) Условие действия
+D) Цель действия
 
 ---
 
@@ -69,13 +70,13 @@ D) Условие действия
 
 Что означает kadar в форме -ene kadar?
 
-A) "для" или "чтобы"
+A) "до" или "пока не"
 
-B) "до" или "пока не"
+B) "из-за" или "потому что"
 
-C) "из-за" или "потому что"
+C) "от" или "с"
 
-D) "от" или "с"
+D) "для" или "чтобы"
 
 ---
 
@@ -83,13 +84,13 @@ D) "от" или "с"
 
 Как правильно сказать "Мы ждали, пока не перестал дождь"?
 
-A) Yağmur durana kadar bekledik
+A) Yağmur durunca bekledik
 
 B) Yağmur durana bekledik
 
 C) Yağmur durunca kadar bekledik
 
-D) Yağmur durunca bekledik
+D) Yağmur durana kadar bekledik
 
 ---
 
@@ -99,11 +100,11 @@ D) Yağmur durunca bekledik
 
 A) Ali gelene kadar bekleyeceğiz
 
-B) Ali gelene bekleyeceğiz
+B) Ali gelinceye bekleyeceğiz
 
 C) Ali gelinceye kadar bekleyeceğiz
 
-D) Ali gelinceye bekleyeceğiz
+D) Ali gelene bekleyeceğiz
 
 ---
 
@@ -116,13 +117,13 @@ D) Ali gelinceye bekleyeceğiz
 Мы будем работать, пока не закончим работу.
 ```
 
-A) kadar
+A) dolayı
 
-B) dolayı
+B) maktan
 
 C) için
 
-D) maktan
+D) kadar
 
 ---
 
@@ -130,13 +131,13 @@ D) maktan
 
 В чем отличие -ene kadar от -inceye kadar?
 
-A) -ene для прошедшего, -inceye для будущего
+A) -ene для будущего, -inceye для прошедшего
 
-B) -ene для будущего, -inceye для прошедшего
+B) -ene для прошедшего, -inceye для будущего
 
-C) Обе формы выражают одно и то же значение
+C) -ene для настоящего, -inceye для прошедшего
 
-D) -ene для настоящего, -inceye для прошедшего
+D) Обе формы выражают одно и то же значение
 
 ---
 
@@ -144,13 +145,13 @@ D) -ene для настоящего, -inceye для прошедшего
 
 Как правильно сказать "Жди, пока не придешь домой" (альтернативная форма)?
 
-A) Eve gelene kadar bekle
+A) Eve gelene bekle
 
-B) Eve gelinceye kadar bekle
+B) Eve gelene kadar bekle
 
 C) Eve gelince bekle
 
-D) Eve gelene bekle
+D) Eve gelinceye kadar bekle
 
 ---
 
@@ -158,13 +159,13 @@ D) Eve gelene bekle
 
 Как правильно сказать "Мы будем работать, пока не закончим работу" (альтернативная форма)?
 
-A) İş bitinceye kadar çalışacağız
+A) İş bitene kadar çalışacağız
 
-B) İş bitene kadar çalışacağız
+B) İş bitinceye kadar çalışacağız
 
-C) İş bitince çalışacağız
+C) İş bitene çalışacağız
 
-D) İş bitene çalışacağız
+D) İş bitince çalışacağız
 
 ---
 
@@ -179,9 +180,9 @@ Yağmur durana _____ bekledik.
 
 A) kadar
 
-B) dolayı
+B) için
 
-C) için
+C) dolayı
 
 D) maktan
 
@@ -191,13 +192,13 @@ D) maktan
 
 Обязательно ли использовать kadar после формы -ene/-inceye?
 
-A) Нет, kadar не обязателен
+A) kadar обязателен только для -ene
 
-B) Да, kadar обязателен для выражения ограничения времени
+B) kadar обязателен только для -inceye
 
-C) kadar обязателен только для -ene
+C) Нет, kadar не обязателен
 
-D) kadar обязателен только для -inceye
+D) Да, kadar обязателен для выражения ограничения времени
 
 ---
 
@@ -205,11 +206,11 @@ D) kadar обязателен только для -inceye
 
 Как правильно сказать "Мы будем ждать, пока не придет Али" (альтернативная форма)?
 
-A) Ali gelene kadar bekleyeceğiz
+A) Ali gelinceye kadar bekleyeceğiz
 
-B) Ali gelinceye kadar bekleyeceğiz
+B) Ali gelince bekleyeceğiz
 
-C) Ali gelince bekleyeceğiz
+C) Ali gelene kadar bekleyeceğiz
 
 D) Ali gelene bekleyeceğiz
 
@@ -219,13 +220,13 @@ D) Ali gelene bekleyeceğiz
 
 Как правильно сказать "Жди, пока не придешь"?
 
-A) Gelene kadar bekle
+A) Gelince bekle
 
 B) Gelene bekle
 
 C) Gelinceye kadar bekle
 
-D) Gelince bekle
+D) Gelene kadar bekle
 
 ---
 
@@ -238,11 +239,11 @@ Ali gelene _____ bekleyeceğiz.
 Мы будем ждать, пока не придет Али.
 ```
 
-A) kadar
+A) için
 
-B) dolayı
+B) kadar
 
-C) için
+C) dolayı
 
 D) maktan
 
@@ -252,11 +253,11 @@ D) maktan
 
 Какая форма используется для выражения ограничения времени после гласных a, ı?
 
-A) -ene kadar
+A) -une kadar
 
 B) -ana kadar
 
-C) -une kadar
+C) -ene kadar
 
 D) -üne kadar
 
@@ -266,11 +267,11 @@ D) -üne kadar
 
 Какая форма используется для выражения ограничения времени после гласных e, i?
 
-A) -ene kadar
+A) -une kadar
 
-B) -ana kadar
+B) -ene kadar
 
-C) -une kadar
+C) -ana kadar
 
 D) -üne kadar
 
@@ -280,13 +281,13 @@ D) -üne kadar
 
 Как правильно сказать "Мы работали, пока не закончили работу"?
 
-A) İş bitinceye kadar çalıştık
+A) İş bitene çalıştık
 
-B) İş bitene kadar çalıştık
+B) İş bitinceye kadar çalıştık
 
 C) İş bitince çalıştık
 
-D) İş bitene çalıştık
+D) İş bitene kadar çalıştık
 
 ---
 
@@ -299,13 +300,13 @@ Gelene _____ bekle.
 Жди, пока не придешь.
 ```
 
-A) kadar
+A) maktan
 
 B) dolayı
 
 C) için
 
-D) maktan
+D) kadar
 
 ---
 
@@ -313,13 +314,13 @@ D) maktan
 
 Что выражает форма -ene kadar / -inceye kadar в предложении?
 
-A) Время начала действия
+A) Длительность действия без ограничения
 
-B) Ограничение времени - действие продолжается до момента выполнения другого действия
+B) Время окончания действия
 
-C) Время окончания действия
+C) Ограничение времени - действие продолжается до момента выполнения другого действия
 
-D) Длительность действия без ограничения
+D) Время начала действия
 
 ---
 
@@ -327,13 +328,13 @@ D) Длительность действия без ограничения
 
 Как правильно сказать "Мы ждали, пока не перестал дождь" (альтернативная форма)?
 
-A) Yağmur durana kadar bekledik
+A) Yağmur durunca kadar bekledik
 
-B) Yağmur durunca kadar bekledik
+B) Yağmur durunca bekledik
 
 C) Yağmur durana bekledik
 
-D) Yağmur durunca bekledik
+D) Yağmur durana kadar bekledik
 
 ---
 
@@ -350,9 +351,9 @@ A) kadar
 
 B) dolayı
 
-C) için
+C) maktan
 
-D) maktan
+D) için
 
 ---
 
@@ -360,13 +361,13 @@ D) maktan
 
 Какая форма используется для выражения ограничения времени после гласных o, u?
 
-A) -ene kadar
+A) -una kadar
 
 B) -ana kadar
 
-C) -una kadar
+C) -üne kadar
 
-D) -üne kadar
+D) -ene kadar
 
 ---
 
@@ -374,13 +375,15 @@ D) -üne kadar
 
 Как правильно сказать "Мы будем ждать, пока не закончим работу"?
 
-A) İş bitinceye kadar bekleyeceğiz
+A) İş bitene kadar bekleyeceğiz
 
-B) İş bitene kadar bekleyeceğiz
+B) İş bitene bekleyeceğiz
 
-C) İş bitince bekleyeceğiz
+C) İş bitinceye kadar bekleyeceğiz
 
-D) İş bitene bekleyeceğiz
+D) İş bitince bekleyeceğiz
+
+---
 
 ---
 
@@ -388,31 +391,31 @@ D) İş bitene bekleyeceğiz
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Eve gelene kadar bekle |
-| 2 | B | İş bitinceye kadar çalışacağız |
-| 3 | A | kadar |
+| 1 | C | Eve gelene kadar bekle |
+| 2 | C | İş bitinceye kadar çalışacağız |
+| 3 | C | kadar |
 | 4 | B | Ограничение времени - действие продолжается до момента выполнения другого действия |
-| 5 | B | "до" или "пока не" |
-| 6 | A | Yağmur durana kadar bekledik |
+| 5 | A | "до" или "пока не" |
+| 6 | D | Yağmur durana kadar bekledik |
 | 7 | A | Ali gelene kadar bekleyeceğiz |
-| 8 | A | kadar |
-| 9 | C | Обе формы выражают одно и то же значение |
-| 10 | B | Eve gelinceye kadar bekle |
-| 11 | A | İş bitinceye kadar çalışacağız |
+| 8 | D | kadar |
+| 9 | D | Обе формы выражают одно и то же значение |
+| 10 | D | Eve gelinceye kadar bekle |
+| 11 | B | İş bitinceye kadar çalışacağız |
 | 12 | A | kadar |
-| 13 | B | Да, kadar обязателен для выражения ограничения времени |
-| 14 | B | Ali gelinceye kadar bekleyeceğiz |
-| 15 | A | Gelene kadar bekle |
-| 16 | A | kadar |
+| 13 | D | Да, kadar обязателен для выражения ограничения времени |
+| 14 | A | Ali gelinceye kadar bekleyeceğiz |
+| 15 | D | Gelene kadar bekle |
+| 16 | B | kadar |
 | 17 | B | -ana kadar |
-| 18 | A | -ene kadar |
-| 19 | B | İş bitene kadar çalıştık |
-| 20 | A | kadar |
-| 21 | B | Ограничение времени - действие продолжается до момента выполнения другого действия |
-| 22 | B | Yağmur durunca kadar bekledik |
+| 18 | B | -ene kadar |
+| 19 | D | İş bitene kadar çalıştık |
+| 20 | D | kadar |
+| 21 | C | Ограничение времени - действие продолжается до момента выполнения другого действия |
+| 22 | A | Yağmur durunca kadar bekledik |
 | 23 | A | kadar |
-| 24 | C | -una kadar |
-| 25 | B | İş bitene kadar bekleyeceğiz |
+| 24 | A | -una kadar |
+| 25 | A | İş bitene kadar bekleyeceğiz |
 
 ---
 

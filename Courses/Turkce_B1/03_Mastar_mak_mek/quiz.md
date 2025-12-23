@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Изучать французский трудно"?
 
-A) Fransızca öğrenmeyi zor
+A) Fransızca öğrenme zor
 
-B) Fransızca öğrenmek zor
+B) Fransızca öğrenmesi zor
 
-C) Fransızca öğrenme zor
+C) Fransızca öğrenmek zor
 
-D) Fransızca öğrenmesi zor
+D) Fransızca öğrenmeyi zor
 
 ---
 
@@ -22,13 +23,13 @@ D) Fransızca öğrenmesi zor
 
 Как правильно сказать "Вставать рано хорошо"?
 
-A) Erken kalkmayı iyi
+A) Erken kalkması iyi
 
-B) Erken kalkmak iyi
+B) Erken kalkma iyi
 
-C) Erken kalkma iyi
+C) Erken kalkmayı iyi
 
-D) Erken kalkması iyi
+D) Erken kalkmak iyi
 
 ---
 
@@ -36,13 +37,13 @@ D) Erken kalkması iyi
 
 Как правильно сказать "Курить плохо"?
 
-A) Sigara içmeyi kötü
+A) Sigara içmek kötü
 
-B) Sigara içmek kötü
+B) Sigara içme kötü
 
-C) Sigara içme kötü
+C) Sigara içmesi kötü
 
-D) Sigara içmesi kötü
+D) Sigara içmeyi kötü
 
 ---
 
@@ -52,11 +53,11 @@ D) Sigara içmesi kötü
 
 A) Yüzmeyi sağlıklı
 
-B) Yüzmek sağlıklı
+B) Yüzme sağlıklı
 
-C) Yüzme sağlıklı
+C) Yüzmesi sağlıklı
 
-D) Yüzmesi sağlıklı
+D) Yüzmek sağlıklı
 
 ---
 
@@ -64,13 +65,13 @@ D) Yüzmesi sağlıklı
 
 Как правильно сказать "Я устал от того, что много учился"?
 
-A) Çok öğrenmek için yoruldum
+A) Çok öğrenmeyi yoruldum
 
-B) Çok öğrenmekten yoruldum
+B) Çok öğrenmesi yoruldum
 
-C) Çok öğrenmeyi yoruldum
+C) Çok öğrenmek için yoruldum
 
-D) Çok öğrenmesi yoruldum
+D) Çok öğrenmekten yoruldum
 
 ---
 
@@ -78,13 +79,13 @@ D) Çok öğrenmesi yoruldum
 
 Как правильно сказать "Мне не нравится писать"?
 
-A) Yazmak hoşlanmıyorum
+A) Yazması hoşlanmıyorum
 
-B) Yazmaktan hoşlanmıyorum
+B) Yazmak hoşlanmıyorum
 
-C) Yazmayı hoşlanmıyorum
+C) Yazmaktan hoşlanmıyorum
 
-D) Yazması hoşlanmıyorum
+D) Yazmayı hoşlanmıyorum
 
 ---
 
@@ -92,13 +93,13 @@ D) Yazması hoşlanmıyorum
 
 Когда используется инфинитив -mak/-mek?
 
-A) Для конкретных действий с субъектом
+A) Для прошедших действий
 
-B) Для абстрактных действий без указания на конкретного субъекта
+B) Для конкретных действий с субъектом
 
-C) Для прошедших действий
+C) Для будущих действий
 
-D) Для будущих действий
+D) Для абстрактных действий без указания на конкретного субъекта
 
 ---
 
@@ -106,9 +107,9 @@ D) Для будущих действий
 
 Как правильно сказать "Я поправился от того, что много ел"?
 
-A) Çok yemek için kilo aldım
+A) Çok yemekten kilo aldım
 
-B) Çok yemekten kilo aldım
+B) Çok yemek için kilo aldım
 
 C) Çok yemeyi kilo aldım
 
@@ -120,13 +121,13 @@ D) Çok yemesi kilo aldım
 
 Как правильно сказать "Я ненавижу рано вставать"?
 
-A) Erken kalkmak nefret ediyorum
+A) Erken kalkması nefret ediyorum
 
 B) Erken kalkmaktan nefret ediyorum
 
 C) Erken kalkmayı nefret ediyorum
 
-D) Erken kalkması nefret ediyorum
+D) Erken kalkmak nefret ediyorum
 
 ---
 
@@ -134,13 +135,13 @@ D) Erken kalkması nefret ediyorum
 
 Как правильно сказать "Я боюсь опоздать"?
 
-A) Geç kalmak korkuyorum
+A) Geç kalmasi korkuyorum
 
-B) Geç kalmaktan korkuyorum
+B) Geç kalmak korkuyorum
 
-C) Geç kalmayı korkuyorum
+C) Geç kalmaktan korkuyorum
 
-D) Geç kalmasi korkuyorum
+D) Geç kalmayı korkuyorum
 
 ---
 
@@ -153,13 +154,13 @@ Fransızca _____ zor ama önemli.
 Изучать французский трудно, но важно.
 ```
 
-A) öğrenmek
+A) öğrenmeyi
 
-B) öğrenmeyi
+B) öğrenmek
 
-C) öğrenme
+C) öğrenmesi
 
-D) öğrenmesi
+D) öğrenme
 
 ---
 
@@ -172,13 +173,13 @@ D) öğrenmesi
 Я устал от того, что много учился.
 ```
 
-A) öğrenmek
+A) öğrenmesi
 
-B) öğrenmekten
+B) öğrenmek
 
-C) öğrenmeyi
+C) öğrenmekten
 
-D) öğrenmesi
+D) öğrenmeyi
 
 ---
 
@@ -193,11 +194,11 @@ _____ hoşlanmıyorum.
 
 A) Yazmak
 
-B) Yazmaktan
+B) Yazması
 
-C) Yazmayı
+C) Yazmaktan
 
-D) Yazması
+D) Yazmayı
 
 ---
 
@@ -214,9 +215,9 @@ A) kalkmak
 
 B) kalkmaktan
 
-C) kalkmayı
+C) kalkması
 
-D) kalkması
+D) kalkmayı
 
 ---
 
@@ -229,13 +230,13 @@ _____ kötü.
 Курить плохо.
 ```
 
-A) Sigara içmek
+A) Sigara içmeyi
 
-B) Sigara içmektan
+B) Sigara içmesi
 
-C) Sigara içmeyi
+C) Sigara içmektan
 
-D) Sigara içmesi
+D) Sigara içmek
 
 ---
 
@@ -245,9 +246,9 @@ D) Sigara içmesi
 
 A) -mak
 
-B) -ma
+B) -dik
 
-C) -dik
+C) -ma
 
 D) -ması
 
@@ -257,13 +258,13 @@ D) -ması
 
 Какая форма используется с исходным падежом для выражения причины?
 
-A) -mak
+A) -maktan
 
-B) -maktan
+B) -ması
 
 C) -mayı
 
-D) -ması
+D) -mak
 
 ---
 
@@ -271,13 +272,13 @@ D) -ması
 
 Что выражает инфинитив -mak/-mek?
 
-A) Конкретное действие с субъектом
+A) Абстрактное действие без указания на конкретного субъекта
 
-B) Абстрактное действие без указания на конкретного субъекта
+B) Прошедшее действие
 
-C) Прошедшее действие
+C) Будущее действие
 
-D) Будущее действие
+D) Конкретное действие с субъектом
 
 ---
 
@@ -289,9 +290,9 @@ A) Spor yapmayı önemli
 
 B) Spor yapmak önemli
 
-C) Spor yapma önemli
+C) Spor yapması önemli
 
-D) Spor yapması önemli
+D) Spor yapma önemli
 
 ---
 
@@ -299,13 +300,15 @@ D) Spor yapması önemli
 
 Как правильно сказать "Читать книги приятно"?
 
-A) Kitap okumayı güzel
+A) Kitap okuması güzel
 
-B) Kitap okumak güzel
+B) Kitap okumayı güzel
 
 C) Kitap okuma güzel
 
-D) Kitap okuması güzel
+D) Kitap okumak güzel
+
+---
 
 ---
 
@@ -313,26 +316,26 @@ D) Kitap okuması güzel
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Fransızca öğrenmek zor |
-| 2 | B | Erken kalkmak iyi |
-| 3 | B | Sigara içmek kötü |
-| 4 | B | Yüzmek sağlıklı |
-| 5 | B | Çok öğrenmekten yoruldum |
-| 6 | B | Yazmaktan hoşlanmıyorum |
-| 7 | B | Для абстрактных действий без указания на конкретного субъекта |
-| 8 | B | Çok yemekten kilo aldım |
+| 1 | C | Fransızca öğrenmek zor |
+| 2 | D | Erken kalkmak iyi |
+| 3 | A | Sigara içmek kötü |
+| 4 | D | Yüzmek sağlıklı |
+| 5 | D | Çok öğrenmekten yoruldum |
+| 6 | C | Yazmaktan hoşlanmıyorum |
+| 7 | D | Для абстрактных действий без указания на конкретного субъекта |
+| 8 | A | Çok yemekten kilo aldım |
 | 9 | B | Erken kalkmaktan nefret ediyorum |
-| 10 | B | Geç kalmaktan korkuyorum |
-| 11 | A | öğrenmek (Fransızca öğrenmek) |
-| 12 | B | öğrenmekten |
-| 13 | B | Yazmaktan |
+| 10 | C | Geç kalmaktan korkuyorum |
+| 11 | B | öğrenmek (Fransızca öğrenmek) |
+| 12 | C | öğrenmekten |
+| 13 | C | Yazmaktan |
 | 14 | A | kalkmak |
-| 15 | A | Sigara içmek |
+| 15 | D | Sigara içmek |
 | 16 | A | -mak |
-| 17 | B | -maktan |
-| 18 | B | Абстрактное действие без указания на конкретного субъекта |
+| 17 | A | -maktan |
+| 18 | A | Абстрактное действие без указания на конкретного субъекта |
 | 19 | B | Spor yapmak önemli |
-| 20 | B | Kitap okumak güzel |
+| 20 | D | Kitap okumak güzel |
 
 ---
 

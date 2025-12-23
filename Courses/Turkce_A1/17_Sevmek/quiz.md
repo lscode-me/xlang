@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Винительный падеж
 
 Как правильно образовать винительный падеж от "okumak"?
 
-A) okumak
+A) okumayı
 
-B) okumaya
+B) okumak
 
-C) okumadan
+C) okumaya
 
-D) okumayı
+D) okumadan
 
 ---
 
@@ -24,9 +26,9 @@ D) okumayı
 
 A) dinlemeden
 
-B) dinlemeyi
+B) dinlemeye
 
-C) dinlemeye
+C) dinlemeyi
 
 D) dinlemek
 
@@ -36,11 +38,11 @@ D) dinlemek
 
 Как правильно сказать "Я люблю читать книги"?
 
-A) Ben kitap okumaya seviyorum
+A) Ben kitap okumayı seviyorum
 
-B) Ben kitap okumadan seviyorum
+B) Ben kitap okumaya seviyorum
 
-C) Ben kitap okumayı seviyorum
+C) Ben kitap okumadan seviyorum
 
 D) Ben kitap okumak seviyorum
 
@@ -52,11 +54,11 @@ D) Ben kitap okumak seviyorum
 
 A) Sen müzik dinlemeyi seviyorsun
 
-B) Sen müzik dinlemeyi seviyoruz
+B) Sen müzik dinlemek seviyorum
 
 C) Sen müzik dinlemeyi seviyor
 
-D) Sen müzik dinlemek seviyorum
+D) Sen müzik dinlemeyi seviyoruz
 
 ---
 
@@ -64,13 +66,13 @@ D) Sen müzik dinlemek seviyorum
 
 В чем разница между "Kitap okumayı seviyorum" и "Kitap okumak istiyorum"?
 
-A) Первое - предпочтение (люблю), второе - желание (хочу)
+A) Нет разницы
 
-B) Второе - неправильная форма
+B) Первое - предпочтение (люблю), второе - желание (хочу)
 
-C) Нет разницы
+C) Первое - неправильная форма
 
-D) Первое - неправильная форма
+D) Второе - неправильная форма
 
 ---
 
@@ -78,13 +80,13 @@ D) Первое - неправильная форма
 
 Какая форма правильная для "я люблю читать"?
 
-A) Okumaya seviyorum
+A) Okumayı seviyorum
 
-B) Okumak seviyorum
+B) Okumaya seviyorum
 
-C) Okumayı seviyorum
+C) Okumadan seviyorum
 
-D) Okumadan seviyorum
+D) Okumak seviyorum
 
 ---
 
@@ -92,13 +94,13 @@ D) Okumadan seviyorum
 
 Как правильно спросить "Что ты любишь делать?"?
 
-A) Ne yapmak seviyorsun?
+A) Ne yapmayı seviyorsun?
 
-B) Ne yapmayı seviyorsun?
+B) Ne yapıyorsun seviyorsun?
 
-C) Ne yapıyorsun seviyorsun?
+C) Yapmayı ne seviyorsun?
 
-D) Yapmayı ne seviyorsun?
+D) Ne yapmak seviyorsun?
 
 ---
 
@@ -106,13 +108,13 @@ D) Yapmayı ne seviyorsun?
 
 Как правильно сказать "Я люблю слушать музыку"?
 
-A) Ben müzik dinlemek seviyorum
+A) Ben seviyorum müzik dinlemeyi
 
-B) Ben seviyorum müzik dinlemeyi
+B) Ben müzik dinlemek seviyorum
 
-C) Ben müzik dinlemeyi seviyorum
+C) Ben dinlemek müzik seviyorum
 
-D) Ben dinlemek müzik seviyorum
+D) Ben müzik dinlemeyi seviyorum
 
 ---
 
@@ -120,13 +122,13 @@ D) Ben dinlemek müzik seviyorum
 
 Как правильно сказать "Я не люблю работать"?
 
-A) Ben çalışmayı sevmiyorum
+A) Ben çalışmıyorum seviyorum
 
 B) Ben çalışmamayı seviyorum
 
-C) Ben çalışmayı sevmemiyorum
+C) Ben çalışmayı sevmiyorum
 
-D) Ben çalışmıyorum seviyorum
+D) Ben çalışmayı sevmemiyorum
 
 ---
 
@@ -134,13 +136,13 @@ D) Ben çalışmıyorum seviyorum
 
 Как правильно сказать "Мы любим читать"?
 
-A) Biz okumayı seviyorum
+A) Biz okumayı seviyorsun
 
-B) Biz okumayı seviyorsun
+B) Biz okumayı seviyorum
 
-C) Biz okumayı seviyoruz
+C) Biz okumayı seviyorlar
 
-D) Biz okumayı seviyorlar
+D) Biz okumayı seviyoruz
 
 ---
 
@@ -148,13 +150,13 @@ D) Biz okumayı seviyorlar
 
 Как правильно образовать винительный падеж от "yemek"?
 
-A) yemeyi
+A) yemek
 
 B) yemeye
 
-C) yemeden
+C) yemeyi
 
-D) yemek
+D) yemeden
 
 ---
 
@@ -162,13 +164,13 @@ D) yemek
 
 Выберите правильную форму предложения "Я люблю плавать":
 
-A) Ben yüzmek seviyorum
+A) Ben yüzmeden seviyorum
 
-B) Ben yüzmeden seviyorum
+B) Ben yüzmeye seviyorum
 
 C) Ben yüzmeyi seviyorum
 
-D) Ben yüzmeye seviyorum
+D) Ben yüzmek seviyorum
 
 ---
 
@@ -176,9 +178,9 @@ D) Ben yüzmeye seviyorum
 
 Какое предложение правильно для "я люблю читать книги"?
 
-A) Kitap okumadan seviyorum
+A) Kitap okumak seviyorum
 
-B) Kitap okumak seviyorum
+B) Kitap okumadan seviyorum
 
 C) Kitap okumaya seviyorum
 
@@ -192,11 +194,11 @@ D) Kitap okumayı seviyorum
 
 A) Ne yapmayı seviyorsun?
 
-B) Ne yapıyorsun seviyorsun?
+B) Ne yapmak seviyorsun?
 
-C) Ne yapmak seviyorsun?
+C) Yapmayı ne seviyorsun?
 
-D) Yapmayı ne seviyorsun?
+D) Ne yapıyorsun seviyorsun?
 
 ---
 
@@ -204,13 +206,13 @@ D) Yapmayı ne seviyorsun?
 
 В чем разница между "Kitap okumayı seviyorum" и "Kitap okumak istiyorum"?
 
-A) Первое - предпочтение (люблю), второе - желание (хочу)
+A) Первое - неправильная форма
 
-B) Второе - неправильная форма
+B) Нет разницы
 
-C) Первое - неправильная форма
+C) Второе - неправильная форма
 
-D) Нет разницы
+D) Первое - предпочтение (люблю), второе - желание (хочу)
 
 ---
 
@@ -218,11 +220,11 @@ D) Нет разницы
 
 Как правильно сказать "Он/Она любит смотреть фильмы"?
 
-A) O film izlemeyi seviyorum
+A) O film izlemek seviyor
 
 B) O film izlemeyi seviyor
 
-C) O film izlemek seviyor
+C) O film izlemeyi seviyorum
 
 D) O film izlemeyi seviyorsun
 
@@ -232,13 +234,13 @@ D) O film izlemeyi seviyorsun
 
 Как правильно сказать "Я люблю работать дома"?
 
-A) Ben evde çalışmak seviyorum
+A) Ben seviyorum evde çalışmayı
 
 B) Ben evde çalışmayı seviyorum
 
 C) Ben çalışmayı evde seviyorum
 
-D) Ben seviyorum evde çalışmayı
+D) Ben evde çalışmak seviyorum
 
 ---
 
@@ -246,13 +248,13 @@ D) Ben seviyorum evde çalışmayı
 
 Как правильно спросить "Ты любишь плавать?"?
 
-A) Yüzmeyi seviyor musun?
+A) Yüzmeyi musun seviyor?
 
-B) Yüzmeyi seviyorsun mu?
+B) Yüzmeyi seviyor musun?
 
-C) Yüzmeyi mi seviyorsun?
+C) Yüzmeyi seviyorsun mu?
 
-D) Yüzmeyi musun seviyor?
+D) Yüzmeyi mi seviyorsun?
 
 ---
 
@@ -260,13 +262,13 @@ D) Yüzmeyi musun seviyor?
 
 Как правильно сказать "Они любят танцевать"?
 
-A) Onlar dans etmeyi seviyoruz
+A) Onlar dans etmeyi seviyor
 
 B) Onlar dans etmeyi seviyorlar
 
-C) Onlar dans etmeyi seviyor
+C) Onlar dans etmek seviyorlar
 
-D) Onlar dans etmek seviyorlar
+D) Onlar dans etmeyi seviyoruz
 
 ---
 
@@ -274,11 +276,11 @@ D) Onlar dans etmek seviyorlar
 
 Как правильно сказать "Мы не любим рано вставать"?
 
-A) Biz erken kalkmayı sevmiyoruz
+A) Biz erken kalkmayı sevmiyorum
 
 B) Biz erken kalkmak sevmiyoruz
 
-C) Biz erken kalkmayı sevmiyorum
+C) Biz erken kalkmayı sevmiyoruz
 
 D) Biz erken kalkmamayı seviyoruz
 
@@ -290,26 +292,26 @@ D) Biz erken kalkmamayı seviyoruz
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Винительный падеж от "okumak": okumayı (замена -mak на -mayı). |
-| 2 | B | Винительный падеж от "dinlemek": dinlemeyi (замена -mek на -meyi). |
-| 3 | C | С sevmek используется винительный падеж: Ben kitap okumayı seviyorum. |
+| 1 | A | Винительный падеж от "okumak": okumayı (замена -mak на -mayı). |
+| 2 | C | Винительный падеж от "dinlemek": dinlemeyi (замена -mek на -meyi). |
+| 3 | A | С sevmek используется винительный падеж: Ben kitap okumayı seviyorum. |
 | 4 | A | Для второго лица: Sen müzik dinlemeyi seviyorsun. |
-| 5 | A | "Seviyorum" - предпочтение (люблю), "istiyorum" - желание (хочу). |
-| 6 | C | С sevmek используется винительный падеж: Okumayı seviyorum. |
-| 7 | B | Вопрос о предпочтении: Ne yapmayı seviyorsun? |
-| 8 | C | Правильный порядок: Ben müzik dinlemeyi seviyorum. |
-| 9 | A | Отрицание добавляется к sevmek: Ben çalışmayı sevmiyorum. |
-| 10 | C | Для первого лица множественного числа: Biz okumayı seviyoruz. |
-| 11 | A | Винительный падеж от "yemek": yemeyi (замена -mek на -meyi). |
+| 5 | B | "Seviyorum" - предпочтение (люблю), "istiyorum" - желание (хочу). |
+| 6 | A | С sevmek используется винительный падеж: Okumayı seviyorum. |
+| 7 | A | Вопрос о предпочтении: Ne yapmayı seviyorsun? |
+| 8 | D | Правильный порядок: Ben müzik dinlemeyi seviyorum. |
+| 9 | C | Отрицание добавляется к sevmek: Ben çalışmayı sevmiyorum. |
+| 10 | D | Для первого лица множественного числа: Biz okumayı seviyoruz. |
+| 11 | C | Винительный падеж от "yemek": yemeyi (замена -mek на -meyi). |
 | 12 | C | С sevmek используется винительный падеж: Ben yüzmeyi seviyorum. |
 | 13 | D | С sevmek используется винительный падеж: Kitap okumayı seviyorum. |
 | 14 | A | Вопрос о предпочтении: Ne yapmayı seviyorsun? |
-| 15 | A | "Seviyorum" - предпочтение (люблю), "istiyorum" - желание (хочу). |
+| 15 | D | "Seviyorum" - предпочтение (люблю), "istiyorum" - желание (хочу). |
 | 16 | B | Для третьего лица: O film izlemeyi seviyor (винительный падеж инфинитива). |
 | 17 | B | Правильный порядок: обстоятельство места + инфинитив в винительном падеже + sevmek: Ben evde çalışmayı seviyorum. |
-| 18 | B | Вопросительная частица добавляется к sevmek: Yüzmeyi seviyorsun mu? |
+| 18 | C | Вопросительная частица добавляется к sevmek: Yüzmeyi seviyorsun mu? |
 | 19 | B | Для третьего лица множественного числа: Onlar dans etmeyi seviyorlar (винительный падеж инфинитива). |
-| 20 | A | Отрицание добавляется к sevmek: Biz erken kalkmayı sevmiyoruz (винительный падеж инфинитива). |
+| 20 | C | Отрицание добавляется к sevmek: Biz erken kalkmayı sevmiyoruz (винительный падеж инфинитива). |
 
 ---
 

@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Несмотря на то, что он устал, он работал"?
 
 A) Yorgun olmasına rağmen çalıştı
 
-B) Yorgun olsa rağmen çalıştı
+B) Yorgun olsa bile çalıştı
 
 C) Yorgun olması bile çalıştı
 
-D) Yorgun olsa bile çalıştı
+D) Yorgun olsa rağmen çalıştı
 
 ---
 
@@ -22,13 +23,13 @@ D) Yorgun olsa bile çalıştı
 
 Как правильно сказать "Даже если пойдет дождь, мы пойдем"?
 
-A) Yağmur yağmasına rağmen gideceğiz
+A) Yağmur yağması bile gideceğiz
 
-B) Yağmur yağsa rağmen gideceğiz
+B) Yağmur yağsa bile gideceğiz
 
-C) Yağmur yağması bile gideceğiz
+C) Yağmur yağmasına rağmen gideceğiz
 
-D) Yağmur yağsa bile gideceğiz
+D) Yağmur yağsa rağmen gideceğiz
 
 ---
 
@@ -41,13 +42,13 @@ Yorgun olmasına _____ çalıştı.
 Несмотря на то, что он устал, он работал (факт).
 ```
 
-A) rağmen
+A) dolayı
 
-B) bile
+B) rağmen
 
 C) için
 
-D) dolayı
+D) bile
 
 ---
 
@@ -55,9 +56,9 @@ D) dolayı
 
 Когда используется форма -mesine rağmen?
 
-A) Для условий, которые могут произойти
+A) Для фактов, которые уже произошли
 
-B) Для фактов, которые уже произошли
+B) Для условий, которые могут произойти
 
 C) Для будущих возможностей
 
@@ -71,11 +72,11 @@ D) Для гипотетических ситуаций
 
 A) Для фактов, которые уже произошли
 
-B) Для условий, которые могут произойти
+B) Для прошедших событий
 
-C) Для прошедших событий
+C) Для настоящих событий
 
-D) Для настоящих событий
+D) Для условий, которые могут произойти
 
 ---
 
@@ -87,9 +88,9 @@ A) Hava soğuk olmasına rağmen dışarı çıktık
 
 B) Hava soğuk olsa rağmen dışarı çıktık
 
-C) Hava soğuk olması bile dışarı çıktık
+C) Hava soğuk olsa bile dışarı çıktık
 
-D) Hava soğuk olsa bile dışarı çıktık
+D) Hava soğuk olması bile dışarı çıktık
 
 ---
 
@@ -97,13 +98,13 @@ D) Hava soğuk olsa bile dışarı çıktık
 
 Как правильно сказать "Даже если будет трудно, мы попробуем"?
 
-A) Zor olmasına rağmen deneyeceğiz
+A) Zor olması bile deneyeceğiz
 
-B) Zor olsa rağmen deneyeceğiz
+B) Zor olmasına rağmen deneyeceğiz
 
-C) Zor olması bile deneyeceğiz
+C) Zor olsa bile deneyeceğiz
 
-D) Zor olsa bile deneyeceğiz
+D) Zor olsa rağmen deneyeceğiz
 
 ---
 
@@ -116,13 +117,13 @@ Yağmur yağsa _____ gideceğiz.
 Даже если пойдет дождь, мы пойдем.
 ```
 
-A) rağmen
+A) dolayı
 
-B) bile
+B) için
 
-C) için
+C) bile
 
-D) dolayı
+D) rağmen
 
 ---
 
@@ -130,11 +131,11 @@ D) dolayı
 
 В чем отличие -mesine rağmen от -se bile?
 
-A) -mesine rağmen для условий, -se bile для фактов
+A) Нет отличия
 
-B) -mesine rağmen для фактов, -se bile для условий
+B) -mesine rağmen для условий, -se bile для фактов
 
-C) Нет отличия
+C) -mesine rağmen для фактов, -se bile для условий
 
 D) -mesine rağmen для будущего, -se bile для прошедшего
 
@@ -144,13 +145,13 @@ D) -mesine rağmen для будущего, -se bile для прошедшего
 
 Как правильно сказать "Даже если он опоздает, мы подождем"?
 
-A) Geç kalmasına rağmen bekleyeceğiz
+A) Geç kalması bile bekleyeceğiz
 
 B) Geç kalsa rağmen bekleyeceğiz
 
-C) Geç kalması bile bekleyeceğiz
+C) Geç kalsa bile bekleyeceğiz
 
-D) Geç kalsa bile bekleyeceğiz
+D) Geç kalmasına rağmen bekleyeceğiz
 
 ---
 
@@ -158,13 +159,13 @@ D) Geç kalsa bile bekleyeceğiz
 
 Как правильно сказать "Несмотря на то, что он устал, он будет работать"?
 
-A) Yorgun olmasına rağmen çalışacak
+A) Yorgun olsa bile çalışacak
 
 B) Yorgun olsa rağmen çalışacak
 
-C) Yorgun olması bile çalışacak
+C) Yorgun olmasına rağmen çalışacak
 
-D) Yorgun olsa bile çalışacak
+D) Yorgun olması bile çalışacak
 
 ---
 
@@ -177,13 +178,13 @@ Zor olsa _____ deneyeceğiz.
 Даже если будет трудно, мы попробуем.
 ```
 
-A) rağmen
+A) dolayı
 
-B) bile
+B) rağmen
 
 C) için
 
-D) dolayı
+D) bile
 
 ---
 
@@ -191,13 +192,13 @@ D) dolayı
 
 Что означает rağmen в форме -mesine rağmen?
 
-A) "даже" или "хотя бы"
+A) "несмотря на" или "хотя"
 
-B) "несмотря на" или "хотя"
+B) "даже" или "хотя бы"
 
-C) "для" или "чтобы"
+C) "из-за" или "потому что"
 
-D) "из-за" или "потому что"
+D) "для" или "чтобы"
 
 ---
 
@@ -205,13 +206,13 @@ D) "из-за" или "потому что"
 
 Что означает bile в форме -se bile?
 
-A) "несмотря на" или "хотя"
+A) "из-за" или "потому что"
 
-B) "даже" или "хотя бы"
+B) "несмотря на" или "хотя"
 
 C) "для" или "чтобы"
 
-D) "из-за" или "потому что"
+D) "даже" или "хотя бы"
 
 ---
 
@@ -223,9 +224,9 @@ A) Hava soğuk olmasına rağmen dışarı çıkacağız
 
 B) Hava soğuk olsa rağmen dışarı çıkacağız
 
-C) Hava soğuk olması bile dışarı çıkacağız
+C) Hava soğuk olsa bile dışarı çıkacağız
 
-D) Hava soğuk olsa bile dışarı çıkacağız
+D) Hava soğuk olması bile dışarı çıkacağız
 
 ---
 
@@ -233,13 +234,13 @@ D) Hava soğuk olsa bile dışarı çıkacağız
 
 Как правильно сказать "Несмотря на то, что он устал, он работал" (альтернативная форма)?
 
-A) Yorgun olmasına rağmen çalıştı
+A) Yorgun olsa rağmen çalıştı
 
-B) Yorgun olsa bile çalıştı
+B) Yorgun olması bile çalıştı
 
-C) Yorgun olması bile çalıştı
+C) Yorgun olsa bile çalıştı
 
-D) Yorgun olsa rağmen çalıştı
+D) Yorgun olmasına rağmen çalıştı
 
 ---
 
@@ -266,13 +267,13 @@ D) dolayı
 
 Какая форма используется для выражения уступки с фактами?
 
-A) -mak
+A) -dik için
 
-B) -mesine rağmen
+B) -se bile
 
-C) -se bile
+C) -mesine rağmen
 
-D) -dik için
+D) -mak
 
 ---
 
@@ -280,13 +281,13 @@ D) -dik için
 
 Какая форма используется для выражения противопоставления с условиями?
 
-A) -mak
+A) -mesine rağmen
 
-B) -mesine rağmen
+B) -dik için
 
 C) -se bile
 
-D) -dik için
+D) -mak
 
 ---
 
@@ -294,13 +295,13 @@ D) -dik için
 
 Как правильно сказать "Даже если он устанет, он будет работать"?
 
-A) Yorgun olmasına rağmen çalışacak
+A) Yorgun olsa rağmen çalışacak
 
-B) Yorgun olsa rağmen çalışacak
+B) Yorgun olsa bile çalışacak
 
 C) Yorgun olması bile çalışacak
 
-D) Yorgun olsa bile çalışacak
+D) Yorgun olmasına rağmen çalışacak
 
 ---
 
@@ -313,13 +314,13 @@ Geç kalsa _____ bekleyeceğiz.
 Даже если он опоздает, мы подождем.
 ```
 
-A) rağmen
+A) dolayı
 
 B) bile
 
-C) için
+C) rağmen
 
-D) dolayı
+D) için
 
 ---
 
@@ -327,13 +328,13 @@ D) dolayı
 
 В чем отличие использования -mesine rağmen и -se bile?
 
-A) -mesine rağmen для гипотетических ситуаций, -se bile для конкретных ситуаций
+A) Нет отличия
 
-B) -mesine rağmen для конкретных ситуаций, -se bile для гипотетических ситуаций
+B) -mesine rağmen для будущего, -se bile для прошедшего
 
-C) Нет отличия
+C) -mesine rağmen для гипотетических ситуаций, -se bile для конкретных ситуаций
 
-D) -mesine rağmen для будущего, -se bile для прошедшего
+D) -mesine rağmen для конкретных ситуаций, -se bile для гипотетических ситуаций
 
 ---
 
@@ -341,13 +342,13 @@ D) -mesine rağmen для будущего, -se bile для прошедшего
 
 Как правильно сказать "Несмотря на то, что погода холодная, мы вышли на улицу" (факт)?
 
-A) Hava soğuk olmasına rağmen dışarı çıktık
+A) Hava soğuk olsa bile dışarı çıktık
 
-B) Hava soğuk olsa bile dışarı çıktık
+B) Hava soğuk olsa rağmen dışarı çıktık
 
 C) Hava soğuk olması bile dışarı çıktık
 
-D) Hava soğuk olsa rağmen dışarı çıktık
+D) Hava soğuk olmasına rağmen dışarı çıktık
 
 ---
 
@@ -357,11 +358,11 @@ D) Hava soğuk olsa rağmen dışarı çıktık
 
 A) Hava soğuk olmasına rağmen dışarı çıkacağız
 
-B) Hava soğuk olsa bile dışarı çıkacağız
+B) Hava soğuk olsa rağmen dışarı çıkacağız
 
-C) Hava soğuk olması bile dışarı çıkacağız
+C) Hava soğuk olsa bile dışarı çıkacağız
 
-D) Hava soğuk olsa rağmen dışarı çıkacağız
+D) Hava soğuk olması bile dışarı çıkacağız
 
 ---
 
@@ -376,11 +377,13 @@ Yorgun olmasına _____ çalışacak.
 
 A) rağmen
 
-B) bile
+B) dolayı
 
 C) için
 
-D) dolayı
+D) bile
+
+---
 
 ---
 
@@ -389,29 +392,29 @@ D) dolayı
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | A | Yorgun olmasına rağmen çalıştı |
-| 2 | D | Yağmur yağsa bile gideceğiz |
-| 3 | A | rağmen |
-| 4 | B | Для фактов, которые уже произошли |
-| 5 | B | Для условий, которые могут произойти |
+| 2 | B | Yağmur yağsa bile gideceğiz |
+| 3 | B | rağmen |
+| 4 | A | Для фактов, которые уже произошли |
+| 5 | D | Для условий, которые могут произойти |
 | 6 | A | Hava soğuk olmasına rağmen dışarı çıktık |
-| 7 | D | Zor olsa bile deneyeceğiz |
-| 8 | B | bile |
-| 9 | B | -mesine rağmen для фактов, -se bile для условий |
-| 10 | D | Geç kalsa bile bekleyeceğiz |
-| 11 | D | Yorgun olsa bile çalışacak |
-| 12 | B | bile |
-| 13 | B | "несмотря на" или "хотя" |
-| 14 | B | "даже" или "хотя бы" |
-| 15 | D | Hava soğuk olsa bile dışarı çıkacağız |
-| 16 | A | Yorgun olmasına rağmen çalıştı |
+| 7 | C | Zor olsa bile deneyeceğiz |
+| 8 | C | bile |
+| 9 | C | -mesine rağmen для фактов, -se bile для условий |
+| 10 | C | Geç kalsa bile bekleyeceğiz |
+| 11 | A | Yorgun olsa bile çalışacak |
+| 12 | D | bile |
+| 13 | A | "несмотря на" или "хотя" |
+| 14 | D | "даже" или "хотя бы" |
+| 15 | C | Hava soğuk olsa bile dışarı çıkacağız |
+| 16 | D | Yorgun olmasına rağmen çalıştı |
 | 17 | A | rağmen |
-| 18 | B | -mesine rağmen |
+| 18 | C | -mesine rağmen |
 | 19 | C | -se bile |
-| 20 | D | Yorgun olsa bile çalışacak |
+| 20 | B | Yorgun olsa bile çalışacak |
 | 21 | B | bile |
-| 22 | B | -mesine rağmen для конкретных ситуаций, -se bile для гипотетических ситуаций |
-| 23 | A | Hava soğuk olmasına rağmen dışarı çıktık |
-| 24 | B | Hava soğuk olsa bile dışarı çıkacağız |
+| 22 | D | -mesine rağmen для конкретных ситуаций, -se bile для гипотетических ситуаций |
+| 23 | D | Hava soğuk olmasına rağmen dışarı çıktık |
+| 24 | C | Hava soğuk olsa bile dışarı çıkacağız |
 | 25 | A | rağmen |
 
 ---

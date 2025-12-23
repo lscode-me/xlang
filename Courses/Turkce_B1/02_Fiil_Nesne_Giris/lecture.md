@@ -576,6 +576,7 @@ Onun buraya gelmesini bekliyorum.
 ### 7.2 Пример: Сравнение русских и турецких конструкций
 
 **Русский язык:**
+
 ```
 Я знаю, что он пришел.
 Я хочу, чтобы ты пришел.
@@ -583,6 +584,7 @@ Onun buraya gelmesini bekliyorum.
 ```
 
 **Турецкий язык:**
+
 ```
 Onun geldiğini biliyorum.
 Senin gelmeni istiyorum.

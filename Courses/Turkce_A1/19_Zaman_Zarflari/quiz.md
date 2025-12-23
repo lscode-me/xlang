@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Базовое наречие
 
 Какое наречие означает "сейчас"?
 
-A) yarın
+A) şimdi
 
-B) dün
+B) yarın
 
-C) şimdi
+C) dün
 
 D) bugün
 
@@ -22,11 +24,11 @@ D) bugün
 
 Какое наречие означает "сегодня"?
 
-A) bugün
+A) dün
 
-B) şimdi
+B) bugün
 
-C) dün
+C) şimdi
 
 D) yarın
 
@@ -36,13 +38,13 @@ D) yarın
 
 Какое наречие означает "завтра"?
 
-A) bugün
+A) yarın
 
 B) şimdi
 
-C) dün
+C) bugün
 
-D) yarın
+D) dün
 
 ---
 
@@ -50,13 +52,13 @@ D) yarın
 
 Как правильно сказать "Я сейчас работаю"?
 
-A) Şimdi çalışıyorum
+A) Çalışıyorum ben şimdi
 
-B) Ben şimdi çalışıyorum
+B) Şimdi çalışıyorum
 
 C) Çalışıyorum şimdi
 
-D) Çalışıyorum ben şimdi
+D) Ben şimdi çalışıyorum
 
 ---
 
@@ -64,145 +66,19 @@ D) Çalışıyorum ben şimdi
 
 Как правильно сказать "Я сегодня иду в школу"?
 
-A) Okula gidiyorum bugün
+A) Gidiyorum okula bugün
 
-B) Bugün okula gidiyorum
+B) Okula gidiyorum bugün
 
-C) Gidiyorum bugün okula
+C) Bugün okula gidiyorum
 
-D) Gidiyorum okula bugün
+D) Gidiyorum bugün okula
 
 ---
 
 ## Question 6: Время суток
 
 Какое наречие означает "утром"?
-
-A) gece
-
-B) akşam
-
-C) öğle
-
-D) sabah
-
----
-
-## Question 7: Время суток
-
-Какое наречие означает "вечером"?
-
-A) sabah
-
-B) akşam
-
-C) gece
-
-D) öğle
-
----
-
-## Question 8: Вопрос
-
-Как правильно спросить "Когда ты работаешь?"?
-
-A) Nerede çalışıyorsun?
-
-B) Ne zaman çalışıyorsun?
-
-C) Nasıl çalışıyorsun?
-
-D) Ne çalışıyorsun?
-
----
-
-## Question 9: С подлежащим
-
-Как правильно сказать "Я сегодня работаю"?
-
-A) Ben çalışıyorum bugün
-
-B) Ben bugün çalışıyorum
-
-C) Çalışıyorum ben bugün
-
-D) Bugün ben çalışıyorum
-
----
-
-## Question 10: Ошибка
-
-Какая форма правильная для "я сейчас работаю"?
-
-A) Şimdi çalışıyorum
-
-B) Şimdi çalışıyorum ben
-
-C) Çalışıyorum şimdi
-
-D) Ben çalışıyorum şimdi
-
----
-
-## Question 11: Распорядок дня
-
-Как правильно сказать "Я встаю утром"?
-
-A) Kalkıyorum sabah
-
-B) Ben kalkıyorum sabah
-
-C) Sabah ben kalkıyorum
-
-D) Sabah kalkıyorum
-
----
-
-## Question 12: Полное предложение
-
-Выберите правильную форму предложения "Я завтра останусь дома":
-
-A) Evde kalacağım yarın
-
-B) Yarın evde kalacağım
-
-C) Yarın kalacağım evde
-
-D) Kalacağım yarın evde
-
----
-
-## Question 13: Вопрос о времени
-
-Как правильно спросить "Что ты сегодня делаешь?"?
-
-A) Bugün ne yapıyorsun?
-
-B) Yapıyorsun ne bugün?
-
-C) Ne yapıyorsun bugün?
-
-D) Ne bugün yapıyorsun?
-
----
-
-## Question 14: Разные времена
-
-Какое наречие правильно для прошедшего времени?
-
-A) yarın
-
-B) bugün
-
-C) dün
-
-D) şimdi
-
----
-
-## Question 15: Все наречия
-
-Какое наречие означает "ночью"?
 
 A) sabah
 
@@ -214,17 +90,143 @@ D) akşam
 
 ---
 
+## Question 7: Время суток
+
+Какое наречие означает "вечером"?
+
+A) gece
+
+B) sabah
+
+C) akşam
+
+D) öğle
+
+---
+
+## Question 8: Вопрос
+
+Как правильно спросить "Когда ты работаешь?"?
+
+A) Nasıl çalışıyorsun?
+
+B) Ne zaman çalışıyorsun?
+
+C) Ne çalışıyorsun?
+
+D) Nerede çalışıyorsun?
+
+---
+
+## Question 9: С подлежащим
+
+Как правильно сказать "Я сегодня работаю"?
+
+A) Çalışıyorum ben bugün
+
+B) Ben bugün çalışıyorum
+
+C) Bugün ben çalışıyorum
+
+D) Ben çalışıyorum bugün
+
+---
+
+## Question 10: Ошибка
+
+Какая форма правильная для "я сейчас работаю"?
+
+A) Çalışıyorum şimdi
+
+B) Şimdi çalışıyorum
+
+C) Ben çalışıyorum şimdi
+
+D) Şimdi çalışıyorum ben
+
+---
+
+## Question 11: Распорядок дня
+
+Как правильно сказать "Я встаю утром"?
+
+A) Sabah ben kalkıyorum
+
+B) Sabah kalkıyorum
+
+C) Ben kalkıyorum sabah
+
+D) Kalkıyorum sabah
+
+---
+
+## Question 12: Полное предложение
+
+Выберите правильную форму предложения "Я завтра останусь дома":
+
+A) Yarın evde kalacağım
+
+B) Kalacağım yarın evde
+
+C) Yarın kalacağım evde
+
+D) Evde kalacağım yarın
+
+---
+
+## Question 13: Вопрос о времени
+
+Как правильно спросить "Что ты сегодня делаешь?"?
+
+A) Yapıyorsun ne bugün?
+
+B) Ne bugün yapıyorsun?
+
+C) Bugün ne yapıyorsun?
+
+D) Ne yapıyorsun bugün?
+
+---
+
+## Question 14: Разные времена
+
+Какое наречие правильно для прошедшего времени?
+
+A) şimdi
+
+B) yarın
+
+C) bugün
+
+D) dün
+
+---
+
+## Question 15: Все наречия
+
+Какое наречие означает "ночью"?
+
+A) öğle
+
+B) sabah
+
+C) akşam
+
+D) gece
+
+---
+
 ## Question 16: Частота
 
 Какое наречие означает "всегда"?
 
 A) bazen
 
-B) nadiren
+B) hiç
 
-C) hiç
+C) her zaman
 
-D) her zaman
+D) nadiren
 
 ---
 
@@ -232,13 +234,13 @@ D) her zaman
 
 Как правильно сказать "Я завтра пойду в школу"?
 
-A) Okula gideceğim yarın
+A) Yarın okula gideceğim
 
-B) Yarın okula gideceğim
+B) Yarın gideceğim okula
 
-C) Gideceğim yarın okula
+C) Okula gideceğim yarın
 
-D) Yarın gideceğim okula
+D) Gideceğim yarın okula
 
 ---
 
@@ -246,11 +248,11 @@ D) Yarın gideceğim okula
 
 Как правильно сказать "Я вчера работал"?
 
-A) Dün çalıştım
+A) Dün çalışıyorum
 
-B) Çalıştım dün
+B) Dün çalıştım
 
-C) Dün çalışıyorum
+C) Çalıştım dün
 
 D) Çalışıyorum dün
 
@@ -260,13 +262,13 @@ D) Çalışıyorum dün
 
 Где обычно стоит наречие времени в турецком предложении?
 
-A) В конце предложения
+A) После глагола
 
-B) После глагола
+B) В начале предложения или после подлежащего
 
-C) В начале предложения или после подлежащего
+C) Между дополнением и глаголом
 
-D) Между дополнением и глаголом
+D) В конце предложения
 
 ---
 
@@ -278,9 +280,9 @@ A) Geleceksin ne zaman?
 
 B) Ne zaman geliyorsun?
 
-C) Ne zaman geleceksin?
+C) Geleceksin zaman ne?
 
-D) Geleceksin zaman ne?
+D) Ne zaman geleceksin?
 
 ---
 
@@ -290,26 +292,26 @@ D) Geleceksin zaman ne?
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | "Şimdi" означает "сейчас". |
-| 2 | A | "Bugün" означает "сегодня". |
-| 3 | D | "Yarın" означает "завтра". |
-| 4 | A | Наречие времени обычно в начале: Şimdi çalışıyorum. |
-| 5 | B | Правильный порядок: Bugün okula gidiyorum. |
-| 6 | D | "Sabah" означает "утром". |
-| 7 | B | "Akşam" означает "вечером". |
+| 1 | A | "Şimdi" означает "сейчас". |
+| 2 | B | "Bugün" означает "сегодня". |
+| 3 | A | "Yarın" означает "завтра". |
+| 4 | B | Наречие времени обычно в начале: Şimdi çalışıyorum. |
+| 5 | C | Правильный порядок: Bugün okula gidiyorum. |
+| 6 | A | "Sabah" означает "утром". |
+| 7 | C | "Akşam" означает "вечером". |
 | 8 | B | Вопрос о времени: Ne zaman çalışıyorsun? |
 | 9 | B | Правильный порядок: Ben bugün çalışıyorum. |
-| 10 | A | Наречие времени в начале: Şimdi çalışıyorum. |
-| 11 | D | Правильный порядок: Sabah kalkıyorum. |
-| 12 | B | Правильный порядок: Yarın evde kalacağım. |
-| 13 | A | Вопрос с наречием времени: Bugün ne yapıyorsun? |
-| 14 | C | "Dün" (вчера) используется с прошедшим временем. |
-| 15 | B | "Gece" означает "ночью". |
-| 16 | D | "Her zaman" означает "всегда". |
-| 17 | B | Правильный порядок: наречие времени + дополнение с падежом + глагол: Yarın okula gideceğim. |
-| 18 | A | С прошедшим временем используется наречие "dün": Dün çalıştım. |
-| 19 | C | Наречие времени обычно стоит в начале предложения или после подлежащего, но не в конце. |
-| 20 | C | Вопрос о времени с будущим временем: Ne zaman geleceksin? |
+| 10 | B | Наречие времени в начале: Şimdi çalışıyorum. |
+| 11 | B | Правильный порядок: Sabah kalkıyorum. |
+| 12 | A | Правильный порядок: Yarın evde kalacağım. |
+| 13 | C | Вопрос с наречием времени: Bugün ne yapıyorsun? |
+| 14 | D | "Dün" (вчера) используется с прошедшим временем. |
+| 15 | D | "Gece" означает "ночью". |
+| 16 | C | "Her zaman" означает "всегда". |
+| 17 | A | Правильный порядок: наречие времени + дополнение с падежом + глагол: Yarın okula gideceğim. |
+| 18 | B | С прошедшим временем используется наречие "dün": Dün çalıştım. |
+| 19 | B | Наречие времени обычно стоит в начале предложения или после подлежащего, но не в конце. |
+| 20 | D | Вопрос о времени с будущим временем: Ne zaman geleceksin? |
 
 ---
 

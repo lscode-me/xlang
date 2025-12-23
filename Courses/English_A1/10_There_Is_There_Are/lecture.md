@@ -134,6 +134,7 @@ There's milk in the fridge.
 ### 2.2 Примеры в разных ситуациях
 
 **Описание комнаты:**
+
 ```
 
 There is a bed in the bedroom.
@@ -147,6 +148,7 @@ There is a mirror on the wall.
 ```
 
 **Описание места:**
+
 ```
 
 There is a park near my house.
@@ -219,6 +221,7 @@ There are several shops on this street.
 ### 3.2 Примеры в разных ситуациях
 
 **Описание комнаты:**
+
 ```
 
 There are three bedrooms in my house.
@@ -232,6 +235,7 @@ There are many pictures on the walls.
 ```
 
 **Описание города:**
+
 ```
 
 There are five parks in our city.
@@ -291,6 +295,7 @@ There aren't any apples in the basket.
 Два способа выразить отсутствие:
 
 **1. There isn't/aren't + any:**
+
 ```
 
 There isn't any milk.
@@ -298,6 +303,7 @@ There aren't any students.
 ```
 
 **2. There is/are + no:**
+
 ```
 
 There is no milk.
@@ -559,6 +565,7 @@ There are three universities.
 ### 8.1 Пропуск артикля
 
 ❌ **Неправильно:**
+
 ```
 
 There is book on the table.
@@ -566,6 +573,7 @@ There is cat in the garden.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 There is a book on the table.
@@ -578,6 +586,7 @@ There is a cat in the garden.
 ### 8.2 Неправильный выбор is/are
 
 ❌ **Неправильно:**
+
 ```
 
 There is three books on the table.
@@ -585,6 +594,7 @@ There are a book on the table.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 There are three books on the table.
@@ -597,6 +607,7 @@ There is a book on the table.
 ### 8.3 Путаница there и it/they
 
 ❌ **Неправильно:**
+
 ```
 
 Is there a book on the table? - Yes, it is.
@@ -604,6 +615,7 @@ Are there any students? - Yes, they are.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Is there a book on the table? - Yes, there is.
@@ -616,12 +628,14 @@ Are there any students? - Yes, there are.
 ### 8.4 Использование "there" как "там"
 
 ❌ **Неправильно:**
+
 ```
 
 The book is there is. (пытаясь сказать "книга там")
 ```
 
 ✅ **Правильно:**
+
 ```
 
 The book is there. (книга там)
@@ -634,6 +648,7 @@ There is a book there. (там есть книга)
 ### 8.5 Двойное подлежащее
 
 ❌ **Неправильно:**
+
 ```
 
 There is a book it is on the table.
@@ -641,6 +656,7 @@ There are students they are in the classroom.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 There is a book on the table.

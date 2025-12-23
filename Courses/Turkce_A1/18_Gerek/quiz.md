@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Личное окончание
 
 Как правильно сказать "Мне нужно идти"?
 
-A) Gitmem gerek
+A) Gitmek gerek
 
-B) Gitmek seviyorum
+B) Gitmem gerek
 
-C) Gitmek istiyorum
+C) Gitmek seviyorum
 
-D) Gitmek gerek
+D) Gitmek istiyorum
 
 ---
 
@@ -24,11 +26,11 @@ D) Gitmek gerek
 
 A) Çalışmak seviyorsun
 
-B) Çalışmak istiyorsun
+B) Çalışmak gerek
 
-C) Çalışmak gerek
+C) Çalışman gerek
 
-D) Çalışman gerek
+D) Çalışmak istiyorsun
 
 ---
 
@@ -36,13 +38,13 @@ D) Çalışman gerek
 
 Как правильно сказать "Ему/Ей нужно читать"?
 
-A) Okumak gerek
+A) Okumak istiyor
 
-B) Okuması gerek
+B) Okumak seviyor
 
-C) Okumak istiyor
+C) Okuması gerek
 
-D) Okumak seviyor
+D) Okumak gerek
 
 ---
 
@@ -50,13 +52,13 @@ D) Okumak seviyor
 
 В чем разница между "Çalışmam gerek" и "Çalışmak istiyorum"?
 
-A) Нет разницы
+A) Первое - неправильная форма
 
-B) Первое - неправильная форма
+B) Второе - неправильная форма
 
-C) Второе - неправильная форма
+C) Первое - необходимость (нужно), второе - желание (хочу)
 
-D) Первое - необходимость (нужно), второе - желание (хочу)
+D) Нет разницы
 
 ---
 
@@ -66,11 +68,11 @@ D) Первое - необходимость (нужно), второе - жел
 
 A) Çalışmak seviyorum
 
-B) Çalışmam gerek
+B) Çalışmak istiyorum
 
-C) Çalışmak istiyorum
+C) Çalışmak gerek
 
-D) Çalışmak gerek
+D) Çalışmam gerek
 
 ---
 
@@ -78,13 +80,13 @@ D) Çalışmak gerek
 
 Как правильно спросить "Что тебе нужно делать?"?
 
-A) Ne yapmak gerek?
+A) Ne yapıyorsun gerek?
 
-B) Ne yapıyorsun gerek?
+B) Yapman ne gerek?
 
-C) Yapman ne gerek?
+C) Ne yapman gerek?
 
-D) Ne yapman gerek?
+D) Ne yapmak gerek?
 
 ---
 
@@ -92,13 +94,13 @@ D) Ne yapman gerek?
 
 Как правильно сказать "Мне сегодня нужно работать"?
 
-A) Ben bugün çalışmak istiyorum
+A) Ben bugün çalışmak seviyorum
 
-B) Ben bugün çalışmak seviyorum
+B) Ben bugün çalışmam gerek
 
-C) Ben bugün çalışmak gerek
+C) Ben bugün çalışmak istiyorum
 
-D) Ben bugün çalışmam gerek
+D) Ben bugün çalışmak gerek
 
 ---
 
@@ -110,9 +112,9 @@ A) Biz gitmek seviyoruz
 
 B) Biz gitmek gerek
 
-C) Biz gitmemiz gerek
+C) Biz gitmek istiyoruz
 
-D) Biz gitmek istiyoruz
+D) Biz gitmemiz gerek
 
 ---
 
@@ -120,13 +122,13 @@ D) Biz gitmek istiyoruz
 
 Как правильно сказать "Мне не нужно идти"?
 
-A) Gitmek sevmiyorum
+A) Gitmem gerek değil
 
-B) Gitmemem gerek
+B) Gitmek sevmiyorum
 
 C) Gitmek istemiyorum
 
-D) Gitmem gerek değil
+D) Gitmemem gerek
 
 ---
 
@@ -148,11 +150,11 @@ D) Ben kitap okumak istiyorum
 
 Как правильно сказать "Вам нужно работать"?
 
-A) Siz çalışmak seviyorsunuz
+A) Siz çalışmanız gerek
 
-B) Siz çalışmanız gerek
+B) Siz çalışmak gerek
 
-C) Siz çalışmak gerek
+C) Siz çalışmak seviyorsunuz
 
 D) Siz çalışmak istiyorsunuz
 
@@ -162,11 +164,11 @@ D) Siz çalışmak istiyorsunuz
 
 Как правильно образовать форму для первого лица от "yemek"?
 
-A) yemam gerek
+A) yemek gerek
 
-B) yemek gerek
+B) yemek istiyorum
 
-C) yemek istiyorum
+C) yemam gerek
 
 D) yemem gerek
 
@@ -176,13 +178,13 @@ D) yemem gerek
 
 Какое предложение правильно для "мне нужно работать"?
 
-A) Çalışmak istiyorum
+A) Çalışmak seviyorum
 
-B) Çalışmak seviyorum
+B) Çalışmak istiyorum
 
-C) Çalışmak gerek
+C) Çalışmam gerek
 
-D) Çalışmam gerek
+D) Çalışmak gerek
 
 ---
 
@@ -190,13 +192,13 @@ D) Çalışmam gerek
 
 Как правильно спросить "Куда тебе нужно идти?"?
 
-A) Nereye gidiyorsun gerek?
+A) Gitmen nereye gerek?
 
-B) Nereye gitmek gerek?
+B) Nereye gitmen gerek?
 
-C) Gitmen nereye gerek?
+C) Nereye gitmek gerek?
 
-D) Nereye gitmen gerek?
+D) Nereye gidiyorsun gerek?
 
 ---
 
@@ -206,9 +208,9 @@ D) Nereye gitmen gerek?
 
 A) Первое - неправильная форма
 
-B) Первое - необходимость (нужно), второе - желание (хочу)
+B) Второе - неправильная форма
 
-C) Второе - неправильная форма
+C) Первое - необходимость (нужно), второе - желание (хочу)
 
 D) Нет разницы
 
@@ -220,11 +222,11 @@ D) Нет разницы
 
 A) Onlar çalışmak gerek
 
-B) Onların çalışmaları gerek
+B) Onlar çalışmaları gerek
 
-C) Onlar çalışmak istiyorlar
+C) Onların çalışmaları gerek
 
-D) Onlar çalışmaları gerek
+D) Onlar çalışmak istiyorlar
 
 ---
 
@@ -232,13 +234,13 @@ D) Onlar çalışmaları gerek
 
 Как правильно сказать "Мне нужно пойти в школу"?
 
-A) Ben okula gitmem gerek
+A) Ben okulda gitmem gerek
 
-B) Ben okulda gitmem gerek
+B) Ben gitmem okula gerek
 
-C) Ben okul gitmem gerek
+C) Ben okula gitmem gerek
 
-D) Ben gitmem okula gerek
+D) Ben okul gitmem gerek
 
 ---
 
@@ -246,13 +248,13 @@ D) Ben gitmem okula gerek
 
 Как правильно спросить "Тебе нужно идти?"?
 
-A) Gitmen gerek mi?
+A) Gitmen mi gerek?
 
 B) Gitmek gerek mi?
 
-C) Gitmen mi gerek?
+C) Gitmek mi gerek?
 
-D) Gitmek mi gerek?
+D) Gitmen gerek mi?
 
 ---
 
@@ -260,13 +262,13 @@ D) Gitmek mi gerek?
 
 Какая форма инфинитива используется с gerek?
 
-A) Винительный падеж (-mayı/-meyi)
+A) Инфинитив с личным окончанием (-mam/-mem)
 
-B) Дательный падеж (-maya/-meye)
+B) Винительный падеж (-mayı/-meyi)
 
-C) Инфинитив с личным окончанием (-mam/-mem)
+C) Простой инфинитив (-mak/-mek)
 
-D) Простой инфинитив (-mak/-mek)
+D) Дательный падеж (-maya/-meye)
 
 ---
 
@@ -274,13 +276,13 @@ D) Простой инфинитив (-mak/-mek)
 
 Как правильно сказать "Тебе завтра нужно рано встать"?
 
-A) Sen yarın erken kalkman gerek
+A) Sen erken yarın kalkman gerek
 
-B) Sen yarın erken kalkmak gerek
+B) Sen yarın erken kalkman gerek
 
-C) Yarın sen erken kalkman gerek
+C) Sen yarın erken kalkmak gerek
 
-D) Sen erken yarın kalkman gerek
+D) Yarın sen erken kalkman gerek
 
 ---
 
@@ -290,26 +292,26 @@ D) Sen erken yarın kalkman gerek
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | С gerek используется инфинитив с личным окончанием: Gitmem gerek. |
-| 2 | D | Для второго лица: Çalışman gerek. |
-| 3 | B | Для третьего лица: Okuması gerek. |
-| 4 | D | "Gerek" - необходимость (нужно), "istiyorum" - желание (хочу). |
-| 5 | B | Правильная форма: Çalışmam gerek (инфинитив с личным окончанием). |
-| 6 | D | Вопрос о необходимости: Ne yapman gerek? |
-| 7 | D | Правильный порядок: Ben bugün çalışmam gerek. |
-| 8 | C | Для первого лица множественного числа: Biz gitmemiz gerek. |
-| 9 | B | Отрицание добавляется к инфинитиву с личным окончанием: Gitmemem gerek. |
+| 1 | B | С gerek используется инфинитив с личным окончанием: Gitmem gerek. |
+| 2 | C | Для второго лица: Çalışman gerek. |
+| 3 | C | Для третьего лица: Okuması gerek. |
+| 4 | C | "Gerek" - необходимость (нужно), "istiyorum" - желание (хочу). |
+| 5 | D | Правильная форма: Çalışmam gerek (инфинитив с личным окончанием). |
+| 6 | C | Вопрос о необходимости: Ne yapman gerek? |
+| 7 | B | Правильный порядок: Ben bugün çalışmam gerek. |
+| 8 | D | Для первого лица множественного числа: Biz gitmemiz gerek. |
+| 9 | D | Отрицание добавляется к инфинитиву с личным окончанием: Gitmemem gerek. |
 | 10 | B | Правильный порядок: Ben kitap okumam gerek. |
-| 11 | B | Для второго лица множественного числа: Siz çalışmanız gerek. |
+| 11 | A | Для второго лица множественного числа: Siz çalışmanız gerek. |
 | 12 | D | Для первого лица от "yemek": yemem gerek. |
-| 13 | D | С gerek используется инфинитив с личным окончанием: Çalışmam gerek. |
-| 14 | D | Вопрос о необходимости: Nereye gitmen gerek? |
-| 15 | B | "Gerek" - необходимость (нужно), "istiyorum" - желание (хочу). |
-| 16 | B | Для третьего лица множественного числа используется форма с притяжательным окончанием: Onların çalışmaları gerek. |
-| 17 | A | Правильный порядок: дополнение с падежом + инфинитив с личным окончанием + gerek: Ben okula gitmem gerek. |
-| 18 | A | Вопросительная частица добавляется к gerek: Gitmen gerek mi? |
-| 19 | C | С gerek используется инфинитив с личным окончанием (-mam/-mem, -man/-men и т.д.), а не винительный или дательный падеж. |
-| 20 | A | Правильный порядок: обстоятельство времени + инфинитив с личным окончанием + gerek: Sen yarın erken kalkman gerek. |
+| 13 | C | С gerek используется инфинитив с личным окончанием: Çalışmam gerek. |
+| 14 | B | Вопрос о необходимости: Nereye gitmen gerek? |
+| 15 | C | "Gerek" - необходимость (нужно), "istiyorum" - желание (хочу). |
+| 16 | C | Для третьего лица множественного числа используется форма с притяжательным окончанием: Onların çalışmaları gerek. |
+| 17 | C | Правильный порядок: дополнение с падежом + инфинитив с личным окончанием + gerek: Ben okula gitmem gerek. |
+| 18 | D | Вопросительная частица добавляется к gerek: Gitmen gerek mi? |
+| 19 | A | С gerek используется инфинитив с личным окончанием (-mam/-mem, -man/-men и т.д.), а не винительный или дательный падеж. |
+| 20 | B | Правильный порядок: обстоятельство времени + инфинитив с личным окончанием + gerek: Sen yarın erken kalkman gerek. |
 
 ---
 

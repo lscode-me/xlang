@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор падежа
 
 Как правильно сказать "Я люблю писать рассказы"?
 
-A) Hikaye yazmak seviyorum
+A) Hikaye yazma seviyorum
 
-B) Hikaye yazmayı seviyorum
+B) Hikaye yazması seviyorum
 
-C) Hikaye yazma seviyorum
+C) Hikaye yazmak seviyorum
 
-D) Hikaye yazması seviyorum
+D) Hikaye yazmayı seviyorum
 
 ---
 
@@ -22,13 +23,13 @@ D) Hikaye yazması seviyorum
 
 Как правильно сказать "Я начал изучать французский"?
 
-A) Fransızca öğrenmek başladım
+A) Fransızca öğrenme başladım
 
 B) Fransızca öğrenmeye başladım
 
-C) Fransızca öğrenme başladım
+C) Fransızca öğrenmesi başladım
 
-D) Fransızca öğrenmesi başladım
+D) Fransızca öğrenmek başladım
 
 ---
 
@@ -36,13 +37,13 @@ D) Fransızca öğrenmesi başladım
 
 Как правильно сказать "Я решил пойти в театр"?
 
-A) Tiyatroya gitmek karar verdim
+A) Tiyatroya gitmesi karar verdim
 
 B) Tiyatroya gitmeye karar verdim
 
-C) Tiyatroya gitme karar verdim
+C) Tiyatroya gitmek karar verdim
 
-D) Tiyatroya gitmesi karar verdim
+D) Tiyatroya gitme karar verdim
 
 ---
 
@@ -50,13 +51,13 @@ D) Tiyatroya gitmesi karar verdim
 
 Как правильно сказать "Мне нравится плавать"?
 
-A) Yüzmek hoşlanıyorum
+A) Yüzme hoşlanıyorum
 
-B) Yüzmeyi hoşlanıyorum
+B) Yüzmesi hoşlanıyorum
 
-C) Yüzme hoşlanıyorum
+C) Yüzmek hoşlanıyorum
 
-D) Yüzmesi hoşlanıyorum
+D) Yüzmeyi hoşlanıyorum
 
 ---
 
@@ -64,13 +65,13 @@ D) Yüzmesi hoşlanıyorum
 
 Как правильно сказать "Я предпочитаю работать"?
 
-A) Çalışmak tercih ediyorum
+A) Çalışmayı tercih ediyorum
 
-B) Çalışmayı tercih ediyorum
+B) Çalışma tercih ediyorum
 
-C) Çalışma tercih ediyorum
+C) Çalışması tercih ediyorum
 
-D) Çalışması tercih ediyorum
+D) Çalışmak tercih ediyorum
 
 ---
 
@@ -83,13 +84,13 @@ Hikaye _____ seviyorum.
 Я люблю писать рассказы.
 ```
 
-A) yazmak
+A) yazma
 
-B) yazmayı
+B) yazmak
 
-C) yazma
+C) yazması
 
-D) yazması
+D) yazmayı
 
 ---
 
@@ -102,13 +103,13 @@ Fransızca _____ başladım.
 Я начал изучать французский.
 ```
 
-A) öğrenmek
+A) öğrenmesi
 
-B) öğrenmeye
+B) öğrenme
 
-C) öğrenme
+C) öğrenmeye
 
-D) öğrenmesi
+D) öğrenmek
 
 ---
 
@@ -135,11 +136,11 @@ D) gitmesi
 
 Какой падеж используется после глагола sevmek (любить)?
 
-A) Именительный
+A) Дательный (-maya/-meye)
 
 B) Винительный (-mayı/-meyi)
 
-C) Дательный (-maya/-meye)
+C) Именительный
 
 D) Исходный (-madan/-meden)
 
@@ -149,13 +150,13 @@ D) Исходный (-madan/-meden)
 
 Какой падеж используется после глагола başlamak (начинать)?
 
-A) Именительный
+A) Винительный (-mayı/-meyi)
 
-B) Винительный (-mayı/-meyi)
+B) Исходный (-madan/-meden)
 
 C) Дательный (-maya/-meye)
 
-D) Исходный (-madan/-meden)
+D) Именительный
 
 ---
 
@@ -163,11 +164,11 @@ D) Исходный (-madan/-meden)
 
 Какой падеж используется после глагола karar vermek (решать)?
 
-A) Именительный
+A) Дательный (-maya/-meye)
 
-B) Винительный (-mayı/-meyi)
+B) Именительный
 
-C) Дательный (-maya/-meye)
+C) Винительный (-mayı/-meyi)
 
 D) Исходный (-madan/-meden)
 
@@ -179,11 +180,11 @@ D) Исходный (-madan/-meden)
 
 A) Винительный для начала действия, дательный для объекта
 
-B) Винительный для объекта, дательный для начала действия
+B) Винительный для прошедшего, дательный для будущего
 
 C) Нет отличия
 
-D) Винительный для прошедшего, дательный для будущего
+D) Винительный для объекта, дательный для начала действия
 
 ---
 
@@ -191,13 +192,13 @@ D) Винительный для прошедшего, дательный для
 
 Как правильно сказать "Я продолжил читать"?
 
-A) Okumak devam ettim
+A) Okumayı devam ettim
 
-B) Okumayı devam ettim
+B) Okuması devam ettim
 
 C) Okumaya devam ettim
 
-D) Okuması devam ettim
+D) Okumak devam ettim
 
 ---
 
@@ -205,13 +206,13 @@ D) Okuması devam ettim
 
 Как правильно сказать "Я хочу видеть его"?
 
-A) Onu görmek istiyorum
+A) Onu görmesi istiyorum
 
 B) Onu görmeyi istiyorum
 
 C) Onu görme istiyorum
 
-D) Onu görmesi istiyorum
+D) Onu görmek istiyorum
 
 ---
 
@@ -224,13 +225,13 @@ D) Onu görmesi istiyorum
 Я предпочитаю работать.
 ```
 
-A) tercih
+A) karar ver
 
-B) başla
+B) devam et
 
-C) karar ver
+C) başla
 
-D) devam et
+D) tercih
 
 ---
 
@@ -243,13 +244,13 @@ D) devam et
 Я начал работать.
 ```
 
-A) tercih
+A) başla
 
-B) başla
+B) devam et
 
-C) karar ver
+C) tercih
 
-D) devam et
+D) karar ver
 
 ---
 
@@ -257,9 +258,9 @@ D) devam et
 
 Как правильно сказать "Я ненавижу рано вставать"?
 
-A) Erken kalkmak nefret ediyorum
+A) Erken kalkmayı nefret ediyorum
 
-B) Erken kalkmayı nefret ediyorum
+B) Erken kalkmak nefret ediyorum
 
 C) Erken kalkma nefret ediyorum
 
@@ -271,13 +272,13 @@ D) Erken kalkması nefret ediyorum
 
 Какие глаголы требуют винительного падежа с формой -ma?
 
-A) başlamak, devam etmek, karar vermek
+A) bilmek, görmek, anlamak
 
 B) sevmek, istemek, hoşlanmak
 
 C) gelmek, gitmek, olmak
 
-D) bilmek, görmek, anlamak
+D) başlamak, devam etmek, karar vermek
 
 ---
 
@@ -285,13 +286,13 @@ D) bilmek, görmek, anlamak
 
 Какие глаголы требуют дательного падежа с формой -ma?
 
-A) sevmek, istemek, hoşlanmak
+A) başlamak, devam etmek, karar vermek
 
-B) başlamak, devam etmek, karar vermek
+B) gelmek, gitmek, olmak
 
-C) gelmek, gitmek, olmak
+C) bilmek, görmek, anlamak
 
-D) bilmek, görmek, anlamak
+D) sevmek, istemek, hoşlanmak
 
 ---
 
@@ -299,11 +300,11 @@ D) bilmek, görmek, anlamak
 
 Как правильно сказать "Я хочу научиться играть на пианино"?
 
-A) Piyano çalmak öğrenmek istiyorum
+A) Piyano çalmaya başlamak istiyorum
 
-B) Piyano çalmayı öğrenmek istiyorum
+B) Piyano çalmak öğrenmek istiyorum
 
-C) Piyano çalmaya başlamak istiyorum
+C) Piyano çalmayı öğrenmek istiyorum
 
 D) Piyano çalması öğrenmek istiyorum
 
@@ -320,11 +321,11 @@ Müzik dinlemeyi _____ ediyorum.
 
 A) tercih
 
-B) başla
+B) devam et
 
-C) karar ver
+C) başla
 
-D) devam et
+D) karar ver
 
 ---
 
@@ -332,13 +333,13 @@ D) devam et
 
 Как правильно сказать "Я избегаю лгать"?
 
-A) Yalan söylemek kaçınıyorum
+A) Yalan söylemeye kaçınıyorum
 
-B) Yalan söylemeyi kaçınıyorum
+B) Yalan söylemesi kaçınıyorum
 
-C) Yalan söylemeye kaçınıyorum
+C) Yalan söylemek kaçınıyorum
 
-D) Yalan söylemesi kaçınıyorum
+D) Yalan söylemeyi kaçınıyorum
 
 ---
 
@@ -348,11 +349,11 @@ D) Yalan söylemesi kaçınıyorum
 
 A) Для начала действия
 
-B) Для прямого объекта действия
+B) Для продолжения действия
 
-C) Для продолжения действия
+C) Для решения о действии
 
-D) Для решения о действии
+D) Для прямого объекта действия
 
 ---
 
@@ -360,13 +361,13 @@ D) Для решения о действии
 
 Когда используется дательный падеж с формой -ma?
 
-A) Для прямого объекта действия
+A) Для прошедшего действия
 
-B) Для начала, продолжения или решения о действии
+B) Для будущего действия
 
-C) Для прошедшего действия
+C) Для начала, продолжения или решения о действии
 
-D) Для будущего действия
+D) Для прямого объекта действия
 
 ---
 
@@ -384,34 +385,36 @@ D) Spor yapması başlamak karar verdim
 
 ---
 
+---
+
 ## Answer Key
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Hikaye yazmayı seviyorum |
+| 1 | D | Hikaye yazmayı seviyorum |
 | 2 | B | Fransızca öğrenmeye başladım |
 | 3 | B | Tiyatroya gitmeye karar verdim |
-| 4 | B | Yüzmeyi hoşlanıyorum |
-| 5 | B | Çalışmayı tercih ediyorum |
-| 6 | B | yazmayı |
-| 7 | B | öğrenmeye |
+| 4 | D | Yüzmeyi hoşlanıyorum |
+| 5 | A | Çalışmayı tercih ediyorum |
+| 6 | D | yazmayı |
+| 7 | C | öğrenmeye |
 | 8 | B | gitmeye |
 | 9 | B | Винительный (-mayı/-meyi) |
 | 10 | C | Дательный (-maya/-meye) |
-| 11 | C | Дательный (-maya/-meye) |
-| 12 | B | Винительный для объекта, дательный для начала действия |
+| 11 | A | Дательный (-maya/-meye) |
+| 12 | D | Винительный для объекта, дательный для начала действия |
 | 13 | C | Okumaya devam ettim |
 | 14 | B | Onu görmeyi istiyorum |
-| 15 | A | tercih |
-| 16 | B | başla |
-| 17 | B | Erken kalkmayı nefret ediyorum |
+| 15 | D | tercih |
+| 16 | A | başla |
+| 17 | A | Erken kalkmayı nefret ediyorum |
 | 18 | B | sevmek, istemek, hoşlanmak |
-| 19 | B | başlamak, devam etmek, karar vermek |
-| 20 | B | Piyano çalmayı öğrenmek istiyorum - винительный падеж для объекта действия |
+| 19 | A | başlamak, devam etmek, karar vermek |
+| 20 | C | Piyano çalmayı öğrenmek istiyorum - винительный падеж для объекта действия |
 | 21 | A | tercih |
-| 22 | B | Yalan söylemeyi kaçınıyorum |
-| 23 | B | Для прямого объекта действия |
-| 24 | B | Для начала, продолжения или решения о действии |
+| 22 | D | Yalan söylemeyi kaçınıyorum |
+| 23 | D | Для прямого объекта действия |
+| 24 | C | Для начала, продолжения или решения о действии |
 | 25 | C | Spor yapmaya başlamak karar verdim - дательный падеж для решения о действии |
 
 ---

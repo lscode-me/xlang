@@ -488,6 +488,7 @@ This is hers book. ✗ (ОШИБКА!)
 ### 6.1 Путаница ITS и IT'S
 
 ❌ **Неправильно:**
+
 ```
 
 The cat eats it's food. (it's = it is)
@@ -495,6 +496,7 @@ Its a nice day. (неправильно)
 ```
 
 ✅ **Правильно:**
+
 ```
 
 The cat eats its food.
@@ -512,6 +514,7 @@ It's a nice day. (It's = It is)
 ### 6.2 Использование артикля с притяжательным прилагательным
 
 ❌ **Неправильно:**
+
 ```
 
 This is the my book.
@@ -520,6 +523,7 @@ The our house is big.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 This is my book.
@@ -538,6 +542,7 @@ Our house is big.
 ### 6.3 Забывают апостроф в притяжательном падеже
 
 ❌ **Неправильно:**
+
 ```
 
 Johns car
@@ -546,6 +551,7 @@ the teachers book
 ```
 
 ✅ **Правильно:**
+
 ```
 
 John's car
@@ -561,6 +567,7 @@ the teacher's book
 ### 6.4 Неправильный порядок слов
 
 ❌ **Неправильно:**
+
 ```
 
 Book my is interesting.
@@ -569,6 +576,7 @@ The house of my father is big.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 My book is interesting.
@@ -584,6 +592,7 @@ My father's house is big.
 ### 6.5 Путаница HER и HERS
 
 ❌ **Неправильно:**
+
 ```
 
 This is hers book.
@@ -591,6 +600,7 @@ The book is her.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 This is her book.
@@ -606,6 +616,7 @@ HER + существительное, HERS без существительног
 ### 6.6 Добавление существительного после притяжательного местоимения
 
 ❌ **Неправильно:**
+
 ```
 
 This book is mine book.
@@ -614,6 +625,7 @@ The house is theirs house.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 This book is mine.

@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Выбор артикля A
 
 Выберите правильный вариант:
@@ -14,13 +16,13 @@ I have ___ cat.
 У меня есть кот.
 ```
 
-A) -
+A) the
 
 B) an
 
-C) a
+C) -
 
-D) the
+D) a
 
 ---
 
@@ -34,13 +36,13 @@ She wants to eat ___ apple.
 Она хочет съесть яблоко.
 ```
 
-A) -
+A) an
 
 B) the
 
 C) a
 
-D) an
+D) -
 
 ---
 
@@ -56,11 +58,11 @@ ___ hour
 
 A) an
 
-B) the
+B) a
 
-C) -
+C) the
 
-D) a
+D) -
 
 ---
 
@@ -74,13 +76,13 @@ I have a dog. ___ dog is black.
 У меня есть собака. Собака черная.
 ```
 
-A) A
+A) The
 
-B) An
+B) A
 
-C) -
+C) An
 
-D) The
+D) -
 
 ---
 
@@ -93,11 +95,11 @@ D) The
 Он врач.
 ```
 
-A) He is a doctor.
+A) He is doctor.
 
 B) He is an doctor.
 
-C) He is doctor.
+C) He is a doctor.
 
 D) He is the doctor.
 
@@ -115,11 +117,11 @@ I like ___ coffee.
 
 A) the
 
-B) -
+B) a
 
 C) an
 
-D) a
+D) -
 
 ---
 
@@ -133,13 +135,13 @@ ___ university
 университет
 ```
 
-A) -
+A) an
 
-B) the
+B) -
 
 C) a
 
-D) an
+D) the
 
 ---
 
@@ -155,9 +157,9 @@ ___ sun is hot.
 
 A) An
 
-B) The
+B) -
 
-C) -
+C) The
 
 D) A
 
@@ -172,13 +174,13 @@ D) A
 Я живу в России.
 ```
 
-A) I live in a Russia.
+A) I live in Russia.
 
-B) I live in the Russia.
+B) I live in an Russia.
 
-C) I live in Russia.
+C) I live in the Russia.
 
-D) I live in an Russia.
+D) I live in a Russia.
 
 ---
 
@@ -192,13 +194,13 @@ I like ___ books.
 Я люблю книги.
 ```
 
-A) the
+A) an
 
-B) -
+B) the
 
 C) a
 
-D) an
+D) -
 
 ---
 
@@ -212,11 +214,11 @@ I see ___ cat. ___ cat is white.
 Я вижу кота. Кот белый.
 ```
 
-A) the, the
+A) a, the
 
-B) a, a
+B) the, the
 
-C) a, the
+C) a, a
 
 D) the, a
 
@@ -233,9 +235,9 @@ D) the, a
 
 A) She plays the piano.
 
-B) She plays piano.
+B) She plays an piano.
 
-C) She plays an piano.
+C) She plays piano.
 
 D) She plays a piano.
 
@@ -251,11 +253,11 @@ I study on ___ Monday.
 Я учусь в понедельник.
 ```
 
-A) an
+A) the
 
 B) a
 
-C) the
+C) an
 
 D) -
 
@@ -271,13 +273,13 @@ ___ honest man
 честный человек
 ```
 
-A) -
+A) a
 
-B) an
+B) the
 
-C) the
+C) an
 
-D) a
+D) -
 
 ---
 
@@ -305,13 +307,13 @@ ___ moon is beautiful tonight.
 Луна прекрасна сегодня вечером.
 ```
 
-A) An
+A) The
 
-B) A
+B) -
 
-C) -
+C) A
 
-D) The
+D) An
 
 ---
 
@@ -325,13 +327,13 @@ ___ European country
 европейская страна
 ```
 
-A) -
+A) an
 
-B) a
+B) the
 
-C) an
+C) -
 
-D) the
+D) a
 
 ---
 
@@ -346,11 +348,11 @@ D) the
 
 A) I have a breakfast at 8.
 
-B) I have breakfast at 8.
+B) I have the breakfast at 8.
 
 C) I have an breakfast at 8.
 
-D) I have the breakfast at 8.
+D) I have breakfast at 8.
 
 ---
 
@@ -364,13 +366,13 @@ ___ Himalayas are ___ highest mountains.
 Гималаи - самые высокие горы.
 ```
 
-A) The, the
+A) A, the
 
-B) -, the
+B) The, the
 
-C) -, -
+C) -, the
 
-D) A, the
+D) -, -
 
 ---
 
@@ -384,11 +386,11 @@ ___ dogs are friendly animals.
 Собаки - дружелюбные животные.
 ```
 
-A) The
+A) An
 
-B) -
+B) The
 
-C) An
+C) -
 
 D) A
 
@@ -400,26 +402,26 @@ D) A
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ A. |
-| 2 | D | Правильный ответ B. |
+| 1 | D | Правильный ответ A. |
+| 2 | A | Правильный ответ B. |
 | 3 | A | Правильный ответ B. |
-| 4 | D | Правильный ответ C. |
-| 5 | A | Правильный ответ B. |
-| 6 | B | Правильный ответ D. |
+| 4 | A | Правильный ответ C. |
+| 5 | C | Правильный ответ B. |
+| 6 | D | Правильный ответ D. |
 | 7 | C | Правильный ответ A. |
-| 8 | B | Правильный ответ C. |
-| 9 | C | Правильный ответ D. |
-| 10 | B | Правильный ответ D. |
-| 11 | C | Правильный ответ B. |
+| 8 | C | Правильный ответ C. |
+| 9 | A | Правильный ответ D. |
+| 10 | D | Правильный ответ D. |
+| 11 | A | Правильный ответ B. |
 | 12 | A | Правильный ответ C. |
 | 13 | D | Правильный ответ D. |
-| 14 | B | Правильный ответ B. |
+| 14 | C | Правильный ответ B. |
 | 15 | C | Правильный ответ B. |
-| 16 | D | Правильный ответ C. |
-| 17 | B | Правильный ответ A. |
-| 18 | B | Правильный ответ D. |
-| 19 | A | Правильный ответ A. |
-| 20 | B | Правильный ответ D. |
+| 16 | A | Правильный ответ C. |
+| 17 | D | Правильный ответ A. |
+| 18 | D | Правильный ответ D. |
+| 19 | B | Правильный ответ A. |
+| 20 | C | Правильный ответ D. |
 
 ---
 

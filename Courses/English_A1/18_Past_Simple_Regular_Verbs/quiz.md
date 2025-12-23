@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Образование Past Simple
 
 Как образуется Past Simple правильных глаголов?
 
-A) глагол + -ed
+A) to + глагол
 
-B) глагол + -s
+B) глагол + -ing
 
-C) to + глагол
+C) глагол + -s
 
-D) глагол + -ing
+D) глагол + -ed
 
 ---
 
@@ -27,13 +29,13 @@ D) глагол + -ing
 Я работал вчера.
 ```
 
-A) I worked yesterday.
+A) I works yesterday.
 
-B) I working yesterday.
+B) I worked yesterday.
 
-C) I works yesterday.
+C) I work yesterday.
 
-D) I work yesterday.
+D) I working yesterday.
 
 ---
 
@@ -46,13 +48,13 @@ D) I work yesterday.
 live (жить) → прошедшее время
 ```
 
-A) lived
+A) livied
 
-B) livied
+B) lived
 
-C) livd
+C) liveed
 
-D) liveed
+D) livd
 
 ---
 
@@ -67,11 +69,11 @@ study (учиться) → прошедшее время
 
 A) studyed
 
-B) studied
+B) studyied
 
-C) studyied
+C) studed
 
-D) studed
+D) studied
 
 ---
 
@@ -84,13 +86,13 @@ D) studed
 play (играть) → прошедшее время
 ```
 
-A) plaied
+A) plaid
 
-B) played
+B) playd
 
-C) playd
+C) plaied
 
-D) plaid
+D) played
 
 ---
 
@@ -103,13 +105,13 @@ D) plaid
 stop (останавливаться) → прошедшее время
 ```
 
-A) stopped
+A) stopied
 
-B) stopt
+B) stoped
 
-C) stoped
+C) stopt
 
-D) stopied
+D) stopped
 
 ---
 
@@ -122,13 +124,13 @@ D) stopied
 Я не работал вчера.
 ```
 
-A) I not worked yesterday.
+A) I wasn't work yesterday.
 
-B) I didn't work yesterday.
+B) I didn't worked yesterday.
 
-C) I didn't worked yesterday.
+C) I not worked yesterday.
 
-D) I wasn't work yesterday.
+D) I didn't work yesterday.
 
 ---
 
@@ -141,13 +143,13 @@ D) I wasn't work yesterday.
 Ты смотрел телевизор?
 ```
 
-A) You watched TV?
+A) Were you watch TV?
 
-B) Were you watch TV?
+B) Did you watched TV?
 
-C) Did you watch TV?
+C) You watched TV?
 
-D) Did you watched TV?
+D) Did you watch TV?
 
 ---
 
@@ -160,11 +162,11 @@ D) Did you watched TV?
 Did she call you? — Yes, ___.
 ```
 
-A) Yes, she called.
+A) Yes, she does.
 
-B) Yes, she did.
+B) Yes, she called.
 
-C) Yes, she does.
+C) Yes, she did.
 
 D) Yes, she was.
 
@@ -179,13 +181,13 @@ D) Yes, she was.
 Did they play football? — No, ___.
 ```
 
-A) No, they weren't.
+A) No, they don't.
 
-B) No, they didn't.
+B) No, they weren't.
 
 C) No, they not.
 
-D) No, they don't.
+D) No, they didn't.
 
 ---
 
@@ -193,13 +195,13 @@ D) No, they don't.
 
 Выберите правильное предложение:
 
-A) He did worked yesterday.
+A) He works yesterday.
 
-B) He workeds yesterday.
+B) He worked yesterday.
 
-C) He works yesterday.
+C) He workeds yesterday.
 
-D) He worked yesterday.
+D) He did worked yesterday.
 
 ---
 
@@ -212,13 +214,13 @@ D) He worked yesterday.
 Что ты делал вчера?
 ```
 
-A) What did you do yesterday?
+A) What did you did yesterday?
 
-B) What did you did yesterday?
+B) What were you do yesterday?
 
-C) What you did yesterday?
+C) What did you do yesterday?
 
-D) What were you do yesterday?
+D) What you did yesterday?
 
 ---
 
@@ -228,11 +230,11 @@ D) What were you do yesterday?
 
 A) I work yesterday.
 
-B) I works yesterday.
+B) I am working yesterday.
 
-C) I worked yesterday.
+C) I works yesterday.
 
-D) I am working yesterday.
+D) I worked yesterday.
 
 ---
 
@@ -240,11 +242,11 @@ D) I am working yesterday.
 
 В каком слове -ed произносится как [ɪd]?
 
-A) played [pleɪd]
+A) worked [wɜːkt]
 
-B) worked [wɜːkt]
+B) wanted [ˈwɒntɪd]
 
-C) wanted [ˈwɒntɪd]
+C) played [pleɪd]
 
 D) loved [lʌvd]
 
@@ -254,13 +256,13 @@ D) loved [lʌvd]
 
 Какое предложение НЕПРАВИЛЬНОЕ?
 
-A) She studied English last week.
+A) Did you worked yesterday?
 
-B) They didn't play football.
+B) She studied English last week.
 
-C) Did you worked yesterday?
+C) I watched TV yesterday.
 
-D) I watched TV yesterday.
+D) They didn't play football.
 
 ---
 
@@ -273,13 +275,13 @@ D) I watched TV yesterday.
 Я посетил моих бабушку и дедушку.
 ```
 
-A) I visit my grandparents.
+A) I visits my grandparents.
 
-B) I visits my grandparents.
+B) I visit my grandparents.
 
-C) I visited my grandparents.
+C) I visiting my grandparents.
 
-D) I visiting my grandparents.
+D) I visited my grandparents.
 
 ---
 
@@ -292,11 +294,11 @@ D) I visiting my grandparents.
 Когда ты закончил домашнее задание?
 ```
 
-A) When you finished your homework?
+A) When were you finish your homework?
 
-B) When were you finish your homework?
+B) When did you finished your homework?
 
-C) When did you finished your homework?
+C) When you finished your homework?
 
 D) When did you finish your homework?
 
@@ -311,13 +313,13 @@ D) When did you finish your homework?
 Она не готовила ужин вчера.
 ```
 
-A) She didn't cooked dinner yesterday.
+A) She not cooked dinner yesterday.
 
-B) She didn't cook dinner yesterday.
+B) She wasn't cook dinner yesterday.
 
-C) She not cooked dinner yesterday.
+C) She didn't cooked dinner yesterday.
 
-D) She wasn't cook dinner yesterday.
+D) She didn't cook dinner yesterday.
 
 ---
 
@@ -330,13 +332,13 @@ D) She wasn't cook dinner yesterday.
 try (пытаться) → прошедшее время
 ```
 
-A) tried
+A) tryed
 
-B) tryed
+B) tryd
 
 C) tryied
 
-D) tryed
+D) tried
 
 ---
 
@@ -349,13 +351,13 @@ D) tryed
 Вчера я убрал свою комнату и помог маме.
 ```
 
-A) Yesterday I cleaned my room and help my mom.
+A) Yesterday I cleaned my room and helped my mom.
 
-B) Yesterday I clean my room and help my mom.
+B) Yesterday I cleaned my room and help my mom.
 
-C) Yesterday I did clean my room and did help my mom.
+C) Yesterday I clean my room and help my mom.
 
-D) Yesterday I cleaned my room and helped my mom.
+D) Yesterday I did clean my room and did help my mom.
 
 ---
 
@@ -365,26 +367,26 @@ D) Yesterday I cleaned my room and helped my mom.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ C. |
-| 2 | A | Правильный ответ C. |
-| 3 | A | Правильный ответ B. |
-| 4 | B | Правильный ответ C. |
-| 5 | B | Правильный ответ C. |
-| 6 | A | Правильный ответ B. |
-| 7 | B | Правильный ответ B. |
-| 8 | C | Правильный ответ B. |
-| 9 | B | Правильный ответ C. |
-| 10 | B | Правильный ответ A. |
-| 11 | D | Правильный ответ B. |
-| 12 | A | Правильный ответ B. |
-| 13 | C | Правильный ответ C. |
-| 14 | C | Правильный ответ C. |
-| 15 | C | Правильный ответ C. |
-| 16 | C | Правильный ответ B. |
+| 1 | D | Правильный ответ C. |
+| 2 | B | Правильный ответ C. |
+| 3 | B | Правильный ответ B. |
+| 4 | D | Правильный ответ C. |
+| 5 | D | Правильный ответ C. |
+| 6 | D | Правильный ответ B. |
+| 7 | D | Правильный ответ B. |
+| 8 | D | Правильный ответ B. |
+| 9 | C | Правильный ответ C. |
+| 10 | D | Правильный ответ A. |
+| 11 | B | Правильный ответ B. |
+| 12 | C | Правильный ответ B. |
+| 13 | D | Правильный ответ C. |
+| 14 | B | Правильный ответ C. |
+| 15 | A | Правильный ответ C. |
+| 16 | D | Правильный ответ B. |
 | 17 | D | Правильный ответ C. |
-| 18 | B | Правильный ответ D. |
-| 19 | A | Правильный ответ C. |
-| 20 | D | Правильный ответ B. |
+| 18 | D | Правильный ответ D. |
+| 19 | D | Правильный ответ C. |
+| 20 | A | Правильный ответ B. |
 
 ---
 

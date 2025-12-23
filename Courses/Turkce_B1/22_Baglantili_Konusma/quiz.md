@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор связки
 
 Как правильно сказать "Сначала я позавтракал, потом пошел на работу"?
 
-A) Önce kahvaltı yaptım, sonra işe gittim
+A) Sonunda kahvaltı yaptım, sonra işe gittim
 
 B) Sonra kahvaltı yaptım, önce işe gittim
 
-C) Sonunda kahvaltı yaptım, sonra işe gittim
+C) Ardından kahvaltı yaptım, sonra işe gittim
 
-D) Ardından kahvaltı yaptım, sonra işe gittim
+D) Önce kahvaltı yaptım, sonra işe gittim
 
 ---
 
@@ -22,11 +23,11 @@ D) Ardından kahvaltı yaptım, sonra işe gittim
 
 Как правильно сказать "Я много работал, поэтому устал"?
 
-A) Çok çalıştım, önce yoruldum
+A) Çok çalıştım, bu nedenle yoruldum
 
 B) Çok çalıştım, sonra yoruldum
 
-C) Çok çalıştım, bu nedenle yoruldum
+C) Çok çalıştım, önce yoruldum
 
 D) Çok çalıştım, sonunda yoruldum
 
@@ -41,13 +42,13 @@ D) Çok çalıştım, sonunda yoruldum
 Сначала я позавтракал, затем пошел на работу.
 ```
 
-A) önce
+A) ardından
 
-B) sonra
+B) önce
 
-C) sonunda
+C) sonra
 
-D) ardından
+D) sonunda
 
 ---
 
@@ -57,9 +58,9 @@ D) ardından
 
 A) önce
 
-B) sonra
+B) sonunda
 
-C) sonunda
+C) sonra
 
 D) ardından
 
@@ -69,13 +70,13 @@ D) ardından
 
 Какая связка используется для выражения причинно-следственной связи "поэтому"?
 
-A) önce
+A) bu nedenle
 
-B) sonra
+B) önce
 
-C) bu nedenle
+C) sonunda
 
-D) sonunda
+D) sonra
 
 ---
 
@@ -85,11 +86,11 @@ D) sonunda
 
 A) Hem çalışıyorum hem okuyorum
 
-B) Ne çalışıyorum ne okuyorum
+B) Çalışıyorum ama okuyorum
 
-C) Çalışıyorum ve okuyorum
+C) Ne çalışıyorum ne okuyorum
 
-D) Çalışıyorum ama okuyorum
+D) Çalışıyorum ve okuyorum
 
 ---
 
@@ -97,13 +98,13 @@ D) Çalışıyorum ama okuyorum
 
 Как правильно сказать "Я работаю, но не устаю"?
 
-A) Çalışıyorum ve yorulmuyorum
+A) Çalışıyorum hem yorulmuyorum
 
-B) Çalışıyorum ama yorulmuyorum
+B) Çalışıyorum ve yorulmuyorum
 
-C) Çalışıyorum hem yorulmuyorum
+C) Çalışıyorum ne yorulmuyorum
 
-D) Çalışıyorum ne yorulmuyorum
+D) Çalışıyorum ama yorulmuyorum
 
 ---
 
@@ -130,13 +131,13 @@ D) sonunda
 
 Какая связка используется для соединения действий "и... и..."?
 
-A) hem... hem...
+A) ve
 
-B) ne... ne...
+B) hem... hem...
 
-C) ve
+C) ama
 
-D) ama
+D) ne... ne...
 
 ---
 
@@ -144,13 +145,13 @@ D) ama
 
 Как правильно сказать "Кроме того, я очень устал"?
 
-A) Önce çok yoruldum
+A) Ayrıca çok yoruldum
 
 B) Sonra çok yoruldum
 
-C) Ayrıca çok yoruldum
+C) Sonunda çok yoruldum
 
-D) Sonunda çok yoruldum
+D) Önce çok yoruldum
 
 ---
 
@@ -158,13 +159,13 @@ D) Sonunda çok yoruldum
 
 Как правильно сказать "Однако будет трудно"?
 
-A) Ama zor olacak
+A) Lakin zor olacak
 
 B) Ancak zor olacak
 
-C) Fakat zor olacak
+C) Ama zor olacak
 
-D) Lakin zor olacak
+D) Fakat zor olacak
 
 ---
 
@@ -177,13 +178,13 @@ Hem çalışıyorum hem okuyorum, _____ spor yapıyorum.
 И работаю, и учусь, кроме того занимаюсь спортом.
 ```
 
-A) önce
+A) sonunda
 
-B) sonra
+B) ayrıca
 
-C) ayrıca
+C) sonra
 
-D) sonunda
+D) önce
 
 ---
 
@@ -191,13 +192,13 @@ D) sonunda
 
 Какая связка используется для противопоставления "но"?
 
-A) hem... hem...
+A) ne... ne...
 
-B) ne... ne...
+B) hem... hem...
 
-C) ve
+C) ama
 
-D) ama
+D) ve
 
 ---
 
@@ -207,11 +208,11 @@ D) ama
 
 A) önce
 
-B) sonra
+B) sonunda
 
 C) ayrıca
 
-D) sonunda
+D) sonra
 
 ---
 
@@ -219,13 +220,13 @@ D) sonunda
 
 Как правильно сказать "Сначала я поработал, затем отдохнул"?
 
-A) İlk önce çalıştım, ardından dinlendim
+A) İlk önce dinlendim, ardından çalıştım
 
-B) İlk önce dinlendim, ardından çalıştım
+B) Sonra çalıştım, ardından dinlendim
 
 C) Sonunda çalıştım, ardından dinlendim
 
-D) Sonra çalıştım, ardından dinlendim
+D) İlk önce çalıştım, ardından dinlendim
 
 ---
 
@@ -233,13 +234,13 @@ D) Sonra çalıştım, ardından dinlendim
 
 Как правильно сказать "Поэтому я не пришел"?
 
-A) Önce gelmedim
+A) Sonunda gelmedim
 
 B) Sonra gelmedim
 
-C) Bu yüzden gelmedim
+C) Önce gelmedim
 
-D) Sonunda gelmedim
+D) Bu yüzden gelmedim
 
 ---
 
@@ -252,9 +253,9 @@ D) Sonunda gelmedim
 Я работаю, но не устаю.
 ```
 
-A) ve
+A) ama
 
-B) ama
+B) ve
 
 C) hem
 
@@ -266,11 +267,11 @@ D) ne
 
 Какая связка используется для выражения "ни... ни..."?
 
-A) hem... hem...
+A) ne... ne...
 
-B) ne... ne...
+B) ve
 
-C) ve
+C) hem... hem...
 
 D) ama
 
@@ -282,11 +283,11 @@ D) ama
 
 A) Hem çalışıyorum hem dinleniyorum
 
-B) Ne çalışıyorum ne dinleniyorum
+B) Çalışıyorum ve dinleniyorum
 
-C) Çalışıyorum ve dinleniyorum
+C) Çalışıyorum ama dinleniyorum
 
-D) Çalışıyorum ama dinleniyorum
+D) Ne çalışıyorum ne dinleniyorum
 
 ---
 
@@ -299,13 +300,13 @@ D) Çalışıyorum ama dinleniyorum
 Сначала я поработал, затем отдохнул.
 ```
 
-A) önce
+A) ardından
 
-B) sonra
+B) sonunda
 
-C) ardından
+C) önce
 
-D) sonunda
+D) sonra
 
 ---
 
@@ -313,13 +314,13 @@ D) sonunda
 
 Какая связка используется для выражения "наконец"?
 
-A) önce
+A) sonunda
 
 B) sonra
 
 C) ardından
 
-D) sonunda
+D) önce
 
 ---
 
@@ -327,13 +328,13 @@ D) sonunda
 
 Как правильно сказать "Погода была холодная, поэтому мы не вышли на улицу"?
 
-A) Hava soğuktu, önce dışarı çıkmadık
+A) Hava soğuktu, sonunda dışarı çıkmadık
 
 B) Hava soğuktu, sonra dışarı çıkmadık
 
-C) Hava soğuktu, bu yüzden dışarı çıkmadık
+C) Hava soğuktu, önce dışarı çıkmadık
 
-D) Hava soğuktu, sonunda dışarı çıkmadık
+D) Hava soğuktu, bu yüzden dışarı çıkmadık
 
 ---
 
@@ -348,11 +349,11 @@ Bu yüzden _____.
 
 A) gelmedim
 
-B) geldim
+B) geliyorum
 
-C) geliyorum
+C) geleceğim
 
-D) geleceğim
+D) geldim
 
 ---
 
@@ -360,11 +361,11 @@ D) geleceğim
 
 Для чего используются связующие слова в тексте?
 
-A) Для выражения времени
+A) Для выражения причины
 
 B) Для организации текста и показа логики
 
-C) Для выражения причины
+C) Для выражения времени
 
 D) Для выражения цели
 
@@ -374,13 +375,15 @@ D) Для выражения цели
 
 Как правильно сказать "Я работаю и учусь, кроме того слушаю музыку"?
 
-A) Çalışıyorum ve okuyorum, önce müzik dinliyorum
+A) Çalışıyorum ve okuyorum, ayrıca müzik dinliyorum
 
-B) Çalışıyorum ve okuyorum, sonra müzik dinliyorum
+B) Çalışıyorum ve okuyorum, sonunda müzik dinliyorum
 
-C) Çalışıyorum ve okuyorum, ayrıca müzik dinliyorum
+C) Çalışıyorum ve okuyorum, sonra müzik dinliyorum
 
-D) Çalışıyorum ve okuyorum, sonunda müzik dinliyorum
+D) Çalışıyorum ve okuyorum, önce müzik dinliyorum
+
+---
 
 ---
 
@@ -388,31 +391,31 @@ D) Çalışıyorum ve okuyorum, sonunda müzik dinliyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Önce kahvaltı yaptım, sonra işe gittim |
-| 2 | C | Çok çalıştım, bu nedenle yoruldum |
-| 3 | B | sonra |
-| 4 | B | sonra |
-| 5 | C | bu nedenle |
+| 1 | D | Önce kahvaltı yaptım, sonra işe gittim |
+| 2 | A | Çok çalıştım, bu nedenle yoruldum |
+| 3 | C | sonra |
+| 4 | C | sonra |
+| 5 | A | bu nedenle |
 | 6 | A | Hem çalışıyorum hem okuyorum |
-| 7 | B | Çalışıyorum ama yorulmuyorum |
+| 7 | D | Çalışıyorum ama yorulmuyorum |
 | 8 | C | bu nedenle |
-| 9 | A | hem... hem... |
-| 10 | C | Ayrıca çok yoruldum |
+| 9 | B | hem... hem... |
+| 10 | A | Ayrıca çok yoruldum |
 | 11 | B | Ancak zor olacak |
-| 12 | C | ayrıca |
-| 13 | D | ama |
+| 12 | B | ayrıca |
+| 13 | C | ama |
 | 14 | C | ayrıca |
-| 15 | A | İlk önce çalıştım, ardından dinlendim |
-| 16 | C | Bu yüzden gelmedim |
-| 17 | B | ama |
-| 18 | B | ne... ne... |
-| 19 | B | Ne çalışıyorum ne dinleniyorum |
-| 20 | C | ardından |
-| 21 | D | sonunda |
-| 22 | C | Hava soğuktu, bu yüzden dışarı çıkmadık |
+| 15 | D | İlk önce çalıştım, ardından dinlendim |
+| 16 | D | Bu yüzden gelmedim |
+| 17 | A | ama |
+| 18 | A | ne... ne... |
+| 19 | D | Ne çalışıyorum ne dinleniyorum |
+| 20 | A | ardından |
+| 21 | A | sonunda |
+| 22 | D | Hava soğuktu, bu yüzden dışarı çıkmadık |
 | 23 | A | gelmedim |
 | 24 | B | Для организации текста и показа логики |
-| 25 | C | Çalışıyorum ve okuyorum, ayrıca müzik dinliyorum |
+| 25 | A | Çalışıyorum ve okuyorum, ayrıca müzik dinliyorum |
 
 ---
 

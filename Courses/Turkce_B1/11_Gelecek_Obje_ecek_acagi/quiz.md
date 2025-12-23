@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я не знаю, что я сделаю завтра"?
 
-A) Yarın ne yapmak bilmiyorum
+A) Yarın ne yapma bilmiyorum
 
-B) Yarın ne yapma bilmiyorum
+B) Yarın ne yapması bilmiyorum
 
-C) Yarın ne yapacağımı bilmiyorum
+C) Yarın ne yapmak bilmiyorum
 
-D) Yarın ne yapması bilmiyorum
+D) Yarın ne yapacağımı bilmiyorum
 
 ---
 
@@ -22,13 +23,13 @@ D) Yarın ne yapması bilmiyorum
 
 Как правильно сказать "Мы выбрали место, куда поедем"?
 
-A) Gideceğimiz yeri seçtik
+A) Gideceğimiz yere seçtik
 
-B) Gideceğimiz yer seçtik
+B) Gideceğimiz yerden seçtik
 
-C) Gideceğimiz yere seçtik
+C) Gideceğimiz yeri seçtik
 
-D) Gideceğimiz yerden seçtik
+D) Gideceğimiz yer seçtik
 
 ---
 
@@ -41,13 +42,13 @@ Yarın ne _____ bilmiyorum.
 Я не знаю, что я скажу завтра.
 ```
 
-A) söylemek
+A) söyleme
 
-B) söyleme
+B) söylemek
 
-C) söyleyeceğimi
+C) söylemesi
 
-D) söylemesi
+D) söyleyeceğimi
 
 ---
 
@@ -69,11 +70,11 @@ D) Абстрактное действие
 
 Какое значение имеет форма -ecek/-acağı?
 
-A) "то, что сделал/сделала..."
+A) "то, что делает..."
 
 B) "то, что сделает/сделает..."
 
-C) "то, что делает..."
+C) "то, что сделал/сделала..."
 
 D) "то, что будет делать..."
 
@@ -83,13 +84,13 @@ D) "то, что будет делать..."
 
 Как правильно сказать "Я выбрал место, куда поеду"?
 
-A) Gideceğim yeri seçtim
+A) Gideceğim yere seçtim
 
-B) Gideceğim yer seçtim
+B) Gideceğim yeri seçtim
 
-C) Gideceğim yere seçtim
+C) Gideceğim yerden seçtim
 
-D) Gideceğim yerden seçtim
+D) Gideceğim yer seçtim
 
 ---
 
@@ -97,13 +98,13 @@ D) Gideceğim yerden seçtim
 
 Как правильно сказать "Ты выбрал место, куда поедешь"?
 
-A) Gideceğin yeri seçtin
+A) Gideceğin yere seçtin
 
 B) Gideceğin yer seçtin
 
-C) Gideceğin yere seçtin
+C) Gideceğin yerden seçtin
 
-D) Gideceğin yerden seçtin
+D) Gideceğin yeri seçtin
 
 ---
 
@@ -116,11 +117,11 @@ Gideceğimiz _____ seçtik.
 Мы выбрали место, куда поедем.
 ```
 
-A) yeri
+A) yer
 
-B) yer
+B) yere
 
-C) yere
+C) yeri
 
 D) yerden
 
@@ -130,13 +131,13 @@ D) yerden
 
 Какой притяжательный суффикс используется для первого лица единственного числа с формой -ecek?
 
-A) -ğim
+A) -ği
 
-B) -ğin
+B) -ğim
 
-C) -ği
+C) -ğimiz
 
-D) -ğimiz
+D) -ğin
 
 ---
 
@@ -146,11 +147,11 @@ D) -ğimiz
 
 A) Остается "k"
 
-B) Меняется на "ğ"
+B) Исчезает
 
-C) Меняется на "g"
+C) Меняется на "ğ"
 
-D) Исчезает
+D) Меняется на "g"
 
 ---
 
@@ -158,13 +159,13 @@ D) Исчезает
 
 Как правильно сказать "Я знаю, что он сделает"?
 
-A) Ne yapmak biliyorum
+A) Ne yapması biliyorum
 
-B) Ne yapma biliyorum
+B) Ne yapacağını biliyorum
 
-C) Ne yapacağını biliyorum
+C) Ne yapma biliyorum
 
-D) Ne yapması biliyorum
+D) Ne yapmak biliyorum
 
 ---
 
@@ -172,13 +173,13 @@ D) Ne yapması biliyorum
 
 Как правильно сказать "Я планирую, что сделаю"?
 
-A) Ne yapmak planlıyorum
+A) Ne yapma planlıyorum
 
-B) Ne yapma planlıyorum
+B) Ne yapması planlıyorum
 
-C) Ne yapacağımı planlıyorum
+C) Ne yapmak planlıyorum
 
-D) Ne yapması planlıyorum
+D) Ne yapacağımı planlıyorum
 
 ---
 
@@ -195,9 +196,9 @@ A) yapmak
 
 B) yapma
 
-C) yapacağını
+C) yapması
 
-D) yapması
+D) yapacağını
 
 ---
 
@@ -205,13 +206,13 @@ D) yapması
 
 В чем отличие -ecek от -ma?
 
-A) -ecek для прошедшего, -ma для будущего
+A) -ecek для настоящего, -ma для прошедшего
 
-B) -ecek для будущего как определения, -ma для будущего как желания
+B) Нет отличия
 
-C) Нет отличия
+C) -ecek для прошедшего, -ma для будущего
 
-D) -ecek для настоящего, -ma для прошедшего
+D) -ecek для будущего как определения, -ma для будущего как желания
 
 ---
 
@@ -219,13 +220,13 @@ D) -ecek для настоящего, -ma для прошедшего
 
 В чем отличие -ecek от -dik?
 
-A) -ecek для прошедшего, -dik для будущего
+A) -ecek для будущего, -dik для прошедшего
 
-B) -ecek для будущего, -dik для прошедшего
+B) -ecek для настоящего, -dik для будущего
 
-C) Нет отличия
+C) -ecek для прошедшего, -dik для будущего
 
-D) -ecek для настоящего, -dik для будущего
+D) Нет отличия
 
 ---
 
@@ -237,9 +238,9 @@ A) Ne yapmak bilmiyorum
 
 B) Ne yapma bilmiyorum
 
-C) Ne yapacağını bilmiyorum
+C) Ne yapması bilmiyorum
 
-D) Ne yapması bilmiyorum
+D) Ne yapacağını bilmiyorum
 
 ---
 
@@ -247,13 +248,13 @@ D) Ne yapması bilmiyorum
 
 Как правильно сказать "Мы не выбрали место, куда поедем"?
 
-A) Gideceğimiz yeri seçmedik
+A) Gideceğimiz yere seçmedik
 
 B) Gideceğimiz yer seçmedik
 
-C) Gideceğimiz yere seçmedik
+C) Gideceğimiz yerden seçmedik
 
-D) Gideceğimiz yerden seçmedik
+D) Gideceğimiz yeri seçmedik
 
 ---
 
@@ -266,13 +267,13 @@ Ne _____ planlıyorum.
 Я планирую, что сделаю.
 ```
 
-A) yapmak
+A) yapması
 
-B) yapma
+B) yapacağımı
 
-C) yapacağımı
+C) yapmak
 
-D) yapması
+D) yapma
 
 ---
 
@@ -282,11 +283,11 @@ D) yapması
 
 A) gelmek, gitmek, olmak
 
-B) bilmek, planlamak, seçmek
+B) başlamak, devam etmek, karar vermek
 
-C) sevmek, hoşlanmak, tercih etmek
+C) bilmek, planlamak, seçmek
 
-D) başlamak, devam etmek, karar vermek
+D) sevmek, hoşlanmak, tercih etmek
 
 ---
 
@@ -294,13 +295,13 @@ D) başlamak, devam etmek, karar vermek
 
 Как правильно сказать "Он не планирует, что сделает"?
 
-A) Ne yapmak planlamıyor
+A) Ne yapacağını planlamıyor
 
-B) Ne yapma planlamıyor
+B) Ne yapmak planlamıyor
 
-C) Ne yapacağını planlamıyor
+C) Ne yapması planlamıyor
 
-D) Ne yapması planlamıyor
+D) Ne yapma planlamıyor
 
 ---
 
@@ -310,11 +311,11 @@ D) Ne yapması planlamıyor
 
 A) Gidecekleri yeri seçtim
 
-B) Gidecekleri yer seçtim
+B) Gidecekleri yerden seçtim
 
-C) Gidecekleri yere seçtim
+C) Gidecekleri yer seçtim
 
-D) Gidecekleri yerden seçtim
+D) Gidecekleri yere seçtim
 
 ---
 
@@ -329,9 +330,9 @@ Gidecekleri _____ seçtim.
 
 A) yeri
 
-B) yer
+B) yere
 
-C) yere
+C) yer
 
 D) yerden
 
@@ -343,11 +344,11 @@ D) yerden
 
 A) Нет, субъект не обязателен
 
-B) Да, субъект обязателен через притяжательный суффикс
+B) Субъект обязателен только для первого лица
 
 C) Субъект обязателен только для третьего лица
 
-D) Субъект обязателен только для первого лица
+D) Да, субъект обязателен через притяжательный суффикс
 
 ---
 
@@ -355,13 +356,13 @@ D) Субъект обязателен только для первого лиц
 
 Как правильно сказать "Я знаю, что они сделают"?
 
-A) Ne yapmak biliyorum
+A) Ne yapacaklarını biliyorum
 
 B) Ne yapma biliyorum
 
-C) Ne yapacaklarını biliyorum
+C) Ne yapması biliyorum
 
-D) Ne yapması biliyorum
+D) Ne yapmak biliyorum
 
 ---
 
@@ -373,9 +374,11 @@ A) -mak
 
 B) -mayı/-meyi
 
-C) -ması/-mesi
+C) -ecek/-acağı
 
-D) -ecek/-acağı
+D) -ması/-mesi
+
+---
 
 ---
 
@@ -383,31 +386,31 @@ D) -ecek/-acağı
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Yarın ne yapacağımı bilmiyorum |
-| 2 | A | Gideceğimiz yeri seçtik |
-| 3 | C | söyleyeceğimi |
+| 1 | D | Yarın ne yapacağımı bilmiyorum |
+| 2 | C | Gideceğimiz yeri seçtik |
+| 3 | D | söyleyeceğimi |
 | 4 | B | Будущее действие как объект |
 | 5 | B | "то, что сделает/сделает..." |
-| 6 | A | Gideceğim yeri seçtim |
-| 7 | A | Gideceğin yeri seçtin |
-| 8 | A | yeri |
-| 9 | A | -ğim |
-| 10 | B | Меняется на "ğ" |
-| 11 | C | Ne yapacağını biliyorum |
-| 12 | C | Ne yapacağımı planlıyorum |
-| 13 | C | yapacağını |
-| 14 | B | -ecek для будущего как определения, -ma для будущего как желания |
-| 15 | B | -ecek для будущего, -dik для прошедшего |
-| 16 | C | Ne yapacağını bilmiyorum |
-| 17 | A | Gideceğimiz yeri seçmedik |
-| 18 | C | yapacağımı |
-| 19 | B | bilmek, planlamak, seçmek |
-| 20 | C | Ne yapacağını planlamıyor |
+| 6 | B | Gideceğim yeri seçtim |
+| 7 | D | Gideceğin yeri seçtin |
+| 8 | C | yeri |
+| 9 | B | -ğim |
+| 10 | C | Меняется на "ğ" |
+| 11 | B | Ne yapacağını biliyorum |
+| 12 | D | Ne yapacağımı planlıyorum |
+| 13 | D | yapacağını |
+| 14 | D | -ecek для будущего как определения, -ma для будущего как желания |
+| 15 | A | -ecek для будущего, -dik для прошедшего |
+| 16 | D | Ne yapacağını bilmiyorum |
+| 17 | D | Gideceğimiz yeri seçmedik |
+| 18 | B | yapacağımı |
+| 19 | C | bilmek, planlamak, seçmek |
+| 20 | A | Ne yapacağını planlamıyor |
 | 21 | A | Gidecekleri yeri seçtim |
 | 22 | A | yeri |
-| 23 | B | Да, субъект обязателен через притяжательный суффикс |
-| 24 | C | Ne yapacaklarını biliyorum |
-| 25 | D | -ecek/-acağı |
+| 23 | D | Да, субъект обязателен через притяжательный суффикс |
+| 24 | A | Ne yapacaklarını biliyorum |
+| 25 | C | -ecek/-acağı |
 
 ---
 

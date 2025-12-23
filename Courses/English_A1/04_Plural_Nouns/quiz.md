@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Добавление -S
 
 Выберите правильную форму множественного числа:
@@ -16,11 +18,11 @@ book - ?
 
 A) bookes
 
-B) bookz
+B) book
 
-C) books
+C) bookz
 
-D) book
+D) books
 
 ---
 
@@ -28,13 +30,13 @@ D) book
 
 Какое слово требует окончания -es?
 
-A) dog
+A) box
 
-B) pen
+B) cat
 
-C) box
+C) pen
 
-D) cat
+D) dog
 
 ---
 
@@ -48,13 +50,13 @@ city - ?
 город - города
 ```
 
-A) cities
+A) city
 
-B) cityes
+B) citys
 
-C) city
+C) cities
 
-D) citys
+D) cityes
 
 ---
 
@@ -68,13 +70,13 @@ boy - ?
 мальчик - мальчики
 ```
 
-A) boies
+A) boyes
 
-B) boyes
+B) boys
 
 C) boies
 
-D) boys
+D) boyies
 
 ---
 
@@ -88,13 +90,13 @@ child - ?
 ребенок - дети
 ```
 
-A) childrens
+A) children
 
-B) childs
+B) childes
 
-C) children
+C) childs
 
-D) childes
+D) childrens
 
 ---
 
@@ -107,11 +109,11 @@ D) childes
 Три мужчины
 ```
 
-A) three men
+A) three mans
 
-B) three mens
+B) three men
 
-C) three mans
+C) three mens
 
 D) three man
 
@@ -127,13 +129,13 @@ knife - ?
 нож - ножи
 ```
 
-A) knifes
+A) knifs
 
-B) knives
+B) knifees
 
-C) knifs
+C) knifes
 
-D) knifees
+D) knives
 
 ---
 
@@ -166,13 +168,13 @@ D) tomatoies
 Одна овца - пять овец
 ```
 
-A) one sheep - five sheeps
+A) one sheep - five sheepes
 
-B) one sheep - five sheepes
+B) one sheep - five sheeps
 
-C) one sheep - five ships
+C) one sheep - five sheep
 
-D) one sheep - five sheep
+D) one sheep - five ships
 
 ---
 
@@ -185,13 +187,13 @@ D) one sheep - five sheep
 У меня болят ступни.
 ```
 
-A) My foot hurt.
+A) My feet hurt.
 
 B) My feets hurt.
 
 C) My foots hurt.
 
-D) My feet hurt.
+D) My foot hurt.
 
 ---
 
@@ -205,13 +207,13 @@ class - ?
 класс - классы
 ```
 
-A) classen
+A) class
 
-B) class
+B) classes
 
 C) classs
 
-D) classes
+D) classen
 
 ---
 
@@ -224,13 +226,13 @@ D) classes
 Две женщины
 ```
 
-A) two women
+A) two womens
 
-B) two woman
+B) two women
 
-C) two womans
+C) two woman
 
-D) two womens
+D) two womans
 
 ---
 
@@ -244,13 +246,13 @@ ___ books are interesting.
 Эти книги интересные.
 ```
 
-A) This
+A) That
 
-B) That
+B) Those
 
-C) These
+C) This
 
-D) Those
+D) These
 
 ---
 
@@ -258,13 +260,13 @@ D) Those
 
 Какое предложение правильное?
 
-A) I need two bottles of water.
+A) I need two breads.
 
-B) I need two informations.
+B) I need two waters.
 
-C) I need two breads.
+C) I need two informations.
 
-D) I need two waters.
+D) I need two bottles of water.
 
 ---
 
@@ -272,11 +274,11 @@ D) I need two waters.
 
 После какого звука окончание -s произносится как [ɪz]?
 
-A) После k в books
+A) После sh в dishes
 
-B) После b в clubs
+B) После k в books
 
-C) После sh в dishes
+C) После b в clubs
 
 D) После g в dogs
 
@@ -311,13 +313,13 @@ bench - ?
 скамейка - скамейки
 ```
 
-A) benchies
+A) benches
 
 B) benchs
 
-C) bench
+C) benchies
 
-D) benches
+D) bench
 
 ---
 
@@ -332,11 +334,11 @@ D) benches
 
 A) My tooths hurt.
 
-B) My teeth hurt.
+B) My tooth hurt.
 
-C) My tooth hurt.
+C) My teeths hurt.
 
-D) My teeths hurt.
+D) My teeth hurt.
 
 ---
 
@@ -350,13 +352,13 @@ life - ?
 жизнь - жизни
 ```
 
-A) lives
+A) lifees
 
 B) lifes
 
-C) lifees
+C) lifves
 
-D) lifves
+D) lives
 
 ---
 
@@ -370,11 +372,11 @@ video - ?
 видео - видео (мн.ч.)
 ```
 
-A) videos
+A) video
 
-B) videoies
+B) videos
 
-C) video
+C) videoies
 
 D) videoes
 
@@ -386,26 +388,26 @@ D) videoes
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ B. |
-| 2 | C | Правильный ответ C. |
-| 3 | A | Правильный ответ B. |
-| 4 | D | Правильный ответ C. |
-| 5 | C | Правильный ответ C. |
-| 6 | A | Правильный ответ B. |
-| 7 | B | Правильный ответ C. |
+| 1 | D | Правильный ответ B. |
+| 2 | A | Правильный ответ C. |
+| 3 | C | Правильный ответ B. |
+| 4 | B | Правильный ответ C. |
+| 5 | A | Правильный ответ C. |
+| 6 | B | Правильный ответ B. |
+| 7 | D | Правильный ответ C. |
 | 8 | A | Правильный ответ B. |
-| 9 | D | Правильный ответ B. |
-| 10 | D | Правильный ответ C. |
-| 11 | D | Правильный ответ B. |
-| 12 | A | Правильный ответ C. |
-| 13 | C | Правильный ответ C. |
-| 14 | A | Правильный ответ C. |
-| 15 | C | Правильный ответ C. |
+| 9 | C | Правильный ответ B. |
+| 10 | A | Правильный ответ C. |
+| 11 | B | Правильный ответ B. |
+| 12 | B | Правильный ответ C. |
+| 13 | D | Правильный ответ C. |
+| 14 | D | Правильный ответ C. |
+| 15 | A | Правильный ответ C. |
 | 16 | A | Правильный ответ D. |
-| 17 | D | Правильный ответ B. |
-| 18 | B | Правильный ответ B. |
-| 19 | A | Правильный ответ C. |
-| 20 | A | Правильный ответ B. |
+| 17 | A | Правильный ответ B. |
+| 18 | D | Правильный ответ B. |
+| 19 | D | Правильный ответ C. |
+| 20 | B | Правильный ответ B. |
 
 ---
 

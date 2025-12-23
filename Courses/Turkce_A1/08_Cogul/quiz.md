@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Выбор суффикса
 
 Какой суффикс используется для слова "kitap" (книга)?
 
-A) -lar
+A) -ler/-lar (оба правильные)
 
-B) -ler/-lar (оба правильные)
+B) -lar
 
-C) Множественное число не образуется
+C) -ler
 
-D) -ler
+D) Множественное число не образуется
 
 ---
 
@@ -22,13 +24,13 @@ D) -ler
 
 Какой суффикс используется для слова "öğrenci" (студент)?
 
-A) -lar
+A) Множественное число не образуется
 
 B) -ler/-lar (оба правильные)
 
-C) Множественное число не образуется
+C) -ler
 
-D) -ler
+D) -lar
 
 ---
 
@@ -36,13 +38,13 @@ D) -ler
 
 Какой суффикс используется для слова "ev" (дом)?
 
-A) -lar
+A) -ler/-lar (оба правильные)
 
-B) -ler/-lar (оба правильные)
+B) -lar
 
-C) Множественное число не образуется
+C) -ler
 
-D) -ler
+D) Множественное число не образуется
 
 ---
 
@@ -66,11 +68,11 @@ D) Множественное число не образуется
 
 A) evlerler
 
-B) evs
+B) evlar
 
-C) evlar
+C) evler
 
-D) evler
+D) evs
 
 ---
 
@@ -78,13 +80,13 @@ D) evler
 
 Как правильно образовать множественное число от "masa" (стол)?
 
-A) masaler
+A) masalarlar
 
-B) masas
+B) masalar
 
-C) masalar
+C) masaler
 
-D) masalarlar
+D) masas
 
 ---
 
@@ -92,13 +94,13 @@ D) masalarlar
 
 Как правильно сказать "Эти книги"?
 
-A) Kitap bu
+A) Bunlar kitap
 
-B) Bu kitaplar
+B) Bu kitap
 
-C) Bu kitap
+C) Bu kitaplar
 
-D) Bunlar kitap
+D) Kitap bu
 
 ---
 
@@ -106,13 +108,13 @@ D) Bunlar kitap
 
 Как правильно сказать "Эти студенты"?
 
-A) Bunlar öğrenci
+A) Öğrenci bu
 
 B) Bu öğrenci
 
 C) Bu öğrenciler
 
-D) Öğrenci bu
+D) Bunlar öğrenci
 
 ---
 
@@ -120,13 +122,13 @@ D) Öğrenci bu
 
 Как правильно сказать "Большие дома"?
 
-A) Evler büyükler
+A) Büyükler ev
 
 B) Büyük evler
 
-C) Büyükler ev
+C) Büyük ev
 
-D) Büyük ev
+D) Evler büyükler
 
 ---
 
@@ -134,13 +136,13 @@ D) Büyük ev
 
 Как правильно сказать "Студенты работают"?
 
-A) Öğrenci çalışıyorlar
+A) Öğrenciler çalışıyor
 
-B) Öğrenciler çalışıyorlar
+B) Öğrenci çalışıyor
 
-C) Öğrenci çalışıyor
+C) Öğrenciler çalışıyorlar
 
-D) Öğrenciler çalışıyor
+D) Öğrenci çalışıyorlar
 
 ---
 
@@ -148,13 +150,13 @@ D) Öğrenciler çalışıyor
 
 От чего зависит выбор между -ler и -lar?
 
-A) От длины слова
+A) От первой гласной слова
 
-B) От последней гласной слова
+B) От длины слова
 
-C) От согласной в конце слова
+C) От последней гласной слова
 
-D) От первой гласной слова
+D) От согласной в конце слова
 
 ---
 
@@ -164,11 +166,11 @@ D) От первой гласной слова
 
 A) Bu ne?
 
-B) Bunlar ne?
+B) Ne bu?
 
-C) Bunlar nedir?
+C) Bunlar ne?
 
-D) Ne bu?
+D) Bunlar nedir?
 
 ---
 
@@ -178,11 +180,11 @@ D) Ne bu?
 
 A) öğrenciler
 
-B) öğrencilar
+B) öğrencilerler
 
-C) öğrencis
+C) öğrencilar
 
-D) öğrencilerler
+D) öğrencis
 
 ---
 
@@ -192,11 +194,11 @@ D) öğrencilerler
 
 A) Ev şu
 
-B) Şu ev
+B) Şunlar ev
 
-C) Şunlar ev
+C) Şu evler
 
-D) Şu evler
+D) Şu ev
 
 ---
 
@@ -206,11 +208,11 @@ D) Şu evler
 
 kalem → _____
 
-A) kalems
+A) kalemler
 
-B) kalemlerler
+B) kalems
 
-C) kalemler
+C) kalemlerler
 
 D) kalemlar
 
@@ -224,9 +226,9 @@ A) evde
 
 B) evlerde
 
-C) evlarda
+C) evlerinde
 
-D) evlerinde
+D) evlarda
 
 ---
 
@@ -234,13 +236,13 @@ D) evlerinde
 
 Как правильно сказать "три книги"?
 
-A) üç kitaplar
+A) kitaplar üç
 
-B) üç kitap
+B) üçler kitap
 
-C) kitaplar üç
+C) üç kitaplar
 
-D) üçler kitap
+D) üç kitap
 
 ---
 
@@ -248,13 +250,13 @@ D) üçler kitap
 
 Какая форма правильная для "мы"?
 
-A) ben
+A) siz
 
-B) sen
+B) ben
 
 C) biz
 
-D) siz
+D) sen
 
 ---
 
@@ -264,13 +266,13 @@ D) siz
 
 adam (человек) → _____
 
-A) adamler
+A) adams
 
 B) adamlar
 
-C) adamer
+C) adamler
 
-D) adams
+D) adamer
 
 ---
 
@@ -278,13 +280,13 @@ D) adams
 
 Как правильно сказать "В классе есть студенты"?
 
-A) Sınıfta öğrenci var
+A) Sınıfta öğrenciler var
 
-B) Sınıfta öğrenciler var
+B) Öğrenciler sınıfta varlar
 
 C) Sınıfta var öğrenciler
 
-D) Öğrenciler sınıfta varlar
+D) Sınıfta öğrenci var
 
 ---
 
@@ -294,26 +296,26 @@ D) Öğrenciler sınıfta varlar
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | В слове "kitap" последняя гласная "a" твердая, поэтому используется -lar: kitaplar. |
-| 2 | D | В слове "öğrenci" последняя гласная "i" мягкая, поэтому используется -ler: öğrenciler. |
-| 3 | D | В слове "ev" последняя гласная "e" мягкая, поэтому используется -ler: evler. |
+| 1 | B | В слове "kitap" последняя гласная "a" твердая, поэтому используется -lar: kitaplar. |
+| 2 | C | В слове "öğrenci" последняя гласная "i" мягкая, поэтому используется -ler: öğrenciler. |
+| 3 | C | В слове "ev" последняя гласная "e" мягкая, поэтому используется -ler: evler. |
 | 4 | C | В слове "okul" последняя гласная "u" твердая, поэтому используется -lar: okullar. |
-| 5 | D | Правильная форма: evler (дом → дома). |
-| 6 | C | Правильная форма: masalar (стол → столы). |
-| 7 | B | Правильная форма: "Bu kitaplar" (эти книги). |
+| 5 | C | Правильная форма: evler (дом → дома). |
+| 6 | B | Правильная форма: masalar (стол → столы). |
+| 7 | C | Правильная форма: "Bu kitaplar" (эти книги). |
 | 8 | C | Правильная форма: "Bu öğrenciler" (эти студенты). |
 | 9 | B | Прилагательные не изменяются: "Büyük evler" (большие дома). |
-| 10 | B | Правильная форма: "Öğrenciler çalışıyorlar" (студенты работают). |
-| 11 | B | Выбор зависит от последней гласной слова (гармония гласных). |
-| 12 | B | Для множественного числа: "Bunlar ne?" |
+| 10 | C | Правильная форма: "Öğrenciler çalışıyorlar" (студенты работают). |
+| 11 | C | Выбор зависит от последней гласной слова (гармония гласных). |
+| 12 | C | Для множественного числа: "Bunlar ne?" |
 | 13 | A | Правильная форма: öğrenciler (последняя гласная "i" мягкая). |
-| 14 | D | Правильная форма: "Şu evler" (те дома). |
-| 15 | C | В слове "kalem" последняя гласная "e" мягкая, поэтому kalemler. |
+| 14 | C | Правильная форма: "Şu evler" (те дома). |
+| 15 | A | В слове "kalem" последняя гласная "e" мягкая, поэтому kalemler. |
 | 16 | B | Падежный суффикс добавляется к множественному числу: evler + -de = evlerde. |
-| 17 | B | С числительными существительное стоит в единственном числе: üç kitap. |
+| 17 | D | С числительными существительное стоит в единственном числе: üç kitap. |
 | 18 | C | "Мы" на турецком: biz. |
 | 19 | B | В слове "adam" последняя гласная "a" твердая, поэтому adamlar. |
-| 20 | B | В конструкции с "var" существительное может быть во множественном числе: öğrenciler var. |
+| 20 | A | В конструкции с "var" существительное может быть во множественном числе: öğrenciler var. |
 
 ---
 

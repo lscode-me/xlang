@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Притяжательный суффикс
 
 Какой притяжательный суффикс используется для "мой дом" (ev)?
 
-A) -ın
+A) -ımız
 
 B) -i
 
-C) -ımız
+C) -ın
 
 D) -im
 
@@ -22,13 +24,13 @@ D) -im
 
 Какой притяжательный суффикс используется для "твоя книга" (kitap)?
 
-A) -im
+A) -ımız
 
-B) -ımız
+B) -ın
 
-C) -ın
+C) -i
 
-D) -i
+D) -im
 
 ---
 
@@ -38,11 +40,11 @@ D) -i
 
 A) -im
 
-B) -i
+B) -ımız
 
-C) -ın
+C) -i
 
-D) -ımız
+D) -ın
 
 ---
 
@@ -50,13 +52,13 @@ D) -ımız
 
 Какой притяжательный суффикс используется для "наш дом" (ev)?
 
-A) -im
+A) -imiz
 
-B) -imiz
+B) -ın
 
-C) -ın
+C) -i
 
-D) -i
+D) -im
 
 ---
 
@@ -64,13 +66,13 @@ D) -i
 
 Какой притяжательный суффикс используется для "ваш дом" (ev)?
 
-A) -im
+A) -ın
 
-B) -ımız
+B) -im
 
 C) -iniz
 
-D) -ın
+D) -ımız
 
 ---
 
@@ -78,11 +80,11 @@ D) -ın
 
 Какой притяжательный суффикс используется для "их дом" (ev)?
 
-A) -leri
+A) -i
 
 B) -im
 
-C) -i
+C) -leri
 
 D) -ımız
 
@@ -91,20 +93,6 @@ D) -ımız
 ## Question 7: Гармония гласных
 
 Какой суффикс правильный для "мой стол" (masa)?
-
-A) -üm
-
-B) -ım
-
-C) -um
-
-D) -im
-
----
-
-## Question 8: Гармония гласных
-
-Какой суффикс правильный для "моя школа" (okul)?
 
 A) -im
 
@@ -116,17 +104,31 @@ D) -ım
 
 ---
 
+## Question 8: Гармония гласных
+
+Какой суффикс правильный для "моя школа" (okul)?
+
+A) -um
+
+B) -üm
+
+C) -im
+
+D) -ım
+
+---
+
 ## Question 9: Полная форма
 
 Как правильно сказать "моя книга"?
 
-A) kitabım benim
+A) ben kitabım
 
 B) kitap benim
 
-C) ben kitabım
+C) benim kitabım
 
-D) benim kitabım
+D) kitabım benim
 
 ---
 
@@ -134,13 +136,13 @@ D) benim kitabım
 
 Как правильно сказать "мой дом" без местоимения?
 
-A) ben evim
+A) ev benim
 
-B) evim
+B) benim evim
 
-C) ev benim
+C) ben evim
 
-D) benim evim
+D) evim
 
 ---
 
@@ -148,7 +150,35 @@ D) benim evim
 
 Как правильно сказать "Это моя книга"?
 
-A) Bu kitabım benim
+A) Benim bu kitabım
+
+B) Bu benim kitabım
+
+C) Bu kitabım benim
+
+D) Bu ben kitabım
+
+---
+
+## Question 12: Вопрос о принадлежности
+
+Как правильно спросить "Чья это книга?"?
+
+A) Kimin bu kitap?
+
+B) Bu kimin kitabı?
+
+C) Bu kitap kimin?
+
+D) Bu kimin kitap?
+
+---
+
+## Question 13: Ответ на вопрос
+
+Как правильно ответить на "Bu kimin kitabı?" (Это моя книга)?
+
+A) Kitabım bu benim
 
 B) Bu benim kitabım
 
@@ -158,45 +188,17 @@ D) Benim bu kitabım
 
 ---
 
-## Question 12: Вопрос о принадлежности
-
-Как правильно спросить "Чья это книга?"?
-
-A) Bu kimin kitap?
-
-B) Kimin bu kitap?
-
-C) Bu kitap kimin?
-
-D) Bu kimin kitabı?
-
----
-
-## Question 13: Ответ на вопрос
-
-Как правильно ответить на "Bu kimin kitabı?" (Это моя книга)?
-
-A) Bu benim kitabım
-
-B) Bu ben kitabım
-
-C) Kitabım bu benim
-
-D) Benim bu kitabım
-
----
-
 ## Question 14: Множественное число
 
 Как правильно сказать "мои книги"?
 
-A) benim kitaplarım
+A) benim kitap
 
-B) kitap benim
+B) benim kitaplarım
 
-C) benim kitaplar
+C) kitap benim
 
-D) benim kitap
+D) benim kitaplar
 
 ---
 
@@ -204,13 +206,13 @@ D) benim kitap
 
 Как правильно сказать "его/её книга"?
 
-A) onun kitap
+A) onun kitabı
 
-B) onun kitabım
+B) kitap onun
 
-C) onun kitabı
+C) onun kitabım
 
-D) kitap onun
+D) onun kitap
 
 ---
 
@@ -220,11 +222,11 @@ D) kitap onun
 
 A) -ın
 
-B) -in
+B) -un
 
-C) -ün
+C) -in
 
-D) -un
+D) -ün
 
 ---
 
@@ -232,13 +234,13 @@ D) -un
 
 Какой суффикс правильный для "твоя дверь" (kapı)?
 
-A) -un
+A) -ün
 
-B) -ün
+B) -ın
 
 C) -in
 
-D) -ın
+D) -un
 
 ---
 
@@ -246,13 +248,13 @@ D) -ın
 
 Как правильно сказать "моя мама"?
 
-A) benim anne
+A) anne benim
 
-B) benim annesi
+B) benim anne
 
-C) benim annem
+C) benim annesi
 
-D) anne benim
+D) benim annem
 
 ---
 
@@ -260,13 +262,13 @@ D) anne benim
 
 Какая форма правильная для "мой дом" (ev)?
 
-A) evum
+A) evim
 
-B) evüm
+B) evım
 
-C) evim
+C) evüm
 
-D) evım
+D) evum
 
 ---
 
@@ -274,13 +276,13 @@ D) evım
 
 Какая форма правильная для "моя книга" (kitap)?
 
-A) kitabım
+A) kitabüm
 
 B) kitabum
 
-C) kitabim
+C) kitabım
 
-D) kitabüm
+D) kitabim
 
 ---
 
@@ -288,13 +290,13 @@ D) kitabüm
 
 Как правильно сказать "Моя книга на столе"?
 
-A) Masada benim kitap
+A) Benim kitabım masada
 
 B) Benim kitap masada
 
 C) Kitap benim masada
 
-D) Benim kitabım masada
+D) Masada benim kitap
 
 ---
 
@@ -316,13 +318,13 @@ D) Benim evim büyük
 
 Как правильно спросить "Это твой дом?"?
 
-A) Bu senin ev misin?
+A) Bu sen evin mi?
 
-B) Bu senin evin mi?
+B) Bu senin ev misin?
 
-C) Bu evin senin mi?
+C) Bu senin evin mi?
 
-D) Bu sen evin mi?
+D) Bu evin senin mi?
 
 ---
 
@@ -330,13 +332,13 @@ D) Bu sen evin mi?
 
 Как правильно сказать "их книги"?
 
-A) onların kitapları
+A) onların kitaplar
 
-B) kitap onların
+B) onların kitapları
 
 C) onların kitap
 
-D) onların kitaplar
+D) kitap onların
 
 ---
 
@@ -344,13 +346,13 @@ D) onların kitaplar
 
 Как правильно сказать "Это наша школа"?
 
-A) Bu okulumuz bizim
+A) Bu bizim okulumuz
 
-B) Bu bizim okulumuz
+B) Bizim bu okulumuz
 
-C) Bu biz okulumuz
+C) Bu okulumuz bizim
 
-D) Bizim bu okulumuz
+D) Bu biz okulumuz
 
 ---
 
@@ -361,30 +363,30 @@ D) Bizim bu okulumuz
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | D | Для первого лица (мой) используется -im: evim (в слове "ev" последняя гласная "e" мягкая). |
-| 2 | C | Для второго лица (твой) используется -ın: kitabın (в слове "kitap" последняя гласная "a" твердая). |
-| 3 | B | Для третьего лица (его/её) используется -i: evi (в слове "ev" последняя гласная "e" мягкая). |
-| 4 | B | Для первого лица множественного числа (наш) используется -imiz: evimiz. |
+| 2 | B | Для второго лица (твой) используется -ın: kitabın (в слове "kitap" последняя гласная "a" твердая). |
+| 3 | C | Для третьего лица (его/её) используется -i: evi (в слове "ev" последняя гласная "e" мягкая). |
+| 4 | A | Для первого лица множественного числа (наш) используется -imiz: evimiz. |
 | 5 | C | Для второго лица множественного числа (ваш) используется -iniz: eviniz. |
-| 6 | A | Для третьего лица множественного числа (их) используется -leri: evleri. |
-| 7 | B | В слове "masa" последняя гласная "a" твердая, поэтому используется -ım: masam. |
-| 8 | B | В слове "okul" последняя гласная "u" твердая, поэтому используется -um: okulum. |
-| 9 | D | Правильная форма: "benim kitabım" (моя книга). |
-| 10 | B | Без местоимения: "evim" (мой дом). |
+| 6 | C | Для третьего лица множественного числа (их) используется -leri: evleri. |
+| 7 | D | В слове "masa" последняя гласная "a" твердая, поэтому используется -ım: masam. |
+| 8 | A | В слове "okul" последняя гласная "u" твердая, поэтому используется -um: okulum. |
+| 9 | C | Правильная форма: "benim kitabım" (моя книга). |
+| 10 | D | Без местоимения: "evim" (мой дом). |
 | 11 | B | Правильная форма: "Bu benim kitabım" (Это моя книга). |
-| 12 | D | Правильный вопрос: "Bu kimin kitabı?" (Чья это книга?). |
-| 13 | A | Правильный ответ: "Bu benim kitabım" (Это моя книга). |
-| 14 | A | Правильная форма: "benim kitaplarım" (мои книги). |
-| 15 | C | Правильная форма: "onun kitabı" (его/её книга). |
-| 16 | B | В слове "kalem" последняя гласная "e" мягкая, поэтому используется -in: kalemin. |
-| 17 | D | В слове "kapı" последняя гласная "ı" твердая, поэтому используется -ın: kapın. |
-| 18 | C | Правильная форма: "benim annem" (моя мама). |
-| 19 | C | Правильная форма: "evim" (в слове "ev" последняя гласная "e" мягкая, поэтому -im). |
-| 20 | A | Правильная форма: "kitabım" (в слове "kitap" последняя гласная "a" твердая, поэтому -ım). |
-| 21 | D | Правильная форма: "Benim kitabım masada" (Моя книга на столе). |
+| 12 | B | Правильный вопрос: "Bu kimin kitabı?" (Чья это книга?). |
+| 13 | B | Правильный ответ: "Bu benim kitabım" (Это моя книга). |
+| 14 | B | Правильная форма: "benim kitaplarım" (мои книги). |
+| 15 | A | Правильная форма: "onun kitabı" (его/её книга). |
+| 16 | C | В слове "kalem" последняя гласная "e" мягкая, поэтому используется -in: kalemin. |
+| 17 | B | В слове "kapı" последняя гласная "ı" твердая, поэтому используется -ın: kapın. |
+| 18 | D | Правильная форма: "benim annem" (моя мама). |
+| 19 | A | Правильная форма: "evim" (в слове "ev" последняя гласная "e" мягкая, поэтому -im). |
+| 20 | C | Правильная форма: "kitabım" (в слове "kitap" последняя гласная "a" твердая, поэтому -ım). |
+| 21 | A | Правильная форма: "Benim kitabım masada" (Моя книга на столе). |
 | 22 | B | Правильный порядок: "Benim büyük evim" (Мой большой дом). |
-| 23 | B | Правильный вопрос: "Bu senin evin mi?" (Это твой дом?). |
-| 24 | A | Правильная форма: "onların kitapları" (их книги). |
-| 25 | B | Правильная форма: "Bu bizim okulumuz" (Это наша школа). |
+| 23 | C | Правильный вопрос: "Bu senin evin mi?" (Это твой дом?). |
+| 24 | B | Правильная форма: "onların kitapları" (их книги). |
+| 25 | A | Правильная форма: "Bu bizim okulumuz" (Это наша школа). |
 
 ---
 

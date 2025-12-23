@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Структура с can
 
 Выберите правильное предложение:
 
-A) I can swimming
+A) I cans swim
 
-B) I can to swim
+B) I can swimming
 
-C) I cans swim
+C) I can swim
 
-D) I can swim
+D) I can to swim
 
 ---
 
@@ -22,13 +24,13 @@ D) I can swim
 
 Какое предложение правильное?
 
-A) She can play piano
+A) She cans play piano
 
 B) She can plays piano
 
 C) She can to play piano
 
-D) She cans play piano
+D) She can play piano
 
 ---
 
@@ -36,11 +38,11 @@ D) She cans play piano
 
 Как правильно сказать "Я не умею плавать"?
 
-A) I don't can swim
+A) I can't swim
 
-B) I can't swim
+B) I no can swim
 
-C) I no can swim
+C) I don't can swim
 
 D) I not can swim
 
@@ -57,11 +59,11 @@ D) I not can swim
 
 A) You can drive?
 
-B) Do you can drive?
+B) Are you can drive?
 
-C) Are you can drive?
+C) Can you drive?
 
-D) Can you drive?
+D) Do you can drive?
 
 ---
 
@@ -69,13 +71,13 @@ D) Can you drive?
 
 Ответьте на вопрос: "Can you speak English?" (Да)
 
-A) Yes, I do
+A) Yes, I speak
 
-B) Yes, I speak
+B) Yes, I do
 
-C) Yes, I am
+C) Yes, I can
 
-D) Yes, I can
+D) Yes, I am
 
 ---
 
@@ -83,13 +85,13 @@ D) Yes, I can
 
 Как попросить помощь?
 
-A) Can you to help me?
+A) Can you help me?
 
-B) You can help me?
+B) Can you to help me?
 
 C) Do you can help me?
 
-D) Can you help me?
+D) You can help me?
 
 ---
 
@@ -102,13 +104,13 @@ D) Can you help me?
 "Можно мне войти?"
 ```
 
-A) Can I to come in?
+A) Do I can come in?
 
-B) I can come in?
+B) Can I to come in?
 
-C) Do I can come in?
+C) Can I come in?
 
-D) Can I come in?
+D) I can come in?
 
 ---
 
@@ -120,9 +122,9 @@ A) She can to speak French
 
 B) She can speaks French
 
-C) She cans speak French
+C) She can speak French
 
-D) She can speak French
+D) She cans speak French
 
 ---
 
@@ -130,13 +132,13 @@ D) She can speak French
 
 Как сказать "Почему ты не можешь прийти?"
 
-A) Why you not can come?
+A) Why don't you can come?
 
-B) Why don't you can come?
+B) Why you can't come?
 
-C) Why you can't come?
+C) Why can't you come?
 
-D) Why can't you come?
+D) Why you not can come?
 
 ---
 
@@ -146,11 +148,11 @@ D) Why can't you come?
 
 A) cannot (слитно)
 
-B) not can
+B) do not can
 
-C) can not (раздельно)
+C) not can
 
-D) do not can
+D) can not (раздельно)
 
 ---
 
@@ -158,13 +160,13 @@ D) do not can
 
 Выберите правильное предложение:
 
-A) I can swim and I can dance
+A) I can to swim and to dance
 
-B) I can to swim and to dance
+B) I can swim and dance
 
-C) Оба A и C правильные
+C) I can swim and I can dance
 
-D) I can swim and dance
+D) Оба A и C правильные
 
 ---
 
@@ -172,11 +174,11 @@ D) I can swim and dance
 
 Что означает: "It can be dangerous"?
 
-A) Это может быть опасно
+A) Это не может быть опасным
 
-B) Это не может быть опасным
+B) Это должно быть опасно
 
-C) Это должно быть опасно
+C) Это может быть опасно
 
 D) Это опасно
 
@@ -191,9 +193,9 @@ D) Это опасно
 "Где я могу купить билеты?"
 ```
 
-A) Can I where buy tickets?
+A) Where do I can buy tickets?
 
-B) Where do I can buy tickets?
+B) Can I where buy tickets?
 
 C) Where I can buy tickets?
 
@@ -211,11 +213,11 @@ A: Can you help me?
 B: _____
 ```
 
-A) No, I can't
+A) Все варианты B и C вежливые
 
-B) Все варианты B и C вежливые
+B) Sorry, I can't
 
-C) Sorry, I can't
+C) No, I can't
 
 D) I'm afraid I can't
 
@@ -225,13 +227,13 @@ D) I'm afraid I can't
 
 Найдите ошибку:
 
-A) They can swim
+A) We can help you
 
 B) I can play guitar
 
-C) We can help you
+C) She can to speak Spanish
 
-D) She can to speak Spanish
+D) They can swim
 
 ---
 
@@ -244,13 +246,13 @@ D) She can to speak Spanish
 "Я умею петь и танцевать"
 ```
 
-A) I can sing and to dance
+A) I can singing and dancing
 
-B) I can singing and dancing
+B) I can to sing and dance
 
-C) I can to sing and dance
+C) I can sing and dance
 
-D) I can sing and dance
+D) I can sing and to dance
 
 ---
 
@@ -258,13 +260,13 @@ D) I can sing and dance
 
 Как предложить помощь?
 
-A) Do I can help you?
+A) Can you I help?
 
-B) I can to help you?
+B) Can I help you?
 
-C) Can I help you?
+C) Do I can help you?
 
-D) Can you I help?
+D) I can to help you?
 
 ---
 
@@ -279,11 +281,11 @@ D) Can you I help?
 
 A) Who can drives?
 
-B) Who cans drive?
+B) Who can drive?
 
 C) Who can to drive?
 
-D) Who can drive?
+D) Who cans drive?
 
 ---
 
@@ -291,13 +293,13 @@ D) Who can drive?
 
 Ответьте на вопрос: "Can she swim?" (Нет)
 
-A) No, she isn't
+A) No, she can't
 
-B) No, she doesn't
+B) No, she isn't
 
-C) No, she not
+C) No, she doesn't
 
-D) No, she can't
+D) No, she not
 
 ---
 
@@ -307,11 +309,11 @@ D) No, she can't
 
 A) I speak English
 
-B) I am able to speak English
+B) I must speak English
 
-C) I must speak English
+C) I want to speak English
 
-D) I want to speak English
+D) I am able to speak English
 
 ---
 
@@ -321,26 +323,26 @@ D) I want to speak English
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Правильный ответ B. |
-| 2 | A | Правильный ответ C. |
-| 3 | B | Правильный ответ C. |
-| 4 | D | Правильный ответ B. |
-| 5 | D | Правильный ответ C. |
-| 6 | D | Правильный ответ A. |
-| 7 | D | Правильный ответ C. |
-| 8 | D | Правильный ответ C. |
-| 9 | D | Правильный ответ B. |
+| 1 | C | Правильный ответ B. |
+| 2 | D | Правильный ответ C. |
+| 3 | A | Правильный ответ C. |
+| 4 | C | Правильный ответ B. |
+| 5 | C | Правильный ответ C. |
+| 6 | A | Правильный ответ A. |
+| 7 | C | Правильный ответ C. |
+| 8 | C | Правильный ответ C. |
+| 9 | C | Правильный ответ B. |
 | 10 | A | Правильный ответ B. |
-| 11 | C | Правильный ответ D. |
-| 12 | A | Правильный ответ C. |
+| 11 | D | Правильный ответ D. |
+| 12 | C | Правильный ответ C. |
 | 13 | D | Правильный ответ B. |
-| 14 | B | Правильный ответ D. |
-| 15 | D | Правильный ответ B. |
-| 16 | D | Правильный ответ C. |
-| 17 | C | Правильный ответ B. |
-| 18 | D | Правильный ответ B. |
-| 19 | D | Правильный ответ A. |
-| 20 | B | Правильный ответ B. |
+| 14 | A | Правильный ответ D. |
+| 15 | C | Правильный ответ B. |
+| 16 | C | Правильный ответ C. |
+| 17 | B | Правильный ответ B. |
+| 18 | B | Правильный ответ B. |
+| 19 | A | Правильный ответ A. |
+| 20 | D | Правильный ответ B. |
 
 ---
 

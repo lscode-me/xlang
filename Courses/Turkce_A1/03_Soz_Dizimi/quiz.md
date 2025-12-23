@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Базовый порядок слов
 
 Какой базовый порядок слов в турецком предложении?
 
 A) S-V-O (подлежащее-сказуемое-дополнение)
 
-B) V-S-O (сказуемое-подлежащее-дополнение)
+B) O-S-V (дополнение-подлежащее-сказуемое)
 
-C) S-O-V (подлежащее-дополнение-сказуемое)
+C) V-S-O (сказуемое-подлежащее-дополнение)
 
-D) O-S-V (дополнение-подлежащее-сказуемое)
+D) S-O-V (подлежащее-дополнение-сказуемое)
 
 ---
 
@@ -22,13 +24,13 @@ D) O-S-V (дополнение-подлежащее-сказуемое)
 
 Где должен стоять глагол в турецком предложении?
 
-A) В середине предложения
+A) В конце предложения
 
-B) Может стоять где угодно
+B) В начале предложения
 
-C) В конце предложения
+C) Может стоять где угодно
 
-D) В начале предложения
+D) В середине предложения
 
 ---
 
@@ -38,13 +40,13 @@ D) В начале предложения
 
 Слова: 1) Ben  2) içiyorum  3) kahve
 
-A) 1-3-2 (Ben kahve içiyorum)
+A) 3-1-2 (kahve Ben içiyorum)
 
-B) 2-1-3 (içiyorum Ben kahve)
+B) 1-2-3 (Ben içiyorum kahve)
 
-C) 3-1-2 (kahve Ben içiyorum)
+C) 1-3-2 (Ben kahve içiyorum)
 
-D) 1-2-3 (Ben içiyorum kahve)
+D) 2-1-3 (içiyorum Ben kahve)
 
 ---
 
@@ -54,13 +56,13 @@ D) 1-2-3 (Ben içiyorum kahve)
 
 Слова: 1) Ali  2) okuyor  3) kitap
 
-A) 1-2-3 (Ali okuyor kitap)
+A) 3-1-2 (kitap Ali okuyor)
 
-B) 1-3-2 (Ali kitap okuyor)
+B) 2-1-3 (okuyor Ali kitap)
 
-C) 3-1-2 (kitap Ali okuyor)
+C) 1-2-3 (Ali okuyor kitap)
 
-D) 2-1-3 (okuyor Ali kitap)
+D) 1-3-2 (Ali kitap okuyor)
 
 ---
 
@@ -70,13 +72,13 @@ D) 2-1-3 (okuyor Ali kitap)
 
 Слова: 1) Ben  2) içiyorum  3) sabah  4) kahve
 
-A) 1-2-3-4 (Ben içiyorum sabah kahve)
+A) 3-1-4-2 (sabah Ben kahve içiyorum)
 
-B) 1-3-4-2 (Ben sabah kahve içiyorum)
+B) 1-4-3-2 (Ben kahve sabah içiyorum)
 
-C) 3-1-4-2 (sabah Ben kahve içiyorum)
+C) 1-3-4-2 (Ben sabah kahve içiyorum)
 
-D) 1-4-3-2 (Ben kahve sabah içiyorum)
+D) 1-2-3-4 (Ben içiyorum sabah kahve)
 
 ---
 
@@ -86,11 +88,11 @@ D) 1-4-3-2 (Ben kahve sabah içiyorum)
 
 Слова: 1) Ben  2) çalışıyorum  3) evde
 
-A) 1-3-2 (Ben evde çalışıyorum)
+A) 2-1-3 (çalışıyorum Ben evde)
 
-B) 1-2-3 (Ben çalışıyorum evde)
+B) 1-3-2 (Ben evde çalışıyorum)
 
-C) 2-1-3 (çalışıyorum Ben evde)
+C) 1-2-3 (Ben çalışıyorum evde)
 
 D) 3-1-2 (evde Ben çalışıyorum)
 
@@ -102,13 +104,13 @@ D) 3-1-2 (evde Ben çalışıyorum)
 
 Слова: 1) Sen  2) yapıyorsun  3) ne
 
-A) 1-2-3 (Sen yapıyorsun ne)
+A) 1-3-2 (Sen ne yapıyorsun)
 
-B) 3-1-2 (ne Sen yapıyorsun)
+B) 2-1-3 (yapıyorsun Sen ne)
 
-C) 1-3-2 (Sen ne yapıyorsun)
+C) 1-2-3 (Sen yapıyorsun ne)
 
-D) 2-1-3 (yapıyorsun Sen ne)
+D) 3-1-2 (ne Sen yapıyorsun)
 
 ---
 
@@ -132,13 +134,13 @@ D) Оба варианта неправильные
 
 Выберите правильный порядок слов в общем вопросе:
 
-A) Sen çalışıyor musun?
+A) Çalışıyor sen musun?
 
-B) Çalışıyor sen musun?
+B) Sen çalışıyor musun?
 
-C) Musun sen çalışıyor?
+C) Sen musun çalışıyor?
 
-D) Sen musun çalışıyor?
+D) Musun sen çalışıyor?
 
 ---
 
@@ -148,13 +150,13 @@ D) Sen musun çalışıyor?
 
 Слова: 1) Ben  2) okumuyorum  3) kitap
 
-A) 3-1-2 (kitap Ben okumuyorum)
+A) 2-1-3 (okumuyorum Ben kitap)
 
 B) 1-3-2 (Ben kitap okumuyorum)
 
 C) 1-2-3 (Ben okumuyorum kitap)
 
-D) 2-1-3 (okumuyorum Ben kitap)
+D) 3-1-2 (kitap Ben okumuyorum)
 
 ---
 
@@ -162,13 +164,13 @@ D) 2-1-3 (okumuyorum Ben kitap)
 
 В сложном предложении:
 
-A) Глаголы всегда в начале
+A) Порядок слов не важен
 
-B) Порядок слов не важен
+B) Каждое простое предложение сохраняет порядок S-O-V
 
 C) Глаголы могут стоять где угодно
 
-D) Каждое простое предложение сохраняет порядок S-O-V
+D) Глаголы всегда в начале
 
 ---
 
@@ -176,13 +178,13 @@ D) Каждое простое предложение сохраняет пор�
 
 Чем отличается порядок слов в турецком языке от русского?
 
-A) В турецком языке порядок слов не важен
+A) В русском языке порядок слов строже
 
-B) В турецком языке порядок слов такой же свободный, как в русском
+B) В турецком языке порядок слов не важен
 
-C) В турецком языке порядок слов более строгий, глагол всегда в конце
+C) В турецком языке порядок слов такой же свободный, как в русском
 
-D) В русском языке порядок слов строже
+D) В турецком языке порядок слов более строгий, глагол всегда в конце
 
 ---
 
@@ -192,13 +194,13 @@ D) В русском языке порядок слов строже
 
 Слова: 1) ev  2) güzel  3) bir
 
-A) 3-2-1 (bir güzel ev)
+A) 2-3-1 (güzel bir ev)
 
-B) 2-3-1 (güzel bir ev)
+B) 3-1-2 (bir ev güzel)
 
-C) 1-2-3 (ev güzel bir)
+C) 3-2-1 (bir güzel ev)
 
-D) 3-1-2 (bir ev güzel)
+D) 1-2-3 (ev güzel bir)
 
 ---
 
@@ -208,13 +210,13 @@ D) 3-1-2 (bir ev güzel)
 
 Слова: 1) Bu  2) yeni  3) büyük  4) ev
 
-A) 1-3-2-4 (Bu büyük yeni ev)
+A) 4-1-2-3 (ev Bu yeni büyük)
 
-B) 1-2-3-4 (Bu yeni büyük ev)
+B) 1-4-2-3 (Bu ev yeni büyük)
 
-C) 4-1-2-3 (ev Bu yeni büyük)
+C) 1-2-3-4 (Bu yeni büyük ev)
 
-D) 1-4-2-3 (Bu ev yeni büyük)
+D) 1-3-2-4 (Bu büyük yeni ev)
 
 ---
 
@@ -224,11 +226,11 @@ D) 1-4-2-3 (Bu ev yeni büyük)
 
 Слова: 1) Ben  2) Türkçe  3) iyi  4) konuşuyorum
 
-A) 1-2-3-4 (Ben Türkçe iyi konuşuyorum)
+A) 1-2-4-3 (Ben Türkçe konuşuyorum iyi)
 
-B) 1-3-2-4 (Ben iyi Türkçe konuşuyorum)
+B) 1-2-3-4 (Ben Türkçe iyi konuşuyorum)
 
-C) 1-2-4-3 (Ben Türkçe konuşuyorum iyi)
+C) 1-3-2-4 (Ben iyi Türkçe konuşuyorum)
 
 D) 3-1-2-4 (iyi Ben Türkçe konuşuyorum)
 
@@ -256,13 +258,13 @@ D) 2-3-1 (nerede yaşıyorsun Sen)
 
 Слова: 1) Ben  2) veriyorum  3) kitap  4) Ali'ye
 
-A) 1-4-3-2 (Ben Ali'ye kitap veriyorum)
+A) 4-1-3-2 (Ali'ye Ben kitap veriyorum)
 
 B) 1-3-4-2 (Ben kitap Ali'ye veriyorum)
 
-C) 1-2-3-4 (Ben veriyorum kitap Ali'ye)
+C) 1-4-3-2 (Ben Ali'ye kitap veriyorum)
 
-D) 4-1-3-2 (Ali'ye Ben kitap veriyorum)
+D) 1-2-3-4 (Ben veriyorum kitap Ali'ye)
 
 ---
 
@@ -272,11 +274,11 @@ D) 4-1-3-2 (Ali'ye Ben kitap veriyorum)
 
 A) Sen çalışmıyor musun?
 
-B) Çalışmıyor musun sen?
+B) Musun sen çalışmıyor?
 
-C) Musun sen çalışmıyor?
+C) Sen musun çalışmıyor?
 
-D) Sen musun çalışmıyor?
+D) Çalışmıyor musun sen?
 
 ---
 
@@ -286,13 +288,13 @@ D) Sen musun çalışmıyor?
 
 Слова: 1) masada  2) var  3) kitap  4) bir
 
-A) 1-4-3-2 (masada bir kitap var)
+A) 2-1-4-3 (var masada bir kitap)
 
 B) 4-3-1-2 (bir kitap masada var)
 
-C) 2-1-4-3 (var masada bir kitap)
+C) 4-3-2-1 (bir kitap var masada)
 
-D) 4-3-2-1 (bir kitap var masada)
+D) 1-4-3-2 (masada bir kitap var)
 
 ---
 
@@ -302,11 +304,11 @@ D) 4-3-2-1 (bir kitap var masada)
 
 Слова: 1) Ben  2) okuyorum  3) kitap  4) ve  5) Ali  6) çalışıyor
 
-A) 1-3-2-4-5-6 (Ben kitap okuyorum ve Ali çalışıyor)
+A) 1-3-4-5-6-2 (Ben kitap ve Ali çalışıyor okuyorum)
 
-B) 1-2-3-4-5-6 (Ben okuyorum kitap ve Ali çalışıyor)
+B) 1-3-2-4-5-6 (Ben kitap okuyorum ve Ali çalışıyor)
 
-C) 1-3-4-5-6-2 (Ben kitap ve Ali çalışıyor okuyorum)
+C) 1-2-3-4-5-6 (Ben okuyorum kitap ve Ali çalışıyor)
 
 D) 5-6-4-1-3-2 (Ali çalışıyor ve Ben kitap okuyorum)
 
@@ -318,26 +320,26 @@ D) 5-6-4-1-3-2 (Ali çalışıyor ve Ben kitap okuyorum)
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Базовый порядок слов в турецком языке: S-O-V (подлежащее-дополнение-сказуемое). |
-| 2 | C | Глагол в турецком языке всегда должен стоять в конце предложения. |
-| 3 | A | Правильный порядок: Ben (подлежащее) + kahve (дополнение) + içiyorum (сказуемое). |
-| 4 | B | Правильный порядок: Ali (подлежащее) + kitap (дополнение) + okuyor (сказуемое). |
-| 5 | B | Обстоятельство времени стоит после подлежащего, но перед дополнением: Ben sabah kahve içiyorum. |
-| 6 | A | Обстоятельство места стоит после подлежащего, перед сказуемым: Ben evde çalışıyorum. |
-| 7 | C | В вопросе с "ne" порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapıyorsun? |
+| 1 | D | Базовый порядок слов в турецком языке: S-O-V (подлежащее-дополнение-сказуемое). |
+| 2 | A | Глагол в турецком языке всегда должен стоять в конце предложения. |
+| 3 | C | Правильный порядок: Ben (подлежащее) + kahve (дополнение) + içiyorum (сказуемое). |
+| 4 | D | Правильный порядок: Ali (подлежащее) + kitap (дополнение) + okuyor (сказуемое). |
+| 5 | C | Обстоятельство времени стоит после подлежащего, но перед дополнением: Ben sabah kahve içiyorum. |
+| 6 | B | Обстоятельство места стоит после подлежащего, перед сказуемым: Ben evde çalışıyorum. |
+| 7 | A | В вопросе с "ne" порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapıyorsun? |
 | 8 | A | Когда вопрос к подлежащему, вопросительное слово в начале: kim geliyor? |
-| 9 | A | В общем вопросе порядок слов сохраняется, добавляется только вопросительная частица: Sen çalışıyor musun? |
+| 9 | B | В общем вопросе порядок слов сохраняется, добавляется только вопросительная частица: Sen çalışıyor musun? |
 | 10 | B | В отрицательном предложении порядок S-O-V сохраняется: Ben kitap okumuyorum. |
-| 11 | D | В сложном предложении каждое простое предложение сохраняет порядок S-O-V, глаголы в конце каждого предложения. |
-| 12 | C | В турецком языке порядок слов более строгий, чем в русском, глагол всегда должен быть в конце. |
-| 13 | A | Прилагательное стоит перед существительным: неопределенный артикль + прилагательное + существительное. |
-| 14 | B | Если несколько прилагательных, они идут в порядке от временных к постоянным признакам: Bu yeni büyük ev. |
-| 15 | B | Наречие образа действия стоит перед сказуемым: Ben iyi Türkçe konuşuyorum. |
+| 11 | B | В сложном предложении каждое простое предложение сохраняет порядок S-O-V, глаголы в конце каждого предложения. |
+| 12 | D | В турецком языке порядок слов более строгий, чем в русском, глагол всегда должен быть в конце. |
+| 13 | C | Прилагательное стоит перед существительным: неопределенный артикль + прилагательное + существительное. |
+| 14 | C | Если несколько прилагательных, они идут в порядке от временных к постоянным признакам: Bu yeni büyük ev. |
+| 15 | C | Наречие образа действия стоит перед сказуемым: Ben iyi Türkçe konuşuyorum. |
 | 16 | A | Вопросительное слово "nerede" стоит после подлежащего: Sen nerede yaşıyorsun? |
-| 17 | A | Косвенное дополнение (дательный падеж) стоит перед прямым дополнением: Ben Ali'ye kitap veriyorum. |
+| 17 | C | Косвенное дополнение (дательный падеж) стоит перед прямым дополнением: Ben Ali'ye kitap veriyorum. |
 | 18 | A | В отрицательном вопросе порядок: подлежащее + отрицательный глагол + вопросительная частица. |
-| 19 | A | Типичный порядок с "var": обстоятельство места + существительное + var. |
-| 20 | A | Каждая часть сложного предложения сохраняет порядок S-O-V: Ben kitap okuyorum ve Ali çalışıyor. |
+| 19 | D | Типичный порядок с "var": обстоятельство места + существительное + var. |
+| 20 | B | Каждая часть сложного предложения сохраняет порядок S-O-V: Ben kitap okuyorum ve Ali çalışıyor. |
 
 ---
 

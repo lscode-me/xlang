@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Образование времени
 
 Как образуется настоящее продолженное время в турецком языке?
 
-A) Основа глагола + личное окончание
+A) Инфинитив + личное окончание
 
-B) Основа глагола + -yor + личное окончание
+B) Основа глагола + личное окончание
 
-C) Инфинитив + личное окончание
+C) Основа глагола + -yor
 
-D) Основа глагола + -yor
+D) Основа глагола + -yor + личное окончание
 
 ---
 
@@ -24,11 +26,11 @@ D) Основа глагола + -yor
 
 A) -uyor
 
-B) -üyor
+B) -ıyor
 
-C) -iyor
+C) -üyor
 
-D) -ıyor
+D) -iyor
 
 ---
 
@@ -36,13 +38,13 @@ D) -ıyor
 
 Какой вариант -yor используется для глагола "okumak" (читать)?
 
-A) -ıyor
+A) -uyor
 
-B) -üyor
+B) -ıyor
 
-C) -uyor
+C) -iyor
 
-D) -iyor
+D) -üyor
 
 ---
 
@@ -52,13 +54,13 @@ D) -iyor
 
 Ben çalışıyor_____.
 
-A) -sunuz
+A) -uz
 
-B) -sun
+B) -sunuz
 
-C) -uz
+C) -um
 
-D) -um
+D) -sun
 
 ---
 
@@ -66,13 +68,13 @@ D) -um
 
 Как правильно сказать "Я работаю"?
 
-A) Ben çalışmak
+A) Ben çalışıyor
 
-B) Ben çalışıyor
+B) Ben çalışıyorsun
 
-C) Ben çalışıyorsun
+C) Ben çalışıyorum
 
-D) Ben çalışıyorum
+D) Ben çalışmak
 
 ---
 
@@ -80,13 +82,13 @@ D) Ben çalışıyorum
 
 Как правильно сказать "Ты читаешь"?
 
-A) Sen okuyor
+A) Sen okuyorum
 
-B) Sen okuyorsun
+B) Sen okumak
 
-C) Sen okumak
+C) Sen okuyor
 
-D) Sen okuyorum
+D) Sen okuyorsun
 
 ---
 
@@ -94,13 +96,13 @@ D) Sen okuyorum
 
 Как правильно сказать "Он/Она работает"?
 
-A) O çalışıyor
+A) O çalışıyorsun
 
 B) O çalışıyorum
 
-C) O çalışıyoruz
+C) O çalışıyor
 
-D) O çalışıyorsun
+D) O çalışıyoruz
 
 ---
 
@@ -108,13 +110,13 @@ D) O çalışıyorsun
 
 Как правильно сказать "Мы читаем"?
 
-A) Biz okuyorsun
+A) Biz okuyoruz
 
-B) Biz okuyoruz
+B) Biz okuyorsun
 
-C) Biz okuyor
+C) Biz okuyorum
 
-D) Biz okuyorum
+D) Biz okuyor
 
 ---
 
@@ -126,9 +128,9 @@ A) yiyor
 
 B) yemekiyor
 
-C) yemekyor
+C) yemekyorum
 
-D) yemekyorum
+D) yemekyor
 
 ---
 
@@ -136,11 +138,11 @@ D) yemekyorum
 
 Как правильно спросить "Ты работаешь?"?
 
-A) Sen çalışıyor musun?
+A) Sen çalışıyor müsün?
 
-B) Sen çalışıyor müsün?
+B) Sen çalışıyor misin?
 
-C) Sen çalışıyor misin?
+C) Sen çalışıyor musun?
 
 D) Sen çalışıyor mısın?
 
@@ -150,13 +152,13 @@ D) Sen çalışıyor mısın?
 
 Как правильно спросить "Что ты делаешь?"?
 
-A) Sen ne yapıyorsun?
+A) Ne sen yapıyorsun?
 
-B) Sen ne yapıyor?
+B) Yapıyorsun sen ne?
 
-C) Ne sen yapıyorsun?
+C) Sen ne yapıyor?
 
-D) Yapıyorsun sen ne?
+D) Sen ne yapıyorsun?
 
 ---
 
@@ -166,13 +168,13 @@ D) Yapıyorsun sen ne?
 
 Слова: 1) Ben  2) çalışıyorum  3) şimdi
 
-A) 1-3-2 (Ben şimdi çalışıyorum)
+A) 3-1-2 (şimdi Ben çalışıyorum)
 
 B) 2-1-3 (çalışıyorum Ben şimdi)
 
-C) 1-2-3 (Ben çalışıyorum şimdi)
+C) 1-3-2 (Ben şimdi çalışıyorum)
 
-D) 3-1-2 (şimdi Ben çalışıyorum)
+D) 1-2-3 (Ben çalışıyorum şimdi)
 
 ---
 
@@ -180,13 +182,13 @@ D) 3-1-2 (şimdi Ben çalışıyorum)
 
 Как правильно сказать "Я дома читаю"?
 
-A) Evde ben okuyorum
+A) Ben okuyorum evde
 
-B) Okuyorum ben evde
+B) Ben evde okuyorum
 
-C) Ben okuyorum evde
+C) Evde ben okuyorum
 
-D) Ben evde okuyorum
+D) Okuyorum ben evde
 
 ---
 
@@ -194,13 +196,13 @@ D) Ben evde okuyorum
 
 Как правильно образовать форму от глагола "gitmek" (идти)?
 
-A) gityor
+A) gidiyor
 
-B) gitmekiyor
+B) gityor
 
 C) gitiyor
 
-D) gidiyor
+D) gitmekiyor
 
 ---
 
@@ -208,13 +210,13 @@ D) gidiyor
 
 Как правильно спросить "Кто работает?"?
 
-A) Çalışıyor kim?
+A) Kim çalışmak?
 
-B) Kim çalışıyorum?
+B) Kim çalışıyor?
 
-C) Kim çalışmak?
+C) Kim çalışıyorum?
 
-D) Kim çalışıyor?
+D) Çalışıyor kim?
 
 ---
 
@@ -222,11 +224,11 @@ D) Kim çalışıyor?
 
 Как правильно сказать "Вы работаете" (вежливая форма)?
 
-A) Siz çalışıyor
+A) Siz çalışıyorsunuz
 
-B) Siz çalışıyorum
+B) Siz çalışıyor
 
-C) Siz çalışıyorsunuz
+C) Siz çalışıyorum
 
 D) Siz çalışıyorsun
 
@@ -238,9 +240,9 @@ D) Siz çalışıyorsun
 
 A) Onlar okuyorlar
 
-B) Onlar okuyorsun
+B) Onlar okuyor
 
-C) Onlar okuyor
+C) Onlar okuyorsun
 
 D) Onlar okuyorum
 
@@ -264,11 +266,11 @@ D) -ıyor
 
 Выберите правильную форму предложения "Я пью кофе":
 
-A) Kahve ben içiyorum
+A) İçiyorum ben kahve
 
 B) Ben kahve içiyorum
 
-C) İçiyorum ben kahve
+C) Kahve ben içiyorum
 
 D) Ben içiyorum kahve
 
@@ -278,13 +280,13 @@ D) Ben içiyorum kahve
 
 Как правильно спросить "Что ты делаешь сейчас?"?
 
-A) Şimdi ne yapıyorsun sen?
+A) Sen ne şimdi yapıyorsun?
 
-B) Ne sen şimdi yapıyorsun?
+B) Şimdi ne yapıyorsun sen?
 
-C) Sen ne şimdi yapıyorsun?
+C) Sen şimdi ne yapıyorsun?
 
-D) Sen şimdi ne yapıyorsun?
+D) Ne sen şimdi yapıyorsun?
 
 ---
 
@@ -292,9 +294,9 @@ D) Sen şimdi ne yapıyorsun?
 
 Как образуется отрицательная форма в настоящем времени?
 
-A) Добавляется -me/-ma перед -yor
+A) Добавляется -me/-ma после -yor
 
-B) Добавляется -me/-ma после -yor
+B) Добавляется -me/-ma перед -yor
 
 C) Используется слово "değil"
 
@@ -306,13 +308,13 @@ D) Нельзя образовать отрицательную форму
 
 Как правильно образовать форму от глагола "demek" (говорить)?
 
-A) demekyor
+A) demekiyor
 
-B) diyor
+B) demekyor
 
-C) demekiyor
+C) demiyor
 
-D) demiyor
+D) diyor
 
 ---
 
@@ -322,9 +324,9 @@ D) demiyor
 
 A) Только для действий в будущем
 
-B) Только для прошедшего времени
+B) Для действий в настоящем времени (в широком смысле) и прямо сейчас
 
-C) Для действий в настоящем времени (в широком смысле) и прямо сейчас
+C) Только для прошедшего времени
 
 D) Только для действий прямо сейчас
 
@@ -336,9 +338,9 @@ D) Только для действий прямо сейчас
 
 Sen çalışıyor_____.
 
-A) -uz
+A) -um
 
-B) -um
+B) -uz
 
 C) -sun
 
@@ -350,11 +352,11 @@ D) -sunuz
 
 Выберите правильный ответ на вопрос "Sen ne yapıyorsun?":
 
-A) Ben çalışıyorum
+A) Ben çalışıyor
 
 B) Ben çalışmak
 
-C) Ben çalışıyor
+C) Ben çalışıyorum
 
 D) Ben çalışıyorsun
 
@@ -366,31 +368,31 @@ D) Ben çalışıyorsun
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Настоящее продолженное время образуется: основа глагола + -yor + личное окончание. |
-| 2 | D | В глаголе "çalışmak" последняя гласная основы "ı", поэтому используется -ıyor. |
-| 3 | C | В глаголе "okumak" последняя гласная основы "u", поэтому используется -uyor. |
-| 4 | D | Для первого лица единственного числа (ben) используется окончание -um. |
-| 5 | D | Правильная форма: Ben çalışıyorum (я работаю). |
-| 6 | B | Правильная форма: Sen okuyorsun (ты читаешь). |
-| 7 | A | Для третьего лица единственного числа (o) личное окончание не используется: O çalışıyor. |
-| 8 | B | Для первого лица множественного числа (biz) используется окончание -uz: Biz okuyoruz. |
+| 1 | D | Настоящее продолженное время образуется: основа глагола + -yor + личное окончание. |
+| 2 | B | В глаголе "çalışmak" последняя гласная основы "ı", поэтому используется -ıyor. |
+| 3 | A | В глаголе "okumak" последняя гласная основы "u", поэтому используется -uyor. |
+| 4 | C | Для первого лица единственного числа (ben) используется окончание -um. |
+| 5 | C | Правильная форма: Ben çalışıyorum (я работаю). |
+| 6 | D | Правильная форма: Sen okuyorsun (ты читаешь). |
+| 7 | C | Для третьего лица единственного числа (o) личное окончание не используется: O çalışıyor. |
+| 8 | A | Для первого лица множественного числа (biz) используется окончание -uz: Biz okuyoruz. |
 | 9 | A | Глагол "yemek" оканчивается на гласную, поэтому вставляется "y": yiyor. |
-| 10 | A | Вопросительная частица выбирается по последней гласной -yor: çalışıyor → musun. |
-| 11 | A | Правильный порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapıyorsun? |
-| 12 | A | Обстоятельство времени стоит после подлежащего: Ben şimdi çalışıyorum. |
-| 13 | D | Обстоятельство места стоит после подлежащего, перед сказуемым: Ben evde okuyorum. |
-| 14 | D | В глаголе "gitmek" происходит изменение: t → d, поэтому gidiyor. |
-| 15 | D | Когда вопрос к подлежащему, вопросительное слово в начале: Kim çalışıyor? |
-| 16 | C | Для второго лица множественного числа (siz) используется окончание -sunuz: Siz çalışıyorsunuz. |
+| 10 | C | Вопросительная частица выбирается по последней гласной -yor: çalışıyor → musun. |
+| 11 | D | Правильный порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapıyorsun? |
+| 12 | C | Обстоятельство времени стоит после подлежащего: Ben şimdi çalışıyorum. |
+| 13 | B | Обстоятельство места стоит после подлежащего, перед сказуемым: Ben evde okuyorum. |
+| 14 | A | В глаголе "gitmek" происходит изменение: t → d, поэтому gidiyor. |
+| 15 | B | Когда вопрос к подлежащему, вопросительное слово в начале: Kim çalışıyor? |
+| 16 | A | Для второго лица множественного числа (siz) используется окончание -sunuz: Siz çalışıyorsunuz. |
 | 17 | A | Для третьего лица множественного числа (onlar) используется окончание -lar: Onlar okuyorlar. |
 | 18 | A | В глаголе "yemek" последняя гласная "e", поэтому используется -iyor (с вставкой "y"). |
 | 19 | B | Правильный порядок слов: подлежащее + дополнение + сказуемое: Ben kahve içiyorum. |
-| 20 | D | Обстоятельство времени стоит после подлежащего: Sen şimdi ne yapıyorsun? |
-| 21 | A | Отрицательная форма образуется добавлением -me/-ma перед -yor (изучается в следующем модуле). |
-| 22 | B | Глагол "demek" оканчивается на гласную, вставляется "y": diyor. |
-| 23 | C | -yor используется как для действий прямо сейчас, так и для действий в широком настоящем времени. |
+| 20 | C | Обстоятельство времени стоит после подлежащего: Sen şimdi ne yapıyorsun? |
+| 21 | B | Отрицательная форма образуется добавлением -me/-ma перед -yor (изучается в следующем модуле). |
+| 22 | D | Глагол "demek" оканчивается на гласную, вставляется "y": diyor. |
+| 23 | B | -yor используется как для действий прямо сейчас, так и для действий в широком настоящем времени. |
 | 24 | C | Для второго лица единственного числа (sen) используется окончание -sun. |
-| 25 | A | Правильный ответ на вопрос: Ben çalışıyorum (я работаю). |
+| 25 | C | Правильный ответ на вопрос: Ben çalışıyorum (я работаю). |
 
 ---
 

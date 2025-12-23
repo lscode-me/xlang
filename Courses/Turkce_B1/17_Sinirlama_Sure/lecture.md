@@ -63,6 +63,7 @@ Eve gelene kadar bekle.
 ### 2.1 Правило образования
 
 **Формула:**
+
 ```
 Глагол в форме -ene/-inceye + kadar
 ```

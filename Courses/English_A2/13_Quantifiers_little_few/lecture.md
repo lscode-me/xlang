@@ -98,6 +98,7 @@ I have a few books on this topic.
 ### 2.3 В различных типах предложений
 
 **Утверждения:**
+
 ```
 
 I have a few ideas.
@@ -108,6 +109,7 @@ There are a few restaurants nearby.
 ```
 
 **Вопросы:**
+
 ```
 
 Do you have a few minutes?
@@ -118,6 +120,7 @@ Can you give me a few examples?
 ```
 
 **С модальными глаголами:**
+
 ```
 
 We should wait a few more minutes.
@@ -266,6 +269,7 @@ Add a little sugar.
 ### 4.3 В различных типах предложений
 
 **Утверждения:**
+
 ```
 
 I have a little information about this.
@@ -276,6 +280,7 @@ There's a little coffee left.
 ```
 
 **Вопросы:**
+
 ```
 
 Do you have a little time?
@@ -286,6 +291,7 @@ Can I have a little water?
 ```
 
 **С модальными глаголами:**
+
 ```
 
 You should add a little salt.

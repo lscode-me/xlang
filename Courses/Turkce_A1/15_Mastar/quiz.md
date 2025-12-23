@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Суффикс инфинитива
 
 Какой суффикс инфинитива используется для глагола "çalışmak" (работать)?
 
-A) -mek
+A) -mak
 
 B) Инфинитив не образуется
 
 C) -mek/-mak (оба правильные)
 
-D) -mak
+D) -mek
 
 ---
 
@@ -22,13 +24,13 @@ D) -mak
 
 Какой суффикс инфинитива используется для глагола "gelmek" (приходить)?
 
-A) -mek
+A) Инфинитив не образуется
 
-B) -mak
+B) -mek/-mak (оба правильные)
 
-C) -mek/-mak (оба правильные)
+C) -mak
 
-D) Инфинитив не образуется
+D) -mek
 
 ---
 
@@ -38,11 +40,11 @@ D) Инфинитив не образуется
 
 A) çalışmek
 
-B) çalışma
+B) çalışıyorum
 
-C) çalışıyorum
+C) çalışmak
 
-D) çalışmak
+D) çalışma
 
 ---
 
@@ -50,13 +52,13 @@ D) çalışmak
 
 Как правильно образовать инфинитив от "geliyorum" (я прихожу)?
 
-A) geliyorum
+A) gelme
 
-B) gelme
+B) gelmek
 
-C) gelmak
+C) geliyorum
 
-D) gelmek
+D) gelmak
 
 ---
 
@@ -64,13 +66,13 @@ D) gelmek
 
 Как правильно сказать "Работать хорошо"?
 
-A) Çalışma güzel
+A) Çalışıyorum güzel
 
-B) Çalışmak güzel
+B) Çalışmek güzel
 
-C) Çalışmek güzel
+C) Çalışmak güzel
 
-D) Çalışıyorum güzel
+D) Çalışma güzel
 
 ---
 
@@ -78,13 +80,13 @@ D) Çalışıyorum güzel
 
 Как правильно сказать "Я хочу работать"?
 
-A) Ben çalışmak istiyorum
+A) Ben çalışmek istiyorum
 
-B) Ben çalışma istiyorum
+B) Ben çalışıyorum istiyorum
 
-C) Ben çalışmek istiyorum
+C) Ben çalışmak istiyorum
 
-D) Ben çalışıyorum istiyorum
+D) Ben çalışma istiyorum
 
 ---
 
@@ -92,13 +94,13 @@ D) Ben çalışıyorum istiyorum
 
 Как правильно образовать дательный падеж от "çalışmak"?
 
-A) çalışmaya
+A) çalışmake
 
-B) çalışmeye
+B) çalışmaka
 
-C) çalışmaka
+C) çalışmaya
 
-D) çalışmake
+D) çalışmeye
 
 ---
 
@@ -108,9 +110,9 @@ D) çalışmake
 
 A) okumeye
 
-B) okumake
+B) okumaya
 
-C) okumaya
+C) okumake
 
 D) okumaka
 
@@ -120,13 +122,13 @@ D) okumaka
 
 Как правильно сказать "Я иду работать"?
 
-A) Çalışma gidiyorum
+A) Çalışmek gidiyorum
 
-B) Çalışmaya gidiyorum
+B) Çalışma gidiyorum
 
-C) Çalışmak gidiyorum
+C) Çalışmaya gidiyorum
 
-D) Çalışmek gidiyorum
+D) Çalışmak gidiyorum
 
 ---
 
@@ -134,11 +136,11 @@ D) Çalışmek gidiyorum
 
 Какой суффикс правильный для глагола "okumak" (читать)?
 
-A) -mek
+A) -mak
 
-B) -mek/-mak (оба правильные)
+B) -mek
 
-C) -mak
+C) -mek/-mak (оба правильные)
 
 D) Инфинитив не образуется
 
@@ -148,9 +150,9 @@ D) Инфинитив не образуется
 
 Какой суффикс правильный для глагола "yemek" (есть)?
 
-A) -mek/-mak (оба правильные)
+A) Инфинитив не образуется
 
-B) Инфинитив не образуется
+B) -mek/-mak (оба правильные)
 
 C) -mek
 
@@ -162,13 +164,13 @@ D) -mak
 
 Какая форма правильная для "работать"?
 
-A) çalışmek
+A) çalışmak
 
-B) çalışmak
+B) çalışıyorum
 
 C) çalışma
 
-D) çalışıyorum
+D) çalışmek
 
 ---
 
@@ -176,13 +178,13 @@ D) çalışıyorum
 
 Какая форма правильная для "приходить"?
 
-A) geliyorum
+A) gelma
 
 B) gelmak
 
 C) gelmek
 
-D) gelma
+D) geliyorum
 
 ---
 
@@ -190,11 +192,11 @@ D) gelma
 
 Как правильно сказать "Читать важно"?
 
-A) Okuyorum önemli
+A) Okuma önemli
 
-B) Okuma önemli
+B) Okumek önemli
 
-C) Okumek önemli
+C) Okuyorum önemli
 
 D) Okumak önemli
 
@@ -204,13 +206,13 @@ D) Okumak önemli
 
 Как правильно сказать "Я хочу читать"?
 
-A) Ben okuma istiyorum
+A) Ben okuyorum istiyorum
 
 B) Ben okumak istiyorum
 
-C) Ben okumek istiyorum
+C) Ben okuma istiyorum
 
-D) Ben okuyorum istiyorum
+D) Ben okumek istiyorum
 
 ---
 
@@ -220,9 +222,9 @@ D) Ben okuyorum istiyorum
 
 A) Нет разницы
 
-B) Второе - неправильная форма
+B) Первое - неправильная форма
 
-C) Первое - неправильная форма
+C) Второе - неправильная форма
 
 D) Первое - инфинитив как существительное, второе - с модальным глаголом
 
@@ -234,11 +236,11 @@ D) Первое - инфинитив как существительное, вт
 
 A) yemaya
 
-B) yemeye
+B) yemeka
 
 C) yemake
 
-D) yemeka
+D) yemeye
 
 ---
 
@@ -260,11 +262,11 @@ D) Okumak gidiyorum
 
 Какая форма глагола используется в словарях?
 
-A) Причастие
+A) Инфинитив (çalışmak)
 
-B) Инфинитив (çalışmak)
+B) Основа (çalış-)
 
-C) Основа (çalış-)
+C) Причастие
 
 D) Личная форма (çalışıyorum)
 
@@ -276,11 +278,11 @@ D) Личная форма (çalışıyorum)
 
 A) -mak
 
-B) -mek/-mak (оба правильные)
+B) -mek
 
 C) Инфинитив не образуется
 
-D) -mek
+D) -mek/-mak (оба правильные)
 
 ---
 
@@ -290,26 +292,26 @@ D) -mek
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | В основе "çalış-" последняя гласная "a" твердая, поэтому используется -mak: çalışmak. |
-| 2 | A | В основе "gel-" последняя гласная "e" мягкая, поэтому используется -mek: gelmek. |
-| 3 | D | Инфинитив от "çalışıyorum": çalışmak (убираем личные окончания). |
-| 4 | D | Инфинитив от "geliyorum": gelmek (убираем личные окончания). |
-| 5 | B | Инфинитив как существительное: Çalışmak güzel. |
-| 6 | A | С модальным глаголом используется инфинитив: Ben çalışmak istiyorum. |
-| 7 | A | Дательный падеж от "çalışmak": çalışmaya. |
-| 8 | C | Дательный падеж от "okumak": okumaya. |
-| 9 | B | Для цели используется дательный падеж: Çalışmaya gidiyorum. |
-| 10 | C | В основе "oku-" последняя гласная "u" твердая, поэтому -mak: okumak. |
+| 1 | A | В основе "çalış-" последняя гласная "a" твердая, поэтому используется -mak: çalışmak. |
+| 2 | D | В основе "gel-" последняя гласная "e" мягкая, поэтому используется -mek: gelmek. |
+| 3 | C | Инфинитив от "çalışıyorum": çalışmak (убираем личные окончания). |
+| 4 | B | Инфинитив от "geliyorum": gelmek (убираем личные окончания). |
+| 5 | C | Инфинитив как существительное: Çalışmak güzel. |
+| 6 | C | С модальным глаголом используется инфинитив: Ben çalışmak istiyorum. |
+| 7 | C | Дательный падеж от "çalışmak": çalışmaya. |
+| 8 | B | Дательный падеж от "okumak": okumaya. |
+| 9 | C | Для цели используется дательный падеж: Çalışmaya gidiyorum. |
+| 10 | A | В основе "oku-" последняя гласная "u" твердая, поэтому -mak: okumak. |
 | 11 | C | В основе "ye-" последняя гласная "e" мягкая, поэтому -mek: yemek. |
-| 12 | B | Правильная форма: çalışmak (последняя гласная "a" твердая). |
+| 12 | A | Правильная форма: çalışmak (последняя гласная "a" твердая). |
 | 13 | C | Правильная форма: gelmek (последняя гласная "e" мягкая). |
 | 14 | D | Инфинитив как существительное: Okumak önemli. |
 | 15 | B | С модальным глаголом используется инфинитив: Ben okumak istiyorum. |
 | 16 | D | "Çalışmak güzel" - инфинитив как существительное, "Ben çalışmak istiyorum" - с модальным глаголом. |
-| 17 | B | Дательный падеж от "yemek": yemeye. |
+| 17 | D | Дательный падеж от "yemek": yemeye. |
 | 18 | A | Для цели используется дательный падеж: Okumaya gidiyorum. |
-| 19 | B | В словарях используется инфинитив: çalışmak. |
-| 20 | D | В основе "git-" последняя гласная "i" мягкая, поэтому -mek: gitmek. |
+| 19 | A | В словарях используется инфинитив: çalışmak. |
+| 20 | B | В основе "git-" последняя гласная "i" мягкая, поэтому -mek: gitmek. |
 
 ---
 

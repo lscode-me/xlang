@@ -4,15 +4,16 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я устал от того, что много работал"?
 
 A) Çok çalışmak için yoruldum
 
-B) Çok çalıştığı için yoruldum
+B) Çok çalışmaktan yoruldum
 
-C) Çok çalışmaktan yoruldum
+C) Çok çalıştığı için yoruldum
 
 D) Çok çalışması için yoruldum
 
@@ -22,13 +23,13 @@ D) Çok çalışması için yoruldum
 
 Как правильно сказать "Мне нравится курить"?
 
-A) Sigara içmek hoşlanıyorum
+A) Sigara içmesi hoşlanıyorum
 
-B) Sigara içmeyi hoşlanıyorum
+B) Sigara içmekten hoşlanıyorum
 
-C) Sigara içmekten hoşlanıyorum
+C) Sigara içmeyi hoşlanıyorum
 
-D) Sigara içmesi hoşlanıyorum
+D) Sigara içmek hoşlanıyorum
 
 ---
 
@@ -36,11 +37,11 @@ D) Sigara içmesi hoşlanıyorum
 
 Как правильно сказать "Я боюсь опоздать"?
 
-A) Geç kalmak korkuyorum
+A) Geç kalmayı korkuyorum
 
-B) Geç kalmayı korkuyorum
+B) Geç kalmaktan korkuyorum
 
-C) Geç kalmaktan korkuyorum
+C) Geç kalmak korkuyorum
 
 D) Geç kalması korkuyorum
 
@@ -55,13 +56,13 @@ D) Geç kalması korkuyorum
 Я устал от того, что много учился.
 ```
 
-A) yoruldum
+A) yorulmak
 
 B) yoruluyorum
 
-C) yorulacağım
+C) yoruldum
 
-D) yorulmak
+D) yorulacağım
 
 ---
 
@@ -74,11 +75,11 @@ Sigara içmekten _____.
 Мне не нравится курить (отрицание).
 ```
 
-A) hoşlanıyorum
+A) hoşlanacağım
 
-B) hoşlanmıyorum
+B) hoşlanıyorum
 
-C) hoşlanacağım
+C) hoşlanmıyorum
 
 D) hoşlanmak
 
@@ -88,11 +89,11 @@ D) hoşlanmak
 
 Когда используется исходный падеж -maktan/-mekten?
 
-A) Для выражения цели действия
+A) Для выражения времени действия
 
-B) Для выражения причины, избегания или эмоциональной реакции
+B) Для выражения цели действия
 
-C) Для выражения времени действия
+C) Для выражения причины, избегания или эмоциональной реакции
 
 D) Для выражения места действия
 
@@ -102,13 +103,13 @@ D) Для выражения места действия
 
 Как правильно сказать "Я поправился из-за того, что много ел"?
 
-A) Çok yemek için kilo aldım
+A) Çok yemekten kilo aldım
 
-B) Çok yediği için kilo aldım
+B) Çok yemesi için kilo aldım
 
-C) Çok yemekten kilo aldım
+C) Çok yemek için kilo aldım
 
-D) Çok yemesi için kilo aldım
+D) Çok yediği için kilo aldım
 
 ---
 
@@ -116,13 +117,13 @@ D) Çok yemesi için kilo aldım
 
 Как правильно сказать "Я заболел от того, что много ел"?
 
-A) Çok yemek için hasta oldum
+A) Çok yemesi için hasta oldum
 
 B) Çok yediği için hasta oldum
 
 C) Çok yemekten hasta oldum
 
-D) Çok yemesi için hasta oldum
+D) Çok yemek için hasta oldum
 
 ---
 
@@ -149,9 +150,9 @@ D) kilo almak
 
 В чем отличие -maktan от -diği için?
 
-A) -maktan для конкретных причин, -diği için для общих
+A) -maktan для общих причин, -diği için для конкретных
 
-B) -maktan для общих причин, -diği için для конкретных
+B) -maktan для конкретных причин, -diği için для общих
 
 C) Нет отличия
 
@@ -163,13 +164,13 @@ D) -maktan для будущего, -diği для прошлого
 
 Как правильно сказать "Я ненавижу рано вставать"?
 
-A) Erken kalkmak nefret ediyorum
+A) Erken kalkması nefret ediyorum
 
-B) Erken kalkmayı nefret ediyorum
+B) Erken kalkmak nefret ediyorum
 
 C) Erken kalkmaktan nefret ediyorum
 
-D) Erken kalkması nefret ediyorum
+D) Erken kalkmayı nefret ediyorum
 
 ---
 
@@ -177,13 +178,13 @@ D) Erken kalkması nefret ediyorum
 
 Как правильно сказать "Я избегаю лгать"?
 
-A) Yalan söylemek kaçınıyorum
+A) Yalan söylemekten kaçınıyorum
 
-B) Yalan söylemeyi kaçınıyorum
+B) Yalan söylemesi kaçınıyorum
 
-C) Yalan söylemekten kaçınıyorum
+C) Yalan söylemek kaçınıyorum
 
-D) Yalan söylemesi kaçınıyorum
+D) Yalan söylemeyi kaçınıyorum
 
 ---
 
@@ -196,13 +197,13 @@ Erken kalkmaktan _____ ediyorum.
 Я ненавижу рано вставать.
 ```
 
-A) nefret
+A) hoşlan
 
-B) hoşlan
+B) sev
 
-C) sev
+C) tercih
 
-D) tercih
+D) nefret
 
 ---
 
@@ -217,11 +218,11 @@ Yalan söylemekten _____.
 
 A) kaçınıyorum
 
-B) kaçınmıyorum
+B) kaçınmak
 
-C) kaçınacağım
+C) kaçınmıyorum
 
-D) kaçınmak
+D) kaçınacağım
 
 ---
 
@@ -231,9 +232,9 @@ D) kaçınmak
 
 A) Geç kalmak çekiniyorum
 
-B) Geç kalmayı çekiniyorum
+B) Geç kalmaktan çekiniyorum
 
-C) Geç kalmaktan çekiniyorum
+C) Geç kalmayı çekiniyorum
 
 D) Geç kalması çekiniyorum
 
@@ -245,11 +246,11 @@ D) Geç kalması çekiniyorum
 
 A) Hata yapmak endişeleniyorum
 
-B) Hata yapmayı endişeleniyorum
+B) Hata yapması endişeleniyorum
 
-C) Hata yapmaktan endişeleniyorum
+C) Hata yapmayı endişeleniyorum
 
-D) Hata yapması endişeleniyorum
+D) Hata yapmaktan endişeleniyorum
 
 ---
 
@@ -264,11 +265,11 @@ Hata yapmaktan _____.
 
 A) endişeleniyorum
 
-B) endişelenmiyorum
+B) endişelenmek
 
 C) endişeleneceğim
 
-D) endişelenmek
+D) endişelenmiyorum
 
 ---
 
@@ -276,9 +277,9 @@ D) endişelenmek
 
 Как правильно сказать "Мне стыдно делать неправильно"?
 
-A) Yanlış yapmak utanıyorum
+A) Yanlış yapmayı utanıyorum
 
-B) Yanlış yapmayı utanıyorum
+B) Yanlış yapmak utanıyorum
 
 C) Yanlış yapmaktan utanıyorum
 
@@ -295,13 +296,13 @@ Yanlış yapmaktan _____.
 Мне стыдно делать неправильно.
 ```
 
-A) utanıyorum
+A) utanmak
 
 B) utanmıyorum
 
 C) utanacağım
 
-D) utanmak
+D) utanıyorum
 
 ---
 
@@ -311,11 +312,11 @@ D) utanmak
 
 A) Başarılı olmak mutluyum
 
-B) Başarılı olmayı mutluyum
+B) Başarılı olmaktan mutluyum
 
-C) Başarılı olmaktan mutluyum
+C) Başarılı olması mutluyum
 
-D) Başarılı olması mutluyum
+D) Başarılı olmayı mutluyum
 
 ---
 
@@ -323,13 +324,13 @@ D) Başarılı olması mutluyum
 
 Какие глаголы используются с -maktan/-mekten для выражения эмоциональных реакций?
 
-A) sevmek, hoşlanmak, tercih etmek
+A) bilmek, görmek, anlamak
 
-B) korkmak, endişelenmek, utanmak
+B) gelmek, gitmek, olmak
 
-C) bilmek, görmek, anlamak
+C) korkmak, endişelenmek, utanmak
 
-D) gelmek, gitmek, olmak
+D) sevmek, hoşlanmak, tercih etmek
 
 ---
 
@@ -337,13 +338,13 @@ D) gelmek, gitmek, olmak
 
 Как правильно сказать "Я задыхался от бега"?
 
-A) Koşmak nefesim kesildi
+A) Koşması nefesim kesildi
 
 B) Koşmayı nefesim kesildi
 
 C) Koşmaktan nefesim kesildi
 
-D) Koşması nefesim kesildi
+D) Koşmak nefesim kesildi
 
 ---
 
@@ -351,11 +352,11 @@ D) Koşması nefesim kesildi
 
 Как правильно сказать "У меня заболел живот от смеха"?
 
-A) Gülmek karnım ağrıdı
+A) Gülmekten karnım ağrıdı
 
-B) Gülmeyi karnım ağrıdı
+B) Gülmek karnım ağrıdı
 
-C) Gülmekten karnım ağrıdı
+C) Gülmeyi karnım ağrıdı
 
 D) Gülmesi karnım ağrıdı
 
@@ -372,11 +373,11 @@ Koşmaktan _____ kesildi.
 
 A) nefesim
 
-B) nefesin
+B) nefesi
 
-C) nefesi
+C) nefesimiz
 
-D) nefesimiz
+D) nefesin
 
 ---
 
@@ -388,9 +389,11 @@ A) Для выражения прямого объекта
 
 B) Для выражения причины, избегания или эмоций
 
-C) Для выражения цели действия
+C) Для выражения времени действия
 
-D) Для выражения времени действия
+D) Для выражения цели действия
+
+---
 
 ---
 
@@ -398,29 +401,29 @@ D) Для выражения времени действия
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Çok çalışmaktan yoruldum |
-| 2 | C | Sigara içmekten hoşlanıyorum |
-| 3 | C | Geç kalmaktan korkuyorum |
-| 4 | A | yoruldum |
-| 5 | B | hoşlanmıyorum |
-| 6 | B | Для выражения причины, избегания или эмоциональной реакции |
-| 7 | C | Çok yemekten kilo aldım |
+| 1 | B | Çok çalışmaktan yoruldum |
+| 2 | B | Sigara içmekten hoşlanıyorum |
+| 3 | B | Geç kalmaktan korkuyorum |
+| 4 | C | yoruldum |
+| 5 | C | hoşlanmıyorum |
+| 6 | C | Для выражения причины, избегания или эмоциональной реакции |
+| 7 | A | Çok yemekten kilo aldım |
 | 8 | C | Çok yemekten hasta oldum |
 | 9 | A | kilo aldım |
-| 10 | B | -maktan для общих причин, -diği для конкретных |
+| 10 | A | -maktan для общих причин, -diği для конкретных |
 | 11 | C | Erken kalkmaktan nefret ediyorum |
-| 12 | C | Yalan söylemekten kaçınıyorum |
-| 13 | A | nefret |
+| 12 | A | Yalan söylemekten kaçınıyorum |
+| 13 | D | nefret |
 | 14 | A | kaçınıyorum |
-| 15 | C | Geç kalmaktan çekiniyorum |
-| 16 | C | Hata yapmaktan endişeleniyorum |
+| 15 | B | Geç kalmaktan çekiniyorum |
+| 16 | D | Hata yapmaktan endişeleniyorum |
 | 17 | A | endişeleniyorum |
 | 18 | C | Yanlış yapmaktan utanıyorum |
-| 19 | A | utanıyorum |
-| 20 | C | Başarılı olmaktan mutluyum |
-| 21 | B | korkmak, endişelenmek, utanmak |
+| 19 | D | utanıyorum |
+| 20 | B | Başarılı olmaktan mutluyum |
+| 21 | C | korkmak, endişelenmek, utanmak |
 | 22 | C | Koşmaktan nefesim kesildi |
-| 23 | C | Gülmekten karnım ağrıdı |
+| 23 | A | Gülmekten karnım ağrıdı |
 | 24 | A | nefesim |
 | 25 | B | Для выражения причины, избегания или эмоций |
 

@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: AT для точного времени
 
 Какой предлог используется для точного времени: "I wake up _____ 7 o'clock"?
 
-A) on
+A) in
 
-B) for
+B) on
 
-C) at
+C) for
 
-D) in
+D) at
 
 ---
 
@@ -27,13 +29,13 @@ D) in
 May - май
 ```
 
-A) on
+A) at
 
-B) at
+B) on
 
-C) for
+C) in
 
-D) in
+D) for
 
 ---
 
@@ -41,9 +43,9 @@ D) in
 
 Какой предлог используется с днями недели: "The meeting is _____ Monday"?
 
-A) at
+A) in
 
-B) in
+B) at
 
 C) for
 
@@ -59,9 +61,9 @@ A) I was born in 1995
 
 B) I was born at 1995
 
-C) I was born on 1995
+C) I was born for 1995
 
-D) I was born for 1995
+D) I was born on 1995
 
 ---
 
@@ -74,13 +76,13 @@ D) I was born for 1995
 I don't work _____ night.
 ```
 
-A) for
+A) on
 
-B) at
+B) in
 
-C) on
+C) for
 
-D) in
+D) at
 
 ---
 
@@ -88,13 +90,13 @@ D) in
 
 Выберите правильный предлог: "It's cold _____ winter."
 
-A) at
+A) in
 
-B) for
+B) at
 
-C) on
+C) for
 
-D) in
+D) on
 
 ---
 
@@ -102,13 +104,13 @@ D) in
 
 Как правильно сказать "5 мая"?
 
-A) on 5th May
+A) at 5th May
 
-B) at 5th May
+B) on 5th May
 
-C) in 5th May
+C) for 5th May
 
-D) for 5th May
+D) in 5th May
 
 ---
 
@@ -116,13 +118,13 @@ D) for 5th May
 
 Выберите правильное предложение:
 
-A) I drink coffee on the morning
+A) I drink coffee for the morning
 
-B) I drink coffee for the morning
+B) I drink coffee at the morning
 
 C) I drink coffee in the morning
 
-D) I drink coffee at the morning
+D) I drink coffee on the morning
 
 ---
 
@@ -130,13 +132,13 @@ D) I drink coffee at the morning
 
 Какое предложение правильное?
 
-A) I am busy at today
+A) I am busy in today
 
-B) I am busy in today
+B) I am busy today
 
-C) I am busy today
+C) I am busy on today
 
-D) I am busy on today
+D) I am busy at today
 
 ---
 
@@ -144,13 +146,13 @@ D) I am busy on today
 
 Как правильно сказать "в понедельник утром"?
 
-A) in Monday morning
+A) for Monday morning
 
-B) at Monday morning
+B) in Monday morning
 
-C) for Monday morning
+C) on Monday morning
 
-D) on Monday morning
+D) at Monday morning
 
 ---
 
@@ -158,13 +160,13 @@ D) on Monday morning
 
 Какой предлог используется для указания длительности: "I study English _____ one hour every day"?
 
-A) in
+A) for
 
-B) during
+B) since
 
-C) since
+C) during
 
-D) for
+D) in
 
 ---
 
@@ -172,13 +174,13 @@ D) for
 
 Выберите правильный предлог: "I have lived here _____ 2015."
 
-A) during
+A) for
 
-B) in
+B) since
 
-C) for
+C) during
 
-D) since
+D) in
 
 ---
 
@@ -186,13 +188,13 @@ D) since
 
 Что означает "before"?
 
-A) во время
+A) через
 
-B) через
+B) до, перед
 
 C) после
 
-D) до, перед
+D) во время
 
 ---
 
@@ -200,13 +202,13 @@ D) до, перед
 
 Как сказать "через 10 минут"?
 
-A) on 10 minutes
+A) for 10 minutes
 
-B) for 10 minutes
+B) in 10 minutes
 
 C) since 10 minutes
 
-D) in 10 minutes
+D) on 10 minutes
 
 ---
 
@@ -216,9 +218,9 @@ D) in 10 minutes
 
 A) Я работаю в 9 утра и в 5 вечера
 
-B) Я работаю с 9 утра до 5 вечера
+B) Я работаю до 9 утра после 5 вечера
 
-C) Я работаю до 9 утра после 5 вечера
+C) Я работаю с 9 утра до 5 вечера
 
 D) Я работаю 9 часов
 
@@ -228,13 +230,13 @@ D) Я работаю 9 часов
 
 Что означает предлог "after"?
 
-A) после
+A) во время
 
 B) с
 
 C) до
 
-D) во время
+D) после
 
 ---
 
@@ -242,13 +244,13 @@ D) во время
 
 Выберите правильный предлог: "I sleep _____ the night."
 
-A) during
+A) at
 
 B) on
 
 C) in
 
-D) at
+D) during
 
 ---
 
@@ -256,11 +258,11 @@ D) at
 
 Что означает "by 5 pm"?
 
-A) после 5 вечера
+A) с 5 вечера
 
 B) в 5 вечера
 
-C) с 5 вечера
+C) после 5 вечера
 
 D) к 5 вечера (не позже)
 
@@ -275,13 +277,13 @@ D) к 5 вечера (не позже)
 until - до (какого-то времени)
 ```
 
-A) Я работаю в 6 вечера
+A) Я работаю с 6 вечера
 
 B) Я работаю до 6 вечера
 
-C) Я работаю после 6 вечера
+C) Я работаю в 6 вечера
 
-D) Я работаю с 6 вечера
+D) Я работаю после 6 вечера
 
 ---
 
@@ -289,13 +291,13 @@ D) Я работаю с 6 вечера
 
 Как сказать "три дня назад"?
 
-A) before three days
+A) three days ago
 
-B) three days ago
+B) since three days
 
-C) in three days
+C) before three days
 
-D) since three days
+D) in three days
 
 ---
 
@@ -305,26 +307,26 @@ D) since three days
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ C. |
-| 2 | D | Правильный ответ C. |
+| 1 | D | Правильный ответ C. |
+| 2 | C | Правильный ответ C. |
 | 3 | D | Правильный ответ B. |
 | 4 | A | Правильный ответ C. |
-| 5 | B | Правильный ответ C. |
-| 6 | D | Правильный ответ C. |
-| 7 | A | Правильный ответ B. |
+| 5 | D | Правильный ответ C. |
+| 6 | A | Правильный ответ C. |
+| 7 | B | Правильный ответ B. |
 | 8 | C | Правильный ответ C. |
-| 9 | C | Правильный ответ D. |
-| 10 | D | Правильный ответ B. |
-| 11 | D | Правильный ответ B. |
-| 12 | D | Правильный ответ B. |
-| 13 | D | Правильный ответ B. |
-| 14 | D | Правильный ответ C. |
-| 15 | B | Правильный ответ B. |
-| 16 | A | Правильный ответ B. |
-| 17 | A | Правильный ответ C. |
+| 9 | B | Правильный ответ D. |
+| 10 | C | Правильный ответ B. |
+| 11 | A | Правильный ответ B. |
+| 12 | B | Правильный ответ B. |
+| 13 | B | Правильный ответ B. |
+| 14 | B | Правильный ответ C. |
+| 15 | C | Правильный ответ B. |
+| 16 | D | Правильный ответ B. |
+| 17 | D | Правильный ответ C. |
 | 18 | D | Правильный ответ C. |
 | 19 | B | Правильный ответ B. |
-| 20 | B | Правильный ответ B. |
+| 20 | A | Правильный ответ B. |
 
 ---
 

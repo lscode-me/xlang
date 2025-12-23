@@ -4,13 +4,14 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Его приход важен"?
 
-A) Onun gelmek önemli
+A) Onun gelme önemli
 
-B) Onun gelme önemli
+B) Onun gelmek önemli
 
 C) Onun gelmesi önemli
 
@@ -22,11 +23,11 @@ D) Onun gelmesini önemli
 
 Как правильно сказать "Опоздание Али меня разозлило"?
 
-A) Ali geç kalmak beni kızdırdı
+A) Ali'nin geç kalma beni kızdırdı
 
-B) Ali'nin geç kalma beni kızdırdı
+B) Ali'nin geç kalması beni kızdırdı
 
-C) Ali'nin geç kalması beni kızdırdı
+C) Ali geç kalmak beni kızdırdı
 
 D) Ali'nin geç kalmasını beni kızdırdı
 
@@ -36,13 +37,13 @@ D) Ali'nin geç kalmasını beni kızdırdı
 
 Как правильно сказать "Его работа успешна"?
 
-A) Onun çalışmak başarılı
+A) Onun çalışmasını başarılı
 
-B) Onun çalışma başarılı
+B) Onun çalışmak başarılı
 
-C) Onun çalışması başarılı
+C) Onun çalışma başarılı
 
-D) Onun çalışmasını başarılı
+D) Onun çalışması başarılı
 
 ---
 
@@ -57,11 +58,11 @@ Onun _____ önemli.
 
 A) gitmek
 
-B) gitme
+B) gitmesi
 
-C) gitmesi
+C) gitmesini
 
-D) gitmesini
+D) gitme
 
 ---
 
@@ -74,13 +75,13 @@ Ayşe'nin geç _____ beni kızdırdı.
 Опоздание Айше меня разозлило.
 ```
 
-A) kalmak
+A) kalmasını
 
 B) kalma
 
-C) kalması
+C) kalmak
 
-D) kalmasını
+D) kalması
 
 ---
 
@@ -102,13 +103,13 @@ D) Будущее действие
 
 В чем отличие -ma от -ması?
 
-A) -ma с субъектом, -ması без субъекта
+A) Нет отличия
 
-B) -ma без субъекта, -ması с субъектом
+B) -ma с субъектом, -ması без субъекта
 
-C) Нет отличия
+C) -ma для прошедшего, -ması для настоящего
 
-D) -ma для прошедшего, -ması для настоящего
+D) -ma без субъекта, -ması с субъектом
 
 ---
 
@@ -118,11 +119,11 @@ D) -ma для прошедшего, -ması для настоящего
 
 A) Benim gelmek önemli
 
-B) Benim gelme önemli
+B) Benim gelmemi önemli
 
 C) Benim gelmem önemli
 
-D) Benim gelmemi önemli
+D) Benim gelme önemli
 
 ---
 
@@ -130,13 +131,13 @@ D) Benim gelmemi önemli
 
 Как правильно сказать "Твоя работа хороша"?
 
-A) Senin çalışmak güzel
+A) Senin çalışman güzel
 
-B) Senin çalışma güzel
+B) Senin çalışmanı güzel
 
-C) Senin çalışman güzel
+C) Senin çalışmak güzel
 
-D) Senin çalışmanı güzel
+D) Senin çalışma güzel
 
 ---
 
@@ -149,13 +150,13 @@ Benim _____ önemli.
 Мой приход важен.
 ```
 
-A) gelmek
+A) gelmemi
 
-B) gelme
+B) gelmem
 
-C) gelmem
+C) gelmek
 
-D) gelmemi
+D) gelme
 
 ---
 
@@ -168,11 +169,11 @@ Senin _____ güzel.
 Твоя работа хороша.
 ```
 
-A) çalışmak
+A) çalışma
 
-B) çalışma
+B) çalışman
 
-C) çalışman
+C) çalışmak
 
 D) çalışmanı
 
@@ -196,13 +197,13 @@ D) -mız/-miz
 
 Какой притяжательный суффикс используется для первого лица единственного числа?
 
-A) -m
+A) -n
 
-B) -n
+B) -sı/-si
 
-C) -sı/-si
+C) -mız/-miz
 
-D) -mız/-miz
+D) -m
 
 ---
 
@@ -224,11 +225,11 @@ D) Bizim gelmemizi önemli
 
 Как правильно сказать "Ваша работа хороша"?
 
-A) Sizin çalışmak güzel
+A) Sizin çalışma güzel
 
-B) Sizin çalışma güzel
+B) Sizin çalışmanız güzel
 
-C) Sizin çalışmanız güzel
+C) Sizin çalışmak güzel
 
 D) Sizin çalışmanızı güzel
 
@@ -243,13 +244,13 @@ Bizim _____ önemli.
 Наш приход важен.
 ```
 
-A) gelmek
+A) gelme
 
-B) gelme
+B) gelmemizi
 
 C) gelmemiz
 
-D) gelmemizi
+D) gelmek
 
 ---
 
@@ -257,11 +258,11 @@ D) gelmemizi
 
 В каком падеже должен стоять субъект при использовании -ması/-mesi?
 
-A) Именительный
+A) Родительный (genitive)
 
-B) Винительный
+B) Именительный
 
-C) Родительный (genitive)
+C) Винительный
 
 D) Дательный
 
@@ -271,11 +272,11 @@ D) Дательный
 
 Как правильно сказать "Их чтение быстрое"?
 
-A) Onların okumak hızlı
+A) Onların okuma hızlı
 
-B) Onların okuma hızlı
+B) Onların okumaları hızlı
 
-C) Onların okumaları hızlı
+C) Onların okumak hızlı
 
 D) Onların okumalarını hızlı
 
@@ -292,9 +293,9 @@ Onların _____ hızlı.
 
 A) okumak
 
-B) okuma
+B) okumaları
 
-C) okumaları
+C) okuma
 
 D) okumalarını
 
@@ -304,13 +305,13 @@ D) okumalarını
 
 Когда используется форма -ması/-mesi вместо -ma?
 
-A) Когда не нужно указывать субъект
+A) Когда действие в будущем
 
-B) Когда нужно указать конкретного субъекта действия
+B) Когда действие абстрактное
 
-C) Когда действие абстрактное
+C) Когда нужно указать конкретного субъекта действия
 
-D) Когда действие в будущем
+D) Когда не нужно указывать субъект
 
 ---
 
@@ -318,13 +319,13 @@ D) Когда действие в будущем
 
 Как правильно сказать "Его чтение быстрое"?
 
-A) Onun okumak hızlı
+A) Onun okuması hızlı
 
-B) Onun okuma hızlı
+B) Onun okumasını hızlı
 
-C) Onun okuması hızlı
+C) Onun okuma hızlı
 
-D) Onun okumasını hızlı
+D) Onun okumak hızlı
 
 ---
 
@@ -339,11 +340,11 @@ Onun _____ hızlı.
 
 A) okumak
 
-B) okuma
+B) okuması
 
-C) okuması
+C) okumasını
 
-D) okumasını
+D) okuma
 
 ---
 
@@ -355,9 +356,9 @@ A) -mak
 
 B) -ma
 
-C) -ması/-mesi
+C) -dik/-diği
 
-D) -dik/-diği
+D) -ması/-mesi
 
 ---
 
@@ -367,11 +368,11 @@ D) -dik/-diği
 
 A) -mak
 
-B) -ma
+B) -dik/-diği
 
-C) -ması/-mesi
+C) -ma
 
-D) -dik/-diği
+D) -ması/-mesi
 
 ---
 
@@ -379,13 +380,15 @@ D) -dik/-diği
 
 Как правильно сказать "Работа Али необходима"?
 
-A) Ali çalışmak gerekli
+A) Ali'nin çalışması gerekli
 
 B) Ali'nin çalışma gerekli
 
-C) Ali'nin çalışması gerekli
+C) Ali'nin çalışmasını gerekli
 
-D) Ali'nin çalışmasını gerekli
+D) Ali çalışmak gerekli
+
+---
 
 ---
 
@@ -394,30 +397,30 @@ D) Ali'nin çalışmasını gerekli
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | C | Onun gelmesi önemli |
-| 2 | C | Ali'nin geç kalması beni kızdırdı |
-| 3 | C | Onun çalışması başarılı |
-| 4 | C | gitmesi |
-| 5 | C | kalması |
+| 2 | B | Ali'nin geç kalması beni kızdırdı |
+| 3 | D | Onun çalışması başarılı |
+| 4 | B | gitmesi |
+| 5 | D | kalması |
 | 6 | B | Действие с конкретным субъектом |
-| 7 | B | -ma без субъекта, -ması с субъектом |
+| 7 | D | -ma без субъекта, -ması с субъектом |
 | 8 | C | Benim gelmem önemli |
-| 9 | C | Senin çalışman güzel |
-| 10 | C | gelmem |
-| 11 | C | çalışman |
+| 9 | A | Senin çalışman güzel |
+| 10 | B | gelmem |
+| 11 | B | çalışman |
 | 12 | C | -sı/-si |
-| 13 | A | -m |
+| 13 | D | -m |
 | 14 | C | Bizim gelmemiz önemli |
-| 15 | C | Sizin çalışmanız güzel |
+| 15 | B | Sizin çalışmanız güzel |
 | 16 | C | gelmemiz |
-| 17 | C | Родительный (genitive) |
-| 18 | C | Onların okumaları hızlı |
-| 19 | C | okumaları |
-| 20 | B | Когда нужно указать конкретного субъекта действия |
-| 21 | C | Onun okuması hızlı |
-| 22 | C | okuması |
+| 17 | A | Родительный (genitive) |
+| 18 | B | Onların okumaları hızlı |
+| 19 | B | okumaları |
+| 20 | C | Когда нужно указать конкретного субъекта действия |
+| 21 | A | Onun okuması hızlı |
+| 22 | B | okuması |
 | 23 | B | -ma |
-| 24 | C | -ması/-mesi |
-| 25 | C | Ali'nin çalışması gerekli |
+| 24 | D | -ması/-mesi |
+| 25 | A | Ali'nin çalışması gerekli |
 
 ---
 

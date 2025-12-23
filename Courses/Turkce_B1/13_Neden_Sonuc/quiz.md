@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы причины
 
 Как правильно сказать "Он не пришел, потому что заболел"?
 
-A) Hasta olmak için gelmedi
+A) Hasta olması için gelmedi
 
 B) Hasta olduğu için gelmedi
 
-C) Hasta olmaktan gelmedi
+C) Hasta olmak için gelmedi
 
-D) Hasta olması için gelmedi
+D) Hasta olmaktan gelmedi
 
 ---
 
@@ -24,9 +25,9 @@ D) Hasta olması için gelmedi
 
 A) Çok öğrenmek için yoruldum
 
-B) Çok öğrendiği için yoruldum
+B) Çok öğrenmekten yoruldum
 
-C) Çok öğrenmekten yoruldum
+C) Çok öğrendiği için yoruldum
 
 D) Çok öğrenmesi için yoruldum
 
@@ -36,13 +37,13 @@ D) Çok öğrenmesi için yoruldum
 
 Как правильно сказать "Я устал из-за бега"?
 
-A) Koşmak için yoruldum
+A) Koşmaktan dolayı yoruldum
 
-B) Koştuğu için yoruldum
+B) Koşması için yoruldum
 
-C) Koşmaktan dolayı yoruldum
+C) Koşmak için yoruldum
 
-D) Koşması için yoruldum
+D) Koştuğu için yoruldum
 
 ---
 
@@ -69,13 +70,13 @@ D) Geç kalması için özür diledi
 Я устал, потому что много учился.
 ```
 
-A) için
+A) maktan
 
-B) dolayı
+B) için
 
-C) için veya dolayı
+C) dolayı
 
-D) maktan
+D) için veya dolayı
 
 ---
 
@@ -88,13 +89,13 @@ D) maktan
 Я устал из-за того, что много учился.
 ```
 
-A) için
+A) diği için
 
-B) dolayı
+B) için veya dolayı
 
-C) için veya dolayı
+C) dolayı
 
-D) diği için
+D) için
 
 ---
 
@@ -107,13 +108,13 @@ Hasta olduğu _____ gelmedi.
 Он не пришел, потому что заболел.
 ```
 
-A) için
+A) maktan
 
 B) dolayı
 
 C) için veya dolayı
 
-D) maktan
+D) için
 
 ---
 
@@ -128,11 +129,11 @@ Geç kaldığından _____ diledi.
 
 A) için
 
-B) dolayı
+B) maktan
 
 C) özür
 
-D) maktan
+D) dolayı
 
 ---
 
@@ -140,13 +141,13 @@ D) maktan
 
 Когда используется форма -diği için?
 
-A) Для абстрактных причин
+A) Для общих причин
 
 B) Для конкретных причин прошедшего действия
 
 C) Для будущих причин
 
-D) Для общих причин
+D) Для абстрактных причин
 
 ---
 
@@ -154,13 +155,13 @@ D) Для общих причин
 
 Когда используется форма -maktan dolayı?
 
-A) Для конкретных причин прошедшего действия
+A) Для общих причин или привычек
 
-B) Для общих причин или привычек
+B) Для причин настоящего действия
 
 C) Для будущих причин
 
-D) Для причин настоящего действия
+D) Для конкретных причин прошедшего действия
 
 ---
 
@@ -168,13 +169,13 @@ D) Для причин настоящего действия
 
 Когда используется форма -diğinden?
 
-A) Для формального стиля
+A) Для всех стилей одинаково
 
 B) Для разговорного стиля
 
 C) Для письменного стиля
 
-D) Для всех стилей одинаково
+D) Для формального стиля
 
 ---
 
@@ -182,13 +183,13 @@ D) Для всех стилей одинаково
 
 В чем отличие -diği için от -maktan dolayı?
 
-A) -diği для общих причин, -maktan для конкретных
+A) -diği для конкретных причин, -maktan для общих
 
-B) -diği для конкретных причин, -maktan для общих
+B) Нет отличия
 
-C) Нет отличия
+C) -diği для будущего, -maktan для прошлого
 
-D) -diği для будущего, -maktan для прошлого
+D) -diği для общих причин, -maktan для конкретных
 
 ---
 
@@ -196,13 +197,13 @@ D) -diği для будущего, -maktan для прошлого
 
 В чем отличие -diği için от -diğinden?
 
-A) -diği для формального стиля, -diğinden для разговорного
+A) -diği для разговорного стиля, -diğinden для формального
 
-B) -diği для разговорного стиля, -diğinden для формального
+B) -diği для формального стиля, -diğinden для разговорного
 
-C) Нет отличия
+C) -diği для настоящего, -diğinden для прошлого
 
-D) -diği для настоящего, -diğinden для прошлого
+D) Нет отличия
 
 ---
 
@@ -212,11 +213,11 @@ D) -diği для настоящего, -diğinden для прошлого
 
 A) Çok uyumak için kilo aldım
 
-B) Çok uyuduğu için kilo aldım
+B) Çok uyumaktan dolayı kilo aldım
 
-C) Çok uyumaktan dolayı kilo aldım
+C) Çok uyuması için kilo aldım
 
-D) Çok uyuması için kilo aldım
+D) Çok uyuduğu için kilo aldım
 
 ---
 
@@ -224,13 +225,13 @@ D) Çok uyuması için kilo aldım
 
 Как правильно сказать "Я устал от того, что много читал"?
 
-A) Çok okumak için yoruldum
+A) Çok okuduğu için yoruldum
 
-B) Çok okuduğu için yoruldum
+B) Çok okuması için yoruldum
 
 C) Çok okumaktan dolayı yoruldum
 
-D) Çok okuması için yoruldum
+D) Çok okumak için yoruldum
 
 ---
 
@@ -243,13 +244,13 @@ D) Çok okuması için yoruldum
 Я поправился из-за того, что много спал.
 ```
 
-A) için
+A) dolayı
 
-B) dolayı
+B) diği için
 
-C) için veya dolayı
+C) için
 
-D) diği için
+D) için veya dolayı
 
 ---
 
@@ -262,13 +263,13 @@ Hasta olduğundan _____ gelmedi.
 Он не пришел, потому что заболел.
 ```
 
-A) için
+A) maktan
 
-B) dolayı
+B) özür
 
-C) özür
+C) dolayı
 
-D) maktan
+D) için
 
 ---
 
@@ -276,11 +277,11 @@ D) maktan
 
 Как правильно сказать "Он не пришел, потому что опоздал"?
 
-A) Geç kalmak için gelmedi
+A) Geç kaldığından gelmedi
 
 B) Geç kaldığı için gelmedi
 
-C) Geç kaldığından gelmedi
+C) Geç kalmak için gelmedi
 
 D) Geç kalması için gelmedi
 
@@ -290,11 +291,11 @@ D) Geç kalması için gelmedi
 
 Какая форма используется для выражения причины прошедшего действия в формальном стиле?
 
-A) -diği için
+A) -diğinden
 
 B) -maktan dolayı
 
-C) -diğinden
+C) -diği için
 
 D) -maktan için
 
@@ -304,11 +305,11 @@ D) -maktan için
 
 Какая форма используется для выражения причины прошедшего действия в разговорном стиле?
 
-A) -diği için
+A) -maktan dolayı
 
-B) -maktan dolayı
+B) -diğinden
 
-C) -diğinden
+C) -diği için
 
 D) -maktan için
 
@@ -320,11 +321,11 @@ D) -maktan için
 
 A) Koşmak için nefesim kesildi
 
-B) Koştuğu için nefesim kesildi
+B) Koşması için nefesim kesildi
 
 C) Koşmaktan nefesim kesildi
 
-D) Koşması için nefesim kesildi
+D) Koştuğu için nefesim kesildi
 
 ---
 
@@ -332,13 +333,13 @@ D) Koşması için nefesim kesildi
 
 Как правильно сказать "У меня заболел живот от смеха"?
 
-A) Gülmek için karnım ağrıdı
+A) Gülmekten karnım ağrıdı
 
-B) Güldüğü için karnım ağrıdı
+B) Gülmek için karnım ağrıdı
 
-C) Gülmekten karnım ağrıdı
+C) Gülmesi için karnım ağrıdı
 
-D) Gülmesi için karnım ağrıdı
+D) Güldüğü için karnım ağrıdı
 
 ---
 
@@ -351,9 +352,9 @@ Koşmaktan _____ nefesim kesildi.
 Я задыхался от бега.
 ```
 
-A) için
+A) dolayı
 
-B) dolayı
+B) için
 
 C) için veya dolayı
 
@@ -370,13 +371,13 @@ Gülmekten _____ karnım ağrıdı.
 У меня заболел живот от смеха.
 ```
 
-A) için
+A) diği için
 
-B) dolayı
+B) için veya dolayı
 
-C) için veya dolayı
+C) için
 
-D) diği için
+D) dolayı
 
 ---
 
@@ -386,11 +387,13 @@ D) diği için
 
 A) -diği için
 
-B) -maktan dolayı
+B) -diğinden
 
 C) -maktan/-mekten
 
-D) -diğinden
+D) -maktan dolayı
+
+---
 
 ---
 
@@ -399,29 +402,29 @@ D) -diğinden
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | B | Hasta olduğu için gelmedi |
-| 2 | B | Çok öğrendiği için yoruldum |
-| 3 | C | Koşmaktan dolayı yoruldum |
+| 2 | C | Çok öğrendiği için yoruldum |
+| 3 | A | Koşmaktan dolayı yoruldum |
 | 4 | C | Geç kaldığından özür diledi |
-| 5 | A | için |
-| 6 | B | dolayı |
-| 7 | A | için |
+| 5 | B | için |
+| 6 | C | dolayı |
+| 7 | D | için |
 | 8 | C | özür |
 | 9 | B | Для конкретных причин прошедшего действия |
-| 10 | B | Для общих причин или привычек |
+| 10 | A | Для общих причин или привычек |
 | 11 | B | Для разговорного стиля |
-| 12 | B | -diği для конкретных причин, -maktan для общих |
-| 13 | A | -diği для формального стиля, -diğinden для разговорного |
-| 14 | C | Çok uyumaktan dolayı kilo aldım |
+| 12 | A | -diği для конкретных причин, -maktan для общих |
+| 13 | B | -diği для формального стиля, -diğinden для разговорного |
+| 14 | B | Çok uyumaktan dolayı kilo aldım |
 | 15 | C | Çok okumaktan dolayı yoruldum |
-| 16 | B | dolayı |
-| 17 | C | özür |
-| 18 | C | Geç kaldığından gelmedi |
-| 19 | A | -diği для |
-| 20 | C | -diğinden |
+| 16 | A | dolayı |
+| 17 | B | özür |
+| 18 | A | Geç kaldığından gelmedi |
+| 19 | C | -diği для |
+| 20 | B | -diğinden |
 | 21 | C | Koşmaktan nefesim kesildi |
-| 22 | C | Gülmekten karnım ağrıdı |
-| 23 | B | dolayı |
-| 24 | B | dolayı |
+| 22 | A | Gülmekten karnım ağrıdı |
+| 23 | A | dolayı |
+| 24 | D | dolayı |
 | 25 | C | -maktan/-mekten |
 
 ---

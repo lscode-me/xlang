@@ -4,107 +4,11 @@
 
 ---
 
+
+
 ## Question 1: Суффикс местного падежа
 
 Какой суффикс местного падежа используется для "ev" (дом)?
-
-A) -de
-
-B) -da
-
-C) -a
-
-D) -e
-
----
-
-## Question 2: Суффикс местного падежа
-
-Какой суффикс местного падежа используется для "okul" (школа)?
-
-A) -a
-
-B) -e
-
-C) -de
-
-D) -da
-
----
-
-## Question 3: Местоположение
-
-Как правильно сказать "Я дома"?
-
-A) Ben evde
-
-B) Ben evden
-
-C) Ben ev
-
-D) Ben eve
-
----
-
-## Question 4: Местоположение
-
-Как правильно сказать "Я работаю в школе"?
-
-A) Okul çalışıyorum
-
-B) Okula çalışıyorum
-
-C) Okuldan çalışıyorum
-
-D) Okulda çalışıyorum
-
----
-
-## Question 5: Вопрос о местоположении
-
-Как правильно спросить "Где ты?"?
-
-A) Neredesin?
-
-B) Nerede gidiyorsun?
-
-C) Nereden gidiyorsun?
-
-D) Nereye gidiyorsun?
-
----
-
-## Question 6: Различие падежей
-
-В чем разница между "Okula gidiyorum" и "Okulda çalışıyorum"?
-
-A) Второе - неправильная форма
-
-B) Первое - неправильная форма
-
-C) Нет разницы
-
-D) Первое - направление (куда?), второе - местоположение (где?)
-
----
-
-## Question 7: Гармония гласных
-
-Какой суффикс правильный для "iş" (работа)?
-
-A) -de
-
-B) -a
-
-C) -da
-
-D) -e
-
----
-
-## Question 8: Гармония гласных
-
-Какой суффикс правильный для "masa" (стол)?
 
 A) -e
 
@@ -116,17 +20,115 @@ D) -da
 
 ---
 
+## Question 2: Суффикс местного падежа
+
+Какой суффикс местного падежа используется для "okul" (школа)?
+
+A) -de
+
+B) -e
+
+C) -da
+
+D) -a
+
+---
+
+## Question 3: Местоположение
+
+Как правильно сказать "Я дома"?
+
+A) Ben evde
+
+B) Ben ev
+
+C) Ben eve
+
+D) Ben evden
+
+---
+
+## Question 4: Местоположение
+
+Как правильно сказать "Я работаю в школе"?
+
+A) Okuldan çalışıyorum
+
+B) Okulda çalışıyorum
+
+C) Okula çalışıyorum
+
+D) Okul çalışıyorum
+
+---
+
+## Question 5: Вопрос о местоположении
+
+Как правильно спросить "Где ты?"?
+
+A) Nereye gidiyorsun?
+
+B) Nereden gidiyorsun?
+
+C) Neredesin?
+
+D) Nerede gidiyorsun?
+
+---
+
+## Question 6: Различие падежей
+
+В чем разница между "Okula gidiyorum" и "Okulda çalışıyorum"?
+
+A) Первое - направление (куда?), второе - местоположение (где?)
+
+B) Второе - неправильная форма
+
+C) Первое - неправильная форма
+
+D) Нет разницы
+
+---
+
+## Question 7: Гармония гласных
+
+Какой суффикс правильный для "iş" (работа)?
+
+A) -a
+
+B) -e
+
+C) -da
+
+D) -de
+
+---
+
+## Question 8: Гармония гласных
+
+Какой суффикс правильный для "masa" (стол)?
+
+A) -de
+
+B) -a
+
+C) -e
+
+D) -da
+
+---
+
 ## Question 9: Местоположение предметов
 
 Как правильно сказать "Книга на столе"?
 
-A) Kitap masa
+A) Kitap masada
 
-B) Kitap masadan
+B) Kitap masa
 
-C) Kitap masaya
+C) Kitap masadan
 
-D) Kitap masada
+D) Kitap masaya
 
 ---
 
@@ -134,13 +136,13 @@ D) Kitap masada
 
 Как правильно сказать "В понедельник"?
 
-A) Pazartesi günü
+A) Pazartesi gününden
 
-B) Pazartesi gününde
+B) Pazartesi günü
 
 C) Pazartesi gününe
 
-D) Pazartesi gününden
+D) Pazartesi gününde
 
 ---
 
@@ -148,9 +150,9 @@ D) Pazartesi gününden
 
 Какая форма правильная для "я работаю дома"?
 
-A) Ev çalışıyorum
+A) Evden çalışıyorum
 
-B) Evden çalışıyorum
+B) Ev çalışıyorum
 
 C) Evde çalışıyorum
 
@@ -162,13 +164,13 @@ D) Eve çalışıyorum
 
 Как правильно сказать "Я дома читаю книгу"?
 
-A) Evde kitap okuyorum
+A) Evden kitap okuyorum
 
-B) Eve kitap okuyorum
+B) Ev kitap okuyorum
 
-C) Evden kitap okuyorum
+C) Evde kitap okuyorum
 
-D) Ev kitap okuyorum
+D) Eve kitap okuyorum
 
 ---
 
@@ -176,11 +178,11 @@ D) Ev kitap okuyorum
 
 Какое предложение правильно для "Я работаю в школе"?
 
-A) Okula çalışıyorum
+A) Okul çalışıyorum
 
 B) Okulda çalışıyorum
 
-C) Okul çalışıyorum
+C) Okula çalışıyorum
 
 D) Okuldan çalışıyorum
 
@@ -190,11 +192,11 @@ D) Okuldan çalışıyorum
 
 Выберите правильную форму предложения "Он/Она в школе":
 
-A) O okulda
+A) O okula
 
-B) O okula
+B) O okuldan
 
-C) O okuldan
+C) O okulda
 
 D) O okul
 
@@ -204,13 +206,13 @@ D) O okul
 
 Выберите правильный ответ на вопрос "Neredesin?":
 
-A) Evden geliyorum
+A) Eve gidiyorum
 
 B) Evdeyim
 
-C) Eve gidiyorum
+C) Ev
 
-D) Ev
+D) Evden geliyorum
 
 ---
 
@@ -218,13 +220,13 @@ D) Ev
 
 Как правильно сказать "Я живу в Анкаре"?
 
-A) Ankara yaşıyorum
+A) Ankara'da yaşıyorum
 
-B) Ankara'dan yaşıyorum
+B) Ankara yaşıyorum
 
-C) Ankara'ya yaşıyorum
+C) Ankara'dan yaşıyorum
 
-D) Ankara'da yaşıyorum
+D) Ankara'ya yaşıyorum
 
 ---
 
@@ -237,13 +239,13 @@ _____ çalışıyorum.
 Я работаю вечером.
 ```
 
-A) Akşam
+A) Akşamdan
 
 B) Akşama
 
 C) Akşamda
 
-D) Akşamdan
+D) Akşam
 
 ---
 
@@ -253,9 +255,9 @@ D) Akşamdan
 
 A) Okula gidiyorum
 
-B) Okulda çalışıyorum
+B) Okuldan geliyorum
 
-C) Okuldan geliyorum
+C) Okulda çalışıyorum
 
 D) Okulun kapısı
 
@@ -269,9 +271,9 @@ A) O burası
 
 B) O burada
 
-C) O buraya
+C) O buradan
 
-D) O buradan
+D) O buraya
 
 ---
 
@@ -279,13 +281,13 @@ D) O buradan
 
 Как правильно сказать "В классе есть студенты"?
 
-A) Sınıftan öğrenciler var
+A) Sınıfta öğrenciler var
 
 B) Sınıfa öğrenciler var
 
-C) Sınıfta öğrenciler var
+C) Sınıf öğrenciler var
 
-D) Sınıf öğrenciler var
+D) Sınıftan öğrenciler var
 
 ---
 
@@ -295,26 +297,26 @@ D) Sınıf öğrenciler var
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | В слове "ev" последняя гласная "e" мягкая, поэтому используется -de: evde. |
-| 2 | D | В слове "okul" последняя гласная "u" твердая, поэтому используется -da: okulda. |
+| 1 | B | В слове "ev" последняя гласная "e" мягкая, поэтому используется -de: evde. |
+| 2 | C | В слове "okul" последняя гласная "u" твердая, поэтому используется -da: okulda. |
 | 3 | A | Для местоположения используется местный падеж: Ben evde. |
-| 4 | D | Для местоположения используется местный падеж: Okulda çalışıyorum. |
-| 5 | A | Вопрос о местоположении: "Neredesin?" (Где ты?). |
-| 6 | D | "Okula" - направление (куда?), "Okulda" - местоположение (где?). |
-| 7 | A | В слове "iş" последняя гласная "i" мягкая, поэтому используется -de: işte. |
+| 4 | B | Для местоположения используется местный падеж: Okulda çalışıyorum. |
+| 5 | C | Вопрос о местоположении: "Neredesin?" (Где ты?). |
+| 6 | A | "Okula" - направление (куда?), "Okulda" - местоположение (где?). |
+| 7 | D | В слове "iş" последняя гласная "i" мягкая, поэтому используется -de: işte. |
 | 8 | D | В слове "masa" последняя гласная "a" твердая, поэтому используется -da: masada. |
-| 9 | D | Для местоположения используется местный падеж: Kitap masada. |
-| 10 | B | Для времени используется местный падеж: Pazartesi gününde. |
+| 9 | A | Для местоположения используется местный падеж: Kitap masada. |
+| 10 | D | Для времени используется местный падеж: Pazartesi gününde. |
 | 11 | C | Для местоположения обязательно используется местный падеж: Evde çalışıyorum. |
-| 12 | A | Для местоположения используется местный падеж: Evde kitap okuyorum. |
+| 12 | C | Для местоположения используется местный падеж: Evde kitap okuyorum. |
 | 13 | B | Для местоположения используется местный падеж: Okulda çalışıyorum. |
-| 14 | A | Для местоположения используется местный падеж: O okulda. |
+| 14 | C | Для местоположения используется местный падеж: O okulda. |
 | 15 | B | Правильный ответ на вопрос о местоположении: Evdeyim (Я дома). |
-| 16 | D | Для "жить в городе" используется местный падеж: Ankara'da yaşıyorum. |
-| 17 | A | Наречия времени (akşam, sabah) обычно не требуют падежных окончаний. |
-| 18 | B | Местный падеж с глаголом "çalışmak": Okulda çalışıyorum. |
+| 16 | A | Для "жить в городе" используется местный падеж: Ankara'da yaşıyorum. |
+| 17 | D | Наречия времени (akşam, sabah) обычно не требуют падежных окончаний. |
+| 18 | C | Местный падеж с глаголом "çalışmak": Okulda çalışıyorum. |
 | 19 | B | "Здесь" в турецком: burada (местный падеж от "bura"). |
-| 20 | C | С конструкцией "var" используется местный падеж: Sınıfta öğrenciler var. |
+| 20 | A | С конструкцией "var" используется местный падеж: Sınıfta öğrenciler var. |
 
 ---
 

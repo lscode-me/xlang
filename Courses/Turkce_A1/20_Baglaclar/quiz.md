@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Союз "ve"
 
 Как правильно сказать "Я работаю и читаю"?
 
 A) Çalışıyorum ve okuyorum
 
-B) Çalışıyorum okuyorum ve
+B) Çalışıyorum okuyorum
 
-C) Çalışıyorum okuyorum
+C) Çalışıyorum okuyorum ve
 
 D) Ve çalışıyorum okuyorum
 
@@ -22,13 +24,13 @@ D) Ve çalışıyorum okuyorum
 
 Как правильно сказать "Я дома, но счастлив"?
 
-A) Ama evdeyim mutluyum
+A) Evdeyim ama mutluyum
 
-B) Evdeyim ama mutluyum
+B) Evdeyim mutluyum
 
 C) Evdeyim mutluyum ama
 
-D) Evdeyim mutluyum
+D) Ama evdeyim mutluyum
 
 ---
 
@@ -36,13 +38,13 @@ D) Evdeyim mutluyum
 
 Как правильно сказать "Я работаю, потому что есть экзамен"?
 
-A) Çünkü çalışıyorum sınav var
+A) Çalışıyorum sınav var çünkü
 
-B) Çalışıyorum sınav var
+B) Çalışıyorum çünkü sınav var
 
-C) Çalışıyorum sınav var çünkü
+C) Çünkü çalışıyorum sınav var
 
-D) Çalışıyorum çünkü sınav var
+D) Çalışıyorum sınav var
 
 ---
 
@@ -52,11 +54,11 @@ D) Çalışıyorum çünkü sınav var
 
 A) "ama" - неправильная форма
 
-B) Нет разницы
+B) "ve" - неправильная форма
 
-C) "ve" - неправильная форма
+C) "ve" - соединение, "ama" - противопоставление
 
-D) "ve" - соединение, "ama" - противопоставление
+D) Нет разницы
 
 ---
 
@@ -64,9 +66,9 @@ D) "ve" - соединение, "ama" - противопоставление
 
 Как правильно сказать "Книга и ручка"?
 
-A) Kitap ve kalem
+A) Kitap kalem
 
-B) Kitap kalem
+B) Kitap ve kalem
 
 C) Kitap kalem ve
 
@@ -78,13 +80,13 @@ D) Ve kitap kalem
 
 Как правильно сказать "Я устал, но работаю"?
 
-A) Ama yorgunum çalışıyorum
+A) Yorgunum çalışıyorum
 
 B) Yorgunum çalışıyorum ama
 
-C) Yorgunum ama çalışıyorum
+C) Ama yorgunum çalışıyorum
 
-D) Yorgunum çalışıyorum
+D) Yorgunum ama çalışıyorum
 
 ---
 
@@ -92,13 +94,13 @@ D) Yorgunum çalışıyorum
 
 Как правильно сказать "Я не иду, потому что устал"?
 
-A) Gitmiyorum çünkü yorgunum
+A) Gitmiyorum yorgunum çünkü
 
-B) Çünkü gitmiyorum yorgunum
+B) Gitmiyorum yorgunum
 
-C) Gitmiyorum yorgunum çünkü
+C) Çünkü gitmiyorum yorgunum
 
-D) Gitmiyorum yorgunum
+D) Gitmiyorum çünkü yorgunum
 
 ---
 
@@ -106,11 +108,11 @@ D) Gitmiyorum yorgunum
 
 Какая форма правильная для "я работаю и читаю"?
 
-A) Çalışıyorum ve okuyorum
+A) Ve çalışıyorum okuyorum
 
-B) Çalışıyorum okuyorum
+B) Çalışıyorum ve okuyorum
 
-C) Ve çalışıyorum okuyorum
+C) Çalışıyorum okuyorum
 
 D) Çalışıyorum okuyorum ve
 
@@ -120,13 +122,13 @@ D) Çalışıyorum okuyorum ve
 
 Как правильно сказать "Большой и красивый"?
 
-A) Ve büyük güzel
+A) Büyük güzel ve
 
 B) Büyük ve güzel
 
-C) Büyük güzel ve
+C) Büyük güzel
 
-D) Büyük güzel
+D) Ve büyük güzel
 
 ---
 
@@ -134,13 +136,13 @@ D) Büyük güzel
 
 В чем разница между "ama" и "çünkü"?
 
-A) "çünkü" - неправильная форма
+A) "ama" - неправильная форма
 
 B) "ama" - противопоставление, "çünkü" - причина
 
 C) Нет разницы
 
-D) "ama" - неправильная форма
+D) "çünkü" - неправильная форма
 
 ---
 
@@ -148,11 +150,11 @@ D) "ama" - неправильная форма
 
 Выберите правильную форму предложения "Я дома и счастлив":
 
-A) Evdeyim mutluyum ve
+A) Evdeyim ve mutluyum
 
-B) Evdeyim ve mutluyum
+B) Ve evdeyim mutluyum
 
-C) Ve evdeyim mutluyum
+C) Evdeyim mutluyum ve
 
 D) Evdeyim mutluyum
 
@@ -164,11 +166,11 @@ D) Evdeyim mutluyum
 
 A) Çalışıyorum okuyorum yorgunum
 
-B) Çalışıyorum okuyorum ve ama yorgunum
+B) Ve çalışıyorum okuyorum ama yorgunum
 
-C) Çalışıyorum ve okuyorum ama yorgunum
+C) Çalışıyorum okuyorum ve ama yorgunum
 
-D) Ve çalışıyorum okuyorum ama yorgunum
+D) Çalışıyorum ve okuyorum ama yorgunum
 
 ---
 
@@ -176,13 +178,13 @@ D) Ve çalışıyorum okuyorum ama yorgunum
 
 Как правильно спросить "Почему ты дома?"?
 
-A) Nasıl evdesin?
+A) Nerede evdesin?
 
-B) Ne evdesin?
+B) Neden evdesin?
 
-C) Neden evdesin?
+C) Ne evdesin?
 
-D) Nerede evdesin?
+D) Nasıl evdesin?
 
 ---
 
@@ -190,13 +192,13 @@ D) Nerede evdesin?
 
 Какое предложение правильно для "я устал, но работаю"?
 
-A) Yorgunum ama çalışıyorum
+A) Yorgunum çalışıyorum
 
-B) Yorgunum ve çalışıyorum
+B) Yorgunum ama çalışıyorum
 
-C) Yorgunum çalışıyorum
+C) Yorgunum çünkü çalışıyorum
 
-D) Yorgunum çünkü çalışıyorum
+D) Yorgunum ve çalışıyorum
 
 ---
 
@@ -204,13 +206,13 @@ D) Yorgunum çünkü çalışıyorum
 
 Какой союз используется для выражения причины?
 
-A) çünkü
+A) ama
 
-B) ve
+B) çünkü
 
-C) Все правильные
+C) ve
 
-D) ama
+D) Все правильные
 
 ---
 
@@ -218,13 +220,13 @@ D) ama
 
 Как правильно сказать "Чай или кофе"?
 
-A) Çay kahve
+A) Çay ve kahve
 
-B) Çay ve kahve
+B) Çay ya da kahve
 
 C) Çay ama kahve
 
-D) Çay ya da kahve
+D) Çay kahve
 
 ---
 
@@ -232,11 +234,11 @@ D) Çay ya da kahve
 
 Как правильно сказать "И красивый, и умный"?
 
-A) Güzel ve akıllı
+A) Güzel ama akıllı
 
 B) Hem güzel hem akıllı
 
-C) Güzel ama akıllı
+C) Güzel ve akıllı
 
 D) Güzel çünkü akıllı
 
@@ -246,13 +248,13 @@ D) Güzel çünkü akıllı
 
 Как правильно сказать "Я не иду, потому что болен"?
 
-A) Çünkü gitmiyorum hastayım
+A) Gitmiyorum hastayım çünkü
 
-B) Gitmiyorum çünkü hastayım
+B) Hastayım gitmiyorum çünkü
 
-C) Gitmiyorum hastayım çünkü
+C) Gitmiyorum çünkü hastayım
 
-D) Hastayım gitmiyorum çünkü
+D) Çünkü gitmiyorum hastayım
 
 ---
 
@@ -260,13 +262,13 @@ D) Hastayım gitmiyorum çünkü
 
 Как правильно сказать "Если устал, отдохни"?
 
-A) Yorgunsan dinlen
+A) Yorgun ve dinlen
 
 B) Yorgun dinlen
 
-C) Yorgun ve dinlen
+C) Dinlen yorgunsan
 
-D) Dinlen yorgunsan
+D) Yorgunsan dinlen
 
 ---
 
@@ -276,11 +278,11 @@ D) Dinlen yorgunsan
 
 A) Gitmek istiyorum ama yorgunum
 
-B) Ama gitmek istiyorum yorgunum
+B) Gitmek istiyorum ve yorgunum
 
 C) Gitmek istiyorum yorgunum ama
 
-D) Gitmek istiyorum ve yorgunum
+D) Ama gitmek istiyorum yorgunum
 
 ---
 
@@ -291,24 +293,24 @@ D) Gitmek istiyorum ve yorgunum
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | A | Союз "ve" стоит между частями: Çalışıyorum ve okuyorum. |
-| 2 | B | Союз "ama" стоит между частями: Evdeyim ama mutluyum. |
-| 3 | D | Союз "çünkü" стоит между действием и причиной: Çalışıyorum çünkü sınav var. |
-| 4 | D | "ve" - соединение, "ama" - противопоставление. |
-| 5 | A | С существительными: Kitap ve kalem. |
-| 6 | C | Для противопоставления: Yorgunum ama çalışıyorum. |
-| 7 | A | Для причины: Gitmiyorum çünkü yorgunum. |
-| 8 | A | Правильная форма: Çalışıyorum ve okuyorum. |
+| 2 | A | Союз "ama" стоит между частями: Evdeyim ama mutluyum. |
+| 3 | B | Союз "çünkü" стоит между действием и причиной: Çalışıyorum çünkü sınav var. |
+| 4 | C | "ve" - соединение, "ama" - противопоставление. |
+| 5 | B | С существительными: Kitap ve kalem. |
+| 6 | D | Для противопоставления: Yorgunum ama çalışıyorum. |
+| 7 | D | Для причины: Gitmiyorum çünkü yorgunum. |
+| 8 | B | Правильная форма: Çalışıyorum ve okuyorum. |
 | 9 | B | С прилагательными: Büyük ve güzel. |
 | 10 | B | "ama" - противопоставление, "çünkü" - причина. |
-| 11 | B | Правильная форма: Evdeyim ve mutluyum. |
-| 12 | C | С несколькими союзами: Çalışıyorum ve okuyorum ama yorgunum. |
-| 13 | C | Вопрос о причине: Neden evdesin? |
-| 14 | A | Для противопоставления: Yorgunum ama çalışıyorum. |
-| 15 | A | "çünkü" используется для выражения причины. |
-| 16 | D | Союз "ya da" означает "или" (альтернатива): Çay ya da kahve. |
+| 11 | A | Правильная форма: Evdeyim ve mutluyum. |
+| 12 | D | С несколькими союзами: Çalışıyorum ve okuyorum ama yorgunum. |
+| 13 | B | Вопрос о причине: Neden evdesin? |
+| 14 | B | Для противопоставления: Yorgunum ama çalışıyorum. |
+| 15 | B | "çünkü" используется для выражения причины. |
+| 16 | B | Союз "ya da" означает "или" (альтернатива): Çay ya da kahve. |
 | 17 | B | Союз "hem...hem" означает "и...и" (оба): Hem güzel hem akıllı. |
-| 18 | B | Союз "çünkü" стоит между действием и причиной: Gitmiyorum çünkü hastayım. |
-| 19 | A | Условное предложение: "Eğer...ise" или просто форма с -san/-sen: Yorgunsan dinlen. |
+| 18 | C | Союз "çünkü" стоит между действием и причиной: Gitmiyorum çünkü hastayım. |
+| 19 | D | Условное предложение: "Eğer...ise" или просто форма с -san/-sen: Yorgunsan dinlen. |
 | 20 | A | Союз "ama" стоит между частями предложения: Gitmek istiyorum ama yorgunum. |
 
 ---

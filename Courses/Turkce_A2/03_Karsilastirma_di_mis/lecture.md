@@ -329,12 +329,14 @@ Dün Ali'yi gördüm. O bana annesinin hastalanmış olduğunu söyledi.
 ### 5.1 Ошибка: Использование -miş для своих действий
 
 **❌ Неправильно:**
+
 ```
 
 Bu sabah erken kalkmışım.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Bu sabah erken kalktım.
@@ -347,6 +349,7 @@ Bu sabah erken kalktım.
 ### 5.2 Ошибка: Использование -di для слухов
 
 **❌ Неправильно:**
+
 ```
 
 Duydun mu? Ayşe evlendi.
@@ -354,6 +357,7 @@ Duydun mu? Ayşe evlendi.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Duydun mu? Ayşe evlenmiş.
@@ -366,12 +370,14 @@ Duydun mu? Ayşe evlenmiş.
 ### 5.3 Ошибка: -miş с точными историческими датами
 
 **❌ Неправильно:**
+
 ```
 
 Atatürk 1881'de doğmuş.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Atatürk 1881'de doğdu.
@@ -384,6 +390,7 @@ Atatürk 1881'de doğdu.
 ### 5.4 Ошибка: Неуместное удивление
 
 **❌ Неправильно:**
+
 ```
 
 Her zaman saat 8'de kalkıyormuş.
@@ -391,6 +398,7 @@ Her zaman saat 8'de kalkıyormuş.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Her zaman saat 8'de kalkıyorum.

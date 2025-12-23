@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Суффикс исходного падежа
 
 Какой суффикс исходного падежа используется для "ev" (дом)?
 
-A) -den
+A) -de
 
 B) -dan
 
-C) -de
+C) -den
 
 D) -da
 
@@ -22,13 +24,13 @@ D) -da
 
 Какой суффикс исходного падежа используется для "okul" (школа)?
 
-A) -dan
+A) -den
 
-B) -da
+B) -de
 
-C) -den
+C) -dan
 
-D) -de
+D) -da
 
 ---
 
@@ -36,13 +38,13 @@ D) -de
 
 Как правильно сказать "Я прихожу из дома"?
 
-A) Ev geliyorum
+A) Eve geliyorum
 
-B) Evden geliyorum
+B) Evde geliyorum
 
-C) Evde geliyorum
+C) Evden geliyorum
 
-D) Eve geliyorum
+D) Ev geliyorum
 
 ---
 
@@ -50,13 +52,13 @@ D) Eve geliyorum
 
 Как правильно сказать "Я прихожу с работы"?
 
-A) İşte geliyorum
+A) İşten geliyorum
 
-B) İşten geliyorum
+B) İşe geliyorum
 
 C) İş geliyorum
 
-D) İşe geliyorum
+D) İşte geliyorum
 
 ---
 
@@ -64,13 +66,13 @@ D) İşe geliyorum
 
 Как правильно спросить "Откуда ты приходишь?"?
 
-A) Nereden geliyorsun?
+A) Ne geliyorsun?
 
-B) Nereye geliyorsun?
+B) Nerede geliyorsun?
 
-C) Ne geliyorsun?
+C) Nereye geliyorsun?
 
-D) Nerede geliyorsun?
+D) Nereden geliyorsun?
 
 ---
 
@@ -78,13 +80,13 @@ D) Nerede geliyorsun?
 
 Как правильно сказать "Я сплю от усталости"?
 
-A) Yorgunluktan uyuyorum
+A) Yorgunlukta uyuyorum
 
-B) Yorgunluğa uyuyorum
+B) Yorgunluk uyuyorum
 
-C) Yorgunluk uyuyorum
+C) Yorgunluktan uyuyorum
 
-D) Yorgunlukta uyuyorum
+D) Yorgunluğa uyuyorum
 
 ---
 
@@ -92,9 +94,9 @@ D) Yorgunlukta uyuyorum
 
 Какой суффикс правильный для "iş" (работа)?
 
-A) -den
+A) -dan
 
-B) -dan
+B) -den
 
 C) -da
 
@@ -106,13 +108,13 @@ D) -de
 
 Какой суффикс правильный для "şehir" (город)?
 
-A) -dan
+A) -de
 
-B) -da
+B) -dan
 
-C) -de
+C) -den
 
-D) -den
+D) -da
 
 ---
 
@@ -122,11 +124,11 @@ D) -den
 
 A) Первое - отправная точка (откуда?), второе - направление (куда?)
 
-B) Нет разницы
+B) Первое - неправильная форма
 
-C) Первое - неправильная форма
+C) Второе - неправильная форма
 
-D) Второе - неправильная форма
+D) Нет разницы
 
 ---
 
@@ -134,11 +136,11 @@ D) Второе - неправильная форма
 
 Как правильно сказать "Я из дома иду в школу"?
 
-A) Evden okula gidiyorum
+A) Ev okula gidiyorum
 
-B) Ev okula gidiyorum
+B) Eve okula gidiyorum
 
-C) Eve okula gidiyorum
+C) Evden okula gidiyorum
 
 D) Evde okula gidiyorum
 
@@ -148,13 +150,13 @@ D) Evde okula gidiyorum
 
 Какая форма правильная для "я прихожу из школы"?
 
-A) Okuldan geliyorum
+A) Okul geliyorum
 
-B) Okula geliyorum
+B) Okulda geliyorum
 
-C) Okul geliyorum
+C) Okula geliyorum
 
-D) Okulda geliyorum
+D) Okuldan geliyorum
 
 ---
 
@@ -162,11 +164,11 @@ D) Okulda geliyorum
 
 Как правильно сказать "Я из школы прихожу домой"?
 
-A) Okul eve geliyorum
+A) Okulda eve geliyorum
 
 B) Okula eve geliyorum
 
-C) Okulda eve geliyorum
+C) Okul eve geliyorum
 
 D) Okuldan eve geliyorum
 
@@ -176,13 +178,13 @@ D) Okuldan eve geliyorum
 
 Как правильно сказать "Я убегаю от страха"?
 
-A) Korkuya kaçıyorum
+A) Korkudan kaçıyorum
 
-B) Korku kaçıyorum
+B) Korkuya kaçıyorum
 
 C) Korkuda kaçıyorum
 
-D) Korkudan kaçıyorum
+D) Korku kaçıyorum
 
 ---
 
@@ -192,11 +194,11 @@ D) Korkudan kaçıyorum
 
 A) Evde geliyorum
 
-B) Ev geliyorum
+B) Evden geliyorum
 
-C) Eve geliyorum
+C) Ev geliyorum
 
-D) Evden geliyorum
+D) Eve geliyorum
 
 ---
 
@@ -204,26 +206,27 @@ D) Evden geliyorum
 
 Какое предложение правильно для "Я прихожу из школы"?
 
-A) Okulda geliyorum
+A) Okula geliyorum
 
 B) Okul geliyorum
 
 C) Okuldan geliyorum
 
-D) Okula geliyorum
+D) Okulda geliyorum
 
 ---
+
 ## Question 16: С городами
 
 Как правильно сказать "Я приехал из Анкары"?
 
-A) Ankara'ya geldim
+A) Ankara geldim
 
-B) Ankara'da geldim
+B) Ankara'dan geldim
 
-C) Ankara geldim
+C) Ankara'da geldim
 
-D) Ankara'dan geldim
+D) Ankara'ya geldim
 
 ---
 
@@ -231,13 +234,13 @@ D) Ankara'dan geldim
 
 Как правильно сказать "Я прихожу от тебя"?
 
-A) Sana geliyorum
+A) Sende geliyorum
 
-B) Senden geliyorum
+B) Sen geliyorum
 
-C) Sende geliyorum
+C) Senden geliyorum
 
-D) Sen geliyorum
+D) Sana geliyorum
 
 ---
 
@@ -245,13 +248,13 @@ D) Sen geliyorum
 
 Выберите предложение с исходным падежом:
 
-A) Okula gidiyorum
+A) Okuldan geliyorum
 
-B) Okuldan geliyorum
+B) Okulun kapısı
 
 C) Okulda çalışıyorum
 
-D) Okulun kapısı
+D) Okula gidiyorum
 
 ---
 
@@ -259,13 +262,13 @@ D) Okulun kapısı
 
 Как правильно сказать "стол из дерева"?
 
-A) Ağaçta masa
+A) Ağaç masa
 
-B) Ağaç masa
+B) Ağaçta masa
 
-C) Ağaca masa
+C) Ağaçtan masa
 
-D) Ağaçtan masa
+D) Ağaca masa
 
 ---
 
@@ -273,40 +276,41 @@ D) Ağaçtan masa
 
 Какое вопросительное слово используется с исходным падежом?
 
-A) Nereye
+A) Ne
 
 B) Nerede
 
 C) Nereden
 
-D) Ne
+D) Nereye
 
 ---
+
 ---
 
 ## Answer Key
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | В слове "ev" последняя гласная "e" мягкая, поэтому используется -den: evden. |
-| 2 | A | В слове "okul" последняя гласная "u" твердая, поэтому используется -dan: okuldan. |
-| 3 | B | Для отправной точки используется исходный падеж: Evden geliyorum. |
-| 4 | B | Для отправной точки используется исходный падеж: İşten geliyorum. |
-| 5 | A | Вопрос о отправной точке: "Nereden geliyorsun?" (Откуда ты приходишь?). |
-| 6 | A | Для причины используется исходный падеж: Yorgunluktan uyuyorum. |
-| 7 | A | В слове "iş" последняя гласная "i" мягкая, поэтому используется -den: işten. |
-| 8 | D | В слове "şehir" последняя гласная "i" мягкая, поэтому используется -den: şehirden. |
+| 1 | C | В слове "ev" последняя гласная "e" мягкая, поэтому используется -den: evden. |
+| 2 | C | В слове "okul" последняя гласная "u" твердая, поэтому используется -dan: okuldan. |
+| 3 | C | Для отправной точки используется исходный падеж: Evden geliyorum. |
+| 4 | A | Для отправной точки используется исходный падеж: İşten geliyorum. |
+| 5 | D | Вопрос о отправной точке: "Nereden geliyorsun?" (Откуда ты приходишь?). |
+| 6 | C | Для причины используется исходный падеж: Yorgunluktan uyuyorum. |
+| 7 | B | В слове "iş" последняя гласная "i" мягкая, поэтому используется -den: işten. |
+| 8 | C | В слове "şehir" последняя гласная "i" мягкая, поэтому используется -den: şehirden. |
 | 9 | A | "Okuldan" - отправная точка (откуда?), "Okula" - направление (куда?). |
-| 10 | A | Для полного маршрута: исходный падеж + дательный падеж: Evden okula gidiyorum. |
-| 11 | A | Для отправной точки обязательно используется исходный падеж: Okuldan geliyorum. |
+| 10 | C | Для полного маршрута: исходный падеж + дательный падеж: Evden okula gidiyorum. |
+| 11 | D | Для отправной точки обязательно используется исходный падеж: Okuldan geliyorum. |
 | 12 | D | Для полного маршрута: исходный падеж + дательный падеж: Okuldan eve geliyorum. |
-| 13 | D | Для причины используется исходный падеж: Korkudan kaçıyorum. |
-| 14 | D | Для отправной точки используется исходный падеж: Evden geliyorum. |
+| 13 | A | Для причины используется исходный падеж: Korkudan kaçıyorum. |
+| 14 | B | Для отправной точки используется исходный падеж: Evden geliyorum. |
 | 15 | C | Для отправной точки используется исходный падеж: Okuldan geliyorum. |
-| 16 | D | Для отправной точки (из города) используется исходный падеж: Ankara'dan geldim. |
-| 17 | B | С личными местоимениями используется исходный падеж: Senden geliyorum. |
-| 18 | B | "Okuldan geliyorum" содержит исходный падеж (-dan), остальные - другие падежи. |
-| 19 | D | Для выражения материала используется исходный падеж: Ağaçtan masa. |
+| 16 | B | Для отправной точки (из города) используется исходный падеж: Ankara'dan geldim. |
+| 17 | C | С личными местоимениями используется исходный падеж: Senden geliyorum. |
+| 18 | A | "Okuldan geliyorum" содержит исходный падеж (-dan), остальные - другие падежи. |
+| 19 | C | Для выражения материала используется исходный падеж: Ağaçtan masa. |
 | 20 | C | Вопросительное слово "Nereden" (откуда) используется с исходным падежом. |
 
 ---

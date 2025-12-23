@@ -616,6 +616,7 @@ I'm meeting John at 5 o'clock. (конкретная встреча, время 
 ```
 
 **Оба варианта часто взаимозаменяемы:**
+
 ```
 
 I'm going to meet John tomorrow. ✅

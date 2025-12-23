@@ -410,6 +410,7 @@ He is the fastest runner.
 Артикль **the** может опускаться:
 
 1. **С притяжательными местоимениями:**
+
 ```
 
 This is my best friend.
@@ -423,6 +424,7 @@ This is our most important project.
 ```
 
 2. **В предикативной позиции (иногда):**
+
 ```
 
 She is happiest when she's singing.

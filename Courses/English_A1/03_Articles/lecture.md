@@ -387,6 +387,7 @@ There is a university in my city. The university is very old.
 ### 6.1 Пропуск артикля
 
 ❌ **Неправильно:**
+
 ```
 
 I am student.
@@ -395,6 +396,7 @@ I have cat.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I am a student.
@@ -413,6 +415,7 @@ I have a cat.
 ### 6.2 Неправильный выбор между A и AN
 
 ❌ **Неправильно:**
+
 ```
 
 a apple
@@ -422,6 +425,7 @@ an university
 ```
 
 ✅ **Правильно:**
+
 ```
 
 an apple (начинается с гласного звука [æ])
@@ -436,6 +440,7 @@ a university (начинается со звука [j])
 ### 6.3 Использование артикля с неисчисляемыми существительными
 
 ❌ **Неправильно:**
+
 ```
 
 I like a coffee.
@@ -444,6 +449,7 @@ She has a money.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I like coffee.
@@ -462,6 +468,7 @@ She has money.
 ### 6.4 Лишний артикль с именами и странами
 
 ❌ **Неправильно:**
+
 ```
 
 The John is my friend.
@@ -470,6 +477,7 @@ The Moscow is beautiful.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 John is my friend.
@@ -488,6 +496,7 @@ Moscow is beautiful.
 ### 6.5 Артикль с множественным числом
 
 ❌ **Неправильно:**
+
 ```
 
 I like a cats.
@@ -495,6 +504,7 @@ I have a books.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I like cats.
@@ -510,6 +520,7 @@ I have books.
 ### 6.6 Пропуск артикля the при втором упоминании
 
 ❌ **Неправильно:**
+
 ```
 
 I have a dog. Dog is big.
@@ -517,6 +528,7 @@ There is a book on the table. Book is interesting.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I have a dog. The dog is big.
@@ -699,6 +711,7 @@ In the evening, I play the guitar or watch a film.
 ### 9.1 Вставьте a, an, the или оставьте пропуск пустым
 
 **Exercise 1:**
+
 ```
 
 1. I have _____ cat. _____ cat is black.
@@ -714,6 +727,7 @@ In the evening, I play the guitar or watch a film.
 ```
 
 **Ответы:**
+
 ```
 
 1. a, The
@@ -731,6 +745,7 @@ In the evening, I play the guitar or watch a film.
 ### 9.2 Исправьте ошибки
 
 **Exercise 2:**
+
 ```
 
 1. I have the dog.
@@ -746,6 +761,7 @@ In the evening, I play the guitar or watch a film.
 ```
 
 **Ответы:**
+
 ```
 
 1. I have a dog.
@@ -763,6 +779,7 @@ In the evening, I play the guitar or watch a film.
 ### 9.3 Переведите на английский
 
 **Exercise 3:**
+
 ```
 
 1. У меня есть книга. Книга интересная.
@@ -778,6 +795,7 @@ In the evening, I play the guitar or watch a film.
 ```
 
 **Ответы:**
+
 ```
 
 1. I have a book. The book is interesting.
@@ -795,6 +813,7 @@ In the evening, I play the guitar or watch a film.
 ### 9.4 Выберите правильный вариант
 
 **Exercise 4:**
+
 ```
 
 1. I have (a/an/the/-) cat and (a/an/the/-) dog.
@@ -810,6 +829,7 @@ In the evening, I play the guitar or watch a film.
 ```
 
 **Ответы:**
+
 ```
 
 1. a, a

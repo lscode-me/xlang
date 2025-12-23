@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Притяжательное прилагательное с I
 
 Выберите правильный вариант:
@@ -14,13 +16,13 @@ This is ___ book.
 Это моя книга.
 ```
 
-A) my
+A) I
 
-B) mine
+B) my
 
-C) I
+C) me
 
-D) me
+D) mine
 
 ---
 
@@ -36,11 +38,11 @@ This book is ___.
 
 A) my
 
-B) me
+B) I
 
-C) mine
+C) me
 
-D) I
+D) mine
 
 ---
 
@@ -54,13 +56,13 @@ This is ___ car.
 Это его машина.
 ```
 
-A) he
+A) him
 
-B) his
+B) he
 
-C) him
+C) he's
 
-D) he's
+D) his
 
 ---
 
@@ -68,13 +70,13 @@ D) he's
 
 Выберите правильное предложение:
 
-A) This is her book.
+A) This is hers book.
 
-B) This is shes book.
+B) This is her book.
 
-C) This is hers book.
+C) This is she book.
 
-D) This is she book.
+D) This is shes book.
 
 ---
 
@@ -87,13 +89,13 @@ D) This is she book.
 Машина Джона
 ```
 
-A) John's car
+A) Johns' car
 
-B) Johns' car
+B) John car
 
-C) John car
+C) Johns car
 
-D) Johns car
+D) John's car
 
 ---
 
@@ -107,13 +109,13 @@ Is this ___ pen? - Yes, it's ___.
 Это твоя ручка? - Да, моя.
 ```
 
-A) your, mine
+A) yours, mine
 
-B) yours, my
+B) your, my
 
-C) your, my
+C) your, mine
 
-D) yours, mine
+D) yours, my
 
 ---
 
@@ -121,13 +123,13 @@ D) yours, mine
 
 Какое предложение правильное?
 
-A) Its a nice day.
+A) The cat eats it's food.
 
 B) The cat eats its food.
 
-C) The cat eats its' food.
+C) Its a nice day.
 
-D) The cat eats it's food.
+D) The cat eats its' food.
 
 ---
 
@@ -141,13 +143,13 @@ This is ___ house.
 Это их дом.
 ```
 
-A) them
+A) their
 
-B) their
+B) them
 
-C) they
+C) theirs
 
-D) theirs
+D) they
 
 ---
 
@@ -159,9 +161,9 @@ A) the student's books
 
 B) the students's books
 
-C) the students books
+C) the students' books
 
-D) the students' books
+D) the students books
 
 ---
 
@@ -175,11 +177,11 @@ This is ___ car. The car is ___.
 Это наша машина. Машина наша.
 ```
 
-A) ours, ours
+A) our, ours
 
-B) our, ours
+B) ours, our
 
-C) ours, our
+C) ours, ours
 
 D) our, our
 
@@ -189,13 +191,13 @@ D) our, our
 
 Какое предложение правильное?
 
-A) This is my book.
+A) This is an my book.
 
-B) This is the my book.
+B) This is a my book.
 
-C) This is an my book.
+C) This is the my book.
 
-D) This is a my book.
+D) This is my book.
 
 ---
 
@@ -208,13 +210,13 @@ D) This is a my book.
 Чья это сумка?
 ```
 
-A) Whos bag is this?
+A) Who's bag is this?
 
 B) Who bag is this?
 
-C) Whose bag is this?
+C) Whos bag is this?
 
-D) Who's bag is this?
+D) Whose bag is this?
 
 ---
 
@@ -222,13 +224,13 @@ D) Who's bag is this?
 
 Как правильно сказать "игрушки детей"?
 
-A) the childrens toys
+A) the childrens' toys
 
-B) the children's toys
+B) the children toys
 
-C) the childrens' toys
+C) the childrens toys
 
-D) the children toys
+D) the children's toys
 
 ---
 
@@ -242,13 +244,13 @@ The book is ___.
 Книга его.
 ```
 
-A) him
+A) he's
 
-B) his
+B) him
 
 C) he
 
-D) he's
+D) his
 
 ---
 
@@ -256,13 +258,13 @@ D) he's
 
 Выберите грамматически правильное предложение:
 
-A) This is my book and that is your book.
+A) This is the my book and that is the your book.
 
-B) This book mine and that book yours.
+B) This is mine book and that is yours book.
 
-C) This is the my book and that is the your book.
+C) This book mine and that book yours.
 
-D) This is mine book and that is yours book.
+D) This is my book and that is your book.
 
 ---
 
@@ -275,11 +277,11 @@ D) This is mine book and that is yours book.
 Thomas - имя, заканчивающееся на -s
 ```
 
-A) Thomas's house
+A) Thomas' house
 
-B) Thomas house
+B) Thomas's house
 
-C) Thomas' house
+C) Thomas house
 
 D) Thomases house
 
@@ -291,9 +293,9 @@ D) Thomases house
 
 A) the house's roof
 
-B) the house roof
+B) the houses roof
 
-C) the houses roof
+C) the house roof
 
 D) the roof of the house
 
@@ -322,11 +324,11 @@ D) He is my friend.
 
 Как правильно сказать "машина Джона и Мэри" (общая)?
 
-A) Johns and Marys car
+A) John and Mary's car
 
 B) John's and Mary's car
 
-C) John and Mary's car
+C) Johns and Marys car
 
 D) John and Mary car
 
@@ -342,13 +344,13 @@ Which car is yours? - The red one is ___.
 Какая машина твоя? - Красная ___.
 ```
 
-A) mines
+A) mine
 
-B) me
+B) mines
 
-C) mine
+C) my
 
-D) my
+D) me
 
 ---
 
@@ -358,26 +360,26 @@ D) my
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ B. |
-| 2 | C | Правильный ответ B. |
-| 3 | B | Правильный ответ B. |
-| 4 | A | Правильный ответ B. |
-| 5 | A | Правильный ответ C. |
-| 6 | A | Правильный ответ C. |
+| 1 | B | Правильный ответ B. |
+| 2 | D | Правильный ответ B. |
+| 3 | D | Правильный ответ B. |
+| 4 | B | Правильный ответ B. |
+| 5 | D | Правильный ответ C. |
+| 6 | C | Правильный ответ C. |
 | 7 | B | Правильный ответ B. |
-| 8 | B | Правильный ответ B. |
-| 9 | D | Правильный ответ B. |
-| 10 | B | Правильный ответ C. |
-| 11 | A | Правильный ответ C. |
-| 12 | C | Правильный ответ B. |
-| 13 | B | Правильный ответ B. |
-| 14 | B | Правильный ответ B. |
-| 15 | A | Правильный ответ B. |
-| 16 | A | Правильный ответ C. |
+| 8 | A | Правильный ответ B. |
+| 9 | C | Правильный ответ B. |
+| 10 | A | Правильный ответ C. |
+| 11 | D | Правильный ответ C. |
+| 12 | D | Правильный ответ B. |
+| 13 | D | Правильный ответ B. |
+| 14 | D | Правильный ответ B. |
+| 15 | D | Правильный ответ B. |
+| 16 | B | Правильный ответ C. |
 | 17 | D | Правильный ответ B. |
 | 18 | A | Правильный ответ B. |
-| 19 | C | Правильный ответ C. |
-| 20 | C | Правильный ответ B. |
+| 19 | A | Правильный ответ C. |
+| 20 | A | Правильный ответ B. |
 
 ---
 

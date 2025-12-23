@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Question 1: Выбор суффикса
 
 Как правильно образовать деепричастие способа от глагола "çalışmak" (работать)?
@@ -22,13 +23,13 @@ D) çalışyarak
 
 Как правильно образовать деепричастие способа от глагола "gelmek" (приходить)?
 
-A) gelarak
+A) gelerek
 
-B) gelerek
+B) gelyarak
 
 C) gelyerek
 
-D) gelyarak
+D) gelarak
 
 ---
 
@@ -36,13 +37,13 @@ D) gelyarak
 
 Как правильно образовать деепричастие способа от глагола "okumak" (читать)?
 
-A) okurak
+A) okuyarak
 
-B) okuyarak
+B) okumakerek
 
 C) okumakarak
 
-D) okumakerek
+D) okurak
 
 ---
 
@@ -50,13 +51,13 @@ D) okumakerek
 
 Как правильно образовать деепричастие способа от глагола "görmek" (видеть)?
 
-A) görarak
+A) göryerek
 
 B) görerek
 
-C) göryerek
+C) göryarak
 
-D) göryarak
+D) görarak
 
 ---
 
@@ -69,13 +70,13 @@ _____ konuştu.
 Он говорил, улыбаясь.
 ```
 
-A) Gülerek
+A) Gülmek
 
-B) Gülarak
+B) Gülüp
 
-C) Gülmek
+C) Gülerek
 
-D) Gülüp
+D) Gülarak
 
 ---
 
@@ -90,9 +91,9 @@ _____ geldi.
 
 A) Koşmak
 
-B) Koşarak
+B) Koşerek
 
-C) Koşerek
+C) Koşarak
 
 D) Koşup
 
@@ -107,13 +108,13 @@ Dikkatlice _____ anladı.
 Он понял, внимательно читая.
 ```
 
-A) okumak
+A) okurak
 
-B) okurak
+B) okumakarak
 
 C) okuyarak
 
-D) okumakarak
+D) okumak
 
 ---
 
@@ -121,13 +122,13 @@ D) okumakarak
 
 Что выражает деепричастие способа -arak/-erek?
 
-A) Последовательность действий
+A) Способ выполнения действия
 
-B) Время действия
+B) Последовательность действий
 
-C) Способ выполнения действия
+C) Причину действия
 
-D) Причину действия
+D) Время действия
 
 ---
 
@@ -137,11 +138,11 @@ D) Причину действия
 
 A) Yavaşça yürümek gitti
 
-B) Yavaşça yürüyerek gitti
+B) Yavaşça yürünce gitti
 
-C) Yavaşça yürüp gitti
+C) Yavaşça yürüyerek gitti
 
-D) Yavaşça yürünce gitti
+D) Yavaşça yürüp gitti
 
 ---
 
@@ -151,11 +152,11 @@ D) Yavaşça yürünce gitti
 
 A) Sessizce gelmek oturdu
 
-B) Sessizce gelerek oturdu
+B) Sessizce gelince oturdu
 
 C) Sessizce gelip oturdu
 
-D) Sessizce gelince oturdu
+D) Sessizce gelerek oturdu
 
 ---
 
@@ -163,11 +164,11 @@ D) Sessizce gelince oturdu
 
 В чем отличие -arak/-erek от -ip?
 
-A) -arak/-erek выражает способ, -ip выражает последовательность
+A) -arak/-erek выражает причину, -ip выражает способ
 
 B) -arak/-erek выражает время, -ip выражает способ
 
-C) -arak/-erek выражает причину, -ip выражает способ
+C) -arak/-erek выражает способ, -ip выражает последовательность
 
 D) Нет отличия
 
@@ -182,13 +183,13 @@ Hızlıca _____ geldi.
 Он быстро прибежал.
 ```
 
-A) koşmak
+A) koşarak
 
-B) koşarak
+B) koşup
 
-C) koşup
+C) koşunca
 
-D) koşunca
+D) koşmak
 
 ---
 
@@ -201,9 +202,9 @@ _____ konuşuyor.
 Он говорит, улыбаясь.
 ```
 
-A) Gülmek
+A) Gülerek
 
-B) Gülerek
+B) Gülmek
 
 C) Gülarak
 
@@ -229,11 +230,11 @@ D) Для выражения причины действия
 
 Как правильно сказать "Он внимательно читая понял"?
 
-A) Dikkatlice okumak anladı
+A) Dikkatlice okuyarak anladı
 
-B) Dikkatlice okuyarak anladı
+B) Dikkatlice okup anladı
 
-C) Dikkatlice okup anladı
+C) Dikkatlice okumak anladı
 
 D) Dikkatlice okuyunca anladı
 
@@ -248,13 +249,13 @@ Yavaşça _____ gitti.
 Он медленно ушел.
 ```
 
-A) yürümek
+A) yürünce
 
 B) yürüyerek
 
 C) yürüp
 
-D) yürünce
+D) yürümek
 
 ---
 
@@ -262,11 +263,11 @@ D) yürünce
 
 Как правильно образовать деепричастие способа от глагола "yazmak" (писать)?
 
-A) yazerek
+A) yazyerek
 
-B) yazarak
+B) yazerek
 
-C) yazyerek
+C) yazarak
 
 D) yazyarak
 
@@ -276,9 +277,9 @@ D) yazyarak
 
 Как правильно образовать деепричастие способа от глагола "almak" (брать)?
 
-A) alarak
+A) alerek
 
-B) alerek
+B) alarak
 
 C) alyarak
 
@@ -308,9 +309,11 @@ A) Hızlıca yazmak bitirdi
 
 B) Hızlıca yazarak bitirdi
 
-C) Hızlıca yazıp bitirdi
+C) Hızlıca yazınca bitirdi
 
-D) Hızlıca yazınca bitirdi
+D) Hızlıca yazıp bitirdi
+
+---
 
 ---
 
@@ -319,23 +322,23 @@ D) Hızlıca yazınca bitirdi
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | B | çalışarak |
-| 2 | B | gelerek |
-| 3 | B | okuyarak |
+| 2 | A | gelerek |
+| 3 | A | okuyarak |
 | 4 | B | görerek |
-| 5 | A | Gülerek |
-| 6 | B | Koşarak |
+| 5 | C | Gülerek |
+| 6 | C | Koşarak |
 | 7 | C | okuyarak |
-| 8 | C | Способ выполнения действия |
-| 9 | B | Yavaşça yürüyerek gitti |
-| 10 | B | Sessizce gelerek oturdu |
-| 11 | A | -arak/-erek выражает способ, -ip выражает последовательность |
-| 12 | B | koşarak |
-| 13 | B | Gülerek |
+| 8 | A | Способ выполнения действия |
+| 9 | C | Yavaşça yürüyerek gitti |
+| 10 | D | Sessizce gelerek oturdu |
+| 11 | C | -arak/-erek выражает способ, -ip выражает последовательность |
+| 12 | A | koşarak |
+| 13 | A | Gülerek |
 | 14 | B | Для выражения способа выполнения действия |
-| 15 | B | Dikkatlice okuyarak anladı |
+| 15 | A | Dikkatlice okuyarak anladı |
 | 16 | B | yürüyerek |
-| 17 | B | yazarak |
-| 18 | A | alarak |
+| 17 | C | yazarak |
+| 18 | B | alarak |
 | 19 | B | Он говорил, улыбаясь |
 | 20 | B | Hızlıca yazarak bitirdi |
 

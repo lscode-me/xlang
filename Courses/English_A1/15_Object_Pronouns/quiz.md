@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Выбор объектного местоимения
 
 Выберите правильное местоимение:
@@ -13,13 +15,13 @@
 I know ___. (Я знаю его.)
 ```
 
-A) he
+A) him
 
-B) he's
+B) he
 
 C) his
 
-D) him
+D) he's
 
 ---
 
@@ -32,13 +34,13 @@ D) him
 Come with ___! (Пойдём с нами!)
 ```
 
-A) ours
+A) us
 
 B) our
 
-C) us
+C) we
 
-D) we
+D) ours
 
 ---
 
@@ -53,11 +55,11 @@ D) we
 
 A) I see her every day.
 
-B) I see she's every day.
+B) I see hers every day.
 
-C) I see hers every day.
+C) I see she every day.
 
-D) I see she every day.
+D) I see she's every day.
 
 ---
 
@@ -70,13 +72,13 @@ D) I see she every day.
 She loves ___. (Она любит меня.)
 ```
 
-A) my
+A) I
 
-B) mine
+B) me
 
-C) I
+C) mine
 
-D) me
+D) my
 
 ---
 
@@ -89,13 +91,13 @@ D) me
 Look at ___! (Посмотри на неё!)
 ```
 
-A) she's
+A) she
 
-B) hers
+B) her
 
-C) her
+C) she's
 
-D) she
+D) hers
 
 ---
 
@@ -108,13 +110,13 @@ D) she
 I see ___ every day. (Я вижу их каждый день.)
 ```
 
-A) theirs
+A) them
 
-B) their
+B) theirs
 
-C) they
+C) their
 
-D) them
+D) they
 
 ---
 
@@ -127,13 +129,13 @@ D) them
 Listen to ___! (Послушай меня!)
 ```
 
-A) I
+A) me
 
-B) me
+B) mine
 
 C) my
 
-D) mine
+D) I
 
 ---
 
@@ -146,11 +148,11 @@ D) mine
 Этот подарок для тебя.
 ```
 
-A) This present is for yours.
+A) This present you for.
 
-B) This present you for.
+B) This present is for you.
 
-C) This present is for you.
+C) This present is for yours.
 
 D) This present is for your.
 
@@ -160,13 +162,13 @@ D) This present is for your.
 
 Выберите правильное предложение:
 
-A) He love I.
+A) Him loves me.
 
-B) He loves me.
+B) He love I.
 
-C) He loves I.
+C) He loves me.
 
-D) Him loves me.
+D) He loves I.
 
 ---
 
@@ -179,13 +181,13 @@ D) Him loves me.
 Don't go without ___! (Не уходи без меня!)
 ```
 
-A) mine
+A) me
 
-B) I
+B) mine
 
 C) my
 
-D) me
+D) I
 
 ---
 
@@ -198,9 +200,9 @@ D) me
 Где мой телефон? Я не могу найти его.
 ```
 
-A) Where's my phone? I can't find it's.
+A) Where's my phone? I can't find its.
 
-B) Where's my phone? I can't find its.
+B) Where's my phone? I can't find it's.
 
 C) Where's my phone? I can't find it.
 
@@ -217,13 +219,13 @@ D) Where's my phone? I can't find he.
 Call ___ tomorrow! (Позвони ему завтра!)
 ```
 
-A) he's
+A) him
 
-B) his
+B) he
 
-C) him
+C) he's
 
-D) he
+D) his
 
 ---
 
@@ -236,11 +238,11 @@ D) he
 I think about ___. (Я думаю о тебе.)
 ```
 
-A) your
+A) yours
 
 B) you're
 
-C) yours
+C) your
 
 D) you
 
@@ -255,11 +257,11 @@ D) you
 Дай это мне.
 ```
 
-A) Me give it.
+A) Give it to me.
 
-B) Give it to me.
+B) Give to me it.
 
-C) Give to me it.
+C) Me give it.
 
 D) Give me it.
 
@@ -269,13 +271,13 @@ D) Give me it.
 
 Какое предложение НЕПРАВИЛЬНОЕ?
 
-A) She knows us.
+A) Look at they!
 
 B) Come with me!
 
-C) Look at they!
+C) I love her.
 
-D) I love her.
+D) She knows us.
 
 ---
 
@@ -288,13 +290,13 @@ D) I love her.
 Помоги нам!
 ```
 
-A) Help ours!
+A) Help we!
 
-B) Help us!
+B) Help ours!
 
-C) Help our!
+C) Help us!
 
-D) Help we!
+D) Help our!
 
 ---
 
@@ -307,13 +309,13 @@ D) Help we!
 Tell me about ___. (Расскажи мне о них.)
 ```
 
-A) their
+A) they
 
 B) them
 
 C) theirs
 
-D) they
+D) their
 
 ---
 
@@ -328,9 +330,9 @@ I need to ask ___. (Мне нужно спросить его.)
 
 A) him
 
-B) he
+B) he's
 
-C) he's
+C) he
 
 D) his
 
@@ -349,9 +351,9 @@ A) Wait for we!
 
 B) Wait for us!
 
-C) Wait we!
+C) Wait for our!
 
-D) Wait for our!
+D) Wait we!
 
 ---
 
@@ -364,13 +366,13 @@ D) Wait for our!
 Покажи это ей.
 ```
 
-A) Show her it.
+A) Show to her it.
 
 B) Show it her.
 
-C) Show to her it.
+C) Show it to her.
 
-D) Show it to her.
+D) Show her it.
 
 ---
 
@@ -380,26 +382,26 @@ D) Show it to her.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Правильный ответ B. |
-| 2 | C | Правильный ответ C. |
+| 1 | A | Правильный ответ B. |
+| 2 | A | Правильный ответ C. |
 | 3 | A | Правильный ответ B. |
-| 4 | D | Правильный ответ C. |
-| 5 | C | Правильный ответ B. |
-| 6 | D | Правильный ответ C. |
-| 7 | B | Правильный ответ C. |
-| 8 | C | Правильный ответ A. |
-| 9 | B | Правильный ответ B. |
-| 10 | D | Правильный ответ C. |
+| 4 | B | Правильный ответ C. |
+| 5 | B | Правильный ответ B. |
+| 6 | A | Правильный ответ C. |
+| 7 | A | Правильный ответ C. |
+| 8 | B | Правильный ответ A. |
+| 9 | C | Правильный ответ B. |
+| 10 | A | Правильный ответ C. |
 | 11 | C | Правильный ответ B. |
-| 12 | C | Правильный ответ C. |
+| 12 | A | Правильный ответ C. |
 | 13 | D | Правильный ответ B. |
-| 14 | B | Правильный ответ B. |
-| 15 | C | Правильный ответ C. |
-| 16 | B | Правильный ответ B. |
+| 14 | A | Правильный ответ B. |
+| 15 | A | Правильный ответ C. |
+| 16 | C | Правильный ответ B. |
 | 17 | B | Правильный ответ C. |
 | 18 | A | Правильный ответ B. |
 | 19 | B | Правильный ответ C. |
-| 20 | D | Правильный ответ A. |
+| 20 | C | Правильный ответ A. |
 
 ---
 

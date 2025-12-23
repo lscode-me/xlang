@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: WHAT для имени
 
 Как спросить "Как тебя зовут?"
 
-A) Who is your name?
+A) What is your name?
 
-B) What is your name?
+B) Where is your name?
 
-C) Where is your name?
+C) Who is your name?
 
 D) How is your name?
 
@@ -22,13 +24,13 @@ D) How is your name?
 
 Выберите правильный вопрос: "Где ты живёшь?"
 
-A) Where are you live?
+A) Where you live?
 
-B) Where do you live?
+B) Where does you live?
 
-C) Where you live?
+C) Where are you live?
 
-D) Where does you live?
+D) Where do you live?
 
 ---
 
@@ -41,13 +43,13 @@ D) Where does you live?
 _____ is your birthday?
 ```
 
-A) Where
+A) When
 
-B) What
+B) Where
 
-C) When
+C) Who
 
-D) Who
+D) What
 
 ---
 
@@ -55,13 +57,13 @@ D) Who
 
 Переведите: "Кто этот человек?"
 
-A) Who is that man?
+A) How is that man?
 
-B) How is that man?
+B) What is that man?
 
-C) What is that man?
+C) Where is that man?
 
-D) Where is that man?
+D) Who is that man?
 
 ---
 
@@ -74,13 +76,13 @@ D) Where is that man?
 "Почему ты опоздал?"
 ```
 
-A) Why you are late?
+A) Why do you late?
 
-B) Why you late?
+B) Why you are late?
 
-C) Why are you late?
+C) Why you late?
 
-D) Why do you late?
+D) Why are you late?
 
 ---
 
@@ -88,11 +90,11 @@ D) Why do you late?
 
 Как правильно спросить "Как дела?"
 
-A) Where are you?
+A) What are you?
 
-B) Who are you?
+B) Where are you?
 
-C) What are you?
+C) Who are you?
 
 D) How are you?
 
@@ -102,13 +104,13 @@ D) How are you?
 
 Какой порядок слов правильный?
 
-A) Where live you?
+A) Where do you live?
 
-B) Where you do live?
+B) You live where?
 
-C) You live where?
+C) Where live you?
 
-D) Where do you live?
+D) Where you do live?
 
 ---
 
@@ -121,13 +123,13 @@ D) Where do you live?
 "Где твои ключи?"
 ```
 
-A) Where does your keys are?
+A) Where your keys are?
 
 B) Where are your keys?
 
 C) Where do your keys are?
 
-D) Where your keys are?
+D) Where does your keys are?
 
 ---
 
@@ -144,9 +146,9 @@ A) Who does live here?
 
 B) Who do live here?
 
-C) Who is live here?
+C) Who lives here?
 
-D) Who lives here?
+D) Who is live here?
 
 ---
 
@@ -156,11 +158,11 @@ D) Who lives here?
 
 A) How years are you?
 
-B) What years are you?
+B) What old are you?
 
-C) How old are you?
+C) What years are you?
 
-D) What old are you?
+D) How old are you?
 
 ---
 
@@ -172,9 +174,9 @@ A) где?
 
 B) что?
 
-C) который? какой? (выбор)
+C) когда?
 
-D) когда?
+D) который? какой? (выбор)
 
 ---
 
@@ -182,11 +184,11 @@ D) когда?
 
 Переведите: "Чья это книга?"
 
-A) Whose book is this?
+A) Which book is this?
 
-B) Who book is this?
+B) Whose book is this?
 
-C) Which book is this?
+C) Who book is this?
 
 D) What book is this?
 
@@ -201,13 +203,13 @@ D) What book is this?
 _____ brothers do you have?
 ```
 
-A) What many
+A) How old
 
 B) How many
 
-C) How much
+C) What many
 
-D) How old
+D) How much
 
 ---
 
@@ -217,11 +219,11 @@ D) How old
 
 A) so
 
-B) and
+B) because
 
-C) because
+C) but
 
-D) but
+D) and
 
 ---
 
@@ -234,9 +236,9 @@ D) but
 "Где я могу купить билеты?"
 ```
 
-A) Where can I buy tickets?
+A) Where I can buy tickets?
 
-B) Where I can buy tickets?
+B) Where can I buy tickets?
 
 C) Where do I can buy tickets?
 
@@ -250,9 +252,9 @@ D) Can I where buy tickets?
 
 A) What price is this book?
 
-B) How many is this book?
+B) How much is this book?
 
-C) How much is this book?
+C) How many is this book?
 
 D) How old is this book?
 
@@ -267,11 +269,11 @@ D) How old is this book?
 "Во сколько начинается урок?"
 ```
 
-A) What time does the lesson start?
+A) Which time does the lesson start?
 
-B) Which time does the lesson start?
+B) How time does the lesson start?
 
-C) How time does the lesson start?
+C) What time does the lesson start?
 
 D) When time does the lesson start?
 
@@ -281,13 +283,13 @@ D) When time does the lesson start?
 
 Что означает "How far is the station?"
 
-A) Как работает станция?
+A) Где станция?
 
-B) Как далеко станция?
+B) Какая станция?
 
-C) Какая станция?
+C) Как работает станция?
 
-D) Где станция?
+D) Как далеко станция?
 
 ---
 
@@ -297,9 +299,9 @@ D) Где станция?
 
 A) Which do you like, tea or coffee?
 
-B) Which is your name?
+B) Which do you live?
 
-C) Which do you live?
+C) Which is your name?
 
 D) Which are you?
 
@@ -318,9 +320,9 @@ A) What are you reading?
 
 B) What do you reading?
 
-C) What you read?
+C) What you are reading?
 
-D) What you are reading?
+D) What you read?
 
 ---
 
@@ -330,24 +332,24 @@ D) What you are reading?
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Правильный ответ B. |
-| 2 | B | Правильный ответ A. |
-| 3 | C | Правильный ответ C. |
-| 4 | A | Правильный ответ B. |
-| 5 | C | Правильный ответ C. |
+| 1 | A | Правильный ответ B. |
+| 2 | D | Правильный ответ A. |
+| 3 | A | Правильный ответ C. |
+| 4 | D | Правильный ответ B. |
+| 5 | D | Правильный ответ C. |
 | 6 | D | Правильный ответ B. |
-| 7 | D | Правильный ответ B. |
+| 7 | A | Правильный ответ B. |
 | 8 | B | Правильный ответ B. |
-| 9 | D | Правильный ответ C. |
-| 10 | C | Правильный ответ C. |
-| 11 | C | Правильный ответ C. |
-| 12 | A | Правильный ответ B. |
+| 9 | C | Правильный ответ C. |
+| 10 | D | Правильный ответ C. |
+| 11 | D | Правильный ответ C. |
+| 12 | B | Правильный ответ B. |
 | 13 | B | Правильный ответ B. |
-| 14 | C | Правильный ответ C. |
-| 15 | A | Правильный ответ B. |
-| 16 | C | Правильный ответ B. |
-| 17 | A | Правильный ответ B. |
-| 18 | B | Правильный ответ D. |
+| 14 | B | Правильный ответ C. |
+| 15 | B | Правильный ответ B. |
+| 16 | B | Правильный ответ B. |
+| 17 | C | Правильный ответ B. |
+| 18 | D | Правильный ответ D. |
 | 19 | A | Правильный ответ A. |
 | 20 | A | Правильный ответ C. |
 

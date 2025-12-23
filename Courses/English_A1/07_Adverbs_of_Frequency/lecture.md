@@ -273,12 +273,14 @@ He travels abroad three times a year.
 **Never** уже содержит отрицание, поэтому не требует "not":
 
 ❌ **Неправильно:**
+
 ```
 
 I don't never eat meat.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I never eat meat.
@@ -401,6 +403,7 @@ She is never rude or mean.
 ### 6.1 Неправильная позиция наречия частоты
 
 ❌ **Неправильно:**
+
 ```
 
 I wake up always at 7 am.
@@ -408,6 +411,7 @@ She eats usually breakfast at 8.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I always wake up at 7 am.
@@ -420,6 +424,7 @@ She usually eats breakfast at 8.
 ### 6.2 Неправильная позиция с глаголом to be
 
 ❌ **Неправильно:**
+
 ```
 
 She always is happy.
@@ -427,6 +432,7 @@ They often are late.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 She is always happy.
@@ -439,6 +445,7 @@ They are often late.
 ### 6.3 Двойное отрицание с never
 
 ❌ **Неправильно:**
+
 ```
 
 I don't never eat meat.
@@ -446,6 +453,7 @@ She doesn't never smoke.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I never eat meat.
@@ -458,6 +466,7 @@ She never smokes.
 ### 6.4 Путаница с окончанием -s в третьем лице
 
 ❌ **Неправильно:**
+
 ```
 
 He always wake up early.
@@ -465,6 +474,7 @@ She often go to the gym.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 He always wakes up early.
@@ -647,6 +657,7 @@ She often goes to the gym.
 ### 9.1 Поставьте наречие в правильное место
 
 **Exercise 1:**
+
 ```
 
 1. I / drink / coffee / in the morning. (always)
@@ -662,6 +673,7 @@ She often goes to the gym.
 ```
 
 **Ответы:**
+
 ```
 
 1. I always drink coffee in the morning.
@@ -679,6 +691,7 @@ She often goes to the gym.
 ### 9.2 Ответьте на вопросы о себе
 
 **Exercise 2:**
+
 ```
 
 1. How often do you exercise?
@@ -694,6 +707,7 @@ She often goes to the gym.
 ```
 
 **Примеры ответов:**
+
 ```
 
 1. I exercise three times a week. / I rarely exercise.
@@ -711,6 +725,7 @@ She often goes to the gym.
 ### 9.3 Составьте предложения
 
 **Exercise 3:**
+
 ```
 
 Составьте предложения, используя наречия частоты:
@@ -728,6 +743,7 @@ She often goes to the gym.
 ```
 
 **Ответы:**
+
 ```
 
 1. I always drink coffee in the morning.
@@ -745,6 +761,7 @@ She often goes to the gym.
 ### 9.4 Переведите на английский
 
 **Exercise 4:**
+
 ```
 
 1. Я всегда просыпаюсь в 7 часов.
@@ -760,6 +777,7 @@ She often goes to the gym.
 ```
 
 **Ответы:**
+
 ```
 
 1. I always wake up at 7 o'clock.
@@ -777,6 +795,7 @@ She often goes to the gym.
 ### 9.5 Исправьте ошибки
 
 **Exercise 5:**
+
 ```
 
 1. I drink always coffee.
@@ -792,6 +811,7 @@ She often goes to the gym.
 ```
 
 **Ответы:**
+
 ```
 
 1. I always drink coffee.

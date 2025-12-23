@@ -585,6 +585,7 @@ The party was last night.
 ### ❌ Ошибка 1: Использование неправильной формы
 
 **Неправильно:**
+
 ```
 
 ✗ I were at home.
@@ -594,6 +595,7 @@ The party was last night.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ I was at home.
@@ -608,6 +610,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ### ❌ Ошибка 2: Пропуск глагола to be
 
 **Неправильно:**
+
 ```
 
 ✗ I at home yesterday.
@@ -616,6 +619,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ```
 
 **Правильно:**
+
 ```
 
 ✓ I was at home yesterday.
@@ -629,6 +633,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ### ❌ Ошибка 3: Неправильный порядок слов в вопросах
 
 **Неправильно:**
+
 ```
 
 ✗ You were at home?
@@ -637,6 +642,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Were you at home?
@@ -650,6 +656,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ### ❌ Ошибка 4: Неправильное отрицание
 
 **Неправильно:**
+
 ```
 
 ✗ I not was at home.
@@ -658,6 +665,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ```
 
 **Правильно:**
+
 ```
 
 ✓ I wasn't at home. / I was not at home.
@@ -671,6 +679,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ### ❌ Ошибка 5: Сокращения в кратких ответах
 
 **Неправильно:**
+
 ```
 
 ✗ Was he at home? — Yes, he's.
@@ -678,6 +687,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Was he at home? — Yes, he was.
@@ -690,6 +700,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ### ❌ Ошибка 6: Использование настоящего времени вместо прошедшего
 
 **Неправильно:**
+
 ```
 
 ✗ I am at home yesterday.
@@ -698,6 +709,7 @@ Was — для I, he, she, it; were — для you, we, they. Запомните
 ```
 
 **Правильно:**
+
 ```
 
 ✓ I was at home yesterday.

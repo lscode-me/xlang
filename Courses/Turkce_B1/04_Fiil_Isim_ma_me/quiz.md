@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я люблю писать письма"?
 
-A) Mektup yazmak seviyorum
+A) Mektup yazmayı seviyorum
 
-B) Mektup yazmayı seviyorum
+B) Mektup yazması seviyorum
 
-C) Mektup yazma seviyorum
+C) Mektup yazmak seviyorum
 
-D) Mektup yazması seviyorum
+D) Mektup yazma seviyorum
 
 ---
 
@@ -24,9 +25,9 @@ D) Mektup yazması seviyorum
 
 A) İspanyolca öğrenmek başladım
 
-B) İspanyolca öğrenmeye başladım
+B) İspanyolca öğrenme başladım
 
-C) İspanyolca öğrenme başladım
+C) İspanyolca öğrenmeye başladım
 
 D) İspanyolca öğrenmesi başladım
 
@@ -36,9 +37,9 @@ D) İspanyolca öğrenmesi başladım
 
 Как правильно сказать "Я решил пойти в библиотеку"?
 
-A) Kütüphaneye gitmek karar verdim
+A) Kütüphaneye gitmeye karar verdim
 
-B) Kütüphaneye gitmeye karar verdim
+B) Kütüphaneye gitmek karar verdim
 
 C) Kütüphaneye gitme karar verdim
 
@@ -52,11 +53,11 @@ D) Kütüphaneye gitmesi karar verdim
 
 A) Çalışmak önemli
 
-B) Çalışmayı önemli
+B) Çalışma önemli
 
-C) Çalışma önemli
+C) Çalışması önemli
 
-D) Çalışması önemli
+D) Çalışmayı önemli
 
 ---
 
@@ -64,13 +65,13 @@ D) Çalışması önemli
 
 Как правильно сказать "Я предпочитаю слушать музыку"?
 
-A) Müzik dinlemek tercih ediyorum
+A) Müzik dinlemesi tercih ediyorum
 
 B) Müzik dinlemeyi tercih ediyorum
 
-C) Müzik dinleme tercih ediyorum
+C) Müzik dinlemek tercih ediyorum
 
-D) Müzik dinlemesi tercih ediyorum
+D) Müzik dinleme tercih ediyorum
 
 ---
 
@@ -78,13 +79,13 @@ D) Müzik dinlemesi tercih ediyorum
 
 Какой падеж используется после глагола sevmek (любить)?
 
-A) Именительный
+A) Исходный (-madan/-meden)
 
-B) Винительный (-mayı/-meyi)
+B) Дательный (-maya/-meye)
 
-C) Дательный (-maya/-meye)
+C) Именительный
 
-D) Исходный (-madan/-meden)
+D) Винительный (-mayı/-meyi)
 
 ---
 
@@ -92,11 +93,11 @@ D) Исходный (-madan/-meden)
 
 Какой падеж используется после глагола başlamak (начинать)?
 
-A) Именительный
+A) Дательный (-maya/-meye)
 
-B) Винительный (-mayı/-meyi)
+B) Именительный
 
-C) Дательный (-maya/-meye)
+C) Винительный (-mayı/-meyi)
 
 D) Исходный (-madan/-meden)
 
@@ -120,13 +121,13 @@ D) Исходный (-madan/-meden)
 
 Когда используется форма -ma/-me?
 
-A) Для абстрактных действий
+A) Для прошедших действий
 
-B) Для конкретных действий с субъектом
+B) Для будущих действий
 
-C) Для прошедших действий
+C) Для конкретных действий с субъектом
 
-D) Для будущих действий
+D) Для абстрактных действий
 
 ---
 
@@ -136,11 +137,11 @@ D) Для будущих действий
 
 A) Yüzmek hoşlanmıyorum
 
-B) Yüzmeyi hoşlanmıyorum
+B) Yüzmesi hoşlanmıyorum
 
 C) Yüzme hoşlanmıyorum
 
-D) Yüzmesi hoşlanmıyorum
+D) Yüzmeyi hoşlanmıyorum
 
 ---
 
@@ -153,13 +154,13 @@ Mektup _____ seviyorum.
 Я люблю писать письма.
 ```
 
-A) yazmak
+A) yazması
 
 B) yazmayı
 
 C) yazma
 
-D) yazması
+D) yazmak
 
 ---
 
@@ -172,13 +173,13 @@ D) yazması
 Я начал изучать испанский.
 ```
 
-A) öğrenmek
+A) öğrenme
 
-B) öğrenmeye
+B) öğrenmek
 
-C) öğrenme
+C) öğrenmesi
 
-D) öğrenmesi
+D) öğrenmeye
 
 ---
 
@@ -210,13 +211,13 @@ _____ önemli.
 Работа важна.
 ```
 
-A) Çalışmak
+A) Çalışma
 
-B) Çalışmayı
+B) Çalışmak
 
-C) Çalışma
+C) Çalışması
 
-D) Çalışması
+D) Çalışmayı
 
 ---
 
@@ -229,13 +230,13 @@ Müzik _____ tercih ediyorum.
 Я предпочитаю слушать музыку.
 ```
 
-A) dinlemek
+A) dinlemeyi
 
-B) dinlemeyi
+B) dinleme
 
-C) dinleme
+C) dinlemesi
 
-D) dinlemesi
+D) dinlemek
 
 ---
 
@@ -243,11 +244,11 @@ D) dinlemesi
 
 Какая форма используется после глаголов управления (sevmek, istemek)?
 
-A) -mak
+A) -mayı/-meyi
 
-B) -mayı/-meyi
+B) -maya/-meye
 
-C) -maya/-meye
+C) -mak
 
 D) -ması/-mesi
 
@@ -259,11 +260,11 @@ D) -ması/-mesi
 
 A) -mak
 
-B) -mayı/-meyi
+B) -ması/-mesi
 
-C) -maya/-meye
+C) -mayı/-meyi
 
-D) -ması/-mesi
+D) -maya/-meye
 
 ---
 
@@ -285,13 +286,13 @@ D) -ma будущее, -mak настоящее
 
 Как правильно сказать "Я продолжил читать"?
 
-A) Okumak devam ettim
+A) Okumayı devam ettim
 
-B) Okumayı devam ettim
+B) Okuması devam ettim
 
-C) Okumaya devam ettim
+C) Okumak devam ettim
 
-D) Okuması devam ettim
+D) Okumaya devam ettim
 
 ---
 
@@ -299,13 +300,15 @@ D) Okuması devam ettim
 
 Как правильно сказать "Чтение приятно"?
 
-A) Okumak güzel
+A) Okuma güzel
 
-B) Okumayı güzel
+B) Okuması güzel
 
-C) Okuma güzel
+C) Okumayı güzel
 
-D) Okuması güzel
+D) Okumak güzel
+
+---
 
 ---
 
@@ -313,26 +316,26 @@ D) Okuması güzel
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Mektup yazmayı seviyorum |
-| 2 | B | İspanyolca öğrenmeye başladım |
-| 3 | B | Kütüphaneye gitmeye karar verdim |
-| 4 | C | Çalışma önemli |
+| 1 | A | Mektup yazmayı seviyorum |
+| 2 | C | İspanyolca öğrenmeye başladım |
+| 3 | A | Kütüphaneye gitmeye karar verdim |
+| 4 | B | Çalışma önemli |
 | 5 | B | Müzik dinlemeyi tercih ediyorum |
-| 6 | B | Винительный (-mayı/-meyi) |
-| 7 | C | Дательный (-maya/-meye) |
+| 6 | D | Винительный (-mayı/-meyi) |
+| 7 | A | Дательный (-maya/-meye) |
 | 8 | C | Дательный (-maya/-meye) |
-| 9 | B | Для конкретных действий с субъектом |
-| 10 | B | Yüzmeyi hoşlanmıyorum |
+| 9 | C | Для конкретных действий с субъектом |
+| 10 | D | Yüzmeyi hoşlanmıyorum |
 | 11 | B | yazmayı |
-| 12 | B | öğrenmeye (İspanyolca öğrenmeye) |
+| 12 | D | öğrenmeye (İspanyolca öğrenmeye) |
 | 13 | B | gitmeye |
-| 14 | C | Çalışma |
-| 15 | B | dinlemeyi |
-| 16 | B | -mayı/-meyi |
-| 17 | C | -maya/-meye |
+| 14 | A | Çalışma |
+| 15 | A | dinlemeyi |
+| 16 | A | -mayı/-meyi |
+| 17 | D | -maya/-meye |
 | 18 | B | -ma конкретное, -mak абстрактное |
-| 19 | C | Okumaya devam ettim |
-| 20 | C | Okuma güzel |
+| 19 | D | Okumaya devam ettim |
+| 20 | A | Okuma güzel |
 
 ---
 

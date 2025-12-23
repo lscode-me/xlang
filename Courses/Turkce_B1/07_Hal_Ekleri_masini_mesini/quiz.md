@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я жду его прихода"?
 
 A) Onun gelmek bekliyorum
 
-B) Onun gelme bekliyorum
+B) Onun gelmesini bekliyorum
 
 C) Onun gelmesi bekliyorum
 
-D) Onun gelmesini bekliyorum
+D) Onun gelme bekliyorum
 
 ---
 
@@ -24,9 +25,9 @@ D) Onun gelmesini bekliyorum
 
 A) Bunu yapmak istiyorum
 
-B) Bunu yapma istiyorum
+B) Bunu yapması istiyorum
 
-C) Bunu yapması istiyorum
+C) Bunu yapma istiyorum
 
 D) Bunu yapmasını istiyorum
 
@@ -40,9 +41,9 @@ A) Ali çalışmak istiyorum
 
 B) Ali'nin çalışma istiyorum
 
-C) Ali'nin çalışması istiyorum
+C) Ali'nin çalışmasını istiyorum
 
-D) Ali'nin çalışmasını istiyorum
+D) Ali'nin çalışması istiyorum
 
 ---
 
@@ -55,13 +56,13 @@ Onun _____ bekliyorum.
 Я жду ее прихода.
 ```
 
-A) gelmek
+A) gelmesini
 
-B) gelme
+B) gelmesi
 
-C) gelmesi
+C) gelmek
 
-D) gelmesini
+D) gelme
 
 ---
 
@@ -76,11 +77,11 @@ Bunu _____ istiyorum.
 
 A) yapmak
 
-B) yapma
+B) yapmasını
 
-C) yapması
+C) yapma
 
-D) yapmasını
+D) yapması
 
 ---
 
@@ -88,13 +89,13 @@ D) yapmasını
 
 В чем отличие -ması от -masını?
 
-A) -ması винительный падеж, -masını именительный падеж
+A) -ması для прошедшего, -masını для будущего
 
-B) -ması именительный падеж, -masını винительный падеж
+B) -ması винительный падеж, -masını именительный падеж
 
-C) Нет отличия
+C) -ması именительный падеж, -masını винительный падеж
 
-D) -ması для прошедшего, -masını для будущего
+D) Нет отличия
 
 ---
 
@@ -102,13 +103,13 @@ D) -ması для прошедшего, -masını для будущего
 
 Когда используется форма -masını/-mesini?
 
-A) Когда действие является подлежащим
+A) Когда действие является прямым дополнением
 
-B) Когда действие является прямым дополнением
+B) Когда действие в будущем
 
 C) Когда действие абстрактное
 
-D) Когда действие в будущем
+D) Когда действие является подлежащим
 
 ---
 
@@ -116,13 +117,13 @@ D) Когда действие в будущем
 
 Как правильно сказать "Он ждет моего прихода"?
 
-A) Benim gelmek bekliyor
+A) Benim gelmemi bekliyor
 
 B) Benim gelme bekliyor
 
-C) Benim gelmem bekliyor
+C) Benim gelmek bekliyor
 
-D) Benim gelmemi bekliyor
+D) Benim gelmem bekliyor
 
 ---
 
@@ -130,11 +131,11 @@ D) Benim gelmemi bekliyor
 
 Как правильно сказать "Он ждет твоего прихода"?
 
-A) Senin gelmek bekliyor
+A) Senin gelmen bekliyor
 
-B) Senin gelme bekliyor
+B) Senin gelmek bekliyor
 
-C) Senin gelmen bekliyor
+C) Senin gelme bekliyor
 
 D) Senin gelmeni bekliyor
 
@@ -151,9 +152,9 @@ Benim _____ bekliyor.
 
 A) gelmek
 
-B) gelme
+B) gelmem
 
-C) gelmem
+C) gelme
 
 D) gelmemi
 
@@ -172,9 +173,9 @@ A) gelmek
 
 B) gelme
 
-C) gelmen
+C) gelmeni
 
-D) gelmeni
+D) gelmen
 
 ---
 
@@ -184,11 +185,11 @@ D) gelmeni
 
 A) gelmek, gitmek, olmak
 
-B) beklemek, istemek, umut etmek
+B) bilmek, görmek, anlamak
 
-C) bilmek, görmek, anlamak
+C) sevmek, hoşlanmak, tercih etmek
 
-D) sevmek, hoşlanmak, tercih etmek
+D) beklemek, istemek, umut etmek
 
 ---
 
@@ -196,13 +197,13 @@ D) sevmek, hoşlanmak, tercih etmek
 
 Как правильно сказать "Я не хочу, чтобы Али опаздывал"?
 
-A) Ali'nin geç kalmak istemiyorum
+A) Ali'nin geç kalma istemiyorum
 
-B) Ali'nin geç kalma istemiyorum
+B) Ali'nin geç kalmasını istemiyorum
 
 C) Ali'nin geç kalması istemiyorum
 
-D) Ali'nin geç kalmasını istemiyorum
+D) Ali'nin geç kalmak istemiyorum
 
 ---
 
@@ -210,13 +211,13 @@ D) Ali'nin geç kalmasını istemiyorum
 
 Как правильно сказать "Я предпочитаю, чтобы Али работал"?
 
-A) Ali'nin çalışmak tercih ediyorum
+A) Ali'nin çalışması tercih ediyorum
 
 B) Ali'nin çalışma tercih ediyorum
 
-C) Ali'nin çalışması tercih ediyorum
+C) Ali'nin çalışmasını tercih ediyorum
 
-D) Ali'nin çalışmasını tercih ediyorum
+D) Ali'nin çalışmak tercih ediyorum
 
 ---
 
@@ -229,13 +230,13 @@ Ali'nin geç _____ istemiyorum.
 Я не хочу, чтобы Али опаздывал.
 ```
 
-A) kalmak
+A) kalmasını
 
-B) kalma
+B) kalması
 
-C) kalması
+C) kalmak
 
-D) kalmasını
+D) kalma
 
 ---
 
@@ -243,13 +244,13 @@ D) kalmasını
 
 В чем отличие -mayı/-meyi от -masını/-mesini?
 
-A) -mayı без субъекта, -masını с субъектом
+A) -mayı для прошедшего, -masını для будущего
 
-B) -mayı с субъектом, -masını без субъекта
+B) -mayı без субъекта, -masını с субъектом
 
 C) Нет отличия
 
-D) -mayı для прошедшего, -masını для будущего
+D) -mayı с субъектом, -masını без субъекта
 
 ---
 
@@ -257,13 +258,13 @@ D) -mayı для прошедшего, -masını для будущего
 
 Как правильно сказать "Я надеюсь на его приход"?
 
-A) Onun gelmek umuyorum
+A) Onun gelme umuyorum
 
-B) Onun gelme umuyorum
+B) Onun gelmesini umuyorum
 
-C) Onun gelmesi umuyorum
+C) Onun gelmek umuyorum
 
-D) Onun gelmesini umuyorum
+D) Onun gelmesi umuyorum
 
 ---
 
@@ -276,13 +277,13 @@ Onun _____ umuyorum.
 Я надеюсь на его приход.
 ```
 
-A) gelmek
+A) gelmesini
 
-B) gelme
+B) gelmesi
 
-C) gelmesi
+C) gelmek
 
-D) gelmesini
+D) gelme
 
 ---
 
@@ -290,13 +291,13 @@ D) gelmesini
 
 Когда используется форма -masını/-mesini вместо -ması?
 
-A) Когда действие является подлежащим предложения
+A) Когда действие абстрактное
 
-B) Когда действие является прямым дополнением глагола управления
+B) Когда действие является подлежащим предложения
 
-C) Когда действие абстрактное
+C) Когда действие в будущем
 
-D) Когда действие в будущем
+D) Когда действие является прямым дополнением глагола управления
 
 ---
 
@@ -304,13 +305,13 @@ D) Когда действие в будущем
 
 Как правильно сказать "Я праздную успех Али"?
 
-A) Ali başarı kutluyorum
+A) Ali'nin başarı kutluyorum
 
-B) Ali'nin başarı kutluyorum
+B) Ali'nin başarısını kutluyorum
 
-C) Ali'nin başarısı kutluyorum
+C) Ali başarı kutluyorum
 
-D) Ali'nin başarısını kutluyorum
+D) Ali'nin başarısı kutluyorum
 
 ---
 
@@ -323,13 +324,13 @@ Ali'nin başarı _____ kutluyorum.
 Я праздную успех Али.
 ```
 
-A) başarı
+A) başarısı
 
-B) başarısı
+B) başarısına
 
-C) başarısını
+C) başarı
 
-D) başarısına
+D) başarısını
 
 ---
 
@@ -351,13 +352,13 @@ D) Субъект обязателен только для первого лиц
 
 Как правильно сказать "Он ждет их прихода"?
 
-A) Onların gelmek bekliyor
+A) Onların gelme bekliyor
 
-B) Onların gelme bekliyor
+B) Onların gelmeleri bekliyor
 
-C) Onların gelmeleri bekliyor
+C) Onların gelmelerini bekliyor
 
-D) Onların gelmelerini bekliyor
+D) Onların gelmek bekliyor
 
 ---
 
@@ -370,13 +371,13 @@ Onların _____ bekliyor.
 Он ждет их прихода.
 ```
 
-A) gelmek
+A) gelme
 
-B) gelme
+B) gelmeleri
 
-C) gelmeleri
+C) gelmelerini
 
-D) gelmelerini
+D) gelmek
 
 ---
 
@@ -384,13 +385,15 @@ D) gelmelerini
 
 Какая форма используется для выражения действия другого лица как объекта?
 
-A) -mak
+A) -mayı/-meyi
 
-B) -mayı/-meyi
+B) -ması/-mesi
 
-C) -ması/-mesi
+C) -masını/-mesini
 
-D) -masını/-mesini
+D) -mak
+
+---
 
 ---
 
@@ -398,31 +401,31 @@ D) -masını/-mesini
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Onun gelmesini bekliyorum |
+| 1 | B | Onun gelmesini bekliyorum |
 | 2 | D | Bunu yapmasını istiyorum |
-| 3 | D | Ali'nin çalışmasını istiyorum |
-| 4 | D | gelmesini |
-| 5 | D | yapmasını |
-| 6 | B | -ması именительный падеж, -masını винительный падеж |
-| 7 | B | Когда действие является прямым дополнением |
-| 8 | D | Benim gelmemi bekliyor |
+| 3 | C | Ali'nin çalışmasını istiyorum |
+| 4 | A | gelmesini |
+| 5 | B | yapmasını |
+| 6 | C | -ması именительный падеж, -masını винительный падеж |
+| 7 | A | Когда действие является прямым дополнением |
+| 8 | A | Benim gelmemi bekliyor |
 | 9 | D | Senin gelmeni bekliyor |
 | 10 | D | gelmemi |
-| 11 | D | gelmeni |
-| 12 | B | beklemek, istemek, umut etmek |
-| 13 | D | Ali'nin geç kalmasını istemiyorum |
-| 14 | D | Ali'nin çalışmasını tercih ediyorum |
-| 15 | D | kalmasını |
-| 16 | A | -mayı без субъекта, -masını с субъектом |
-| 17 | D | Onun gelmesini umuyorum |
-| 18 | D | gelmesini |
-| 19 | B | Когда действие является прямым дополнением глагола управления |
-| 20 | D | Ali'nin başarısını kutluyorum |
-| 21 | C | başarısını |
+| 11 | C | gelmeni |
+| 12 | D | beklemek, istemek, umut etmek |
+| 13 | B | Ali'nin geç kalmasını istemiyorum |
+| 14 | C | Ali'nin çalışmasını tercih ediyorum |
+| 15 | A | kalmasını |
+| 16 | B | -mayı без субъекта, -masını с субъектом |
+| 17 | B | Onun gelmesini umuyorum |
+| 18 | A | gelmesini |
+| 19 | D | Когда действие является прямым дополнением глагола управления |
+| 20 | B | Ali'nin başarısını kutluyorum |
+| 21 | D | başarısını |
 | 22 | B | Да, субъект обязателен |
-| 23 | D | Onların gelmelerini bekliyor |
-| 24 | D | gelmelerini |
-| 25 | D | -masını/-mesini |
+| 23 | C | Onların gelmelerini bekliyor |
+| 24 | C | gelmelerini |
+| 25 | C | -masını/-mesini |
 
 ---
 

@@ -547,6 +547,7 @@ They visit us every Sunday.
 ### 5.1 Ошибка 1: Путаница AT и IN для времени
 
 **❌ Неправильно:**
+
 ```
 
 I wake up in 7 o'clock.
@@ -554,6 +555,7 @@ The lesson starts on 9:00.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I wake up at 7 o'clock. (точное время - AT)
@@ -566,6 +568,7 @@ The lesson starts at 9:00.
 ### 5.2 Ошибка 2: ON для месяцев
 
 **❌ Неправильно:**
+
 ```
 
 I was born on January.
@@ -573,6 +576,7 @@ My birthday is on May.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I was born in January. (месяц - IN)
@@ -585,6 +589,7 @@ My birthday is in May.
 ### 5.3 Ошибка 3: IN для дней недели
 
 **❌ Неправильно:**
+
 ```
 
 I don't work in Monday.
@@ -592,6 +597,7 @@ The meeting is in Friday.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I don't work on Monday. (день недели - ON)
@@ -604,6 +610,7 @@ The meeting is on Friday.
 ### 5.4 Ошибка 4: Предлог с "night"
 
 **❌ Неправильно:**
+
 ```
 
 I sleep in night.
@@ -611,6 +618,7 @@ I work on night.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I sleep at night. (night - AT, исключение)
@@ -623,6 +631,7 @@ But: in the morning - утром
 ### 5.5 Ошибка 5: Использование предлога с today, tomorrow, yesterday
 
 **❌ Неправильно:**
+
 ```
 
 I am busy in today.
@@ -631,6 +640,7 @@ He called at yesterday.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I am busy today. (без предлога)
@@ -646,6 +656,7 @@ He called yesterday.
 ### 5.6 Ошибка 6: "В понедельник утром"
 
 **❌ Неправильно:**
+
 ```
 
 in Monday morning
@@ -653,6 +664,7 @@ at Monday morning
 ```
 
 **✅ Правильно:**
+
 ```
 
 on Monday morning (день + часть дня = ON)
@@ -662,6 +674,7 @@ on Monday morning (день + часть дня = ON)
 ### 5.7 Ошибка 7: Путаница FOR и SINCE
 
 **❌ Неправильно:**
+
 ```
 
 I live here since 5 years.
@@ -669,6 +682,7 @@ I study English for 2020.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I live here for 5 years. (длительность - FOR)

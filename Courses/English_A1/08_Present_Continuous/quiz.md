@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Образование Present Continuous
 
 Как образуется Present Continuous?
 
-A) Subject + will + Verb-ing
+A) Subject + Verb-ing
 
-B) Subject + Verb-ing
+B) Subject + to be + Verb-ing
 
-C) Subject + to be + Verb-ing
+C) Subject + do/does + Verb-ing
 
-D) Subject + do/does + Verb-ing
+D) Subject + will + Verb-ing
 
 ---
 
@@ -22,13 +24,13 @@ D) Subject + do/does + Verb-ing
 
 Какое предложение правильное?
 
-A) I am work now.
+A) I work now-ing.
 
-B) I work now-ing.
+B) I working now.
 
-C) I am working now.
+C) I am work now.
 
-D) I working now.
+D) I am working now.
 
 ---
 
@@ -38,9 +40,9 @@ D) I working now.
 
 A) makking
 
-B) making
+B) makeing
 
-C) makeing
+C) making
 
 D) makeying
 
@@ -50,13 +52,13 @@ D) makeying
 
 Выберите правильную форму глагола "swim":
 
-A) swimeing
+A) swiming
 
-B) swiming
+B) swimmeing
 
 C) swimming
 
-D) swimmeing
+D) swimeing
 
 ---
 
@@ -69,11 +71,11 @@ D) swimmeing
 She _____ (not watch) TV.
 ```
 
-A) She not watching TV.
+A) She isn't watch TV.
 
 B) She isn't watching TV.
 
-C) She isn't watch TV.
+C) She not watching TV.
 
 D) She doesn't watching TV.
 
@@ -83,13 +85,13 @@ D) She doesn't watching TV.
 
 Выберите правильный вопрос:
 
-A) Do you are working?
+A) Are you working?
 
-B) Are you working?
+B) Are you work?
 
-C) Do you working?
+C) Do you are working?
 
-D) Are you work?
+D) Do you working?
 
 ---
 
@@ -97,13 +99,13 @@ D) Are you work?
 
 Как правильно спросить "Что ты делаешь?"
 
-A) What you are doing?
+A) What are you doing?
 
-B) What are you doing?
+B) What you are doing?
 
-C) What are you do?
+C) What do you doing?
 
-D) What do you doing?
+D) What are you do?
 
 ---
 
@@ -117,13 +119,13 @@ I _____ (work) in a bank.
 ```
 (о постоянной работе)
 
-A) am working
+A) work
 
 B) am work
 
 C) works
 
-D) work
+D) am working
 
 ---
 
@@ -131,13 +133,13 @@ D) work
 
 Какое слово указывает на Present Continuous?
 
-A) now
+A) usually
 
-B) usually
+B) now
 
-C) always
+C) every day
 
-D) every day
+D) always
 
 ---
 
@@ -145,13 +147,13 @@ D) every day
 
 Какое предложение правильное?
 
-A) I liking pizza.
+A) I am liking pizza.
 
-B) I am like pizza.
+B) I like pizza.
 
-C) I am liking pizza.
+C) I am like pizza.
 
-D) I like pizza.
+D) I liking pizza.
 
 ---
 
@@ -161,11 +163,11 @@ D) I like pizza.
 
 A) I am have a car.
 
-B) I am having a car.
+B) I have a car.
 
 C) I having a car.
 
-D) I have a car.
+D) I am having a car.
 
 ---
 
@@ -178,11 +180,11 @@ D) I have a car.
 Are you reading? - Yes, _____.
 ```
 
-A) I'm
+A) I do
 
 B) I reading
 
-C) I do
+C) I'm
 
 D) I am
 
@@ -197,9 +199,9 @@ D) I am
 He _____ (play) football now.
 ```
 
-A) plays
+A) am playing
 
-B) am playing
+B) plays
 
 C) is playing
 
@@ -211,13 +213,13 @@ D) are playing
 
 Как правильно добавить -ing к глаголу "lie" (лежать)?
 
-A) lying
+A) liing
 
-B) lieing
+B) lyeing
 
-C) lyeing
+C) lying
 
-D) liing
+D) lieing
 
 ---
 
@@ -225,13 +227,13 @@ D) liing
 
 В каком случае используется Present Continuous?
 
-A) Для действий, происходящих сейчас
+A) Для будущих действий
 
 B) Для прошлых действий
 
-C) Для постоянных фактов
+C) Для действий, происходящих сейчас
 
-D) Для будущих действий
+D) Для постоянных фактов
 
 ---
 
@@ -239,13 +241,13 @@ D) Для будущих действий
 
 Как правильно добавить -ing к глаголу "come"?
 
-A) coming
+A) comming
 
-B) comeying
+B) comeing
 
-C) comeing
+C) comeying
 
-D) comming
+D) coming
 
 ---
 
@@ -260,11 +262,11 @@ They ___ (watch) TV now.
 
 A) are watching
 
-B) is watching
+B) am watching
 
-C) am watching
+C) watches
 
-D) watches
+D) is watching
 
 ---
 
@@ -272,11 +274,11 @@ D) watches
 
 Как правильно спросить "Где он работает сейчас?"
 
-A) Where is he working now?
+A) Where is working he now?
 
-B) Where does he working now?
+B) Where is he working now?
 
-C) Where is working he now?
+C) Where does he working now?
 
 D) Where he is working now?
 
@@ -286,13 +288,13 @@ D) Where he is working now?
 
 Какое предложение описывает временное действие?
 
-A) I am working in a hospital this month.
+A) I worked in a hospital.
 
-B) I worked in a hospital.
+B) I am working in a hospital this month.
 
-C) I have worked in a hospital.
+C) I work in a hospital.
 
-D) I work in a hospital.
+D) I have worked in a hospital.
 
 ---
 
@@ -316,25 +318,25 @@ D) I am knowing the answer.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ B. |
-| 2 | C | Правильный ответ C. |
-| 3 | B | Правильный ответ B. |
+| 1 | B | Правильный ответ B. |
+| 2 | D | Правильный ответ C. |
+| 3 | C | Правильный ответ B. |
 | 4 | C | Правильный ответ B. |
 | 5 | B | Правильный ответ C. |
-| 6 | B | Правильный ответ B. |
-| 7 | B | Правильный ответ C. |
-| 8 | D | Правильный ответ A. |
-| 9 | A | Правильный ответ C. |
-| 10 | D | Правильный ответ B. |
-| 11 | D | Правильный ответ B. |
+| 6 | A | Правильный ответ B. |
+| 7 | A | Правильный ответ C. |
+| 8 | A | Правильный ответ A. |
+| 9 | B | Правильный ответ C. |
+| 10 | B | Правильный ответ B. |
+| 11 | B | Правильный ответ B. |
 | 12 | D | Правильный ответ C. |
 | 13 | C | Правильный ответ A. |
-| 14 | A | Правильный ответ C. |
-| 15 | A | Правильный ответ B. |
-| 16 | A | Правильный ответ B. |
+| 14 | C | Правильный ответ C. |
+| 15 | C | Правильный ответ B. |
+| 16 | D | Правильный ответ B. |
 | 17 | A | Правильный ответ A. |
-| 18 | A | Правильный ответ B. |
-| 19 | A | Правильный ответ B. |
+| 18 | B | Правильный ответ B. |
+| 19 | B | Правильный ответ B. |
 | 20 | A | Правильный ответ B. |
 
 ---

@@ -510,6 +510,7 @@ Let's not be late.
 ### ❌ Ошибка 1: Добавление "to" перед глаголом
 
 **Неправильно:**
+
 ```
 
 ✗ To open the door!
@@ -518,6 +519,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Open the door!
@@ -531,6 +533,7 @@ Let's not be late.
 ### ❌ Ошибка 2: Использование подлежащего "you"
 
 **Неправильно:**
+
 ```
 
 ✗ You come here!
@@ -539,6 +542,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Come here!
@@ -552,6 +556,7 @@ Let's not be late.
 ### ❌ Ошибка 3: Неправильное образование отрицания
 
 **Неправильно:**
+
 ```
 
 ✗ Not go there!
@@ -560,6 +565,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Don't go there!
@@ -573,6 +579,7 @@ Let's not be late.
 ### ❌ Ошибка 4: Спряжение глагола to be
 
 **Неправильно:**
+
 ```
 
 ✗ Are quiet!
@@ -581,6 +588,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Be quiet!
@@ -594,6 +602,7 @@ Let's not be late.
 ### ❌ Ошибка 5: Путаница Let's и Let
 
 **Неправильно:**
+
 ```
 
 ✗ Let go to the park! (без 's)
@@ -602,6 +611,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Let's go to the park!
@@ -613,6 +623,7 @@ Let's not be late.
 ### ❌ Ошибка 6: Неправильное место please
 
 **Неправильно:**
+
 ```
 
 ✗ Open please the door.
@@ -620,6 +631,7 @@ Let's not be late.
 ```
 
 **Правильно:**
+
 ```
 
 ✓ Please open the door. / Open the door, please.

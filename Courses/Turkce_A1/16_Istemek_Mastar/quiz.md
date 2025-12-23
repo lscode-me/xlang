@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Порядок слов
 
 Как правильно сказать "Я хочу работать"?
 
-A) Çalışmak istiyorum
+A) İstiyorum çalışıyorum
 
-B) İstiyorum çalışmak
+B) Çalışıyorum istiyorum
 
-C) İstiyorum çalışıyorum
+C) İstiyorum çalışmak
 
-D) Çalışıyorum istiyorum
+D) Çalışmak istiyorum
 
 ---
 
@@ -22,13 +24,13 @@ D) Çalışıyorum istiyorum
 
 Как правильно сказать "Я хочу читать"?
 
-A) Ben okuyorum istiyorum
+A) Ben okuma istiyorum
 
-B) Ben okumek istiyorum
+B) Ben okuyorum istiyorum
 
-C) Ben okuma istiyorum
+C) Ben okumak istiyorum
 
-D) Ben okumak istiyorum
+D) Ben okumek istiyorum
 
 ---
 
@@ -36,13 +38,13 @@ D) Ben okumak istiyorum
 
 Как правильно сказать "Ты хочешь работать"?
 
-A) Sen çalışmak istiyorsun
+A) Sen çalışmak istiyoruz
 
-B) Sen çalışmak istiyoruz
+B) Sen çalışmak istiyorsun
 
-C) Sen çalışmak istiyor
+C) Sen çalışmak istiyorum
 
-D) Sen çalışmak istiyorum
+D) Sen çalışmak istiyor
 
 ---
 
@@ -52,11 +54,11 @@ D) Sen çalışmak istiyorum
 
 A) O gitmek istiyorsun
 
-B) O gitmek istiyoruz
+B) O gitmek istiyorum
 
-C) O gitmek istiyorum
+C) O gitmek istiyor
 
-D) O gitmek istiyor
+D) O gitmek istiyoruz
 
 ---
 
@@ -64,13 +66,13 @@ D) O gitmek istiyor
 
 Как правильно спросить "Что ты хочешь делать?"?
 
-A) Yapmak ne istiyorsun?
+A) Ne yapmak istiyorsun?
 
-B) Ne yapmak istiyorum?
+B) Ne yapıyorsun istiyorsun?
 
-C) Ne yapıyorsun istiyorsun?
+C) Yapmak ne istiyorsun?
 
-D) Ne yapmak istiyorsun?
+D) Ne yapmak istiyorum?
 
 ---
 
@@ -78,13 +80,13 @@ D) Ne yapmak istiyorsun?
 
 Как правильно сказать "Я хочу пить кофе"?
 
-A) Ben içmek kahve istiyorum
+A) Ben istiyorum kahve içmek
 
-B) Ben kahve içiyorum istiyorum
+B) Ben kahve içmek istiyorum
 
-C) Ben kahve içmek istiyorum
+C) Ben kahve içiyorum istiyorum
 
-D) Ben istiyorum kahve içmek
+D) Ben içmek kahve istiyorum
 
 ---
 
@@ -92,13 +94,13 @@ D) Ben istiyorum kahve içmek
 
 Как правильно сказать "Я не хочу идти"?
 
-A) Ben gitmeye istemiyorum
+A) Ben gitmiyorum istiyorum
 
-B) Ben gitmemek istiyorum
+B) Ben gitmek istemiyorum
 
-C) Ben gitmek istemiyorum
+C) Ben gitmeye istemiyorum
 
-D) Ben gitmiyorum istiyorum
+D) Ben gitmemek istiyorum
 
 ---
 
@@ -106,13 +108,13 @@ D) Ben gitmiyorum istiyorum
 
 В чем разница между "Kitap okumak istiyorum" и "Kitap okumayı seviyorum"?
 
-A) Первое - желание (хочу), второе - предпочтение (люблю)
+A) Первое - неправильная форма
 
-B) Первое - неправильная форма
+B) Второе - неправильная форма
 
-C) Нет разницы
+C) Первое - желание (хочу), второе - предпочтение (люблю)
 
-D) Второе - неправильная форма
+D) Нет разницы
 
 ---
 
@@ -120,11 +122,11 @@ D) Второе - неправильная форма
 
 Как правильно сказать "Я сегодня хочу остаться дома"?
 
-A) Ben bugün evde kalmak istiyorum
+A) Ben bugün istiyorum evde kalmak
 
-B) Ben istiyorum bugün evde kalmak
+B) Ben bugün evde kalmak istiyorum
 
-C) Ben bugün istiyorum evde kalmak
+C) Ben istiyorum bugün evde kalmak
 
 D) Ben evde kalmak bugün istiyorum
 
@@ -134,13 +136,13 @@ D) Ben evde kalmak bugün istiyorum
 
 Как правильно спросить "Куда ты хочешь идти?"?
 
-A) Nereye gitmek istiyorum?
+A) Nereye gidiyorsun istiyorsun?
 
-B) Nereye gitmek istiyorsun?
+B) Nereye gitmek istiyorum?
 
 C) Gitmek nereye istiyorsun?
 
-D) Nereye gidiyorsun istiyorsun?
+D) Nereye gitmek istiyorsun?
 
 ---
 
@@ -148,13 +150,13 @@ D) Nereye gidiyorsun istiyorsun?
 
 Какая форма правильная для "я хочу работать"?
 
-A) Çalışmak istiyorum
+A) Çalışmek istiyorum
 
-B) Çalışıyorum istiyorum
+B) Çalışma istiyorum
 
-C) Çalışmek istiyorum
+C) Çalışıyorum istiyorum
 
-D) Çalışma istiyorum
+D) Çalışmak istiyorum
 
 ---
 
@@ -162,13 +164,13 @@ D) Çalışma istiyorum
 
 Как правильно сказать "Мы хотим работать"?
 
-A) Biz çalışmak istiyorlar
+A) Biz çalışmak istiyoruz
 
-B) Biz çalışmak istiyoruz
+B) Biz çalışmak istiyorsun
 
-C) Biz çalışmak istiyorum
+C) Biz çalışmak istiyorlar
 
-D) Biz çalışmak istiyorsun
+D) Biz çalışmak istiyorum
 
 ---
 
@@ -178,11 +180,11 @@ D) Biz çalışmak istiyorsun
 
 A) Ben kitap okumak istiyorum
 
-B) Ben istiyorum kitap okumak
+B) Ben kitap okuyorum istiyorum
 
-C) Ben okumak kitap istiyorum
+C) Ben istiyorum kitap okumak
 
-D) Ben kitap okuyorum istiyorum
+D) Ben okumak kitap istiyorum
 
 ---
 
@@ -190,11 +192,11 @@ D) Ben kitap okuyorum istiyorum
 
 Как правильно спросить "Что ты хочешь пить?"?
 
-A) Ne içmek istiyorsun?
+A) İçmek ne istiyorsun?
 
-B) İçmek ne istiyorsun?
+B) Ne içiyorsun istiyorsun?
 
-C) Ne içiyorsun istiyorsun?
+C) Ne içmek istiyorsun?
 
 D) Ne içmek istiyorum?
 
@@ -204,13 +206,13 @@ D) Ne içmek istiyorum?
 
 Как правильно сказать "Ты не хочешь работать"?
 
-A) Sen çalışmıyorsun istiyorsun
+A) Sen çalışmak istemiyorum
 
-B) Sen çalışmak istemiyorsun
+B) Sen çalışmıyorsun istiyorsun
 
-C) Sen çalışmak istemiyorum
+C) Sen çalışmemek istiyorsun
 
-D) Sen çalışmemek istiyorsun
+D) Sen çalışmak istemiyorsun
 
 ---
 
@@ -218,13 +220,13 @@ D) Sen çalışmemek istiyorsun
 
 Как правильно сказать "Я завтра хочу отдохнуть"?
 
-A) Ben yarın dinlenmek istiyorum
+A) Ben istiyorum yarın dinlenmek
 
-B) Ben istiyorum yarın dinlenmek
+B) Ben yarın dinlenmek istiyorum
 
-C) Yarın ben istiyorum dinlenmek
+C) Ben dinlenmek yarın istiyorum
 
-D) Ben dinlenmek yarın istiyorum
+D) Yarın ben istiyorum dinlenmek
 
 ---
 
@@ -232,11 +234,11 @@ D) Ben dinlenmek yarın istiyorum
 
 Как правильно сказать "Они хотят играть"?
 
-A) Onlar oynamak istiyoruz
+A) Onlar oynamak istiyorlar
 
-B) Onlar oynamak istiyorlar
+B) Onlar oynamak istiyor
 
-C) Onlar oynamak istiyor
+C) Onlar oynamak istiyoruz
 
 D) Onlar oynamak istiyorsun
 
@@ -246,13 +248,13 @@ D) Onlar oynamak istiyorsun
 
 Как правильно спросить "Ты хочешь пойти?"?
 
-A) Gitmek istiyor musun?
+A) Gitmek mi istiyorsun?
 
-B) Gitmek istiyorsun mu?
+B) Gitmek musun istiyor?
 
-C) Gitmek mi istiyorsun?
+C) Gitmek istiyor musun?
 
-D) Gitmek musun istiyor?
+D) Gitmek istiyorsun mu?
 
 ---
 
@@ -260,13 +262,13 @@ D) Gitmek musun istiyor?
 
 Как правильно сказать "Он/Она хочет спать"?
 
-A) O uyumak istiyorum
+A) O uyumak istiyorsun
 
-B) O uyumak istiyorsun
+B) O uyumak istiyor
 
 C) O uyumak istiyoruz
 
-D) O uyumak istiyor
+D) O uyumak istiyorum
 
 ---
 
@@ -274,13 +276,13 @@ D) O uyumak istiyor
 
 Как правильно сказать "Я хочу пойти в кино"?
 
-A) Ben sinemada gitmek istiyorum
+A) Ben sinemaya gitmek istiyorum
 
-B) Ben sinemadan gitmek istiyorum
+B) Ben sinemada gitmek istiyorum
 
-C) Ben gitmek sinemaya istiyorum
+C) Ben sinemadan gitmek istiyorum
 
-D) Ben sinemaya gitmek istiyorum
+D) Ben gitmek sinemaya istiyorum
 
 ---
 
@@ -290,26 +292,26 @@ D) Ben sinemaya gitmek istiyorum
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный порядок: инфинитив + istemek: Çalışmak istiyorum. |
-| 2 | D | С модальным глаголом используется инфинитив: Ben okumak istiyorum. |
-| 3 | A | Для второго лица: Sen çalışmak istiyorsun. |
-| 4 | D | Для третьего лица: O gitmek istiyor. |
-| 5 | D | Вопрос о желании: Ne yapmak istiyorsun? |
-| 6 | C | Правильный порядок: дополнение + инфинитив + istemek: Ben kahve içmek istiyorum. |
-| 7 | C | Отрицание добавляется к istemek: Ben gitmek istemiyorum. |
-| 8 | A | "İstiyorum" - желание (хочу), "seviyorum" - предпочтение (люблю). |
-| 9 | A | Правильный порядок: обстоятельство + дополнение + инфинитив + istemek: Ben bugün evde kalmak istiyorum. |
-| 10 | B | Вопрос о месте: Nereye gitmek istiyorsun? |
-| 11 | A | Правильная форма: Çalışmak istiyorum (инфинитив + istemek). |
-| 12 | B | Для первого лица множественного числа: Biz çalışmak istiyoruz. |
+| 1 | D | Правильный порядок: инфинитив + istemek: Çalışmak istiyorum. |
+| 2 | C | С модальным глаголом используется инфинитив: Ben okumak istiyorum. |
+| 3 | B | Для второго лица: Sen çalışmak istiyorsun. |
+| 4 | C | Для третьего лица: O gitmek istiyor. |
+| 5 | A | Вопрос о желании: Ne yapmak istiyorsun? |
+| 6 | B | Правильный порядок: дополнение + инфинитив + istemek: Ben kahve içmek istiyorum. |
+| 7 | B | Отрицание добавляется к istemek: Ben gitmek istemiyorum. |
+| 8 | C | "İstiyorum" - желание (хочу), "seviyorum" - предпочтение (люблю). |
+| 9 | B | Правильный порядок: обстоятельство + дополнение + инфинитив + istemek: Ben bugün evde kalmak istiyorum. |
+| 10 | D | Вопрос о месте: Nereye gitmek istiyorsun? |
+| 11 | D | Правильная форма: Çalışmak istiyorum (инфинитив + istemek). |
+| 12 | A | Для первого лица множественного числа: Biz çalışmak istiyoruz. |
 | 13 | A | Правильный порядок: Ben kitap okumak istiyorum. |
-| 14 | A | Вопрос о желании: Ne içmek istiyorsun? |
-| 15 | B | Отрицание добавляется к istemek: Sen çalışmak istemiyorsun. |
-| 16 | A | Правильный порядок: обстоятельство времени + инфинитив + istemek: Ben yarın dinlenmek istiyorum. |
-| 17 | B | Для третьего лица множественного числа: Onlar oynamak istiyorlar. |
-| 18 | B | Вопросительная частица добавляется к istemek: Gitmek istiyorsun mu? |
-| 19 | D | Для третьего лица: O uyumak istiyor. |
-| 20 | D | Правильный порядок: дополнение с падежом + инфинитив + istemek: Ben sinemaya gitmek istiyorum. |
+| 14 | C | Вопрос о желании: Ne içmek istiyorsun? |
+| 15 | D | Отрицание добавляется к istemek: Sen çalışmak istemiyorsun. |
+| 16 | B | Правильный порядок: обстоятельство времени + инфинитив + istemek: Ben yarın dinlenmek istiyorum. |
+| 17 | A | Для третьего лица множественного числа: Onlar oynamak istiyorlar. |
+| 18 | D | Вопросительная частица добавляется к istemek: Gitmek istiyorsun mu? |
+| 19 | B | Для третьего лица: O uyumak istiyor. |
+| 20 | A | Правильный порядок: дополнение с падежом + инфинитив + istemek: Ben sinemaya gitmek istiyorum. |
 
 ---
 

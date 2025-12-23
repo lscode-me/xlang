@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Единственное число
 
 Какую форму использовать для одного предмета?
 
-A) It is
+A) There are
 
-B) They are
+B) There is
 
-C) There is
+C) It is
 
-D) There are
+D) They are
 
 ---
 
@@ -22,13 +24,13 @@ D) There are
 
 Какое предложение правильное?
 
-A) There is books on the table.
+A) There is three books on the table.
 
-B) There are a book on the table.
+B) There are three books on the table.
 
-C) There are three books on the table.
+C) There are a book on the table.
 
-D) There is three books on the table.
+D) There is books on the table.
 
 ---
 
@@ -41,13 +43,13 @@ D) There is three books on the table.
 _____ milk in the fridge.
 ```
 
-A) It is
+A) They are
 
 B) There are
 
 C) There is
 
-D) They are
+D) It is
 
 ---
 
@@ -55,13 +57,13 @@ D) They are
 
 Выберите правильное предложение:
 
-A) There is book on the table.
+A) There a book on the table.
 
 B) There is the book on the table.
 
-C) There a book on the table.
+C) There is a book on the table.
 
-D) There is a book on the table.
+D) There is book on the table.
 
 ---
 
@@ -74,13 +76,13 @@ D) There is a book on the table.
 _____ any students in the classroom.
 ```
 
-A) There isn't
+A) There not
 
-B) There aren't
+B) There no
 
-C) There no
+C) There aren't
 
-D) There not
+D) There isn't
 
 ---
 
@@ -88,13 +90,13 @@ D) There not
 
 Выберите правильный вопрос:
 
-A) Are there a bank near here?
+A) Is there a bank near here?
 
-B) Is a bank there near here?
+B) Are there a bank near here?
 
-C) There is a bank near here?
+C) Is a bank there near here?
 
-D) Is there a bank near here?
+D) There is a bank near here?
 
 ---
 
@@ -109,11 +111,11 @@ Is there a book on the table? - Yes, _____.
 
 A) it is
 
-B) there are
+B) is there
 
-C) there is
+C) there are
 
-D) is there
+D) there is
 
 ---
 
@@ -128,11 +130,11 @@ _____ five parks in our city.
 
 A) There is
 
-B) It is
+B) There are
 
-C) They are
+C) It is
 
-D) There are
+D) They are
 
 ---
 
@@ -142,11 +144,11 @@ D) There are
 
 A) There not milk.
 
-B) There no is milk.
+B) There is no milk.
 
-C) There is no milk.
+C) There are no milk.
 
-D) There are no milk.
+D) There no is milk.
 
 ---
 
@@ -154,11 +156,11 @@ D) There are no milk.
 
 Выберите правильный вопрос:
 
-A) How many students there are in your class?
+A) How many students are there in your class?
 
-B) How many there are students in your class?
+B) How many students there are in your class?
 
-C) How many students are there in your class?
+C) How many there are students in your class?
 
 D) How many students is there in your class?
 
@@ -177,9 +179,9 @@ A) It is
 
 B) They are
 
-C) There is
+C) There are
 
-D) There are
+D) There is
 
 ---
 
@@ -192,13 +194,13 @@ D) There are
 Are there any apples? - No, _____.
 ```
 
-A) there aren't
+A) there isn't
 
-B) they aren't
+B) it isn't
 
-C) there isn't
+C) there aren't
 
-D) it isn't
+D) they aren't
 
 ---
 
@@ -206,13 +208,13 @@ D) it isn't
 
 Выберите правильный вопрос:
 
-A) Is there restaurants near here?
+A) Is there any restaurants near here?
 
-B) Are there any restaurants near here?
+B) Is there restaurants near here?
 
 C) Are there a restaurants near here?
 
-D) Is there any restaurants near here?
+D) Are there any restaurants near here?
 
 ---
 
@@ -220,25 +222,25 @@ D) Is there any restaurants near here?
 
 Как правильно спросить "Здесь есть банк?"
 
-A) There is a bank here?
+A) Is there a bank here?
 
 B) Is here a bank?
 
-C) Are there a bank here?
+C) There is a bank here?
 
-D) Is there a bank here?
+D) Are there a bank here?
 
 ---
 
 ## Question 15: Выберите правильное предложение
 
-A) In the classroom there are students.
+A) There is students in the classroom.
 
-B) There is students in the classroom.
+B) There are students in the classroom.
 
 C) There students are in the classroom.
 
-D) There are students in the classroom.
+D) In the classroom there are students.
 
 ---
 
@@ -251,11 +253,11 @@ D) There are students in the classroom.
 _____ any chairs in the room?
 ```
 
-A) Are there
+A) Is there
 
 B) There are
 
-C) Is there
+C) Are there
 
 D) There is
 
@@ -270,13 +272,13 @@ D) There is
 В холодильнике нет яиц.
 ```
 
-A) There not any eggs in the fridge.
+A) There isn't any eggs in the fridge.
 
-B) There isn't any eggs in the fridge.
+B) There aren't any eggs in the fridge.
 
-C) There aren't any eggs in the fridge.
+C) There no are eggs in the fridge.
 
-D) There no are eggs in the fridge.
+D) There not any eggs in the fridge.
 
 ---
 
@@ -291,11 +293,11 @@ D) There no are eggs in the fridge.
 
 A) How many water is there in the bottle?
 
-B) How much water are there in the bottle?
+B) How much water is there in the bottle?
 
-C) How much water there is in the bottle?
+C) How much water are there in the bottle?
 
-D) How much water is there in the bottle?
+D) How much water there is in the bottle?
 
 ---
 
@@ -303,13 +305,13 @@ D) How much water is there in the bottle?
 
 Какое предложение правильное?
 
-A) There are in the park many trees.
+A) There are many trees in the park.
 
-B) There are many trees in the park.
+B) In the park there many trees are.
 
-C) In the park there many trees are.
+C) There in the park are many trees.
 
-D) There in the park are many trees.
+D) There are in the park many trees.
 
 ---
 
@@ -322,13 +324,13 @@ D) There in the park are many trees.
 Is there a cinema near here? - No, _____.
 ```
 
-A) there aren't
+A) it isn't
 
-B) is not
+B) there aren't
 
 C) there isn't
 
-D) it isn't
+D) is not
 
 ---
 
@@ -338,25 +340,25 @@ D) it isn't
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ B. |
-| 2 | C | Правильный ответ C. |
+| 1 | B | Правильный ответ B. |
+| 2 | B | Правильный ответ C. |
 | 3 | C | Правильный ответ B. |
-| 4 | D | Правильный ответ B. |
-| 5 | B | Правильный ответ B. |
-| 6 | D | Правильный ответ A. |
-| 7 | C | Правильный ответ B. |
-| 8 | D | Правильный ответ C. |
-| 9 | C | Правильный ответ B. |
-| 10 | C | Правильный ответ B. |
-| 11 | C | Правильный ответ B. |
-| 12 | A | Правильный ответ B. |
-| 13 | B | Правильный ответ A. |
-| 14 | D | Правильный ответ B. |
-| 15 | D | Правильный ответ C. |
-| 16 | A | Правильный ответ B. |
-| 17 | C | Правильный ответ B. |
-| 18 | D | Правильный ответ B. |
-| 19 | B | Правильный ответ C. |
+| 4 | C | Правильный ответ B. |
+| 5 | C | Правильный ответ B. |
+| 6 | A | Правильный ответ A. |
+| 7 | D | Правильный ответ B. |
+| 8 | B | Правильный ответ C. |
+| 9 | B | Правильный ответ B. |
+| 10 | A | Правильный ответ B. |
+| 11 | D | Правильный ответ B. |
+| 12 | C | Правильный ответ B. |
+| 13 | D | Правильный ответ A. |
+| 14 | A | Правильный ответ B. |
+| 15 | B | Правильный ответ C. |
+| 16 | C | Правильный ответ B. |
+| 17 | B | Правильный ответ B. |
+| 18 | B | Правильный ответ B. |
+| 19 | A | Правильный ответ C. |
 | 20 | C | Правильный ответ B. |
 
 ---

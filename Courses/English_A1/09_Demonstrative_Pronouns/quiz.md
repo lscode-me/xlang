@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Единственное число, близко
 
 Какое местоимение используется для одного предмета, который находится близко?
 
-A) that
+A) this
 
-B) these
+B) those
 
-C) this
+C) that
 
-D) those
+D) these
 
 ---
 
@@ -22,13 +24,13 @@ D) those
 
 Какое местоимение используется для нескольких предметов, которые находятся далеко?
 
-A) those
+A) that
 
 B) these
 
-C) this
+C) those
 
-D) that
+D) this
 
 ---
 
@@ -36,13 +38,13 @@ D) that
 
 Какое предложение правильное?
 
-A) These is my book.
+A) This are my books.
 
-B) These are my books.
+B) This am my books.
 
-C) This are my books.
+C) These are my books.
 
-D) This am my books.
+D) These is my book.
 
 ---
 
@@ -55,13 +57,13 @@ D) This am my books.
 _____ book is interesting.
 ```
 
-A) They
+A) This
 
-B) Those
+B) These
 
-C) These
+C) Those
 
-D) This
+D) They
 
 ---
 
@@ -69,11 +71,11 @@ D) This
 
 Какое местоимение является множественным числом от "this"?
 
-A) these
+A) that
 
-B) that
+B) those
 
-C) those
+C) these
 
 D) them
 
@@ -88,13 +90,13 @@ D) them
 Is this your bag? - Yes, _____.
 ```
 
-A) this are
+A) it is
 
 B) this is
 
-C) it is
+C) they are
 
-D) they are
+D) this are
 
 ---
 
@@ -102,13 +104,13 @@ D) they are
 
 Выберите правильный вопрос:
 
-A) What is this?
+A) What is these?
 
-B) What am this?
+B) What are this?
 
-C) What is these?
+C) What am this?
 
-D) What are this?
+D) What is this?
 
 ---
 
@@ -118,9 +120,9 @@ D) What are this?
 
 A) it
 
-B) those
+B) this
 
-C) this
+C) those
 
 D) that
 
@@ -130,13 +132,13 @@ D) that
 
 Выберите правильное предложение:
 
-A) That are my keys.
+A) Those is my keys.
 
-B) This are my keys.
+B) That are my keys.
 
-C) These are my keys.
+C) This are my keys.
 
-D) Those is my keys.
+D) These are my keys.
 
 ---
 
@@ -144,13 +146,13 @@ D) Those is my keys.
 
 Как сказать "То моя машина" (машина далеко)?
 
-A) That is my car.
+A) Those is my car.
 
-B) This is my car.
+B) These is my car.
 
-C) These is my car.
+C) That is my car.
 
-D) Those is my car.
+D) This is my car.
 
 ---
 
@@ -163,13 +165,13 @@ D) Those is my car.
 Are these your books? - Yes, _____.
 ```
 
-A) this is
+A) it is
 
-B) these are
+B) this is
 
-C) they are
+C) these are
 
-D) it is
+D) they are
 
 ---
 
@@ -177,13 +179,13 @@ D) it is
 
 Как правильно спросить о цене предмета рядом?
 
-A) How much are these?
+A) How much those?
 
-B) How much those?
+B) How much is this?
 
 C) How much is that?
 
-D) How much is this?
+D) How much are these?
 
 ---
 
@@ -198,11 +200,11 @@ _____ cars are expensive.
 
 A) That
 
-B) These
+B) This
 
-C) It
+C) These
 
-D) This
+D) It
 
 ---
 
@@ -212,9 +214,9 @@ D) This
 
 A) That is Maria speaking.
 
-B) It is Maria speaking.
+B) This is Maria speaking.
 
-C) This is Maria speaking.
+C) It is Maria speaking.
 
 D) These is Maria speaking.
 
@@ -224,13 +226,13 @@ D) These is Maria speaking.
 
 Выберите правильное предложение:
 
-A) This aren't my keys.
+A) These isn't my keys.
 
-B) These isn't my keys.
+B) This aren't my keys.
 
-C) This isn't my keys.
+C) These aren't my keys.
 
-D) These aren't my keys.
+D) This isn't my keys.
 
 ---
 
@@ -243,13 +245,13 @@ D) These aren't my keys.
 _____ pens are red.
 ```
 
-A) That
+A) Those
 
-B) Those
+B) That
 
-C) This
+C) These
 
-D) These
+D) This
 
 ---
 
@@ -257,13 +259,13 @@ D) These
 
 Как правильно спросить по телефону "Это Джон?"
 
-A) Is that John?
+A) Are these John?
 
 B) Are those John?
 
-C) Are these John?
+C) Is this John?
 
-D) Is this John?
+D) Is that John?
 
 ---
 
@@ -276,13 +278,13 @@ D) Is this John?
 _____ house over there is beautiful.
 ```
 
-A) These
+A) This
 
-B) This
+B) These
 
-C) That
+C) Those
 
-D) Those
+D) That
 
 ---
 
@@ -306,11 +308,11 @@ D) How much is this?
 
 A) this
 
-B) those
+B) them
 
-C) them
+C) these
 
-D) these
+D) those
 
 ---
 
@@ -320,26 +322,26 @@ D) these
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ B. |
-| 2 | A | Правильный ответ D. |
-| 3 | B | Правильный ответ C. |
-| 4 | D | Правильный ответ C. |
-| 5 | A | Правильный ответ C. |
-| 6 | C | Правильный ответ B. |
-| 7 | A | Правильный ответ C. |
-| 8 | C | Правильный ответ C. |
-| 9 | C | Правильный ответ C. |
-| 10 | A | Правильный ответ B. |
-| 11 | C | Правильный ответ C. |
-| 12 | D | Правильный ответ B. |
-| 13 | B | Правильный ответ C. |
-| 14 | C | Правильный ответ B. |
-| 15 | D | Правильный ответ D. |
-| 16 | D | Правильный ответ C. |
-| 17 | A | Правильный ответ A. |
-| 18 | C | Правильный ответ C. |
+| 1 | A | Правильный ответ B. |
+| 2 | C | Правильный ответ D. |
+| 3 | C | Правильный ответ C. |
+| 4 | A | Правильный ответ C. |
+| 5 | C | Правильный ответ C. |
+| 6 | A | Правильный ответ B. |
+| 7 | D | Правильный ответ C. |
+| 8 | B | Правильный ответ C. |
+| 9 | D | Правильный ответ C. |
+| 10 | C | Правильный ответ B. |
+| 11 | D | Правильный ответ C. |
+| 12 | B | Правильный ответ B. |
+| 13 | C | Правильный ответ C. |
+| 14 | B | Правильный ответ B. |
+| 15 | C | Правильный ответ D. |
+| 16 | C | Правильный ответ C. |
+| 17 | D | Правильный ответ A. |
+| 18 | D | Правильный ответ C. |
 | 19 | C | Правильный ответ C. |
-| 20 | B | Правильный ответ C. |
+| 20 | D | Правильный ответ C. |
 
 ---
 

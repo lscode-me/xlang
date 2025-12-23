@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Выбор частицы
 
 Какая вопросительная частица используется для слова "ev" (дом)?
 
-A) mı
+A) mu
 
-B) mu
+B) mi
 
 C) mü
 
-D) mi
+D) mı
 
 ---
 
@@ -22,13 +24,13 @@ D) mi
 
 Какая вопросительная частица используется для слова "doktor" (врач)?
 
-A) mi
+A) mu
 
-B) mı
+B) mü
 
-C) mu
+C) mı
 
-D) mü
+D) mi
 
 ---
 
@@ -40,9 +42,9 @@ A) Sen öğrenci misin?
 
 B) Sen öğrenci mı?
 
-C) Sen öğrenci mi?
+C) Sen öğrenci musun?
 
-D) Sen öğrenci musun?
+D) Sen öğrenci mi?
 
 ---
 
@@ -66,9 +68,9 @@ D) Sen çalışıyor musun?
 
 A) O doktor musun?
 
-B) O doktor mu?
+B) O doktor muyum?
 
-C) O doktor muyum?
+C) O doktor mu?
 
 D) O doktor muyuz?
 
@@ -92,13 +94,13 @@ D) Yapıyorsun sen ne?
 
 Как правильно спросить "Кто работает?"?
 
-A) Kim çalışıyor?
+A) Kim çalışmak?
 
 B) Çalışıyor kim?
 
 C) Kim çalışıyorum?
 
-D) Kim çalışmak?
+D) Kim çalışıyor?
 
 ---
 
@@ -108,9 +110,9 @@ D) Kim çalışmak?
 
 A) Sen çalışmıyor mü?
 
-B) Sen çalışmıyor mı?
+B) Sen çalışmıyor misin?
 
-C) Sen çalışmıyor misin?
+C) Sen çalışmıyor mı?
 
 D) Sen çalışmıyor musun?
 
@@ -120,13 +122,13 @@ D) Sen çalışmıyor musun?
 
 Как правильно спросить "Я студент?"?
 
-A) Ben öğrenci mi?
+A) Ben öğrenci miyiz?
 
-B) Ben öğrenci miyiz?
+B) Ben öğrenci mi?
 
-C) Ben öğrenci misin?
+C) Ben öğrenci miyim?
 
-D) Ben öğrenci miyim?
+D) Ben öğrenci misin?
 
 ---
 
@@ -134,9 +136,9 @@ D) Ben öğrenci miyim?
 
 Как правильно спросить "Мы студенты?"?
 
-A) Biz öğrenci miyim?
+A) Biz öğrenci miyiz?
 
-B) Biz öğrenci miyiz?
+B) Biz öğrenci miyim?
 
 C) Biz öğrenci mi?
 
@@ -148,13 +150,13 @@ D) Biz öğrenci misin?
 
 Как правильно спросить "Где ты работаешь?"?
 
-A) Nerede sen çalışıyorsun?
+A) Sen nerede çalışıyorsun?
 
-B) Sen nerede çalışıyorsun?
+B) Sen çalışıyorsun nerede?
 
-C) Sen çalışıyorsun nerede?
+C) Çalışıyorsun nerede sen?
 
-D) Çalışıyorsun nerede sen?
+D) Nerede sen çalışıyorsun?
 
 ---
 
@@ -162,13 +164,13 @@ D) Çalışıyorsun nerede sen?
 
 Как правильно спросить "Когда ты приходишь?"?
 
-A) Ne zaman sen geliyorsun?
+A) Sen ne zaman geliyorsun?
 
-B) Sen ne zaman geliyorsun?
+B) Geliyorsun ne zaman sen?
 
-C) Sen geliyorsun ne zaman?
+C) Ne zaman sen geliyorsun?
 
-D) Geliyorsun ne zaman sen?
+D) Sen geliyorsun ne zaman?
 
 ---
 
@@ -178,9 +180,9 @@ D) Geliyorsun ne zaman sen?
 
 A) Nasılsın?
 
-B) Nasıl misin?
+B) Nasıl sen?
 
-C) Nasıl sen?
+C) Nasıl misin?
 
 D) Sen nasıl misin?
 
@@ -190,13 +192,13 @@ D) Sen nasıl misin?
 
 Как правильно спросить "Сколько тебе лет?"?
 
-A) Kaç yaşında mısın?
+A) Kaç yaşındasın?
 
-B) Kaç yaşındasın?
+B) Все варианты правильные
 
 C) Sen kaç yaşındasın?
 
-D) Все варианты правильные
+D) Kaç yaşında mısın?
 
 ---
 
@@ -209,11 +211,11 @@ _____ içiyorsun?
 Что ты пьёшь?
 ```
 
-A) Ne sen
+A) Ne
 
 B) Sen ne
 
-C) Ne
+C) Ne sen
 
 D) İçiyorsun ne
 
@@ -223,13 +225,13 @@ D) İçiyorsun ne
 
 Как правильно спросить "Ты чай или кофе?"?
 
-A) Sen çay mı kahve mi?
+A) Sen çay mi kahve mi?
 
-B) Sen çay mi kahve mi?
+B) Sen çay ya da kahve mi?
 
-C) Sen çay veya kahve?
+C) Sen çay mı kahve mi?
 
-D) Sen çay ya da kahve mi?
+D) Sen çay veya kahve?
 
 ---
 
@@ -237,13 +239,13 @@ D) Sen çay ya da kahve mi?
 
 Как правильно спросить "Ты пришёл?"?
 
-A) Sen geldin mi?
+A) Sen geldin mı?
 
-B) Sen geldin mı?
+B) Sen geldin mi?
 
-C) Sen geldin misin?
+C) Sen geliyorsun mu?
 
-D) Sen geliyorsun mu?
+D) Sen geldin misin?
 
 ---
 
@@ -251,13 +253,13 @@ D) Sen geliyorsun mu?
 
 Как правильно спросить "Ты придёшь?"?
 
-A) Sen gelecek mi?
+A) Sen gelecek musun?
 
 B) Sen gelecek misin?
 
 C) Sen geleceksin mi?
 
-D) Sen gelecek musun?
+D) Sen gelecek mi?
 
 ---
 
@@ -270,13 +272,13 @@ Ali öğretmen ___?
 Али учитель?
 ```
 
-A) mi
+A) mı
 
-B) mı
+B) mi
 
-C) mu
+C) mü
 
-D) mü
+D) mu
 
 ---
 
@@ -284,13 +286,13 @@ D) mü
 
 Как правильно спросить "Вы (мн.ч.) учителя?"?
 
-A) Siz öğretmen misiniz?
+A) Siz öğretmenler misiniz?
 
-B) Siz öğretmenler mi?
+B) Siz öğretmen mi?
 
-C) Siz öğretmenler misiniz?
+C) Siz öğretmenler mi?
 
-D) Siz öğretmen mi?
+D) Siz öğretmen misiniz?
 
 ---
 
@@ -300,26 +302,26 @@ D) Siz öğretmen mi?
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | В слове "ev" последняя гласная "e" мягкая, поэтому используется "mi". |
-| 2 | C | В слове "doktor" последняя гласная "o" твердая, поэтому используется "mu". |
+| 1 | B | В слове "ev" последняя гласная "e" мягкая, поэтому используется "mi". |
+| 2 | A | В слове "doktor" последняя гласная "o" твердая, поэтому используется "mu". |
 | 3 | A | Для второго лица единственного числа используется "misin": Sen öğrenci misin? |
 | 4 | D | В форме "çalışıyor" последняя гласная "o", поэтому используется "mu": Sen çalışıyor musun? |
-| 5 | B | Для третьего лица единственного числа личное окончание не используется: O doktor mu? |
+| 5 | C | Для третьего лица единственного числа личное окончание не используется: O doktor mu? |
 | 6 | C | Правильный порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapıyorsun? |
-| 7 | A | Когда вопрос к подлежащему, вопросительное слово в начале: Kim çalışıyor? |
+| 7 | D | Когда вопрос к подлежащему, вопросительное слово в начале: Kim çalışıyor? |
 | 8 | D | В отрицательной форме "çalışmıyor" последняя гласная "o", поэтому "mu": Sen çalışmıyor musun? |
-| 9 | D | Для первого лица единственного числа используется "miyim": Ben öğrenci miyim? |
-| 10 | B | Для первого лица множественного числа используется "miyiz": Biz öğrenci miyiz? |
-| 11 | B | Вопросительное слово стоит после подлежащего: Sen nerede çalışıyorsun? |
-| 12 | B | Вопросительное слово "ne zaman" стоит после подлежащего: Sen ne zaman geliyorsun? |
+| 9 | C | Для первого лица единственного числа используется "miyim": Ben öğrenci miyim? |
+| 10 | A | Для первого лица множественного числа используется "miyiz": Biz öğrenci miyiz? |
+| 11 | A | Вопросительное слово стоит после подлежащего: Sen nerede çalışıyorsun? |
+| 12 | A | Вопросительное слово "ne zaman" стоит после подлежащего: Sen ne zaman geliyorsun? |
 | 13 | A | "Nasılsın?" - устоявшееся выражение для "Как дела?", частица "mi" не нужна. |
-| 14 | D | Все варианты правильные - в разговорной речи подлежащее часто опускается. |
-| 15 | C | Вопросительное слово "ne" стоит в начале, подлежащее опущено: Ne içiyorsun? |
-| 16 | A | В альтернативном вопросе частица "mı" повторяется после каждого варианта: çay mı kahve mi? |
-| 17 | A | В вопросе к прошедшему времени используется "mi" после глагола: Sen geldin mi? |
+| 14 | B | Все варианты правильные - в разговорной речи подлежащее часто опускается. |
+| 15 | A | Вопросительное слово "ne" стоит в начале, подлежащее опущено: Ne içiyorsun? |
+| 16 | C | В альтернативном вопросе частица "mı" повторяется после каждого варианта: çay mı kahve mi? |
+| 17 | B | В вопросе к прошедшему времени используется "mi" после глагола: Sen geldin mi? |
 | 18 | C | В вопросе к будущему времени частица добавляется к форме с личным окончанием: Sen geleceksin mi? |
-| 19 | A | В слове "öğretmen" последняя гласная "e" мягкая, поэтому используется "mi". |
-| 20 | C | Для вопроса с множественным числом: существительное с -ler/-lar + вопросительная частица с личным окончанием. |
+| 19 | B | В слове "öğretmen" последняя гласная "e" мягкая, поэтому используется "mi". |
+| 20 | A | Для вопроса с множественным числом: существительное с -ler/-lar + вопросительная частица с личным окончанием. |
 
 ---
 

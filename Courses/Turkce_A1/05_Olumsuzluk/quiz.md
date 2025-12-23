@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Образование отрицания
 
 Как образуется отрицание в турецком языке?
 
-A) Частица -me/-ma вставляется между основой и суффиксом времени
+A) Используется слово "hayır" перед глаголом
 
-B) Используется слово "hayır" перед глаголом
+B) Частица -me/-ma добавляется в конце глагола
 
-C) Частица -me/-ma добавляется в конце глагола
+C) Частица -me/-ma вставляется между основой и суффиксом времени
 
 D) Добавляется слово "değil" после глагола
 
@@ -22,11 +24,11 @@ D) Добавляется слово "değil" после глагола
 
 Какая частица отрицания используется для глагола "çalışmak" (работать)?
 
-A) -mı
+A) -mi
 
 B) -ma
 
-C) -mi
+C) -mı
 
 D) -me
 
@@ -38,11 +40,11 @@ D) -me
 
 A) -mi
 
-B) -mı
+B) -me
 
 C) -ma
 
-D) -me
+D) -mı
 
 ---
 
@@ -52,11 +54,11 @@ D) -me
 
 A) -ıyor → -mıyor
 
-B) -ıyor → -muyor
+B) -ıyor → -miyor
 
 C) -ıyor → -mayor
 
-D) -ıyor → -miyor
+D) -ıyor → -muyor
 
 ---
 
@@ -64,13 +66,13 @@ D) -ıyor → -miyor
 
 Как изменяется -uyor в отрицании?
 
-A) -uyor → -mıyor
+A) -uyor → -miyor
 
 B) -uyor → -mayor
 
 C) -uyor → -muyor
 
-D) -uyor → -miyor
+D) -uyor → -mıyor
 
 ---
 
@@ -82,9 +84,9 @@ A) Ben çalışmuyorum
 
 B) Ben çalışmıyorum
 
-C) Ben çalışmiyorum
+C) Ben çalışmayorum
 
-D) Ben çalışmayorum
+D) Ben çalışmiyorum
 
 ---
 
@@ -92,9 +94,9 @@ D) Ben çalışmayorum
 
 Как правильно сказать "Ты не читаешь"?
 
-A) Sen okumıyorsun
+A) Sen okumuyorsun
 
-B) Sen okumuyorsun
+B) Sen okumıyorsun
 
 C) Sen okumiyorsun
 
@@ -106,13 +108,13 @@ D) Sen okumayorsun
 
 Как правильно сказать "Он/Она не ест"?
 
-A) O yemiyor
+A) O yemıyor
 
 B) O yemayor
 
-C) O yemıyor
+C) O yemuyor
 
-D) O yemuyor
+D) O yemiyor
 
 ---
 
@@ -124,9 +126,9 @@ A) Biz çalışmayoruz
 
 B) Biz çalışmuyoruz
 
-C) Biz çalışmıyoruz
+C) Biz çalışmiyoruz
 
-D) Biz çalışmiyoruz
+D) Biz çalışmıyoruz
 
 ---
 
@@ -134,13 +136,13 @@ D) Biz çalışmiyoruz
 
 Как правильно спросить "Ты не работаешь?"?
 
-A) Sen çalışmıyor mısın?
+A) Sen çalışmıyor misin?
 
-B) Sen çalışmıyor müsün?
+B) Sen çalışmıyor musun?
 
-C) Sen çalışmıyor musun?
+C) Sen çalışmıyor müsün?
 
-D) Sen çalışmıyor misin?
+D) Sen çalışmıyor mısın?
 
 ---
 
@@ -150,11 +152,11 @@ D) Sen çalışmıyor misin?
 
 Слова: 1) Ben  2) çalışmıyorum  3) bugün
 
-A) 1-2-3 (Ben çalışmıyorum bugün)
+A) 2-1-3 (çalışmıyorum Ben bugün)
 
 B) 3-1-2 (bugün Ben çalışmıyorum)
 
-C) 2-1-3 (çalışmıyorum Ben bugün)
+C) 1-2-3 (Ben çalışmıyorum bugün)
 
 D) 1-3-2 (Ben bugün çalışmıyorum)
 
@@ -164,9 +166,9 @@ D) 1-3-2 (Ben bugün çalışmıyorum)
 
 Как правильно спросить "Что ты не делаешь?"?
 
-A) Ne sen yapmıyorsun?
+A) Yapmıyorsun sen ne?
 
-B) Yapmıyorsun sen ne?
+B) Ne sen yapmıyorsun?
 
 C) Sen ne yapmayorsun?
 
@@ -180,9 +182,9 @@ D) Sen ne yapmıyorsun?
 
 A) yemayor
 
-B) yemıyor
+B) yemiyor
 
-C) yemiyor
+C) yemıyor
 
 D) yemuyor
 
@@ -192,13 +194,13 @@ D) yemuyor
 
 Как правильно образовать отрицательную форму от глагола "gitmek" (идти)?
 
-A) gidmiyor
+A) gitmayor
 
-B) gitmiyor
+B) gidmayor
 
-C) gitmayor
+C) gidmiyor
 
-D) gidmayor
+D) gitmiyor
 
 ---
 
@@ -206,13 +208,13 @@ D) gidmayor
 
 Как правильно сказать "Вы не читаете" (вежливая форма)?
 
-A) Siz okumayorsunuz
+A) Siz okumiyorsunuz
 
 B) Siz okumıyorsunuz
 
 C) Siz okumuyorsunuz
 
-D) Siz okumiyorsunuz
+D) Siz okumayorsunuz
 
 ---
 
@@ -220,11 +222,11 @@ D) Siz okumiyorsunuz
 
 Как правильно сказать "Они не работают"?
 
-A) Onlar çalışmayorlar
+A) Onlar çalışmayor
 
-B) Onlar çalışmıyor
+B) Onlar çalışmayorlar
 
-C) Onlar çalışmayor
+C) Onlar çalışmıyor
 
 D) Onlar çalışmıyorlar
 
@@ -234,9 +236,9 @@ D) Onlar çalışmıyorlar
 
 Как правильно образовать отрицательную форму от глагола "okumak" (читать)?
 
-A) okumayor
+A) okumuyor
 
-B) okumuyor
+B) okumayor
 
 C) okumiyor
 
@@ -248,11 +250,11 @@ D) okumıyor
 
 Выберите правильную форму предложения "Я не пью кофе":
 
-A) İçmiyorum ben kahve
+A) Ben içmiyorum kahve
 
-B) Ben içmiyorum kahve
+B) Ben kahve içmiyorum
 
-C) Ben kahve içmiyorum
+C) İçmiyorum ben kahve
 
 D) Kahve ben içmiyorum
 
@@ -266,9 +268,9 @@ A) -iyor → -mayor
 
 B) -iyor → -mıyor
 
-C) -iyor → -miyor
+C) -iyor → -muyor
 
-D) -iyor → -muyor
+D) -iyor → -miyor
 
 ---
 
@@ -276,13 +278,13 @@ D) -iyor → -muyor
 
 Выберите правильный ответ на вопрос "Sen çalışmıyor musun?":
 
-A) Evet, ben çalışıyorum
+A) Evet, ben çalışmıyorum
 
-B) Evet, ben çalışmıyorum
+B) Evet, ben çalışıyorum
 
-C) Hayır, ben çalışmıyorum
+C) Hayır, ben çalışıyorum
 
-D) Hayır, ben çalışıyorum
+D) Hayır, ben çalışmıyorum
 
 ---
 
@@ -290,13 +292,13 @@ D) Hayır, ben çalışıyorum
 
 Как правильно сказать "Я дома не читаю"?
 
-A) Ben evde okumuyorum
+A) Ben okumuyorum evde
 
-B) Okumuyorum ben evde
+B) Ben evde okumuyorum
 
-C) Evde ben okumuyorum
+C) Okumuyorum ben evde
 
-D) Ben okumuyorum evde
+D) Evde ben okumuyorum
 
 ---
 
@@ -306,11 +308,11 @@ D) Ben okumuyorum evde
 
 A) Первое - неправильная форма
 
-B) Второе - неправильная форма
+B) Первое - утвердительная форма, второе - отрицательная
 
 C) Нет разницы
 
-D) Первое - утвердительная форма, второе - отрицательная
+D) Второе - неправильная форма
 
 ---
 
@@ -318,13 +320,13 @@ D) Первое - утвердительная форма, второе - отр
 
 Как правильно образовать отрицательную форму от глагола "demek" (говорить)?
 
-A) demuyor
+A) demıyor
 
-B) demiyor
+B) demuyor
 
-C) demayor
+C) demiyor
 
-D) demıyor
+D) demayor
 
 ---
 
@@ -332,13 +334,13 @@ D) demıyor
 
 Как изменяется -üyor в отрицании?
 
-A) -üyor → -mıyor
+A) -üyor → -miyor
 
-B) -üyor → -müyor
+B) -üyor → -mıyor
 
 C) -üyor → -mayor
 
-D) -üyor → -miyor
+D) -üyor → -müyor
 
 ---
 
@@ -346,13 +348,13 @@ D) -üyor → -miyor
 
 Какое утверждение об отрицании в турецком языке является правильным?
 
-A) Отрицание всегда образуется одинаково для всех глаголов
+A) Выбор -me/-ma зависит от гармонии гласных основы глагола
 
-B) Выбор -me/-ma зависит от гармонии гласных основы глагола
+B) В отрицании не используются личные окончания
 
-C) Отрицание не влияет на форму -yor
+C) Отрицание всегда образуется одинаково для всех глаголов
 
-D) В отрицании не используются личные окончания
+D) Отрицание не влияет на форму -yor
 
 ---
 
@@ -362,31 +364,31 @@ D) В отрицании не используются личные оконча
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Отрицание образуется вставкой частицы -me/-ma между основой глагола и суффиксом времени. |
+| 1 | C | Отрицание образуется вставкой частицы -me/-ma между основой глагола и суффиксом времени. |
 | 2 | B | В глаголе "çalışmak" последняя гласная "ı" твердая, поэтому используется -ma. |
-| 3 | D | В глаголе "yemek" последняя гласная "e" мягкая, поэтому используется -me. |
+| 3 | B | В глаголе "yemek" последняя гласная "e" мягкая, поэтому используется -me. |
 | 4 | A | В отрицании -ıyor изменяется на -mıyor (y заменяется на m, добавляется ı). |
 | 5 | C | В отрицании -uyor изменяется на -muyor (y заменяется на m, добавляется u). |
 | 6 | B | Правильная форма: Ben çalışmıyorum (я не работаю). |
-| 7 | B | Правильная форма: Sen okumuyorsun (ты не читаешь). |
-| 8 | A | Правильная форма: O yemiyor (он/она не ест). |
-| 9 | C | Правильная форма: Biz çalışmıyoruz (мы не работаем). |
-| 10 | C | Вопросительная частица выбирается по последней гласной: çalışmıyor → musun. |
+| 7 | A | Правильная форма: Sen okumuyorsun (ты не читаешь). |
+| 8 | D | Правильная форма: O yemiyor (он/она не ест). |
+| 9 | D | Правильная форма: Biz çalışmıyoruz (мы не работаем). |
+| 10 | B | Вопросительная частица выбирается по последней гласной: çalışmıyor → musun. |
 | 11 | D | Обстоятельство времени стоит после подлежащего: Ben bugün çalışmıyorum. |
 | 12 | D | Правильный порядок: подлежащее + вопросительное слово + сказуемое: Sen ne yapmıyorsun? |
-| 13 | C | В глаголе "yemek" последняя гласная "e" мягкая, поэтому используется -me → yemiyor. |
-| 14 | B | В отрицательной форме "gitmek" → "gitmiyor" (изменение t → d может не происходить). |
+| 13 | B | В глаголе "yemek" последняя гласная "e" мягкая, поэтому используется -me → yemiyor. |
+| 14 | D | В отрицательной форме "gitmek" → "gitmiyor" (изменение t → d может не происходить). |
 | 15 | C | Правильная форма: Siz okumuyorsunuz (вы не читаете). |
 | 16 | D | Правильная форма: Onlar çalışmıyorlar (они не работают). |
-| 17 | B | В глаголе "okumak" последняя гласная "u" твердая, поэтому используется -ma → okumuyor. |
-| 18 | C | Правильный порядок слов: подлежащее + дополнение + сказуемое: Ben kahve içmiyorum. |
-| 19 | C | В отрицании -iyor изменяется на -miyor (y заменяется на m, добавляется i). |
-| 20 | C | Правильный ответ: Hayır, ben çalışmıyorum (Нет, я не работаю). |
-| 21 | A | Обстоятельство места стоит после подлежащего: Ben evde okumuyorum. |
-| 22 | D | "çalışıyorum" - утвердительная форма (я работаю), "çalışmıyorum" - отрицательная (я не работаю). |
-| 23 | B | В глаголе "demek" последняя гласная "e" мягкая, поэтому используется -me → demiyor. |
-| 24 | B | В отрицании -üyor изменяется на -müyor (y заменяется на m, добавляется ü). |
-| 25 | B | Выбор -me/-ma зависит от гармонии гласных последней гласной основы глагола. |
+| 17 | A | В глаголе "okumak" последняя гласная "u" твердая, поэтому используется -ma → okumuyor. |
+| 18 | B | Правильный порядок слов: подлежащее + дополнение + сказуемое: Ben kahve içmiyorum. |
+| 19 | D | В отрицании -iyor изменяется на -miyor (y заменяется на m, добавляется i). |
+| 20 | D | Правильный ответ: Hayır, ben çalışmıyorum (Нет, я не работаю). |
+| 21 | B | Обстоятельство места стоит после подлежащего: Ben evde okumuyorum. |
+| 22 | B | "çalışıyorum" - утвердительная форма (я работаю), "çalışmıyorum" - отрицательная (я не работаю). |
+| 23 | C | В глаголе "demek" последняя гласная "e" мягкая, поэтому используется -me → demiyor. |
+| 24 | D | В отрицании -üyor изменяется на -müyor (y заменяется на m, добавляется ü). |
+| 25 | A | Выбор -me/-ma зависит от гармонии гласных последней гласной основы глагола. |
 
 ---
 

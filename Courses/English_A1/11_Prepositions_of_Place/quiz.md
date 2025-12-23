@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Выбор предлога IN
 
 Какой предлог правильно использовать в предложении: "The books are _____ the bag"?
 
-A) in
+A) on
 
 B) under
 
-C) on
+C) in
 
 D) at
 
@@ -27,13 +29,13 @@ D) at
 wall - стена
 ```
 
-A) under
+A) on
 
-B) at
+B) in
 
-C) in
+C) under
 
-D) on
+D) at
 
 ---
 
@@ -46,11 +48,11 @@ D) on
 I am _____ school.
 ```
 
-A) into
+A) at
 
-B) at
+B) on
 
-C) on
+C) into
 
 D) in
 
@@ -60,13 +62,13 @@ D) in
 
 Переведите: "Кот под столом"
 
-A) The cat is at the table
+A) The cat is on the table
 
 B) The cat is under the table
 
-C) The cat is on the table
+C) The cat is in the table
 
-D) The cat is in the table
+D) The cat is at the table
 
 ---
 
@@ -74,13 +76,13 @@ D) The cat is in the table
 
 Что означает предлог "behind"?
 
-A) между
+A) за, позади
 
-B) рядом
+B) перед
 
-C) за, позади
+C) между
 
-D) перед
+D) рядом
 
 ---
 
@@ -88,13 +90,13 @@ D) перед
 
 Выберите правильный перевод: "There is a car in front of the house."
 
-A) За домом машина
+A) В доме машина
 
 B) Рядом с домом машина
 
-C) Перед домом машина
+C) За домом машина
 
-D) В доме машина
+D) Перед домом машина
 
 ---
 
@@ -102,13 +104,13 @@ D) В доме машина
 
 Какой предлог означает "рядом с"?
 
-A) far from
+A) next to
 
-B) next to
+B) opposite
 
 C) above
 
-D) opposite
+D) far from
 
 ---
 
@@ -116,11 +118,11 @@ D) opposite
 
 Выберите правильное предложение со словом "between":
 
-A) The shop is between the bank
+A) The shop is between many buildings
 
-B) The shop is between the bank and the cafe
+B) The shop is between the bank
 
-C) The shop is between many buildings
+C) The shop is between the bank and the cafe
 
 D) The shop is between near the bank
 
@@ -130,13 +132,13 @@ D) The shop is between near the bank
 
 Выберите правильный вопрос:
 
-A) Is where the book?
+A) Where is the book?
 
-B) Where the book is?
+B) Is where the book?
 
-C) Where is book?
+C) Where the book is?
 
-D) Where is the book?
+D) Where is book?
 
 ---
 
@@ -144,13 +146,13 @@ D) Where is the book?
 
 Как правильно сказать "Я дома"?
 
-A) I am at home
+A) I am in home
 
-B) I am on home
+B) I am in the home
 
-C) I am in home
+C) I am on home
 
-D) I am in the home
+D) I am at home
 
 ---
 
@@ -165,11 +167,11 @@ The shop is _____ Main Street.
 
 A) in
 
-B) at
+B) by
 
-C) on
+C) at
 
-D) by
+D) on
 
 ---
 
@@ -177,13 +179,13 @@ D) by
 
 Выберите правильное предложение:
 
-A) I live on Moscow
+A) I live in Moscow
 
-B) I live in Moscow
+B) I live under Moscow
 
 C) I live at Moscow
 
-D) I live under Moscow
+D) I live on Moscow
 
 ---
 
@@ -191,13 +193,13 @@ D) I live under Moscow
 
 Что означает "above"?
 
-A) рядом
+A) под
 
-B) над
+B) рядом
 
-C) между
+C) над
 
-D) под
+D) между
 
 ---
 
@@ -205,13 +207,13 @@ D) под
 
 Выберите правильный перевод: "Книга на столе в комнате"
 
-A) The book is on the table in the room
+A) The book on table in room
 
-B) The book is at the table in the room
+B) The book is in the table on the room
 
-C) The book on table in room
+C) The book is at the table in the room
 
-D) The book is in the table on the room
+D) The book is on the table in the room
 
 ---
 
@@ -219,13 +221,13 @@ D) The book is in the table on the room
 
 Переведите: "The bank is opposite the supermarket."
 
-A) Банк рядом с супермаркетом
+A) Банк за супермаркетом
 
 B) Банк в супермаркете
 
-C) Банк напротив супермаркета
+C) Банк рядом с супермаркетом
 
-D) Банк за супермаркетом
+D) Банк напротив супермаркета
 
 ---
 
@@ -233,13 +235,13 @@ D) Банк за супермаркетом
 
 Что означает предлог "near"?
 
-A) внутри
+A) далеко от
 
 B) позади
 
 C) близко к, около
 
-D) далеко от
+D) внутри
 
 ---
 
@@ -266,13 +268,13 @@ D) Дом у реки
 The house is _____ the trees.
 ```
 
-A) at
+A) in
 
-B) among
+B) at
 
-C) between
+C) among
 
-D) in
+D) between
 
 ---
 
@@ -280,13 +282,13 @@ D) in
 
 Как правильно сказать "в углу"?
 
-A) on the corner
+A) at the corner
 
-B) in the corner
+B) on the corner
 
 C) by the corner
 
-D) at the corner
+D) in the corner
 
 ---
 
@@ -294,13 +296,13 @@ D) at the corner
 
 Переведите: "The cat is under the table next to the chair."
 
-A) Кот под столом рядом со стулом
+A) Кот в столе рядом со стулом
 
-B) Кот в столе рядом со стулом
+B) Кот на столе рядом со стулом
 
-C) Кот за столом около стула
+C) Кот под столом рядом со стулом
 
-D) Кот на столе рядом со стулом
+D) Кот за столом около стула
 
 ---
 
@@ -310,26 +312,26 @@ D) Кот на столе рядом со стулом
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ C. |
-| 2 | D | Правильный ответ B. |
-| 3 | B | Правильный ответ C. |
+| 1 | C | Правильный ответ C. |
+| 2 | A | Правильный ответ B. |
+| 3 | A | Правильный ответ C. |
 | 4 | B | Правильный ответ B. |
-| 5 | C | Правильный ответ B. |
-| 6 | C | Правильный ответ C. |
-| 7 | B | Правильный ответ B. |
-| 8 | B | Правильный ответ C. |
-| 9 | D | Правильный ответ B. |
-| 10 | A | Правильный ответ C. |
-| 11 | C | Правильный ответ C. |
-| 12 | B | Правильный ответ B. |
-| 13 | B | Правильный ответ B. |
-| 14 | A | Правильный ответ A. |
-| 15 | C | Правильный ответ C. |
+| 5 | A | Правильный ответ B. |
+| 6 | D | Правильный ответ C. |
+| 7 | A | Правильный ответ B. |
+| 8 | C | Правильный ответ C. |
+| 9 | A | Правильный ответ B. |
+| 10 | D | Правильный ответ C. |
+| 11 | D | Правильный ответ C. |
+| 12 | A | Правильный ответ B. |
+| 13 | C | Правильный ответ B. |
+| 14 | D | Правильный ответ A. |
+| 15 | D | Правильный ответ C. |
 | 16 | C | Правильный ответ B. |
 | 17 | D | Правильный ответ C. |
-| 18 | B | Правильный ответ B. |
-| 19 | B | Правильный ответ C. |
-| 20 | A | Правильный ответ A. |
+| 18 | C | Правильный ответ B. |
+| 19 | D | Правильный ответ C. |
+| 20 | C | Правильный ответ A. |
 
 ---
 

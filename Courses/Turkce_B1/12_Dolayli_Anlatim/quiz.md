@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Он сказал, что придет"?
 
-A) Geleceğini söyledi
+A) Geleceğine söyledi
 
 B) Gelecek söyledi
 
-C) Geleceğine söyledi
+C) Geleceğinden söyledi
 
-D) Geleceğinden söyledi
+D) Geleceğini söyledi
 
 ---
 
@@ -22,11 +23,11 @@ D) Geleceğinden söyledi
 
 Как правильно сказать "Я слышал, что он заболел"?
 
-A) Hasta olduğunu duydum
+A) Hasta olduğuna duydum
 
-B) Hasta olduğu duydum
+B) Hasta olduğunu duydum
 
-C) Hasta olduğuna duydum
+C) Hasta olduğu duydum
 
 D) Hasta olduğundan duydum
 
@@ -55,13 +56,13 @@ D) Geleceğinden
 
 Что такое косвенная речь?
 
-A) Передача информации с прямой цитатой
+A) Передача информации без прямой цитаты через именные формы
 
-B) Передача информации без прямой цитаты через именные формы
+B) Передача информации с союзами "что" или "чтобы"
 
-C) Передача информации с кавычками
+C) Передача информации с прямой цитатой
 
-D) Передача информации с союзами "что" или "чтобы"
+D) Передача информации с кавычками
 
 ---
 
@@ -71,11 +72,11 @@ D) Передача информации с союзами "что" или "чт
 
 A) -mak
 
-B) -ma
+B) -ecek/-acağı
 
 C) -dik/-diği
 
-D) -ecek/-acağı
+D) -ma
 
 ---
 
@@ -83,13 +84,13 @@ D) -ecek/-acağı
 
 Какая форма используется для передачи будущего действия в косвенной речи?
 
-A) -mak
+A) -dik/-diği
 
-B) -ma
+B) -ecek/-acağı
 
-C) -dik/-diği
+C) -mak
 
-D) -ecek/-acağı
+D) -ma
 
 ---
 
@@ -97,13 +98,13 @@ D) -ecek/-acağı
 
 Как правильно сказать "Я понял, что он написал"?
 
-A) Ne yazdığını anladım
+A) Ne yazdığına anladım
 
-B) Ne yazdığı anladım
+B) Ne yazdığını anladım
 
-C) Ne yazdığına anladım
+C) Ne yazdığından anladım
 
-D) Ne yazdığından anladım
+D) Ne yazdığı anladım
 
 ---
 
@@ -111,13 +112,13 @@ D) Ne yazdığından anladım
 
 Как правильно сказать "Они сказали, что Айше пришла"?
 
-A) Ayşe'nin geldiğini söylediler
+A) Ayşe'nin geldiğinden söylediler
 
 B) Ayşe'nin geldiği söylediler
 
-C) Ayşe'nin geldiğine söylediler
+C) Ayşe'nin geldiğini söylediler
 
-D) Ayşe'nin geldiğinden söylediler
+D) Ayşe'nin geldiğine söylediler
 
 ---
 
@@ -134,9 +135,9 @@ A) olduğunu
 
 B) olduğu
 
-C) olduğuna
+C) olduğundan
 
-D) olduğundan
+D) olduğuna
 
 ---
 
@@ -144,13 +145,13 @@ D) olduğundan
 
 Какие глаголы используются для передачи информации в косвенной речи?
 
-A) gelmek, gitmek, olmak
+A) söylemek, demek, duymak, görmek, bilmek, anlamak
 
-B) söylemek, demek, duymak, görmek, bilmek, anlamak
+B) başlamak, devam etmek, karar vermek
 
 C) sevmek, hoşlanmak, tercih etmek
 
-D) başlamak, devam etmek, karar vermek
+D) gelmek, gitmek, olmak
 
 ---
 
@@ -158,9 +159,9 @@ D) başlamak, devam etmek, karar vermek
 
 Как правильно сказать "Я узнал, что он опоздает"?
 
-A) Geç kalmak öğrendim
+A) Geç kalma öğrendim
 
-B) Geç kalma öğrendim
+B) Geç kalmak öğrendim
 
 C) Geç kalacağını öğrendim
 
@@ -172,13 +173,13 @@ D) Geç kalması öğrendim
 
 Как правильно сказать "Я знаю, что он написал"?
 
-A) Ne yazdığını biliyorum
+A) Ne yazdığı biliyorum
 
-B) Ne yazdığı biliyorum
+B) Ne yazdığını biliyorum
 
-C) Ne yazdığına biliyorum
+C) Ne yazdığından biliyorum
 
-D) Ne yazdığından biliyorum
+D) Ne yazdığına biliyorum
 
 ---
 
@@ -191,13 +192,13 @@ Ne _____ anladım.
 Я понял, что он сказал.
 ```
 
-A) söylediğini
+A) söylediğinden
 
 B) söylediği
 
-C) söylediğine
+C) söylediğini
 
-D) söylediğinden
+D) söylediğine
 
 ---
 
@@ -207,11 +208,11 @@ D) söylediğinden
 
 A) Прямая речь использует кавычки, косвенная - именные формы
 
-B) Прямая речь использует именные формы, косвенная - кавычки
+B) Прямая речь для прошедшего, косвенная для будущего
 
 C) Нет отличия
 
-D) Прямая речь для прошедшего, косвенная для будущего
+D) Прямая речь использует именные формы, косвенная - кавычки
 
 ---
 
@@ -219,9 +220,9 @@ D) Прямая речь для прошедшего, косвенная для 
 
 Как правильно сказать "Он сказал, что ушел"?
 
-A) Gittiğini söyledi
+A) Gittiği söyledi
 
-B) Gittiği söyledi
+B) Gittiğini söyledi
 
 C) Gittiğine söyledi
 
@@ -233,11 +234,11 @@ D) Gittiğinden söyledi
 
 Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yazdığını gördüm
+A) Ne yazdığına gördüm
 
-B) Ne yazdığı gördüm
+B) Ne yazdığını gördüm
 
-C) Ne yazdığına gördüm
+C) Ne yazdığı gördüm
 
 D) Ne yazdığından gördüm
 
@@ -252,13 +253,13 @@ Geç _____ öğrendim.
 Я узнал, что он опоздает.
 ```
 
-A) kalmak
+A) kalma
 
-B) kalma
+B) kalması
 
 C) kalacağını
 
-D) kalması
+D) kalmak
 
 ---
 
@@ -268,11 +269,11 @@ D) kalması
 
 A) Всегда используется прямая речь
 
-B) Косвенная речь более естественна в письменной речи
+B) Прямая речь более естественна
 
 C) Нет разницы
 
-D) Прямая речь более естественна
+D) Косвенная речь более естественна в письменной речи
 
 ---
 
@@ -294,13 +295,13 @@ D) Ne demek istediğinden anladım
 
 Как правильно сказать "Я не понял, что он сказал"?
 
-A) Ne söylediğini anlamadım
+A) Ne söylediğine anlamadım
 
-B) Ne söylediği anlamadım
+B) Ne söylediğinden anlamadım
 
-C) Ne söylediğine anlamadım
+C) Ne söylediğini anlamadım
 
-D) Ne söylediğinden anlamadım
+D) Ne söylediği anlamadım
 
 ---
 
@@ -315,11 +316,11 @@ Ne _____ biliyorum.
 
 A) yaptığını
 
-B) yaptığı
+B) yaptığından
 
 C) yaptığına
 
-D) yaptığından
+D) yaptığı
 
 ---
 
@@ -327,13 +328,13 @@ D) yaptığından
 
 Какая форма используется для передачи прошедшего действия в косвенной речи?
 
-A) -diğini
+A) -diğinden
 
 B) -diği
 
 C) -diğine
 
-D) -diğinden
+D) -diğini
 
 ---
 
@@ -341,13 +342,13 @@ D) -diğinden
 
 Какая форма используется для передачи будущего действия в косвенной речи?
 
-A) -eceğini
+A) -eceği
 
-B) -eceği
+B) -eceğinden
 
 C) -eceğine
 
-D) -eceğinden
+D) -eceğini
 
 ---
 
@@ -355,13 +356,13 @@ D) -eceğinden
 
 Как правильно сказать "Он сказал, что работает"?
 
-A) Çalıştığını söyledi
+A) Çalıştığı söyledi
 
-B) Çalıştığı söyledi
+B) Çalıştığından söyledi
 
-C) Çalıştığına söyledi
+C) Çalıştığını söyledi
 
-D) Çalıştığından söyledi
+D) Çalıştığına söyledi
 
 ---
 
@@ -369,13 +370,15 @@ D) Çalıştığından söyledi
 
 В турецком языке для косвенной речи нужно использовать:
 
-A) Прямые цитаты с кавычками
+A) Прямую речь
 
-B) Именные формы глагола
+B) Союзы "что" или "чтобы"
 
-C) Союзы "что" или "чтобы"
+C) Именные формы глагола
 
-D) Прямую речь
+D) Прямые цитаты с кавычками
+
+---
 
 ---
 
@@ -383,31 +386,31 @@ D) Прямую речь
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Geleceğini söyledi |
-| 2 | A | Hasta olduğunu duydum |
+| 1 | D | Geleceğini söyledi |
+| 2 | B | Hasta olduğunu duydum |
 | 3 | A | Geleceğini |
-| 4 | B | Передача информации без прямой цитаты через именные формы |
+| 4 | A | Передача информации без прямой цитаты через именные формы |
 | 5 | C | -dik/-diği |
-| 6 | D | -ecek/-acağı |
-| 7 | A | Ne yazdığını anladım |
-| 8 | A | Ayşe'nin geldiğini söylediler |
+| 6 | B | -ecek/-acağı |
+| 7 | B | Ne yazdığını anladım |
+| 8 | C | Ayşe'nin geldiğini söylediler |
 | 9 | A | olduğunu |
-| 10 | B | söylemek, demek, duymak, görmek, bilmek, anlamak |
+| 10 | A | söylemek, demek, duymak, görmek, bilmek, anlamak |
 | 11 | C | Geç kalacağını öğrendim |
-| 12 | A | Ne yazdığını biliyorum |
-| 13 | A | söylediğini |
+| 12 | B | Ne yazdığını biliyorum |
+| 13 | C | söylediğini |
 | 14 | A | Прямая речь использует кавычки, косвенная - именные формы |
-| 15 | A | Gittiğini söyledi |
-| 16 | A | Ne yazdığını gördüm |
+| 15 | B | Gittiğini söyledi |
+| 16 | B | Ne yazdığını gördüm |
 | 17 | C | kalacağını |
-| 18 | B | Косвенная речь более естественна в письменной речи |
+| 18 | D | Косвенная речь более естественна в письменной речи |
 | 19 | A | Ne demek istediğini anladım |
-| 20 | A | Ne söylediğini anlamadım |
+| 20 | C | Ne söylediğini anlamadım |
 | 21 | A | yaptığını |
-| 22 | A | -diğini |
-| 23 | A | -eceğini |
-| 24 | A | Çalıştığını söyledi |
-| 25 | B | Именные формы глагола |
+| 22 | D | -diğini |
+| 23 | D | -eceğini |
+| 24 | C | Çalıştığını söyledi |
+| 25 | C | Именные формы глагола |
 
 ---
 

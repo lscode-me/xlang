@@ -445,6 +445,7 @@ We have English lessons on Tuesdays and Thursdays.
 ### 6.1 Забывают добавить -S в 3-м лице
 
 ❌ **Неправильно:**
+
 ```
 
 He work every day.
@@ -453,6 +454,7 @@ My father play tennis.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 He works every day.
@@ -471,6 +473,7 @@ My father plays tennis.
 ### 6.2 Добавляют -S после does/doesn't
 
 ❌ **Неправильно:**
+
 ```
 
 He doesn't works.
@@ -479,6 +482,7 @@ It doesn't rains.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 He doesn't work.
@@ -497,6 +501,7 @@ It doesn't rain.
 ### 6.3 Используют do вместо does с he/she/it
 
 ❌ **Неправильно:**
+
 ```
 
 Do he work here?
@@ -505,6 +510,7 @@ Do it rain often?
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Does he work here?
@@ -523,6 +529,7 @@ Does it rain often?
 ### 6.4 Неправильный порядок слов в вопросах
 
 ❌ **Неправильно:**
+
 ```
 
 You like coffee?
@@ -531,6 +538,7 @@ What he does?
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Do you like coffee?
@@ -549,6 +557,7 @@ What does he do?
 ### 6.5 Пропуск вспомогательного глагола
 
 ❌ **Неправильно:**
+
 ```
 
 You not like coffee.
@@ -557,6 +566,7 @@ They not speak English.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 You don't like coffee.
@@ -575,6 +585,7 @@ They don't speak English.
 ### 6.6 Путают Present Simple и to be
 
 ❌ **Неправильно:**
+
 ```
 
 I am work every day. (смешивание to be и смыслового глагола)
@@ -582,6 +593,7 @@ He is works in a bank.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I work every day. (Present Simple)

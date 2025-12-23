@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Окончание -S
 
 Выберите правильную форму глагола:
@@ -14,9 +16,9 @@ He ___ every day.
 Он работает каждый день.
 ```
 
-A) works
+A) is work
 
-B) is work
+B) works
 
 C) work
 
@@ -33,13 +35,13 @@ D) working
 Я не люблю кофе.
 ```
 
-A) I not like coffee.
+A) I don't like coffee.
 
-B) I no like coffee.
+B) I not like coffee.
 
-C) I don't like coffee.
+C) I doesn't like coffee.
 
-D) I doesn't like coffee.
+D) I no like coffee.
 
 ---
 
@@ -54,9 +56,9 @@ D) I doesn't like coffee.
 
 A) Are you like coffee?
 
-B) Do you like coffee?
+B) Does you like coffee?
 
-C) Does you like coffee?
+C) Do you like coffee?
 
 D) You like coffee?
 
@@ -71,9 +73,9 @@ D) You like coffee?
 Она не работает по воскресеньям.
 ```
 
-A) She doesn't work on Sundays.
+A) She doesn't works on Sundays.
 
-B) She doesn't works on Sundays.
+B) She doesn't work on Sundays.
 
 C) She not work on Sundays.
 
@@ -90,11 +92,11 @@ D) She don't work on Sundays.
 Он работает здесь?
 ```
 
-A) Does he works here?
+A) Does he work here?
 
 B) Do he work here?
 
-C) Does he work here?
+C) Does he works here?
 
 D) Is he work here?
 
@@ -104,11 +106,11 @@ D) Is he work here?
 
 Какой глагол получает окончание -es?
 
-A) play
+A) read
 
-B) read
+B) work
 
-C) work
+C) play
 
 D) watch
 
@@ -124,11 +126,11 @@ She ___ English.
 Она изучает английский.
 ```
 
-A) studyes
+A) studys
 
 B) study
 
-C) studys
+C) studyes
 
 D) studies
 
@@ -145,11 +147,11 @@ Do you work? - Yes, ___.
 
 A) Yes, I work.
 
-B) Yes, I do.
+B) Yes, I am.
 
 C) Yes, do.
 
-D) Yes, I am.
+D) Yes, I do.
 
 ---
 
@@ -164,11 +166,11 @@ Does he like music? - No, ___.
 
 A) No, he isn't.
 
-B) No, doesn't.
+B) No, he don't.
 
 C) No, he doesn't.
 
-D) No, he don't.
+D) No, doesn't.
 
 ---
 
@@ -182,13 +184,13 @@ She ___ a car.
 У нее есть машина.
 ```
 
-A) have
+A) is have
 
 B) has
 
 C) haves
 
-D) is have
+D) have
 
 ---
 
@@ -205,9 +207,9 @@ A) Where do you work?
 
 B) Where you work?
 
-C) Where are you work?
+C) Where does you work?
 
-D) Where does you work?
+D) Where are you work?
 
 ---
 
@@ -220,9 +222,9 @@ D) Where does you work?
 Он всегда опаздывает.
 ```
 
-A) Always he is late.
+A) He is always late.
 
-B) He is always late.
+B) Always he is late.
 
 C) He always is late.
 
@@ -239,13 +241,13 @@ D) He is late always.
 Они не говорят по-английски.
 ```
 
-A) They aren't speak English.
+A) They doesn't speak English.
 
 B) They don't speak English.
 
-C) They doesn't speak English.
+C) They not speak English.
 
-D) They not speak English.
+D) They aren't speak English.
 
 ---
 
@@ -257,9 +259,9 @@ A) She work in a hospital.
 
 B) Do she play tennis?
 
-C) They live in Moscow.
+C) He don't like coffee.
 
-D) He don't like coffee.
+D) They live in Moscow.
 
 ---
 
@@ -267,13 +269,13 @@ D) He don't like coffee.
 
 Для чего НЕ используется Present Simple?
 
-A) Для общих истин
+A) Для действий, происходящих сейчас
 
-B) Для фактов
+B) Для регулярных действий
 
-C) Для регулярных действий
+C) Для фактов
 
-D) Для действий, происходящих сейчас
+D) Для общих истин
 
 ---
 
@@ -287,11 +289,11 @@ He ___ to school every day.
 Он ходит в школу каждый день.
 ```
 
-A) go
+A) going
 
 B) goes
 
-C) going
+C) go
 
 D) is go
 
@@ -306,9 +308,9 @@ D) is go
 Что она делает по вечерам?
 ```
 
-A) What does she does in the evenings?
+A) What she does in the evenings?
 
-B) What she does in the evenings?
+B) What does she does in the evenings?
 
 C) What do she do in the evenings?
 
@@ -328,9 +330,9 @@ She ___ her teeth every morning.
 
 A) brush
 
-B) brushing
+B) brushes
 
-C) brushes
+C) brushing
 
 D) brushs
 
@@ -345,13 +347,13 @@ D) brushs
 Мы не играем в теннис.
 ```
 
-A) We not play tennis.
+A) We doesn't play tennis.
 
-B) We aren't play tennis.
+B) We don't play tennis.
 
-C) We doesn't play tennis.
+C) We not play tennis.
 
-D) We don't play tennis.
+D) We aren't play tennis.
 
 ---
 
@@ -359,13 +361,13 @@ D) We don't play tennis.
 
 Выберите правильное предложение о факте:
 
-A) The sun rising in the east.
+A) The sun rises in the east.
 
 B) The sun is rise in the east.
 
 C) The sun rise in the east.
 
-D) The sun rises in the east.
+D) The sun rising in the east.
 
 ---
 
@@ -375,26 +377,26 @@ D) The sun rises in the east.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ B. |
-| 2 | C | Правильный ответ C. |
-| 3 | B | Правильный ответ B. |
-| 4 | A | Правильный ответ B. |
-| 5 | C | Правильный ответ B. |
+| 1 | B | Правильный ответ B. |
+| 2 | A | Правильный ответ C. |
+| 3 | C | Правильный ответ B. |
+| 4 | B | Правильный ответ B. |
+| 5 | A | Правильный ответ B. |
 | 6 | D | Правильный ответ C. |
 | 7 | D | Правильный ответ B. |
-| 8 | B | Правильный ответ C. |
+| 8 | D | Правильный ответ C. |
 | 9 | C | Правильный ответ B. |
 | 10 | B | Правильный ответ B. |
 | 11 | A | Правильный ответ B. |
-| 12 | B | Правильный ответ C. |
+| 12 | A | Правильный ответ C. |
 | 13 | B | Правильный ответ A. |
-| 14 | C | Правильный ответ D. |
-| 15 | D | Правильный ответ C. |
+| 14 | D | Правильный ответ D. |
+| 15 | A | Правильный ответ C. |
 | 16 | B | Правильный ответ B. |
 | 17 | D | Правильный ответ B. |
-| 18 | C | Правильный ответ C. |
-| 19 | D | Правильный ответ B. |
-| 20 | D | Правильный ответ B. |
+| 18 | B | Правильный ответ C. |
+| 19 | B | Правильный ответ B. |
+| 20 | A | Правильный ответ B. |
 
 ---
 

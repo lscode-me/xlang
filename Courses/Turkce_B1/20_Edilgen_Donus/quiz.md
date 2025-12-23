@@ -4,15 +4,16 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Дверь была открыта"?
 
 A) Kapı açtı
 
-B) Kapı açıldı
+B) Kapı açıyor
 
-C) Kapı açıyor
+C) Kapı açıldı
 
 D) Kapı açacak
 
@@ -24,11 +25,11 @@ D) Kapı açacak
 
 A) Kitap okudu
 
-B) Kitap okundu
+B) Kitap okuyor
 
-C) Kitap okuyor
+C) Kitap okuyacak
 
-D) Kitap okuyacak
+D) Kitap okundu
 
 ---
 
@@ -41,13 +42,13 @@ Kitap _____.
 Книга была прочитана.
 ```
 
-A) okudu
+A) okuyacak
 
 B) okundu
 
 C) okuyor
 
-D) okuyacak
+D) okudu
 
 ---
 
@@ -57,11 +58,11 @@ D) okuyacak
 
 A) Действие, которое выполняет подлежащее
 
-B) Действие, которое выполняется над подлежащим
+B) Действие в будущем
 
-C) Взаимное действие
+C) Действие, которое выполняется над подлежащим
 
-D) Действие в будущем
+D) Взаимное действие
 
 ---
 
@@ -69,9 +70,9 @@ D) Действие в будущем
 
 Какой суффикс используется для образования пассивного залога после гласных a, ı?
 
-A) -il
+A) -ıl/-il
 
-B) -ıl/-il
+B) -il
 
 C) -ul/-un
 
@@ -83,13 +84,13 @@ D) -ül/-ün
 
 Как правильно сказать "Еда была приготовлена"?
 
-A) Yemek pişirdi
+A) Yemek pişirecek
 
-B) Yemek pişirildi
+B) Yemek pişirdi
 
-C) Yemek pişiriyor
+C) Yemek pişirildi
 
-D) Yemek pişirecek
+D) Yemek pişiriyor
 
 ---
 
@@ -97,9 +98,9 @@ D) Yemek pişirecek
 
 Как правильно сказать "Дом был убран"?
 
-A) Ev temizledi
+A) Ev temizlendi
 
-B) Ev temizlendi
+B) Ev temizledi
 
 C) Ev temizliyor
 
@@ -118,11 +119,11 @@ Kitap _____.
 
 A) okudu
 
-B) okundu
+B) okuyacak
 
-C) okuyor
+C) okundu
 
-D) okuyacak
+D) okuyor
 
 ---
 
@@ -130,13 +131,13 @@ D) okuyacak
 
 Какой суффикс используется для образования пассивного залога после гласных e, i?
 
-A) -il/-in
+A) -ıl/-il
 
-B) -ıl/-il
+B) -ul/-un
 
-C) -ul/-un
+C) -ül/-ün
 
-D) -ül/-ün
+D) -il/-in
 
 ---
 
@@ -144,13 +145,13 @@ D) -ül/-ün
 
 Как правильно сказать "Мы поняли друг друга"?
 
-A) Birbirimizi anladık
+A) Birbirimizi anlıyorduk
 
 B) Birbirimizi anlıyoruz
 
 C) Birbirimizi anlayacağız
 
-D) Birbirimizi anlıyorduk
+D) Birbirimizi anladık
 
 ---
 
@@ -158,9 +159,9 @@ D) Birbirimizi anlıyorduk
 
 Как правильно сказать "Мы помогли друг другу"?
 
-A) Birbirimizi yardım ettik
+A) Birbirimize yardım ettik
 
-B) Birbirimize yardım ettik
+B) Birbirimizi yardım ettik
 
 C) Birbirimizden yardım ettik
 
@@ -177,13 +178,13 @@ Birbirimizi _____.
 Мы поняли друг друга.
 ```
 
-A) anladık
+A) anlıyoruz
 
-B) anlıyoruz
+B) anlayacağız
 
-C) anlayacağız
+C) anlıyorduk
 
-D) anlıyorduk
+D) anladık
 
 ---
 
@@ -191,13 +192,13 @@ D) anlıyorduk
 
 Что выражает возвратный залог?
 
-A) Действие, которое выполняется над подлежащим
+A) Действие в будущем времени
 
-B) Взаимное действие между несколькими субъектами
+B) Действие, которое выполняется над подлежащим
 
 C) Действие в прошедшем времени
 
-D) Действие в будущем времени
+D) Взаимное действие между несколькими субъектами
 
 ---
 
@@ -205,13 +206,13 @@ D) Действие в будущем времени
 
 Какое местоимение используется для выражения возвратного залога?
 
-A) birbirimiz
+A) birbirimize
 
-B) birbirimizi
+B) birbirimizden
 
-C) birbirimize
+C) birbirimizi
 
-D) birbirimizden
+D) birbirimiz
 
 ---
 
@@ -221,11 +222,11 @@ D) birbirimizden
 
 A) Birbirimizi seviyoruz
 
-B) Birbirimize seviyoruz
+B) Birbirimizle seviyoruz
 
 C) Birbirimizden seviyoruz
 
-D) Birbirimizle seviyoruz
+D) Birbirimize seviyoruz
 
 ---
 
@@ -233,13 +234,13 @@ D) Birbirimizle seviyoruz
 
 Как правильно сказать "Мы учимся друг у друга"?
 
-A) Birbirimizi öğreniyoruz
+A) Birbirimizle öğreniyoruz
 
 B) Birbirimize öğreniyoruz
 
 C) Birbirimizden öğreniyoruz
 
-D) Birbirimizle öğreniyoruz
+D) Birbirimizi öğreniyoruz
 
 ---
 
@@ -252,13 +253,13 @@ Birbirimize _____ ettik.
 Мы помогли друг другу.
 ```
 
-A) yardım
+A) sev
 
-B) anla
+B) yardım
 
 C) öğren
 
-D) sev
+D) anla
 
 ---
 
@@ -266,13 +267,13 @@ D) sev
 
 В чем отличие пассивного залога от возвратного залога?
 
-A) Пассивный для взаимного действия, возвратный для действия над объектом
+A) Нет отличия
 
 B) Пассивный для действия над объектом, возвратный для взаимного действия
 
-C) Нет отличия
+C) Пассивный для прошедшего, возвратный для будущего
 
-D) Пассивный для прошедшего, возвратный для будущего
+D) Пассивный для взаимного действия, возвратный для действия над объектом
 
 ---
 
@@ -280,13 +281,13 @@ D) Пассивный для прошедшего, возвратный для �
 
 Как правильно сказать "Письмо было написано"?
 
-A) Mektup yazdı
+A) Mektup yazacak
 
 B) Mektup yazıldı
 
-C) Mektup yazıyor
+C) Mektup yazdı
 
-D) Mektup yazacak
+D) Mektup yazıyor
 
 ---
 
@@ -299,9 +300,9 @@ Yemek _____.
 Еда была приготовлена.
 ```
 
-A) pişirdi
+A) pişirildi
 
-B) pişirildi
+B) pişirdi
 
 C) pişiriyor
 
@@ -313,13 +314,13 @@ D) pişirecek
 
 Какой падеж используется с birbirimiz для выражения взаимного действия в винительном падеже?
 
-A) birbirimiz
+A) birbirimize
 
-B) birbirimizi
+B) birbirimizden
 
-C) birbirimize
+C) birbirimizi
 
-D) birbirimizden
+D) birbirimiz
 
 ---
 
@@ -327,11 +328,11 @@ D) birbirimizden
 
 Какой падеж используется с birbirimiz для выражения взаимного действия в дательном падеже?
 
-A) birbirimiz
+A) birbirimizi
 
-B) birbirimizi
+B) birbirimize
 
-C) birbirimize
+C) birbirimiz
 
 D) birbirimizden
 
@@ -341,9 +342,9 @@ D) birbirimizden
 
 Как правильно сказать "Дверь открывается" (настоящее время)?
 
-A) Kapı açtı
+A) Kapı açıldı
 
-B) Kapı açıldı
+B) Kapı açtı
 
 C) Kapı açılıyor
 
@@ -355,13 +356,13 @@ D) Kapı açılacak
 
 Как правильно сказать "Дверь будет открыта" (будущее время)?
 
-A) Kapı açtı
+A) Kapı açılacak
 
 B) Kapı açıldı
 
 C) Kapı açılıyor
 
-D) Kapı açılacak
+D) Kapı açtı
 
 ---
 
@@ -369,13 +370,15 @@ D) Kapı açılacak
 
 Может ли пассивный залог использоваться во всех временах?
 
-A) Нет, только в прошедшем времени
+A) Только в настоящем и прошедшем
 
-B) Да, во всех временах
+B) Нет, только в прошедшем времени
 
-C) Только в настоящем и прошедшем
+C) Только в будущем времени
 
-D) Только в будущем времени
+D) Да, во всех временах
+
+---
 
 ---
 
@@ -383,31 +386,31 @@ D) Только в будущем времени
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Kapı açıldı |
-| 2 | B | Kitap okundu |
+| 1 | C | Kapı açıldı |
+| 2 | D | Kitap okundu |
 | 3 | B | okundu |
-| 4 | B | Действие, которое выполняется над подлежащим |
-| 5 | B | -ıl/-il |
-| 6 | B | Yemek pişirildi |
-| 7 | B | Ev temizlendi |
-| 8 | B | okundu |
-| 9 | A | -il/-in |
-| 10 | A | Birbirimizi anladık |
-| 11 | B | Birbirimize yardım ettik |
-| 12 | A | anladık |
-| 13 | B | Взаимное действие между несколькими субъектами |
-| 14 | A | birbirimiz |
+| 4 | C | Действие, которое выполняется над подлежащим |
+| 5 | A | -ıl/-il |
+| 6 | C | Yemek pişirildi |
+| 7 | A | Ev temizlendi |
+| 8 | C | okundu |
+| 9 | D | -il/-in |
+| 10 | D | Birbirimizi anladık |
+| 11 | A | Birbirimize yardım ettik |
+| 12 | D | anladık |
+| 13 | D | Взаимное действие между несколькими субъектами |
+| 14 | D | birbirimiz |
 | 15 | A | Birbirimizi seviyoruz |
 | 16 | C | Birbirimizden öğreniyoruz |
-| 17 | A | yardım |
+| 17 | B | yardım |
 | 18 | B | Пассивный для действия над объектом, возвратный для взаимного действия |
 | 19 | B | Mektup yazıldı |
-| 20 | B | pişirildi |
-| 21 | B | birbirimizi |
-| 22 | C | birbirimize |
+| 20 | A | pişirildi |
+| 21 | C | birbirimizi |
+| 22 | B | birbirimize |
 | 23 | C | Kapı açılıyor |
-| 24 | D | Kapı açılacak |
-| 25 | B | Да, во всех временах |
+| 24 | A | Kapı açılacak |
+| 25 | D | Да, во всех временах |
 
 ---
 

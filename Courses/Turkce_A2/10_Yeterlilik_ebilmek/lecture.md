@@ -62,18 +62,21 @@ Türkçe konuşabiliyorum.
 **Use cases:**
 
 1. **Способность (ability):**
+
    ```
 
    Yüzebilirim. — Я умею плавать.
    ```
 
 2. **Возможность (possibility):**
+
    ```
 
    Yarın gelebilirim. — Я могу прийти завтра (есть возможность).
    ```
 
 3. **Разрешение (permission):**
+
    ```
 
    Girebilir miyim? — Могу я войти? (разрешение)
@@ -542,6 +545,7 @@ Geç kalabilirler.
 ### 10.1 Ошибка: Путаница -ebil/-abil
 
 **❌ Неправильно:**
+
 ```
 
 gel-abil-irim (должно быть gelebilirim)
@@ -549,6 +553,7 @@ git-abil-irim (правильно gidebilirim)
 ```
 
 **✅ Правильно:**
+
 ```
 
 gelebilirim (e-type)
@@ -561,6 +566,7 @@ gidebilirim (i-type)
 ### 10.2 Ошибка: Пропуск буфера -y-
 
 **❌ Неправильно:**
+
 ```
 
 oku-abil-irim (должно быть okuyabilirim)
@@ -568,6 +574,7 @@ söyle-ebil-irim (должно быть söyleyebilirim)
 ```
 
 **✅ Правильно:**
+
 ```
 
 okuyabilirim
@@ -580,12 +587,14 @@ söyleyebilirim
 ### 10.3 Ошибка: Смешение с geniş zaman
 
 **❌ Неправильно:**
+
 ```
 
 Türkçe konuşurum. (для выражения способности)
 ```
 
 **✅ Правильно:**
+
 ```
 
 Türkçe konuşabilirim. (я могу/умею говорить по-турецки)

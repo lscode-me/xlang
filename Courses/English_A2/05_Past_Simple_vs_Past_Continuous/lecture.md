@@ -45,6 +45,7 @@
 ### 1.2 Визуальное представление
 
 **Past Simple:**
+
 ```
 
 Прошлое ----[X]---- Настоящее
@@ -52,6 +53,7 @@
 ```
 
 **Past Continuous:**
+
 ```
 
 Прошлое ----[=====>====]---- Настоящее
@@ -61,6 +63,7 @@
 ### 1.3 Основные примеры
 
 **Past Simple:**
+
 ```
 
 I read a book yesterday.
@@ -77,6 +80,7 @@ We watched the whole film.
 ```
 
 **Past Continuous:**
+
 ```
 
 I was reading at 8 pm.
@@ -655,6 +659,7 @@ Last night, I was walking in the park. The sun was setting. Children were playin
 ### 11.2 Примеры применения алгоритма
 
 **Пример 1:**
+
 ```
 
 Я ___ (read) книгу вчера.
@@ -663,6 +668,7 @@ Last night, I was walking in the park. The sun was setting. Children were playin
 - Ответ: I read a book yesterday.
 
 **Пример 2:**
+
 ```
 
 Я ___ (read) в 8 вечера.
@@ -672,6 +678,7 @@ Last night, I was walking in the park. The sun was setting. Children were playin
 - Ответ: I was reading at 8 pm.
 
 **Пример 3:**
+
 ```
 
 Я ___ (read) когда телефон ___ (ring).
@@ -682,6 +689,7 @@ Last night, I was walking in the park. The sun was setting. Children were playin
 - Ответ: I was reading when the phone rang.
 
 **Пример 4:**
+
 ```
 
 Я ___ (read) пока она ___ (cook).
@@ -690,6 +698,7 @@ Last night, I was walking in the park. The sun was setting. Children were playin
 - Ответ: I was reading while she was cooking.
 
 **Пример 5:**
+
 ```
 
 Я ___ (wake up), ___ (have) завтрак, и ___ (go) на работу.

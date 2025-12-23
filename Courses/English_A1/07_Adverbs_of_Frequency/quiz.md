@@ -4,15 +4,17 @@
 
 ---
 
+
+
 ## Question 1: Частота наречия
 
 Какое наречие означает 100% частоту?
 
-A) always
+A) usually
 
-B) often
+B) always
 
-C) usually
+C) often
 
 D) sometimes
 
@@ -27,9 +29,9 @@ D) sometimes
 I _____ wake up _____ at 7 am.
 ```
 
-A) После глагола
+A) Перед глаголом
 
-B) Перед глаголом
+B) После глагола
 
 C) В начале предложения
 
@@ -41,11 +43,11 @@ D) В конце предложения
 
 Какое предложение правильное?
 
-A) I am always happy.
+A) I am happy always.
 
-B) I am happy always.
+B) Always I am happy.
 
-C) Always I am happy.
+C) I am always happy.
 
 D) I always am happy.
 
@@ -59,9 +61,9 @@ A) Всегда
 
 B) Часто
 
-C) Редко
+C) Никогда
 
-D) Никогда
+D) Редко
 
 ---
 
@@ -69,13 +71,13 @@ D) Никогда
 
 Какое предложение правильное?
 
-A) I never don't smoke.
+A) I never smoke.
 
-B) I never smoke.
+B) I never don't smoke.
 
-C) I don't never smoke.
+C) I not never smoke.
 
-D) I not never smoke.
+D) I don't never smoke.
 
 ---
 
@@ -83,13 +85,13 @@ D) I not never smoke.
 
 Как правильно спросить о частоте действия?
 
-A) How often do you exercise?
+A) What often do you exercise?
 
-B) Often how do you exercise?
+B) How often do you exercise?
 
-C) How do you often exercise?
+C) Often how do you exercise?
 
-D) What often do you exercise?
+D) How do you often exercise?
 
 ---
 
@@ -99,11 +101,11 @@ D) What often do you exercise?
 
 A) She always goes to work by bus.
 
-B) She always go to work by bus.
+B) She goes always to work by bus.
 
 C) She go always to work by bus.
 
-D) She goes always to work by bus.
+D) She always go to work by bus.
 
 ---
 
@@ -116,13 +118,13 @@ D) She goes always to work by bus.
 He _____ is _____ late for work.
 ```
 
-A) После глагола to be
+A) В начале предложения
 
-B) В конце предложения
+B) После глагола to be
 
-C) Перед глаголом to be
+C) В конце предложения
 
-D) В начале предложения
+D) Перед глаголом to be
 
 ---
 
@@ -130,13 +132,13 @@ D) В начале предложения
 
 Расположите наречия от наименьшей к наибольшей частоте:
 
-A) never, rarely, sometimes, often, usually, always
+A) never, always, rarely, often, sometimes, usually
 
-B) sometimes, often, always, usually, never, rarely
+B) never, rarely, sometimes, often, usually, always
 
 C) always, usually, often, sometimes, rarely, never
 
-D) never, always, rarely, often, sometimes, usually
+D) sometimes, often, always, usually, never, rarely
 
 ---
 
@@ -147,13 +149,13 @@ D) never, always, rarely, often, sometimes, usually
 How often do you eat fast food?
 ```
 
-A) I eat fast food always.
+A) I always eat fast food.
 
-B) I always eat fast food.
+B) I eat always fast food.
 
-C) Always I eat fast food.
+C) I eat fast food always.
 
-D) I eat always fast food.
+D) Always I eat fast food.
 
 ---
 
@@ -161,13 +163,13 @@ D) I eat always fast food.
 
 Выберите правильное предложение:
 
-A) She usually doesn't eats breakfast.
+A) She not usually eat breakfast.
 
-B) She not usually eat breakfast.
+B) She doesn't usually eats breakfast.
 
 C) She doesn't usually eat breakfast.
 
-D) She doesn't usually eats breakfast.
+D) She usually doesn't eats breakfast.
 
 ---
 
@@ -175,13 +177,13 @@ D) She doesn't usually eats breakfast.
 
 Какой процент частоты соответствует "sometimes"?
 
-A) 100%
+A) 0%
 
-B) 50%
+B) 70%
 
-C) 0%
+C) 50%
 
-D) 70%
+D) 100%
 
 ---
 
@@ -193,9 +195,9 @@ A) always
 
 B) every day
 
-C) usually
+C) never
 
-D) never
+D) usually
 
 ---
 
@@ -224,9 +226,9 @@ D) В конце вопроса
 
 A) He drinks coffee rarely.
 
-B) He rarely drinks coffee.
+B) Rarely he drinks coffee.
 
-C) Rarely he drinks coffee.
+C) He rarely drinks coffee.
 
 D) He drinks rarely coffee.
 
@@ -255,13 +257,13 @@ D) She has usually breakfast at 8.
 
 Какое из наречий отрицательное?
 
-A) often
+A) always
 
 B) never
 
 C) usually
 
-D) always
+D) often
 
 ---
 
@@ -276,9 +278,9 @@ You should _____ be _____ late.
 
 A) Перед модальным глаголом
 
-B) После модального глагола, но перед основным глаголом
+B) В конце предложения
 
-C) В конце предложения
+C) После модального глагола, но перед основным глаголом
 
 D) После основного глагола
 
@@ -288,13 +290,13 @@ D) После основного глагола
 
 Что означает "hardly ever"?
 
-A) Иногда
+A) Почти никогда
 
-B) Почти никогда
+B) Иногда
 
-C) Очень часто
+C) Почти всегда
 
-D) Почти всегда
+D) Очень часто
 
 ---
 
@@ -302,9 +304,9 @@ D) Почти всегда
 
 Выберите правильный перевод: "Мы всегда опаздываем на урок"
 
-A) We always are late for class.
+A) Always we are late for class.
 
-B) Always we are late for class.
+B) We always are late for class.
 
 C) We are always late for class.
 
@@ -318,25 +320,25 @@ D) We are late always for class.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ B. |
-| 2 | B | Правильный ответ B. |
-| 3 | A | Правильный ответ B. |
-| 4 | C | Правильный ответ C. |
-| 5 | B | Правильный ответ C. |
-| 6 | A | Правильный ответ B. |
+| 1 | B | Правильный ответ B. |
+| 2 | A | Правильный ответ B. |
+| 3 | C | Правильный ответ B. |
+| 4 | D | Правильный ответ C. |
+| 5 | A | Правильный ответ C. |
+| 6 | B | Правильный ответ B. |
 | 7 | A | Правильный ответ C. |
-| 8 | A | Правильный ответ B. |
-| 9 | A | Правильный ответ A. |
-| 10 | B | Правильный ответ C. |
+| 8 | B | Правильный ответ B. |
+| 9 | B | Правильный ответ A. |
+| 10 | A | Правильный ответ C. |
 | 11 | C | Правильный ответ B. |
-| 12 | B | Правильный ответ C. |
+| 12 | C | Правильный ответ C. |
 | 13 | B | Правильный ответ B. |
 | 14 | C | Правильный ответ B. |
-| 15 | B | Правильный ответ B. |
+| 15 | C | Правильный ответ B. |
 | 16 | A | Правильный ответ A. |
 | 17 | B | Правильный ответ C. |
-| 18 | B | Правильный ответ B. |
-| 19 | B | Правильный ответ C. |
+| 18 | C | Правильный ответ B. |
+| 19 | A | Правильный ответ C. |
 | 20 | C | Правильный ответ B. |
 
 ---

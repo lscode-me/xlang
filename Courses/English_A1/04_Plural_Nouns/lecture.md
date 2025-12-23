@@ -31,7 +31,7 @@
 
 ---
 
-## 1. Введение во множественное число
+## 1. Правила образования множественного числа
 
 В английском языке, как и в русском, существительные имеют единственное число (one - один) и множественное число (two or more - два или больше).
 
@@ -50,13 +50,9 @@ three cats - три кота
 five children - пять детей
 ```
 
----
-
-## 2. Правильное множественное число (Regular Plurals)
-
 Большинство существительных образуют множественное число по стандартным правилам.
 
-### 2.1 Добавление -S
+### 1.1 Добавление -S
 
 К большинству существительных просто добавляется окончание **-s**.
 
@@ -184,7 +180,7 @@ piano - pianos [piˈænəʊz] - пианино - пианино (мн.ч.)
 
 ---
 
-## 3. Произношение окончания -S/-ES
+### 1.2 Произношение окончания -S/-ES
 
 Окончание множественного числа может произноситься тремя способами:
 
@@ -229,7 +225,7 @@ garages [ˈɡærɑːʒɪz] - гаражи
 
 ---
 
-## 4. Неправильное множественное число (Irregular Plurals)
+### 1.3 Неправильное множественное число (Irregular Plurals)
 
 Некоторые существительные образуют множественное число особым способом. Их нужно запомнить.
 
@@ -314,7 +310,7 @@ criterion - criteria [kraɪˈtɪəriə] - критерий - критерии
 
 ---
 
-## 5. Особые случаи
+## 2. Особые случаи
 
 ### 5.1 Существительные только во множественном числе
 
@@ -359,7 +355,7 @@ homework [ˈhəʊmwɜːk] - домашняя работа
 
 ---
 
-## 6. Практическое использование
+## 3. Практическое использование
 
 ### 6.1 С числительными
 
@@ -400,11 +396,12 @@ The cats are black. - Коты черные.
 
 ---
 
-## 7. Типичные ошибки русскоговорящих
+## 4. Типичные ошибки русскоговорящих
 
 ### 7.1 Забывают добавить -S
 
 ❌ **Неправильно:**
+
 ```
 
 I have two cat.
@@ -413,6 +410,7 @@ There are many student.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I have two cats.
@@ -431,6 +429,7 @@ There are many students.
 ### 7.2 Неправильное множественное число неправильных форм
 
 ❌ **Неправильно:**
+
 ```
 
 three childs
@@ -439,6 +438,7 @@ five womans
 ```
 
 ✅ **Правильно:**
+
 ```
 
 three children
@@ -457,6 +457,7 @@ five women
 ### 7.3 Добавление -S к неисчисляемым
 
 ❌ **Неправильно:**
+
 ```
 
 I need two waters.
@@ -465,6 +466,7 @@ Can I have some breads?
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I need two bottles of water. / I need some water.
@@ -483,6 +485,7 @@ Can I have some bread?
 ### 7.4 Неправильное окончание после Y
 
 ❌ **Неправильно:**
+
 ```
 
 three babys
@@ -491,6 +494,7 @@ four ladys
 ```
 
 ✅ **Правильно:**
+
 ```
 
 three babies
@@ -509,6 +513,7 @@ four ladies
 ### 7.5 Путаница с this/these и that/those
 
 ❌ **Неправильно:**
+
 ```
 
 This books are interesting.
@@ -517,6 +522,7 @@ These book is good.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 These books are interesting.
@@ -534,7 +540,9 @@ This/that - для единственного числа, these/those - для �
 
 ---
 
-## 8. Практические примеры
+## 5. Практические примеры
+
+### 5.1 Примеры в контексте
 
 ### 8.1 Example: В магазине
 
@@ -582,9 +590,9 @@ The teacher has a computer and some papers.
 У учителя есть компьютер и бумаги.
 ```
 
----
+--# 7.2 Примеры по категориям
 
-## 9. Дополнительные примеры по категориям
+#### 7.2 Дополнительные примеры по категориям
 
 ### 9.1 Животные (Animals)
 
@@ -605,6 +613,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - I have two cats and one dog.
@@ -620,7 +629,7 @@ The teacher has a computer and some papers.
 - Те гуси очень шумные!
 ```
 
-### 9.2 Еда (Food)
+#### 5.2.2 Еда (Food)
 
 ```
 
@@ -639,6 +648,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - I bought three kilos of tomatoes and five potatoes.
@@ -654,7 +664,7 @@ The teacher has a computer and some papers.
 - Положите яблоки в коробки, пожалуйста.
 ```
 
-### 9.3 Предметы (Objects)
+#### 5.2.3 Предметы (Objects)
 
 ```
 
@@ -673,6 +683,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - Where are my keys? I can't find them.
@@ -688,7 +699,7 @@ The teacher has a computer and some papers.
 - Стаканы в шкафу.
 ```
 
-### 9.4 Люди (People)
+#### 5.2.4 Люди (People)
 
 ```
 
@@ -707,6 +718,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - There are three men and two women in the room.
@@ -722,7 +734,7 @@ The teacher has a computer and some papers.
 - Мои друзья - студенты университета.
 ```
 
-### 9.5 Части тела (Body Parts)
+#### 5.2.5 Части тела (Body Parts)
 
 ```
 
@@ -741,6 +753,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - My feet hurt after the long walk.
@@ -756,7 +769,7 @@ The teacher has a computer and some papers.
 - Помой руки перед ужином.
 ```
 
-### 9.6 Места и здания (Places and Buildings)
+#### 5.2.6 Места и здания (Places and Buildings)
 
 ```
 
@@ -775,6 +788,7 @@ The teacher has a computer and some papers.
 ```
 
 **Примеры в предложениях:**
+
 ```
 
 - I visited three cities in Europe last summer.
@@ -792,11 +806,12 @@ The teacher has a computer and some papers.
 
 ---
 
-## 10. Практические упражнения (Practice Exercises)
+## 6. Практические упражнения (Practice Exercises)
 
-### 10.1 Образуйте множественное число
+### 6.1 Образуйте множественное число
 
 **Exercise 1:**
+
 ```
 
 1. book → _____
@@ -812,6 +827,7 @@ The teacher has a computer and some papers.
 ```
 
 **Ответы:**
+
 ```
 
 1. books
@@ -826,9 +842,10 @@ The teacher has a computer and some papers.
 10. children
 ```
 
-### 10.2 Исправьте ошибки
+### 6.2 Исправьте ошибки
 
 **Exercise 2:**
+
 ```
 
 1. I have two foots.
@@ -844,6 +861,7 @@ The teacher has a computer and some papers.
 ```
 
 **Ответы:**
+
 ```
 
 1. I have two feet.
@@ -858,9 +876,10 @@ The teacher has a computer and some papers.
 10. I have three watches.
 ```
 
-### 10.3 Переведите на английский
+### 6.3 Переведите на английский
 
 **Exercise 3:**
+
 ```
 
 1. У меня три книги и две ручки.
@@ -876,6 +895,7 @@ The teacher has a computer and some papers.
 ```
 
 **Ответы:**
+
 ```
 
 1. I have three books and two pens.
@@ -890,9 +910,10 @@ The teacher has a computer and some papers.
 10. I saw many fish in the lake.
 ```
 
-### 10.4 Заполните пропуски
+### 6.4 Заполните пропуски
 
 **Exercise 4:**
+
 ```
 
 1. One mouse, two _____.
@@ -908,6 +929,7 @@ The teacher has a computer and some papers.
 ```
 
 **Ответы:**
+
 ```
 
 1. mice

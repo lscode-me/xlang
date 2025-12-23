@@ -445,12 +445,14 @@ B: Evet, çok kararlıyım. Mutlaka başaracağım!
 ### 8.1 Ошибка: Смешивание конструкций
 
 **❌ Неправильно:**
+
 ```
 
 Türkçe öğrenmeye niyet edeceğim.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Türkçe öğrenmeye niyet ediyorum.
@@ -468,12 +470,14 @@ Türkçe öğreneceğim.
 ### 8.2 Ошибка: Неправильный падеж
 
 **❌ Неправильно:**
+
 ```
 
 Gitmek düşünüyorum.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Gitmeyi düşünüyorum.
@@ -486,12 +490,14 @@ Gitmeyi düşünüyorum.
 ### 8.3 Ошибка: Путаница между "için" и другими конструкциями
 
 **❌ Неправильно:**
+
 ```
 
 Türkçe öğrenmek edeceğim için.
 ```
 
 **✅ Правильно:**
+
 ```
 
 Para kazanmak için çalışacağım.

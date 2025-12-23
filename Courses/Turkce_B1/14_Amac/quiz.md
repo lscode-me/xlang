@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я учусь, чтобы выучить английский"?
 
 A) İngilizce öğrenmek çalışıyorum
 
-B) İngilizce öğrenmek için çalışıyorum
+B) İngilizce öğrenmesi için çalışıyorum
 
-C) İngilizce öğrenmesi çalışıyorum
+C) İngilizce öğrenmek için çalışıyorum
 
-D) İngilizce öğrenmesi için çalışıyorum
+D) İngilizce öğrenmesi çalışıyorum
 
 ---
 
@@ -22,13 +23,13 @@ D) İngilizce öğrenmesi için çalışıyorum
 
 Как правильно сказать "Я позвонил тебе, чтобы ты пришел"?
 
-A) Gelmen seni aradım
+A) Gelmem için seni aradım
 
-B) Gelmen için seni aradım
+B) Gelmen seni aradım
 
 C) Gelmem seni aradım
 
-D) Gelmem için seni aradım
+D) Gelmen için seni aradım
 
 ---
 
@@ -43,11 +44,11 @@ D) Gelmem için seni aradım
 
 A) için
 
-B) dolayı
+B) için veya dolayı
 
-C) için veya dolayı
+C) maktan
 
-D) maktan
+D) dolayı
 
 ---
 
@@ -55,13 +56,13 @@ D) maktan
 
 Когда используется форма -mek için?
 
-A) Для выражения цели другого лица
+A) Для выражения времени действия
 
 B) Для выражения собственной цели действия
 
 C) Для выражения причины действия
 
-D) Для выражения времени действия
+D) Для выражения цели другого лица
 
 ---
 
@@ -69,13 +70,13 @@ D) Для выражения времени действия
 
 Когда используется форма -mesi için?
 
-A) Для выражения собственной цели
+A) Для выражения причины действия
 
-B) Для выражения цели другого лица
+B) Для выражения времени действия
 
-C) Для выражения причины действия
+C) Для выражения цели другого лица
 
-D) Для выражения времени действия
+D) Для выражения собственной цели
 
 ---
 
@@ -83,13 +84,13 @@ D) Для выражения времени действия
 
 Как правильно сказать "Я работаю, чтобы купить дом"?
 
-A) Ev almak çalışıyorum
+A) Ev almak için çalışıyorum
 
-B) Ev almak için çalışıyorum
+B) Ev alması için çalışıyorum
 
 C) Ev alması çalışıyorum
 
-D) Ev alması için çalışıyorum
+D) Ev almak çalışıyorum
 
 ---
 
@@ -97,13 +98,13 @@ D) Ev alması için çalışıyorum
 
 Как правильно сказать "Я помог Айше, чтобы она училась"?
 
-A) Ayşe'nin öğrenmek ona yardım ettim
+A) Ayşe'nin öğrenmek için ona yardım ettim
 
-B) Ayşe'nin öğrenmek için ona yardım ettim
+B) Ayşe'nin öğrenmesi için ona yardım ettim
 
-C) Ayşe'nin öğrenmesi ona yardım ettim
+C) Ayşe'nin öğrenmek ona yardım ettim
 
-D) Ayşe'nin öğrenmesi için ona yardım ettim
+D) Ayşe'nin öğrenmesi ona yardım ettim
 
 ---
 
@@ -116,11 +117,11 @@ Gelmen _____ seni aradım.
 Я позвонил тебе, чтобы ты пришел.
 ```
 
-A) için
+A) için veya dolayı
 
-B) dolayı
+B) için
 
-C) için veya dolayı
+C) dolayı
 
 D) maktan
 
@@ -146,11 +147,11 @@ D) -mek для прошедшего, -mesi для будущего
 
 A) Bilmen seni aradım
 
-B) Bilmen için seni aradım
+B) Bilmem için seni aradım
 
-C) Bilmem seni aradım
+C) Bilmen için seni aradım
 
-D) Bilmem için seni aradım
+D) Bilmem seni aradım
 
 ---
 
@@ -191,13 +192,13 @@ D) maktan
 
 Обязательно ли использовать için после формы -mek/-mesi?
 
-A) Нет, için не обязателен
+A) Да, için обязателен для выражения цели
 
-B) Да, için обязателен для выражения цели
+B) için обязателен только для -mek
 
-C) için обязателен только для -mek
+C) için обязателен только для -mesi
 
-D) için обязателен только для -mesi
+D) Нет, için не обязателен
 
 ---
 
@@ -207,11 +208,11 @@ D) için обязателен только для -mesi
 
 A) Hazır olman seni aradım
 
-B) Hazır olman için seni aradım
+B) Hazır olmam için seni aradım
 
-C) Hazır olmam seni aradım
+C) Hazır olman için seni aradım
 
-D) Hazır olmam için seni aradım
+D) Hazır olmam seni aradım
 
 ---
 
@@ -219,13 +220,13 @@ D) Hazır olmam için seni aradım
 
 Как правильно сказать "Я позвонил тебе, чтобы я пришел"?
 
-A) Benim gelmem seni aradım
+A) Benim gelmek için seni aradım
 
-B) Benim gelmem için seni aradım
+B) Benim gelmem seni aradım
 
 C) Benim gelmek seni aradım
 
-D) Benim gelmek için seni aradım
+D) Benim gelmem için seni aradım
 
 ---
 
@@ -238,11 +239,11 @@ Ev almak _____ çalışıyorum.
 Я работаю, чтобы купить дом.
 ```
 
-A) için
+A) dolayı
 
-B) dolayı
+B) için veya dolayı
 
-C) için veya dolayı
+C) için
 
 D) maktan
 
@@ -252,13 +253,13 @@ D) maktan
 
 Какая форма используется для выражения собственной цели действия?
 
-A) -mak
+A) -mek için
 
-B) -mek için
+B) -dik için
 
 C) -ması için
 
-D) -dik için
+D) -mak
 
 ---
 
@@ -266,13 +267,13 @@ D) -dik için
 
 Какая форма используется для выражения цели действия другого лица?
 
-A) -mak
+A) -mek için
 
-B) -mek için
+B) -dik için
 
 C) -ması için
 
-D) -dik için
+D) -mak
 
 ---
 
@@ -280,13 +281,13 @@ D) -dik için
 
 Как правильно сказать "Я позвонил тебе, чтобы она пришла"?
 
-A) Onun gelmesi seni aradım
+A) Onun gelmek için seni aradım
 
-B) Onun gelmesi için seni aradım
+B) Onun gelmek seni aradım
 
-C) Onun gelmek seni aradım
+C) Onun gelmesi seni aradım
 
-D) Onun gelmek için seni aradım
+D) Onun gelmesi için seni aradım
 
 ---
 
@@ -315,11 +316,11 @@ D) maktan
 
 A) -mek для абстрактной цели, -mesi для конкретной цели с субъектом
 
-B) -mek для конкретной цели, -mesi для абстрактной цели
+B) Нет отличия
 
-C) Нет отличия
+C) -mek для прошедшего, -mesi для будущего
 
-D) -mek для прошедшего, -mesi для будущего
+D) -mek для конкретной цели, -mesi для абстрактной цели
 
 ---
 
@@ -327,13 +328,13 @@ D) -mek для прошедшего, -mesi для будущего
 
 Как правильно сказать "Я учусь, чтобы выучить английский, но позвонил тебе, чтобы ты пришел"?
 
-A) İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım
+A) İngilizce öğrenmek için çalışıyorum, ama gelmen seni aradım
 
 B) İngilizce öğrenmek çalışıyorum, ama gelmen seni aradım
 
 C) İngilizce öğrenmesi için çalışıyorum, ama gelmen için seni aradım
 
-D) İngilizce öğrenmek için çalışıyorum, ama gelmen seni aradım
+D) İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım
 
 ---
 
@@ -348,11 +349,11 @@ Hazır olman _____ seni aradım.
 
 A) için
 
-B) dolayı
+B) için veya dolayı
 
-C) için veya dolayı
+C) maktan
 
-D) maktan
+D) dolayı
 
 ---
 
@@ -360,13 +361,13 @@ D) maktan
 
 Какая форма используется для выражения цели действия говорящего?
 
-A) -mak
+A) -ması için
 
-B) -mek için
+B) -dik için
 
-C) -ması için
+C) -mak
 
-D) -dik için
+D) -mek için
 
 ---
 
@@ -374,13 +375,15 @@ D) -dik için
 
 Как правильно сказать "Я работаю, чтобы купить дом, но помог Айше, чтобы она училась"?
 
-A) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
+A) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
 
-B) Ev almak çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
+B) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
 
-C) Ev alması için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
+C) Ev almak çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
 
-D) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
+D) Ev alması için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim
+
+---
 
 ---
 
@@ -388,31 +391,31 @@ D) Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi ona yardım ettim
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | İngilizce öğrenmek için çalışıyorum |
-| 2 | B | Gelmen için seni aradım |
+| 1 | C | İngilizce öğrenmek için çalışıyorum |
+| 2 | D | Gelmen için seni aradım |
 | 3 | A | için |
 | 4 | B | Для выражения собственной цели действия |
-| 5 | B | Для выражения цели другого лица |
-| 6 | B | Ev almak için çalışıyorum |
-| 7 | D | Ayşe'nin öğrenmesi için ona yardım ettim |
-| 8 | A | için |
+| 5 | C | Для выражения цели другого лица |
+| 6 | A | Ev almak için çalışıyorum |
+| 7 | B | Ayşe'nin öğrenmesi için ona yardım ettim |
+| 8 | B | için |
 | 9 | B | -mek для собственной цели, -mesi для цели другого |
-| 10 | B | Bilmen için seni aradım |
+| 10 | C | Bilmen için seni aradım |
 | 11 | B | Başarılı olmak için çalışıyorum |
 | 12 | A | için |
-| 13 | B | Да, için обязателен для выражения цели |
-| 14 | B | Hazır olman için seni aradım |
-| 15 | B | Benim gelmem için seni aradım |
-| 16 | A | için |
-| 17 | B | -mek için |
+| 13 | A | Да, için обязателен для выражения цели |
+| 14 | C | Hazır olman için seni aradım |
+| 15 | D | Benim gelmem için seni aradım |
+| 16 | C | için |
+| 17 | A | -mek için |
 | 18 | C | -ması için |
-| 19 | B | Onun gelmesi için seni aradım |
+| 19 | D | Onun gelmesi için seni aradım |
 | 20 | A | için |
 | 21 | A | -mek для абстрактной цели, -mesi для конкретной цели с субъектом |
-| 22 | A | İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım |
+| 22 | D | İngilizce öğrenmek için çalışıyorum, ama gelmen için seni aradım |
 | 23 | A | için |
-| 24 | B | -mek için |
-| 25 | A | Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim |
+| 24 | D | -mek için |
+| 25 | B | Ev almak için çalışıyorum, ama Ayşe'nin öğrenmesi için ona yardım ettim |
 
 ---
 

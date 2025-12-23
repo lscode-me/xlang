@@ -277,6 +277,7 @@ This information is important, but that information is more important.
 **Всегда используем "more" с:**
 
 1. **Прилагательными на -ful, -less, -ing, -ed:**
+
 ```
 
 careful → more careful (осторожный)
@@ -289,6 +290,7 @@ excited → more excited (взволнованный)
 ```
 
 2. **Трехсложными и более:**
+
 ```
 
 expensive → more expensive

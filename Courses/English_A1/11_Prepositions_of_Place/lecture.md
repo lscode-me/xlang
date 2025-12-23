@@ -474,6 +474,7 @@ There is a bed in the room. The bed is next to the window. There is a desk oppos
 ### 7.1 Ошибка 1: Путаница IN и AT
 
 **❌ Неправильно:**
+
 ```
 
 I am at the room.
@@ -481,6 +482,7 @@ She works in the university.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I am in the room. (комната - закрытое пространство)
@@ -495,12 +497,14 @@ She works at the university. (университет - конкретное ме
 В британском английском говорят "in the street", в американском - "on the street".
 
 **❌ Неправильно:**
+
 ```
 
 The shop is at the street.
 ```
 
 **✅ Правильно:**
+
 ```
 
 The shop is in the street. (Br.E.)
@@ -511,6 +515,7 @@ The shop is on the street. (Am.E.)
 ### 7.3 Ошибка 3: "Дома" = AT HOME, не IN HOME
 
 **❌ Неправильно:**
+
 ```
 
 I am in home.
@@ -518,6 +523,7 @@ He is in the home.
 ```
 
 **✅ Правильно:**
+
 ```
 
 I am at home.
@@ -530,6 +536,7 @@ He is at home.
 ### 7.4 Ошибка 4: ON для поверхностей
 
 **❌ Неправильно:**
+
 ```
 
 The picture is in the wall.
@@ -537,6 +544,7 @@ The book is at the table.
 ```
 
 **✅ Правильно:**
+
 ```
 
 The picture is on the wall. (картина на поверхности стены)
@@ -549,12 +557,14 @@ The book is on the table. (книга на поверхности стола)
 ### 7.5 Ошибка 5: BETWEEN vs AMONG
 
 **❌ Неправильно:**
+
 ```
 
 He is between his friends. (если друзей больше двух)
 ```
 
 **✅ Правильно:**
+
 ```
 
 He is between John and Mary. (два человека)
@@ -569,12 +579,14 @@ He is among his friends. (много друзей)
 В русском языке иногда предлог опускается, но в английском он необходим.
 
 **❌ Неправильно:**
+
 ```
 
 The book is the table. (пропущен предлог)
 ```
 
 **✅ Правильно:**
+
 ```
 
 The book is on the table.

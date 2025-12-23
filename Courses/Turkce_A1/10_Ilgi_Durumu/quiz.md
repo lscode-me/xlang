@@ -4,17 +4,19 @@
 
 ---
 
+
+
 ## Question 1: Суффикс родительного падежа
 
 Какой суффикс родительного падежа используется для "Ali"?
 
-A) -un
+A) -ın
 
-B) -in
+B) -un
 
-C) -ün
+C) -in
 
-D) -ın
+D) -ün
 
 ---
 
@@ -22,13 +24,13 @@ D) -ın
 
 Какой суффикс родительного падежа используется для "ev" (дом)?
 
-A) -ın
+A) -un
 
-B) -un
+B) -ın
 
-C) -ün
+C) -in
 
-D) -in
+D) -ün
 
 ---
 
@@ -36,9 +38,9 @@ D) -in
 
 Какой суффикс родительного падежа используется для "okul" (школа)?
 
-A) -un
+A) -ün
 
-B) -ün
+B) -un
 
 C) -ın
 
@@ -54,9 +56,9 @@ A) kitabı Ali
 
 B) kitap Ali
 
-C) Ali'nin kitabı
+C) Ali kitabı
 
-D) Ali kitabı
+D) Ali'nin kitabı
 
 ---
 
@@ -64,13 +66,13 @@ D) Ali kitabı
 
 Как правильно сказать "дверь дома"?
 
-A) kapısı evin
+A) ev kapı
 
-B) kapı ev
+B) evin kapısı
 
-C) ev kapı
+C) kapısı evin
 
-D) evin kapısı
+D) kapı ev
 
 ---
 
@@ -78,13 +80,13 @@ D) evin kapısı
 
 Как правильно сказать "моя книга"?
 
-A) kitap benim
+A) benim kitabım
 
-B) kitabım benim
+B) kitap benim
 
-C) ben kitabım
+C) kitabım benim
 
-D) benim kitabım
+D) ben kitabım
 
 ---
 
@@ -92,13 +94,13 @@ D) benim kitabım
 
 Как правильно спросить "Чья это книга?"?
 
-A) Bu kitap kimin?
+A) Bu kimin kitabı?
 
-B) Bu kimin kitabı?
+B) Bu kitap kimin?
 
-C) Bu kimin kitap?
+C) Kimin bu kitap?
 
-D) Kimin bu kitap?
+D) Bu kimin kitap?
 
 ---
 
@@ -106,7 +108,21 @@ D) Kimin bu kitap?
 
 Как правильно ответить на "Bu kimin kitabı?" (Это книга Али)?
 
-A) Kitabı bu Ali
+A) Ali bu kitabı
+
+B) Bu Ali kitabı
+
+C) Bu Ali'nin kitabı
+
+D) Kitabı bu Ali
+
+---
+
+## Question 9: С указательными
+
+Как правильно сказать "Это книга Али"?
+
+A) Bu kitabı Ali
 
 B) Ali bu kitabı
 
@@ -116,31 +132,17 @@ D) Bu Ali kitabı
 
 ---
 
-## Question 9: С указательными
-
-Как правильно сказать "Это книга Али"?
-
-A) Bu Ali kitabı
-
-B) Bu kitabı Ali
-
-C) Ali bu kitabı
-
-D) Bu Ali'nin kitabı
-
----
-
 ## Question 10: Гармония гласных
 
 Какой суффикс правильный для "masa" (стол)?
 
-A) -in
+A) -ün
 
-B) -ın
+B) -in
 
-C) -ün
+C) -un
 
-D) -un
+D) -ın
 
 ---
 
@@ -148,13 +150,13 @@ D) -un
 
 Какой суффикс правильный для "öğrenci" (студент)?
 
-A) -in
+A) -ün
 
-B) -un
+B) -ın
 
-C) -ın
+C) -un
 
-D) -ün
+D) -in
 
 ---
 
@@ -162,13 +164,13 @@ D) -ün
 
 Как правильно сказать "книги студентов"?
 
-A) kitapları öğrenciler
+A) kitaplar öğrenciler
 
-B) öğrenciler kitaplar
+B) öğrencilerin kitapları
 
-C) kitaplar öğrenciler
+C) kitapları öğrenciler
 
-D) öğrencilerin kitapları
+D) öğrenciler kitaplar
 
 ---
 
@@ -176,13 +178,13 @@ D) öğrencilerin kitapları
 
 Какая форма правильная для "книга Али"?
 
-A) Ali kitabı
+A) kitabı Ali'nin
 
-B) kitabı Ali'nin
+B) Ali'nin kitabı
 
 C) Ali'nın kitabı
 
-D) Ali'nin kitabı
+D) Ali kitabı
 
 ---
 
@@ -190,13 +192,13 @@ D) Ali'nin kitabı
 
 Как правильно сказать "стол учителя"?
 
-A) öğretmenin masası
+A) masası öğretmenin
 
-B) masası öğretmenin
+B) masa öğretmenin
 
 C) öğretmen masası
 
-D) masa öğretmenin
+D) öğretmenin masası
 
 ---
 
@@ -206,9 +208,9 @@ D) masa öğretmenin
 
 A) onun kitabım
 
-B) onun kitabı
+B) onun kitap
 
-C) onun kitap
+C) onun kitabı
 
 D) kitap onun
 
@@ -218,13 +220,13 @@ D) kitap onun
 
 Как правильно сказать "большой дом учителя"?
 
-A) öğretmenin büyük evi
+A) büyük öğretmenin evi
 
 B) büyük evin öğretmeni
 
 C) öğretmen büyük ev
 
-D) büyük öğretmenin evi
+D) öğretmenin büyük evi
 
 ---
 
@@ -232,13 +234,13 @@ D) büyük öğretmenin evi
 
 Какой суффикс правильный для "Mehmet"?
 
-A) -in
+A) -ün
 
 B) -ın
 
 C) -un
 
-D) -ün
+D) -in
 
 ---
 
@@ -246,11 +248,11 @@ D) -ün
 
 Как правильно сказать "дверь комнаты дома"?
 
-A) evin odası kapısı
+A) ev odasının kapısı
 
 B) evin odasının kapısı
 
-C) ev odasının kapısı
+C) evin odası kapısı
 
 D) ev oda kapı
 
@@ -265,13 +267,13 @@ _____ kitabı bu?
 Чья это книга?
 ```
 
-A) Kim
+A) Nerede
 
 B) Ne
 
-C) Kimin
+C) Kim
 
-D) Nerede
+D) Kimin
 
 ---
 
@@ -279,13 +281,13 @@ D) Nerede
 
 Как правильно спросить "Чей это дом"?
 
-A) Bu ev kimin?
+A) Bu kimin ev?
 
-B) Bu kimin ev?
+B) Kimin bu evi?
 
-C) Bu kimin evi?
+C) Bu ev kimin?
 
-D) Kimin bu evi?
+D) Bu kimin evi?
 
 ---
 
@@ -295,26 +297,26 @@ D) Kimin bu evi?
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | В слове "Ali" последняя гласная "i" мягкая, поэтому используется -in: Ali'nin. |
-| 2 | D | В слове "ev" последняя гласная "e" мягкая, поэтому используется -in: evin. |
-| 3 | A | В слове "okul" последняя гласная "u" твердая, поэтому используется -un: okulun. |
-| 4 | C | Правильная конструкция: "Ali'nin kitabı" (книга Али). |
-| 5 | D | Правильная конструкция: "evin kapısı" (дверь дома). |
-| 6 | D | Правильная форма: "benim kitabım" (моя книга). |
-| 7 | B | Правильный вопрос: "Bu kimin kitabı?" (Чья это книга?). |
+| 1 | C | В слове "Ali" последняя гласная "i" мягкая, поэтому используется -in: Ali'nin. |
+| 2 | C | В слове "ev" последняя гласная "e" мягкая, поэтому используется -in: evin. |
+| 3 | B | В слове "okul" последняя гласная "u" твердая, поэтому используется -un: okulun. |
+| 4 | D | Правильная конструкция: "Ali'nin kitabı" (книга Али). |
+| 5 | B | Правильная конструкция: "evin kapısı" (дверь дома). |
+| 6 | A | Правильная форма: "benim kitabım" (моя книга). |
+| 7 | A | Правильный вопрос: "Bu kimin kitabı?" (Чья это книга?). |
 | 8 | C | Правильный ответ: "Bu Ali'nin kitabı" (Это книга Али). |
-| 9 | D | Правильная форма: "Bu Ali'nin kitabı" (Это книга Али). |
-| 10 | B | В слове "masa" последняя гласная "a" твердая, поэтому используется -ın: masanın. |
-| 11 | A | В слове "öğrenci" последняя гласная "i" мягкая, поэтому используется -in: öğrencinin. |
-| 12 | D | Правильная форма: "öğrencilerin kitapları" (книги студентов). |
-| 13 | D | Правильная форма: "Ali'nin kitabı" (в слове "Ali" последняя гласная "i" мягкая, поэтому -in). |
-| 14 | A | Правильный порядок: "öğretmenin masası" (стол учителя). |
-| 15 | B | Правильная форма: "onun kitabı" (его/её книга). |
-| 16 | A | Прилагательное стоит перед существительным: "öğretmenin büyük evi" (большой дом учителя). |
-| 17 | A | В слове "Mehmet" последняя гласная "e" мягкая, поэтому используется -in: Mehmet'in. |
+| 9 | C | Правильная форма: "Bu Ali'nin kitabı" (Это книга Али). |
+| 10 | D | В слове "masa" последняя гласная "a" твердая, поэтому используется -ın: masanın. |
+| 11 | D | В слове "öğrenci" последняя гласная "i" мягкая, поэтому используется -in: öğrencinin. |
+| 12 | B | Правильная форма: "öğrencilerin kitapları" (книги студентов). |
+| 13 | B | Правильная форма: "Ali'nin kitabı" (в слове "Ali" последняя гласная "i" мягкая, поэтому -in). |
+| 14 | D | Правильный порядок: "öğretmenin masası" (стол учителя). |
+| 15 | C | Правильная форма: "onun kitabı" (его/её книга). |
+| 16 | D | Прилагательное стоит перед существительным: "öğretmenin büyük evi" (большой дом учителя). |
+| 17 | D | В слове "Mehmet" последняя гласная "e" мягкая, поэтому используется -in: Mehmet'in. |
 | 18 | B | Цепочка принадлежности: "evin odasının kapısı" (дверь комнаты дома). |
-| 19 | C | Вопросительное слово "kimin" (чей) стоит перед существительным. |
-| 20 | C | Правильная форма: "Bu kimin evi?" (Чей это дом?). |
+| 19 | D | Вопросительное слово "kimin" (чей) стоит перед существительным. |
+| 20 | D | Правильная форма: "Bu kimin evi?" (Чей это дом?). |
 
 ---
 

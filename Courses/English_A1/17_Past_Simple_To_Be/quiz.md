@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Форма was
 
 Выберите правильную форму:
@@ -14,13 +16,13 @@ I ___ at home yesterday.
 Я был дома вчера.
 ```
 
-A) am
+A) were
 
 B) is
 
 C) was
 
-D) were
+D) am
 
 ---
 
@@ -28,13 +30,13 @@ D) were
 
 Выберите правильное предложение:
 
-A) They was happy.
+A) They are happy.
 
-B) They were happy.
+B) They is happy.
 
-C) They is happy.
+C) They were happy.
 
-D) They are happy.
+D) They was happy.
 
 ---
 
@@ -50,11 +52,11 @@ You ___ late yesterday.
 
 A) were
 
-B) is
+B) are
 
-C) are
+C) was
 
-D) was
+D) is
 
 ---
 
@@ -67,13 +69,13 @@ D) was
 Я не был в школе вчера.
 ```
 
-A) I not was at school yesterday.
+A) I weren't at school yesterday.
 
-B) I weren't at school yesterday.
+B) I wasn't at school yesterday.
 
-C) I didn't was at school yesterday.
+C) I not was at school yesterday.
 
-D) I wasn't at school yesterday.
+D) I didn't was at school yesterday.
 
 ---
 
@@ -81,13 +83,13 @@ D) I wasn't at school yesterday.
 
 Какое предложение правильное?
 
-A) They didn't were at home.
+A) They weren't at home.
 
-B) They wasn't at home.
+B) They not were at home.
 
-C) They not were at home.
+C) They wasn't at home.
 
-D) They weren't at home.
+D) They didn't were at home.
 
 ---
 
@@ -100,13 +102,13 @@ D) They weren't at home.
 Он был счастлив?
 ```
 
-A) Was he happy?
+A) He was happy?
 
-B) Did he was happy?
+B) Was happy he?
 
-C) He was happy?
+C) Was he happy?
 
-D) Was happy he?
+D) Did he was happy?
 
 ---
 
@@ -119,13 +121,13 @@ D) Was happy he?
 Ты был дома?
 ```
 
-A) Were you at home?
+A) You were at home?
 
-B) Was you at home?
+B) Did you were at home?
 
-C) Did you were at home?
+C) Were you at home?
 
-D) You were at home?
+D) Was you at home?
 
 ---
 
@@ -140,9 +142,9 @@ Was she at school? — Yes, ___.
 
 A) Yes, she is.
 
-B) Yes, she were.
+B) Yes, she was.
 
-C) Yes, she was.
+C) Yes, she were.
 
 D) Yes, she's.
 
@@ -157,13 +159,13 @@ D) Yes, she's.
 Were they happy? — No, ___.
 ```
 
-A) No, they didn't.
+A) No, they weren't.
 
-B) No, they not.
+B) No, they didn't.
 
-C) No, they wasn't.
+C) No, they not.
 
-D) No, they weren't.
+D) No, they wasn't.
 
 ---
 
@@ -176,11 +178,11 @@ D) No, they weren't.
 Где ты был вчера?
 ```
 
-A) Where you were yesterday?
+A) Where were you yesterday?
 
-B) Where was you yesterday?
+B) Where you were yesterday?
 
-C) Where were you yesterday?
+C) Where was you yesterday?
 
 D) Where did you were yesterday?
 
@@ -195,9 +197,9 @@ D) Where did you were yesterday?
 Как прошёл твой день?
 ```
 
-A) How was your day?
+A) How your day was?
 
-B) How your day was?
+B) How was your day?
 
 C) How did your day was?
 
@@ -214,13 +216,13 @@ D) How were your day?
 Вчера было холодно.
 ```
 
-A) Yesterday it cold.
+A) It is cold yesterday.
 
-B) It is cold yesterday.
+B) It were cold yesterday.
 
 C) It was cold yesterday.
 
-D) It were cold yesterday.
+D) Yesterday it cold.
 
 ---
 
@@ -228,13 +230,13 @@ D) It were cold yesterday.
 
 Какое предложение правильное?
 
-A) I am at home yesterday.
+A) I were at home yesterday.
 
 B) I was at home yesterday.
 
 C) I is at home yesterday.
 
-D) I were at home yesterday.
+D) I am at home yesterday.
 
 ---
 
@@ -247,11 +249,11 @@ D) I were at home yesterday.
 Фильм не был хорошим.
 ```
 
-A) The movie weren't good.
+A) The movie didn't was good.
 
-B) The movie didn't was good.
+B) The movie not was good.
 
-C) The movie not was good.
+C) The movie weren't good.
 
 D) The movie wasn't good.
 
@@ -261,13 +263,13 @@ D) The movie wasn't good.
 
 Какое предложение НЕПРАВИЛЬНОЕ?
 
-A) Were you happy?
+A) He were at home.
 
 B) I was tired yesterday.
 
-C) They were at school.
+C) Were you happy?
 
-D) He were at home.
+D) They were at school.
 
 ---
 
@@ -282,9 +284,9 @@ D) He were at home.
 
 A) Was who in the office?
 
-B) Who was in the office?
+B) Who did was in the office?
 
-C) Who did was in the office?
+C) Who was in the office?
 
 D) Who were in the office?
 
@@ -302,11 +304,11 @@ We ___ very tired last night.
 
 A) is
 
-B) were
+B) are
 
 C) was
 
-D) are
+D) were
 
 ---
 
@@ -338,11 +340,11 @@ D) Why was you busy?
 Я родился в 1990 году.
 ```
 
-A) I born in 1990.
+A) I were born in 1990.
 
-B) I were born in 1990.
+B) I was born in 1990.
 
-C) I was born in 1990.
+C) I born in 1990.
 
 D) I am born in 1990.
 
@@ -359,11 +361,11 @@ D) I am born in 1990.
 
 A) The weather is bad last weekend.
 
-B) Last weekend the weather bad.
+B) The weather were bad last weekend.
 
 C) The weather was bad last weekend.
 
-D) The weather were bad last weekend.
+D) Last weekend the weather bad.
 
 ---
 
@@ -374,24 +376,24 @@ D) The weather were bad last weekend.
 | # | Answer | Explanation |
 |---|--------|-------------|
 | 1 | C | Правильный ответ C. |
-| 2 | B | Правильный ответ B. |
+| 2 | C | Правильный ответ B. |
 | 3 | A | Правильный ответ B. |
-| 4 | D | Правильный ответ C. |
-| 5 | D | Правильный ответ B. |
-| 6 | A | Правильный ответ B. |
-| 7 | A | Правильный ответ B. |
-| 8 | C | Правильный ответ C. |
-| 9 | D | Правильный ответ B. |
-| 10 | C | Правильный ответ C. |
-| 11 | A | Правильный ответ A. |
+| 4 | B | Правильный ответ C. |
+| 5 | A | Правильный ответ B. |
+| 6 | C | Правильный ответ B. |
+| 7 | C | Правильный ответ B. |
+| 8 | B | Правильный ответ C. |
+| 9 | A | Правильный ответ B. |
+| 10 | A | Правильный ответ C. |
+| 11 | B | Правильный ответ A. |
 | 12 | C | Правильный ответ C. |
 | 13 | B | Правильный ответ C. |
 | 14 | D | Правильный ответ B. |
-| 15 | D | Правильный ответ C. |
-| 16 | B | Правильный ответ A. |
-| 17 | B | Правильный ответ B. |
+| 15 | A | Правильный ответ C. |
+| 16 | C | Правильный ответ A. |
+| 17 | D | Правильный ответ B. |
 | 18 | B | Правильный ответ B. |
-| 19 | C | Правильный ответ D. |
+| 19 | B | Правильный ответ D. |
 | 20 | C | Правильный ответ A. |
 
 ---

@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор выражения
 
 Как правильно сказать "По моему мнению, это правильно"?
 
 A) Bence bu doğru
 
-B) Sanırım bu doğru
+B) Belki bu doğru
 
-C) Galiba bu doğru
+C) Sanırım bu doğru
 
-D) Belki bu doğru
+D) Galiba bu doğru
 
 ---
 
@@ -22,13 +23,13 @@ D) Belki bu doğru
 
 Как правильно сказать "Я думаю, мы опоздали"?
 
-A) Bence geç kaldık
+A) Belki geç kaldık
 
 B) Sanırım geç kaldık
 
 C) Galiba geç kaldık
 
-D) Belki geç kaldık
+D) Bence geç kaldık
 
 ---
 
@@ -55,13 +56,13 @@ D) Belki
 
 Какое выражение выражает наиболее уверенное мнение?
 
-A) bence
+A) belki
 
-B) sanırım
+B) bence
 
-C) galiba
+C) sanırım
 
-D) belki
+D) galiba
 
 ---
 
@@ -71,11 +72,11 @@ D) belki
 
 A) bence
 
-B) sanırım
+B) galiba
 
-C) galiba
+C) belki
 
-D) belki
+D) sanırım
 
 ---
 
@@ -83,13 +84,13 @@ D) belki
 
 Как правильно сказать "Вероятно, мы опоздали"?
 
-A) Bence geç kaldık
+A) Belki geç kaldık
 
 B) Sanırım geç kaldık
 
 C) Galiba geç kaldık
 
-D) Belki geç kaldık
+D) Bence geç kaldık
 
 ---
 
@@ -101,9 +102,9 @@ A) Bence bu iyi bir fikir
 
 B) Sanırım bu iyi bir fikir
 
-C) Galiba bu iyi bir fikir
+C) Belki bu iyi bir fikir
 
-D) Belki bu iyi bir fikir
+D) Galiba bu iyi bir fikir
 
 ---
 
@@ -116,9 +117,9 @@ _____ geç kaldık.
 Я думаю, мы опоздали.
 ```
 
-A) Bence
+A) Sanırım
 
-B) Sanırım
+B) Bence
 
 C) Galiba
 
@@ -130,9 +131,9 @@ D) Belki
 
 Какое выражение выражает средний уровень уверенности?
 
-A) bence
+A) sanırım
 
-B) sanırım
+B) bence
 
 C) galiba
 
@@ -144,13 +145,13 @@ D) belki
 
 Как правильно сказать "Я думаю, он придет завтра"?
 
-A) Bence yarın gelecek
+A) Sanırım yarın gelecek
 
-B) Sanırım yarın gelecek
+B) Belki yarın gelecek
 
 C) Galiba yarın gelecek
 
-D) Belki yarın gelecek
+D) Bence yarın gelecek
 
 ---
 
@@ -158,9 +159,9 @@ D) Belki yarın gelecek
 
 Как правильно сказать "Вероятно, завтра будет дождь"?
 
-A) Bence yarın yağmur yağacak
+A) Sanırım yarın yağmur yağacak
 
-B) Sanırım yarın yağmur yağacak
+B) Bence yarın yağmur yağacak
 
 C) Galiba yarın yağmur yağacak
 
@@ -179,11 +180,11 @@ _____ yarın gelecek.
 
 A) Bence
 
-B) Sanırım
+B) Belki
 
 C) Galiba
 
-D) Belki
+D) Sanırım
 
 ---
 
@@ -191,13 +192,13 @@ D) Belki
 
 От какого слова образовано bence?
 
-A) ben (я) + -ce
+A) galiba (вероятно)
 
-B) sanmak (думать) + -ırım
+B) belki (может быть)
 
-C) galiba (вероятно)
+C) ben (я) + -ce
 
-D) belki (может быть)
+D) sanmak (думать) + -ırım
 
 ---
 
@@ -219,9 +220,9 @@ D) belki (может быть)
 
 Как правильно сказать "По моему мнению, ты прав в этом вопросе"?
 
-A) Bence, bu konuda haklısın
+A) Sanırım, bu konuda haklısın
 
-B) Sanırım, bu konuda haklısın
+B) Bence, bu konuda haklısın
 
 C) Galiba, bu konuda haklısın
 
@@ -233,13 +234,13 @@ D) Belki, bu konuda haklısın
 
 Как правильно сказать "Я думаю, мы опоздали?" (вопрос)?
 
-A) Bence geç kaldık mı?
+A) Belki geç kaldık mı?
 
 B) Sanırım geç kaldık mı?
 
-C) Galiba geç kaldık mı?
+C) Bence geç kaldık mı?
 
-D) Belki geç kaldık mı?
+D) Galiba geç kaldık mı?
 
 ---
 
@@ -252,13 +253,13 @@ _____ yarın yağmur yağacak.
 Вероятно, завтра будет дождь.
 ```
 
-A) Bence
+A) Belki
 
-B) Sanırım
+B) Galiba
 
-C) Galiba
+C) Sanırım
 
-D) Belki
+D) Bence
 
 ---
 
@@ -266,13 +267,13 @@ D) Belki
 
 Какое выражение используется для выражения личного мнения?
 
-A) bence
+A) sanırım
 
-B) sanırım
+B) galiba
 
-C) galiba
+C) belki
 
-D) belki
+D) bence
 
 ---
 
@@ -282,9 +283,9 @@ D) belki
 
 A) bence
 
-B) sanırım
+B) galiba
 
-C) galiba
+C) sanırım
 
 D) belki
 
@@ -294,13 +295,13 @@ D) belki
 
 Как правильно сказать "По моему мнению, есть лучшее решение"?
 
-A) Bence, daha iyi bir çözüm var
+A) Belki, daha iyi bir çözüm var
 
-B) Sanırım, daha iyi bir çözüm var
+B) Galiba, daha iyi bir çözüm var
 
-C) Galiba, daha iyi bir çözüm var
+C) Bence, daha iyi bir çözüm var
 
-D) Belki, daha iyi bir çözüm var
+D) Sanırım, daha iyi bir çözüm var
 
 ---
 
@@ -313,13 +314,13 @@ _____, bu konuda haklısın.
 По моему мнению, ты прав в этом вопросе.
 ```
 
-A) Bence
+A) Belki
 
-B) Sanırım
+B) Bence
 
-C) Galiba
+C) Sanırım
 
-D) Belki
+D) Galiba
 
 ---
 
@@ -327,13 +328,13 @@ D) Belki
 
 В чем отличие bence от sanırım?
 
-A) bence более уверенное, sanırım менее уверенное
+A) bence менее уверенное, sanırım более уверенное
 
-B) bence менее уверенное, sanırım более уверенное
+B) bence для прошедшего, sanırım для будущего
 
 C) Нет отличия
 
-D) bence для прошедшего, sanırım для будущего
+D) bence более уверенное, sanırım менее уверенное
 
 ---
 
@@ -341,13 +342,13 @@ D) bence для прошедшего, sanırım для будущего
 
 В чем отличие sanırım от galiba?
 
-A) sanırım более уверенное, galiba менее уверенное
+A) sanırım для прошедшего, galiba для будущего
 
 B) sanırım менее уверенное, galiba более уверенное
 
 C) Нет отличия
 
-D) sanırım для прошедшего, galiba для будущего
+D) sanırım более уверенное, galiba менее уверенное
 
 ---
 
@@ -355,13 +356,13 @@ D) sanırım для прошедшего, galiba для будущего
 
 Как правильно сказать "Вероятно, это правильно"?
 
-A) Bence bu doğru
+A) Sanırım bu doğru
 
-B) Sanırım bu doğru
+B) Belki bu doğru
 
 C) Galiba bu doğru
 
-D) Belki bu doğru
+D) Bence bu doğru
 
 ---
 
@@ -369,13 +370,15 @@ D) Belki bu doğru
 
 Какое выражение имеет самый высокий уровень уверенности (80-100%)?
 
-A) bence
+A) galiba
 
-B) sanırım
+B) belki
 
-C) galiba
+C) sanırım
 
-D) belki
+D) bence
+
+---
 
 ---
 
@@ -386,28 +389,28 @@ D) belki
 | 1 | A | Bence bu doğru |
 | 2 | B | Sanırım geç kaldık |
 | 3 | A | Bence |
-| 4 | A | bence |
-| 5 | C | galiba |
+| 4 | B | bence |
+| 5 | B | galiba |
 | 6 | C | Galiba geç kaldık |
 | 7 | A | Bence bu iyi bir fikir |
-| 8 | B | Sanırım |
-| 9 | B | sanırım |
-| 10 | B | Sanırım yarın gelecek |
+| 8 | A | Sanırım |
+| 9 | A | sanırım |
+| 10 | A | Sanırım yarın gelecek |
 | 11 | C | Galiba yarın yağmur yağacak |
-| 12 | B | Sanırım |
-| 13 | A | ben (я) + -ce |
+| 12 | D | Sanırım |
+| 13 | C | ben (я) + -ce |
 | 14 | B | sanmak (думать) + -ırım |
-| 15 | A | Bence, bu konuda haklısın |
+| 15 | B | Bence, bu konuda haklısın |
 | 16 | B | Sanırım geç kaldık mı? |
-| 17 | C | Galiba |
-| 18 | A | bence |
-| 19 | C | galiba |
-| 20 | A | Bence, daha iyi bir çözüm var |
-| 21 | A | Bence |
-| 22 | A | bence более уверенное, sanırım менее уверенное |
-| 23 | A | sanırım более уверенное, galiba менее уверенное |
+| 17 | B | Galiba |
+| 18 | D | bence |
+| 19 | B | galiba |
+| 20 | C | Bence, daha iyi bir çözüm var |
+| 21 | B | Bence |
+| 22 | D | bence более уверенное, sanırım менее уверенное |
+| 23 | D | sanırım более уверенное, galiba менее уверенное |
 | 24 | C | Galiba bu doğru |
-| 25 | A | bence |
+| 25 | D | bence |
 
 ---
 

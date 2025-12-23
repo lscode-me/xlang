@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Если бы ты пришел раньше, было бы хорошо"?
 
-A) Daha erken gelse iyi olurdu
+A) Daha erken gelecek iyi olurdu
 
-B) Daha erken gelseydin iyi olurdu
+B) Daha erken gelse iyi olurdu
 
 C) Daha erken geldi iyi olurdu
 
-D) Daha erken gelecek iyi olurdu
+D) Daha erken gelseydin iyi olurdu
 
 ---
 
@@ -22,13 +23,13 @@ D) Daha erken gelecek iyi olurdu
 
 Как правильно сказать "Если бы ты сказал, я бы пришел"?
 
-A) Söylese gelirdim
+A) Söyleseydin gelirdim
 
-B) Söyleseydin gelirdim
+B) Söylese gelirdim
 
-C) Söyledi gelirdim
+C) Söyleyecek gelirdim
 
-D) Söyleyecek gelirdim
+D) Söyledi gelirdim
 
 ---
 
@@ -41,13 +42,13 @@ Daha erken _____ iyi olurdu.
 Если бы ты ушел раньше, было бы хорошо.
 ```
 
-A) gitse
+A) gitti
 
-B) gitseydin
+B) gidecek
 
-C) gitti
+C) gitseydin
 
-D) gidecek
+D) gitse
 
 ---
 
@@ -55,13 +56,13 @@ D) gidecek
 
 Что выражает прошедшее условие?
 
-A) Условие, которое может выполниться
+A) Условие, которое не выполнилось в прошлом
 
-B) Условие, которое не выполнилось в прошлом
+B) Условие в настоящем времени
 
-C) Условие в настоящем времени
+C) Условие в будущем времени
 
-D) Условие в будущем времени
+D) Условие, которое может выполниться
 
 ---
 
@@ -69,9 +70,9 @@ D) Условие в будущем времени
 
 Какой суффикс используется для прошедшего условия?
 
-A) -se/-sa
+A) -seydi/-saydı
 
-B) -seydi/-saydı
+B) -se/-sa
 
 C) -di/-dı
 
@@ -83,13 +84,13 @@ D) -ecek/-acak
 
 Как правильно сказать "Если бы он работал, он стал бы успешным"?
 
-A) Çalışsa başarılı olurdu
+A) Çalıştı başarılı olurdu
 
 B) Çalışsaydı başarılı olurdu
 
-C) Çalıştı başarılı olurdu
+C) Çalışacak başarılı olurdu
 
-D) Çalışacak başarılı olurdu
+D) Çalışsa başarılı olurdu
 
 ---
 
@@ -97,13 +98,13 @@ D) Çalışacak başarılı olurdu
 
 Как правильно сказать "Если бы я пришел, было бы хорошо"?
 
-A) Gelse iyi olurdu
+A) Gelecek iyi olurdu
 
 B) Gelseydim iyi olurdu
 
-C) Geldi iyi olurdu
+C) Gelse iyi olurdu
 
-D) Gelecek iyi olurdu
+D) Geldi iyi olurdu
 
 ---
 
@@ -116,13 +117,13 @@ Söyleseydin _____.
 Если бы ты сказал, я бы пришел.
 ```
 
-A) gelirdim
+A) geliyordum
 
 B) gelirim
 
 C) geleceğim
 
-D) geliyordum
+D) gelirdim
 
 ---
 
@@ -132,11 +133,11 @@ D) geliyordum
 
 A) Прошедшее условие может выполниться, реальное не может
 
-B) Прошедшее условие не выполнилось в прошлом, реальное может выполниться
+B) Прошедшее условие для будущего, реальное для прошедшего
 
-C) Нет отличия
+C) Прошедшее условие не выполнилось в прошлом, реальное может выполниться
 
-D) Прошедшее условие для будущего, реальное для прошедшего
+D) Нет отличия
 
 ---
 
@@ -144,11 +145,11 @@ D) Прошедшее условие для будущего, реальное �
 
 Как правильно сказать "Если бы у тебя было время, ты бы пришел"?
 
-A) Zamanın olsa gelirdin
+A) Zamanın oldu gelirdin
 
 B) Zamanın olsaydı gelirdin
 
-C) Zamanın oldu gelirdin
+C) Zamanın olsa gelirdin
 
 D) Zamanın olacak gelirdin
 
@@ -158,13 +159,13 @@ D) Zamanın olacak gelirdin
 
 Как правильно сказать "Если бы он пришел, он стал бы успешным"?
 
-A) Gelse başarılı olurdu
+A) Gelseydi başarılı olurdu
 
-B) Gelseydi başarılı olurdu
+B) Gelecek başarılı olurdu
 
-C) Geldi başarılı olurdu
+C) Gelse başarılı olurdu
 
-D) Gelecek başarılı olurdu
+D) Geldi başarılı olurdu
 
 ---
 
@@ -177,13 +178,13 @@ D) Gelecek başarılı olurdu
 Если бы он работал, он стал бы успешным.
 ```
 
-A) başarılı
+A) başarılısını
 
-B) başarılısı
+B) başarılı
 
-C) başarılısını
+C) başarılısına
 
-D) başarılısına
+D) başarılısı
 
 ---
 
@@ -191,13 +192,13 @@ D) başarılısına
 
 Какой суффикс используется после гласных a, ı для прошедшего условия?
 
-A) -seydi
+A) -di
 
 B) -saydı
 
-C) -seydi veya -saydı
+C) -seydi
 
-D) -di
+D) -seydi veya -saydı
 
 ---
 
@@ -205,13 +206,13 @@ D) -di
 
 Какой суффикс используется после гласных e, i для прошедшего условия?
 
-A) -seydi
+A) -di
 
-B) -saydı
+B) -seydi
 
-C) -seydi veya -saydı
+C) -saydı
 
-D) -di
+D) -seydi veya -saydı
 
 ---
 
@@ -219,13 +220,13 @@ D) -di
 
 Как правильно сказать "Если бы ты работал, ты стал бы успешным"?
 
-A) Çalışsaydın başarılı olurdun
+A) Çalışacak başarılı olurdun
 
-B) Çalışsaydı başarılı olurdun
+B) Çalışsaydın başarılı olurdun
 
-C) Çalıştı başarılı olurdun
+C) Çalışsaydı başarılı olurdun
 
-D) Çalışacak başarılı olurdun
+D) Çalıştı başarılı olurdun
 
 ---
 
@@ -233,13 +234,13 @@ D) Çalışacak başarılı olurdun
 
 Как правильно сказать "Если бы мы пришли, было бы хорошо"?
 
-A) Gelse iyi olurdu
+A) Geldi iyi olurdu
 
-B) Gelseydik iyi olurdu
+B) Gelecek iyi olurdu
 
-C) Geldi iyi olurdu
+C) Gelseydik iyi olurdu
 
-D) Gelecek iyi olurdu
+D) Gelse iyi olurdu
 
 ---
 
@@ -252,13 +253,13 @@ Zamanın olsaydı _____.
 Если бы у тебя было время, ты бы пришел.
 ```
 
-A) gelirdin
+A) geliyordun
 
 B) gelirsin
 
 C) geleceksin
 
-D) geliyordun
+D) gelirdin
 
 ---
 
@@ -266,13 +267,13 @@ D) geliyordun
 
 В каком времени обычно выражается результат прошедшего условия?
 
-A) В настоящем времени
+A) В будущем времени
 
-B) В прошедшем времени
+B) В любом времени
 
-C) В будущем времени
+C) В прошедшем времени
 
-D) В любом времени
+D) В настоящем времени
 
 ---
 
@@ -280,13 +281,13 @@ D) В любом времени
 
 Как правильно сказать "Если бы он не пришел, было бы плохо"?
 
-A) Gelmeseydi kötü olurdu
+A) Gelmedi kötü olurdu
 
 B) Gelmediyse kötü olurdu
 
-C) Gelmedi kötü olurdu
+C) Gelmeyecek kötü olurdu
 
-D) Gelmeyecek kötü olurdu
+D) Gelmeseydi kötü olurdu
 
 ---
 
@@ -299,13 +300,13 @@ Gelseydik _____ olurdu.
 Если бы мы пришли, было бы хорошо.
 ```
 
-A) iyi
+A) iyisine
 
-B) iyisi
+B) iyi
 
-C) iyisini
+C) iyisi
 
-D) iyisine
+D) iyisini
 
 ---
 
@@ -327,13 +328,13 @@ D) Для выражения настоящих условий
 
 Как правильно сказать "Если бы я знал, я бы пришел"?
 
-A) Bilsem gelirdim
+A) Bilseydim gelirdim
 
-B) Bilseydim gelirdim
+B) Bileceğim gelirdim
 
-C) Bildim gelirdim
+C) Bilsem gelirdim
 
-D) Bileceğim gelirdim
+D) Bildim gelirdim
 
 ---
 
@@ -346,13 +347,13 @@ Bilseydim _____.
 Если бы я знал, я бы пришел.
 ```
 
-A) gelirdim
+A) gelirim
 
-B) gelirim
+B) gelirdim
 
-C) geleceğim
+C) geliyordum
 
-D) geliyordum
+D) geleceğim
 
 ---
 
@@ -360,13 +361,13 @@ D) geliyordum
 
 В чем отличие -se/-sa от -seydi/-saydı?
 
-A) -se для прошедшего, -seydi для настоящего
+A) -se для настоящего/будущего, -seydi для прошедшего
 
-B) -se для настоящего/будущего, -seydi для прошедшего
+B) -se для прошедшего, -seydi для настоящего
 
-C) Нет отличия
+C) -se для будущего, -seydi для настоящего
 
-D) -se для будущего, -seydi для настоящего
+D) Нет отличия
 
 ---
 
@@ -376,11 +377,13 @@ D) -se для будущего, -seydi для настоящего
 
 A) Gelse iyi olurdu
 
-B) Gelseydiler iyi olurdu
+B) Geldi iyi olurdu
 
-C) Geldi iyi olurdu
+C) Gelseydiler iyi olurdu
 
 D) Gelecek iyi olurdu
+
+---
 
 ---
 
@@ -388,31 +391,31 @@ D) Gelecek iyi olurdu
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Daha erken gelseydin iyi olurdu |
-| 2 | B | Söyleseydin gelirdim |
-| 3 | B | gitseydin |
-| 4 | B | Условие, которое не выполнилось в прошлом |
-| 5 | B | -seydi/-saydı |
+| 1 | D | Daha erken gelseydin iyi olurdu |
+| 2 | A | Söyleseydin gelirdim |
+| 3 | C | gitseydin |
+| 4 | A | Условие, которое не выполнилось в прошлом |
+| 5 | A | -seydi/-saydı |
 | 6 | B | Çalışsaydı başarılı olurdu |
 | 7 | B | Gelseydim iyi olurdu |
-| 8 | A | gelirdim |
-| 9 | B | Прошедшее условие не выполнилось в прошлом, реальное может выполниться |
+| 8 | D | gelirdim |
+| 9 | C | Прошедшее условие не выполнилось в прошлом, реальное может выполниться |
 | 10 | B | Zamanın olsaydı gelirdin |
-| 11 | B | Gelseydi başarılı olurdu |
-| 12 | A | başarılı |
+| 11 | A | Gelseydi başarılı olurdu |
+| 12 | B | başarılı |
 | 13 | B | -saydı |
-| 14 | A | -seydi |
-| 15 | A | Çalışsaydın başarılı olurdun |
-| 16 | B | Gelseydik iyi olurdu |
-| 17 | A | gelirdin |
-| 18 | B | В прошедшем времени |
-| 19 | A | Gelmeseydi kötü olurdu |
-| 20 | A | iyi |
+| 14 | B | -seydi |
+| 15 | B | Çalışsaydın başarılı olurdun |
+| 16 | C | Gelseydik iyi olurdu |
+| 17 | D | gelirdin |
+| 18 | C | В прошедшем времени |
+| 19 | D | Gelmeseydi kötü olurdu |
+| 20 | B | iyi |
 | 21 | B | Для выражения сожалений о прошлом |
-| 22 | B | Bilseydim gelirdim |
-| 23 | A | gelirdim |
-| 24 | B | -se для настоящего/будущего, -seydi для прошедшего |
-| 25 | B | Gelseydiler iyi olurdu |
+| 22 | A | Bilseydim gelirdim |
+| 23 | B | gelirdim |
+| 24 | A | -se для настоящего/будущего, -seydi для прошедшего |
+| 25 | C | Gelseydiler iyi olurdu |
 
 ---
 

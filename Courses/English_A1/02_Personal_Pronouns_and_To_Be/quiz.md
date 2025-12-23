@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Выбор местоимения
 
 Выберите правильное местоимение для предмета (книга):
@@ -14,13 +16,13 @@ The book is on the table. ___ is interesting.
 Книга на столе. Она интересная.
 ```
 
-A) It
+A) He
 
 B) They
 
-C) He
+C) She
 
-D) She
+D) It
 
 ---
 
@@ -34,11 +36,11 @@ I ___ a student.
 Я студент.
 ```
 
-A) be
+A) is
 
-B) is
+B) are
 
-C) are
+C) be
 
 D) am
 
@@ -48,13 +50,13 @@ D) am
 
 Выберите правильное предложение:
 
-A) They are at home.
+A) They is at home.
 
-B) They be at home.
+B) They are at home.
 
 C) They am at home.
 
-D) They is at home.
+D) They be at home.
 
 ---
 
@@ -67,11 +69,11 @@ D) They is at home.
 Я не учитель.
 ```
 
-A) I amn't a teacher.
+A) I not am a teacher.
 
-B) I isn't a teacher.
+B) I amn't a teacher.
 
-C) I not am a teacher.
+C) I isn't a teacher.
 
 D) I'm not a teacher.
 
@@ -88,11 +90,11 @@ D) I'm not a teacher.
 
 A) Are you a student?
 
-B) You are a student?
+B) You student are?
 
-C) Be you a student?
+C) You are a student?
 
-D) You student are?
+D) Be you a student?
 
 ---
 
@@ -108,11 +110,11 @@ Is he your brother? - Yes, ___.
 
 A) Yes, he are.
 
-B) Yes, he.
+B) Yes, he is.
 
-C) Yes, he is.
+C) Yes, is.
 
-D) Yes, is.
+D) Yes, he.
 
 ---
 
@@ -125,11 +127,11 @@ D) Yes, is.
 She is a doctor.
 ```
 
-A) Shes a doctor.
+A) She's a doctor.
 
 B) She're a doctor.
 
-C) She's a doctor.
+C) Shes a doctor.
 
 D) She'm a doctor.
 
@@ -139,9 +141,9 @@ D) She'm a doctor.
 
 Выберите правильное сокращение "is not":
 
-A) isn't
+A) amn't
 
-B) amn't
+B) isn't
 
 C) willn't
 
@@ -159,9 +161,9 @@ Mary is my sister. ___ is nice.
 Мэри моя сестра. Она милая.
 ```
 
-A) They
+A) He
 
-B) He
+B) They
 
 C) She
 
@@ -179,13 +181,13 @@ We ___ friends.
 Мы друзья.
 ```
 
-A) are
+A) be
 
-B) is
+B) am
 
-C) am
+C) is
 
-D) be
+D) are
 
 ---
 
@@ -198,11 +200,11 @@ D) be
 Откуда ты?
 ```
 
-A) Where are you from?
+A) Where you are from?
 
-B) You are where from?
+B) Where are you from?
 
-C) Where you are from?
+C) You are where from?
 
 D) Where from you are?
 
@@ -217,13 +219,13 @@ D) Where from you are?
 Are they students? - No, ___.
 ```
 
-A) No, aren't.
+A) No, they isn't.
 
-B) No, they aren't.
+B) No, they.
 
-C) No, they isn't.
+C) No, aren't.
 
-D) No, they.
+D) No, they aren't.
 
 ---
 
@@ -231,13 +233,13 @@ D) No, they.
 
 В каком случае НЕ используется местоимение "it"?
 
-A) Для погоды (weather)
+A) Для мужчины
 
 B) Для животного без указания пола
 
 C) Для предмета
 
-D) Для мужчины
+D) Для погоды (weather)
 
 ---
 
@@ -245,13 +247,13 @@ D) Для мужчины
 
 Какая полная форма сокращения "they're"?
 
-A) they is
+A) they are
 
-B) they are
+B) they be
 
 C) they am
 
-D) they be
+D) they is
 
 ---
 
@@ -259,13 +261,13 @@ D) they be
 
 Выберите грамматически правильное предложение:
 
-A) He a doctor is.
+A) He doctor.
 
-B) He is a doctor.
+B) He be doctor.
 
-C) He doctor.
+C) He is a doctor.
 
-D) He be doctor.
+D) He a doctor is.
 
 ---
 
@@ -275,9 +277,9 @@ D) He be doctor.
 
 A) amn't
 
-B) isn't
+B) willn't
 
-C) willn't
+C) isn't
 
 D) aren't
 
@@ -291,9 +293,9 @@ A) I am 20 years old.
 
 B) I be 20 years.
 
-C) I have 20 years old.
+C) I have 20 years.
 
-D) I have 20 years.
+D) I have 20 years old.
 
 ---
 
@@ -306,13 +308,13 @@ D) I have 20 years.
 Я из России.
 ```
 
-A) I'm Russia.
+A) I from Russia.
 
-B) I am from Russia.
+B) I be from Russia.
 
-C) I from Russia.
+C) I am from Russia.
 
-D) I be from Russia.
+D) I'm Russia.
 
 ---
 
@@ -320,9 +322,9 @@ D) I be from Russia.
 
 Как правильно спросить "Кто он?"?
 
-A) Who is he?
+A) Who he is?
 
-B) Who he is?
+B) Who is he?
 
 C) He who is?
 
@@ -339,13 +341,13 @@ D) Who he?
 Ты студент, не так ли?
 ```
 
-A) You are a student, isn't you?
+A) You are a student, aren't you?
 
-B) You are a student, aren't you?
+B) You are a student, not you?
 
-C) You are a student, not you?
+C) You are a student, are you?
 
-D) You are a student, are you?
+D) You are a student, isn't you?
 
 ---
 
@@ -355,26 +357,26 @@ D) You are a student, are you?
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ C. |
+| 1 | D | Правильный ответ C. |
 | 2 | D | Правильный ответ A. |
-| 3 | A | Правильный ответ C. |
+| 3 | B | Правильный ответ C. |
 | 4 | D | Правильный ответ B. |
 | 5 | A | Правильный ответ B. |
-| 6 | C | Правильный ответ C. |
-| 7 | C | Правильный ответ C. |
-| 8 | A | Правильный ответ A. |
+| 6 | B | Правильный ответ C. |
+| 7 | A | Правильный ответ C. |
+| 8 | B | Правильный ответ A. |
 | 9 | C | Правильный ответ B. |
-| 10 | A | Правильный ответ C. |
-| 11 | A | Правильный ответ B. |
-| 12 | B | Правильный ответ C. |
-| 13 | D | Правильный ответ D. |
-| 14 | B | Правильный ответ C. |
-| 15 | B | Правильный ответ B. |
+| 10 | D | Правильный ответ C. |
+| 11 | B | Правильный ответ B. |
+| 12 | D | Правильный ответ C. |
+| 13 | A | Правильный ответ D. |
+| 14 | A | Правильный ответ C. |
+| 15 | C | Правильный ответ B. |
 | 16 | D | Правильный ответ C. |
 | 17 | A | Правильный ответ B. |
-| 18 | B | Правильный ответ A. |
-| 19 | A | Правильный ответ B. |
-| 20 | B | Правильный ответ A. |
+| 18 | C | Правильный ответ A. |
+| 19 | B | Правильный ответ B. |
+| 20 | A | Правильный ответ A. |
 
 ---
 

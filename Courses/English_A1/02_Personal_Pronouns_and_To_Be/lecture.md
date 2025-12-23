@@ -485,6 +485,7 @@ My daughter is 5 years old.
 ### 6.1 Пропуск глагола to be
 
 ❌ **Неправильно:**
+
 ```
 
 I student.
@@ -492,6 +493,7 @@ He doctor.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I am a student.
@@ -504,6 +506,7 @@ He is a doctor.
 ### 6.2 Неправильный порядок слов в вопросах
 
 ❌ **Неправильно:**
+
 ```
 
 You are a student?
@@ -511,6 +514,7 @@ He is at home?
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Are you a student?
@@ -523,6 +527,7 @@ Is he at home?
 ### 6.3 Отсутствие кратких ответов
 
 ❌ **Неправильно:**
+
 ```
 
 Are you tired? - Yes.
@@ -530,6 +535,7 @@ Is he your friend? - No.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 Are you tired? - Yes, I am.
@@ -542,6 +548,7 @@ Is he your friend? - No, he isn't.
 ### 6.4 Неправильное использование It
 
 ❌ **Неправильно:**
+
 ```
 
 The cat is black. He is cute. (для животного)
@@ -549,6 +556,7 @@ The book is interesting. She is on the table. (для предмета)
 ```
 
 ✅ **Правильно:**
+
 ```
 
 The cat is black. It is cute.
@@ -658,6 +666,7 @@ The book is interesting. It is on the table.
 ### 8.1 Заполните пропуски правильной формой to be
 
 **Exercise 1:**
+
 ```
 
 1. I _____ a student.
@@ -673,6 +682,7 @@ The book is interesting. It is on the table.
 ```
 
 **Ответы:**
+
 ```
 
 1. am
@@ -690,6 +700,7 @@ The book is interesting. It is on the table.
 ### 8.2 Сделайте предложения отрицательными
 
 **Exercise 2:**
+
 ```
 
 1. I am busy. → I _____ busy.
@@ -702,6 +713,7 @@ The book is interesting. It is on the table.
 ```
 
 **Ответы:**
+
 ```
 
 1. I am not (I'm not) busy.
@@ -716,6 +728,7 @@ The book is interesting. It is on the table.
 ### 8.3 Составьте вопросы
 
 **Exercise 3:**
+
 ```
 
 1. You / tired? → _____ tired?
@@ -728,6 +741,7 @@ The book is interesting. It is on the table.
 ```
 
 **Ответы:**
+
 ```
 
 1. Are you tired?
@@ -742,6 +756,7 @@ The book is interesting. It is on the table.
 ### 8.4 Переведите на английский
 
 **Exercise 4:**
+
 ```
 
 1. Я студент.
@@ -757,6 +772,7 @@ The book is interesting. It is on the table.
 ```
 
 **Ответы:**
+
 ```
 
 1. I am a student. / I'm a student.
@@ -774,6 +790,7 @@ The book is interesting. It is on the table.
 ### 8.5 Исправьте ошибки
 
 **Exercise 5:**
+
 ```
 
 1. I is a teacher.
@@ -789,6 +806,7 @@ The book is interesting. It is on the table.
 ```
 
 **Ответы:**
+
 ```
 
 1. I am a teacher.

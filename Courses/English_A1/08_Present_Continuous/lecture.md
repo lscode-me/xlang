@@ -475,6 +475,7 @@ She is working now. (Present Continuous)
 Некоторые глаголы описывают состояния, а не действия, и обычно НЕ используются в Continuous:
 
 **Глаголы чувств и эмоций:**
+
 ```
 
 like (нравиться)
@@ -486,6 +487,7 @@ prefer (предпочитать)
 ```
 
 **Глаголы мышления:**
+
 ```
 
 know (знать)
@@ -497,6 +499,7 @@ forget (забывать)
 ```
 
 **Глаголы восприятия:**
+
 ```
 
 see (видеть)
@@ -506,6 +509,7 @@ taste (иметь вкус)
 ```
 
 **Другие:**
+
 ```
 
 be (быть)
@@ -517,6 +521,7 @@ own (владеть)
 **Примеры:**
 
 ❌ **Неправильно:**
+
 ```
 
 I am liking this film.
@@ -524,6 +529,7 @@ She is knowing English.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I like this film.
@@ -643,6 +649,7 @@ B: Да.
 ### 9.1 Пропуск глагола to be
 
 ❌ **Неправильно:**
+
 ```
 
 I working now.
@@ -650,6 +657,7 @@ She reading a book.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I am working now.
@@ -662,6 +670,7 @@ She is reading a book.
 ### 9.2 Неправильное добавление -ing
 
 ❌ **Неправильно:**
+
 ```
 
 I am runing. (run → runing)
@@ -670,6 +679,7 @@ He is comeing. (come → comeing)
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I am running. (run → running - удваиваем n)
@@ -683,6 +693,7 @@ He is coming. (come → coming - убираем e)
 ### 9.3 Использование Continuous со статичными глаголами
 
 ❌ **Неправильно:**
+
 ```
 
 I am liking pizza.
@@ -691,6 +702,7 @@ They are having a car.
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I like pizza.
@@ -704,6 +716,7 @@ They have a car.
 ### 9.4 Путаница между Present Simple и Present Continuous
 
 ❌ **Неправильно:**
+
 ```
 
 I am working in a bank. (о постоянной работе)
@@ -711,6 +724,7 @@ She works now. (о действии в момент речи)
 ```
 
 ✅ **Правильно:**
+
 ```
 
 I work in a bank. (постоянная работа)

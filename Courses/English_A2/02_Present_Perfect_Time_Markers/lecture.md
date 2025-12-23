@@ -247,6 +247,7 @@ The film has just finished.
 В разговорной речи **just** может использоваться с Past Simple в американском английском:
 
 **British English:**
+
 ```
 
 I have just seen him.
@@ -254,6 +255,7 @@ I have just seen him.
 ```
 
 **American English (also correct):**
+
 ```
 
 I just saw him.

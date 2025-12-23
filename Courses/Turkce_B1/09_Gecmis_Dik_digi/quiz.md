@@ -4,17 +4,18 @@
 
 ---
 
+
 ## Question 1: Выбор формы
 
 Как правильно сказать "Я знаю, что он ушел"?
 
-A) Onun gitmek biliyorum
+A) Onun gitme biliyorum
 
-B) Onun gitme biliyorum
+B) Onun gitmesi biliyorum
 
 C) Onun gittiğini biliyorum
 
-D) Onun gitmesi biliyorum
+D) Onun gitmek biliyorum
 
 ---
 
@@ -24,9 +25,9 @@ D) Onun gitmesi biliyorum
 
 A) Yaptığın işi beğendim
 
-B) Yaptığın iş beğendim
+B) Yaptığın işe beğendim
 
-C) Yaptığın işe beğendim
+C) Yaptığın iş beğendim
 
 D) Yaptığın işten beğendim
 
@@ -45,9 +46,9 @@ A) gelmek
 
 B) gelme
 
-C) geldiğini
+C) gelmesi
 
-D) gelmesi
+D) geldiğini
 
 ---
 
@@ -60,13 +61,13 @@ Yazdığın _____ beğendim.
 Мне понравилось письмо, которое ты написал.
 ```
 
-A) mektubu
+A) mektuba
 
-B) mektup
+B) mektuptan
 
-C) mektuba
+C) mektup
 
-D) mektuptan
+D) mektubu
 
 ---
 
@@ -76,11 +77,11 @@ D) mektuptan
 
 A) Будущее действие
 
-B) Прошедшее действие как объект
+B) Абстрактное действие
 
-C) Настоящее действие
+C) Прошедшее действие как объект
 
-D) Абстрактное действие
+D) Настоящее действие
 
 ---
 
@@ -88,13 +89,13 @@ D) Абстрактное действие
 
 Какое значение имеет форма -dik/-diği?
 
-A) "то, что будет..."
+A) "то, что делает..."
 
-B) "то, что сделал/сделала..."
+B) "то, что сделает..."
 
-C) "то, что делает..."
+C) "то, что сделал/сделала..."
 
-D) "то, что сделает..."
+D) "то, что будет..."
 
 ---
 
@@ -102,11 +103,11 @@ D) "то, что сделает..."
 
 Как правильно сказать "Я знаю, что я пришел"?
 
-A) Benim gelmek biliyorum
+A) Benim gelme biliyorum
 
-B) Benim gelme biliyorum
+B) Benim geldiğimi biliyorum
 
-C) Benim geldiğimi biliyorum
+C) Benim gelmek biliyorum
 
 D) Benim gelmesi biliyorum
 
@@ -116,13 +117,13 @@ D) Benim gelmesi biliyorum
 
 Как правильно сказать "Он знает, что ты пришел"?
 
-A) Senin gelmek biliyor
+A) Senin gelmesi biliyor
 
-B) Senin gelme biliyor
+B) Senin gelmek biliyor
 
 C) Senin geldiğini biliyor
 
-D) Senin gelmesi biliyor
+D) Senin gelme biliyor
 
 ---
 
@@ -135,13 +136,13 @@ Benim _____ biliyorum.
 Я знаю, что я пришел.
 ```
 
-A) gelmek
+A) gelmesi
 
-B) gelme
+B) gelmek
 
 C) geldiğimi
 
-D) gelmesi
+D) gelme
 
 ---
 
@@ -153,9 +154,9 @@ A) -ğim
 
 B) -ğin
 
-C) -ği
+C) -ğimiz
 
-D) -ğimiz
+D) -ği
 
 ---
 
@@ -163,13 +164,13 @@ D) -ğimiz
 
 Какой притяжательный суффикс используется для третьего лица единственного числа с формой -dik?
 
-A) -ğim
+A) -ğin
 
-B) -ğin
+B) -ğimiz
 
-C) -ği
+C) -ğim
 
-D) -ğimiz
+D) -ği
 
 ---
 
@@ -177,11 +178,11 @@ D) -ğimiz
 
 Что происходит с буквой "k" в -dik перед гласными?
 
-A) Остается "k"
+A) Меняется на "g"
 
-B) Меняется на "ğ"
+B) Остается "k"
 
-C) Меняется на "g"
+C) Меняется на "ğ"
 
 D) Исчезает
 
@@ -191,13 +192,13 @@ D) Исчезает
 
 Как правильно сказать "Я видел, что он написал"?
 
-A) Ne yazdığını gördüm
+A) Ne yazdığını göreceğim
 
-B) Ne yazdığını görüyorum
+B) Ne yazdığını gördüm
 
-C) Ne yazdığını göreceğim
+C) Ne yazdığını görüyordum
 
-D) Ne yazdığını görüyordum
+D) Ne yazdığını görüyorum
 
 ---
 
@@ -205,13 +206,13 @@ D) Ne yazdığını görüyordum
 
 Как правильно сказать "Я слышал, что она пришла сюда"?
 
-A) Buraya gelmek duydum
+A) Buraya gelme duydum
 
-B) Buraya gelme duydum
+B) Buraya geldiğini duydum
 
-C) Buraya geldiğini duydum
+C) Buraya gelmesi duydum
 
-D) Buraya gelmesi duydum
+D) Buraya gelmek duydum
 
 ---
 
@@ -224,13 +225,13 @@ Ne _____ gördüm.
 Я видел, что он написал.
 ```
 
-A) yazdığını
+A) yazmasını
 
-B) yazacağını
+B) yazmayı
 
-C) yazmasını
+C) yazacağını
 
-D) yazmayı
+D) yazdığını
 
 ---
 
@@ -238,13 +239,13 @@ D) yazmayı
 
 В чем отличие -dik от -ma?
 
-A) -dik для будущего, -ma для прошедшего
+A) Нет отличия
 
-B) -dik для прошедшего, -ma для будущего/настоящего
+B) -dik для настоящего, -ma для прошедшего
 
-C) Нет отличия
+C) -dik для прошедшего, -ma для будущего/настоящего
 
-D) -dik для настоящего, -ma для прошедшего
+D) -dik для будущего, -ma для прошедшего
 
 ---
 
@@ -252,13 +253,13 @@ D) -dik для настоящего, -ma для прошедшего
 
 Как правильно сказать "Я не знаю, что он сказал"?
 
-A) Ne söylediğini bilmiyorum
+A) Ne söylediği bilmiyorum
 
-B) Ne söylediğini bilmiyordum
+B) Ne söylediğini bilmeyeceğim
 
-C) Ne söylediğini bilmeyeceğim
+C) Ne söylediğini bilmiyorum
 
-D) Ne söylediği bilmiyorum
+D) Ne söylediğini bilmiyordum
 
 ---
 
@@ -266,13 +267,13 @@ D) Ne söylediği bilmiyorum
 
 Как правильно сказать "Мне не понравилась работа, которую ты сделал"?
 
-A) Yaptığın işi beğenmedim
+A) Yaptığın işten beğenmedim
 
-B) Yaptığın iş beğenmedim
+B) Yaptığın işe beğenmedim
 
-C) Yaptığın işe beğenmedim
+C) Yaptığın iş beğenmedim
 
-D) Yaptığın işten beğenmedim
+D) Yaptığın işi beğenmedim
 
 ---
 
@@ -285,13 +286,13 @@ Buraya _____ duydum.
 Я слышал, что она пришла сюда.
 ```
 
-A) gelmek
+A) gelmesi
 
 B) gelme
 
-C) geldiğini
+C) gelmek
 
-D) gelmesi
+D) geldiğini
 
 ---
 
@@ -299,13 +300,13 @@ D) gelmesi
 
 Какие глаголы часто используются с формой -dik/-diği?
 
-A) gelmek, gitmek, olmak
+A) başlamak, devam etmek, karar vermek
 
-B) bilmek, görmek, duymak, anlamak
+B) sevmek, hoşlanmak, tercih etmek
 
-C) sevmek, hoşlanmak, tercih etmek
+C) bilmek, görmek, duymak, anlamak
 
-D) başlamak, devam etmek, karar vermek
+D) gelmek, gitmek, olmak
 
 ---
 
@@ -315,11 +316,11 @@ D) başlamak, devam etmek, karar vermek
 
 A) Ne söylediğini anladım
 
-B) Ne söylediğini anlıyorum
+B) Ne söylediğini anlıyordum
 
 C) Ne söylediğini anlayacağım
 
-D) Ne söylediğini anlıyordum
+D) Ne söylediğini anlıyorum
 
 ---
 
@@ -331,9 +332,9 @@ A) Bizim gelmek biliyor
 
 B) Bizim gelme biliyor
 
-C) Bizim geldiğimizi biliyor
+C) Bizim gelmesi biliyor
 
-D) Bizim gelmesi biliyor
+D) Bizim geldiğimizi biliyor
 
 ---
 
@@ -348,9 +349,9 @@ Ne _____ anladım.
 
 A) söylediğini
 
-B) söyleyeceğini
+B) söylemesini
 
-C) söylemesini
+C) söyleyeceğini
 
 D) söylemeyi
 
@@ -360,13 +361,13 @@ D) söylemeyi
 
 Обязательно ли указывать субъект при использовании -dik/-diği?
 
-A) Нет, субъект не обязателен
+A) Субъект обязателен только для первого лица
 
-B) Да, субъект обязателен через притяжательный суффикс
+B) Нет, субъект не обязателен
 
 C) Субъект обязателен только для третьего лица
 
-D) Субъект обязателен только для первого лица
+D) Да, субъект обязателен через притяжательный суффикс
 
 ---
 
@@ -374,13 +375,15 @@ D) Субъект обязателен только для первого лиц
 
 Как правильно сказать "Я знаю, что они пришли"?
 
-A) Onların gelmek biliyorum
+A) Onların geldiklerini biliyorum
 
-B) Onların gelme biliyorum
+B) Onların gelmesi biliyorum
 
-C) Onların geldiklerini biliyorum
+C) Onların gelmek biliyorum
 
-D) Onların gelmesi biliyorum
+D) Onların gelme biliyorum
+
+---
 
 ---
 
@@ -390,29 +393,29 @@ D) Onların gelmesi biliyorum
 |---|--------|-------------|
 | 1 | C | Onun gittiğini biliyorum |
 | 2 | A | Yaptığın işi beğendim |
-| 3 | C | geldiğini |
-| 4 | A | mektubu |
-| 5 | B | Прошедшее действие как объект |
-| 6 | B | "то, что сделал/сделала..." |
-| 7 | C | Benim geldiğimi biliyorum |
+| 3 | D | geldiğini |
+| 4 | D | mektubu |
+| 5 | C | Прошедшее действие как объект |
+| 6 | C | "то, что сделал/сделала..." |
+| 7 | B | Benim geldiğimi biliyorum |
 | 8 | C | Senin geldiğini biliyor |
 | 9 | C | geldiğimi |
 | 10 | A | -ğim |
-| 11 | C | -ği |
-| 12 | B | Меняется на "ğ" |
-| 13 | A | Ne yazdığını gördüm |
-| 14 | C | Buraya geldiğini duydum |
-| 15 | A | yazdığını |
-| 16 | B | -dik для прошедшего, -ma для будущего/настоящего |
-| 17 | A | Ne söylediğini bilmiyorum |
-| 18 | A | Yaptığın işi beğenmedim |
-| 19 | C | geldiğini |
-| 20 | B | bilmek, görmek, duymak, anlamak |
+| 11 | D | -ği |
+| 12 | C | Меняется на "ğ" |
+| 13 | B | Ne yazdığını gördüm |
+| 14 | B | Buraya geldiğini duydum |
+| 15 | D | yazdığını |
+| 16 | C | -dik для прошедшего, -ma для будущего/настоящего |
+| 17 | C | Ne söylediğini bilmiyorum |
+| 18 | D | Yaptığın işi beğenmedim |
+| 19 | D | geldiğini |
+| 20 | C | bilmek, görmek, duymak, anlamak |
 | 21 | A | Ne söylediğini anladım |
-| 22 | C | Bizim geldiğimizi biliyor |
+| 22 | D | Bizim geldiğimizi biliyor |
 | 23 | A | söylediğini |
-| 24 | B | Да, субъект обязателен через притяжательный суффикс |
-| 25 | C | Onların geldiklerini biliyorum |
+| 24 | D | Да, субъект обязателен через притяжательный суффикс |
+| 25 | A | Onların geldiklerini biliyorum |
 
 ---
 

@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## Question 1: Выбор правильной формы глагола go
 
 Выберите правильную форму глагола в прошедшем времени:
@@ -14,13 +16,13 @@ I _____ to the cinema yesterday.
 Я ходил в кино вчера.
 ```
 
-A) goes
+A) went
 
-B) goed
+B) goes
 
-C) go
+C) goed
 
-D) went
+D) go
 
 ---
 
@@ -36,9 +38,9 @@ She _____ breakfast at 8 o'clock.
 
 A) eat
 
-B) eated
+B) eats
 
-C) eats
+C) eated
 
 D) ate
 
@@ -48,11 +50,11 @@ D) ate
 
 Выберите правильное отрицательное предложение:
 
-A) I not went to school.
+A) I didn't go to school.
 
-B) I wasn't go to school.
+B) I not went to school.
 
-C) I didn't go to school.
+C) I wasn't go to school.
 
 D) I didn't went to school.
 
@@ -64,11 +66,11 @@ D) I didn't went to school.
 
 A) Did you see the movie?
 
-B) You saw the movie?
+B) Did you saw the movie?
 
 C) Were you see the movie?
 
-D) Did you saw the movie?
+D) You saw the movie?
 
 ---
 
@@ -82,13 +84,13 @@ They _____ a new car last month.
 Они купили новую машину в прошлом месяце.
 ```
 
-A) buied
+A) bought
 
-B) buyed
+B) buied
 
-C) bought
+C) buy
 
-D) buy
+D) buyed
 
 ---
 
@@ -102,13 +104,13 @@ He _____ dinner for his family.
 Он приготовил ужин для своей семьи.
 ```
 
-A) make
+A) makes
 
-B) made
+B) make
 
-C) makes
+C) maked
 
-D) maked
+D) made
 
 ---
 
@@ -118,11 +120,11 @@ D) maked
 
 A) We seed a beautiful bird yesterday.
 
-B) We seed a beautiful bird yesterday.
+B) We see a beautiful bird yesterday.
 
-C) We see a beautiful bird yesterday.
+C) We saw a beautiful bird yesterday.
 
-D) We saw a beautiful bird yesterday.
+D) We sawed a beautiful bird yesterday.
 
 ---
 
@@ -135,13 +137,13 @@ D) We saw a beautiful bird yesterday.
 Я не завтракал сегодня.
 ```
 
-A) I wasn't have breakfast today.
+A) I didn't had breakfast today.
 
-B) I didn't had breakfast today.
+B) I wasn't have breakfast today.
 
-C) I hadn't breakfast today.
+C) I didn't have breakfast today.
 
-D) I didn't have breakfast today.
+D) I hadn't breakfast today.
 
 ---
 
@@ -155,13 +157,13 @@ Did you go to the party? - No, ___.
 Ты ходил на вечеринку? - Нет.
 ```
 
-A) I didn't
+A) I don't
 
 B) I not
 
-C) I wasn't
+C) I didn't
 
-D) I don't
+D) I wasn't
 
 ---
 
@@ -175,13 +177,13 @@ She _____ the bus to work.
 Она поехала на работу на автобусе.
 ```
 
-A) taken
+A) took
 
-B) took
+B) taken
 
-C) taked
+C) take
 
-D) take
+D) taked
 
 ---
 
@@ -194,13 +196,13 @@ D) take
 Что ты делал вчера?
 ```
 
-A) What did you do yesterday?
+A) What you do did yesterday?
 
 B) What did you did yesterday?
 
-C) What you did do yesterday?
+C) What did you do yesterday?
 
-D) What you do did yesterday?
+D) What you did do yesterday?
 
 ---
 
@@ -214,13 +216,13 @@ We _____ home late last night.
 Мы пришли домой поздно прошлой ночью.
 ```
 
-A) come
+A) comed
 
-B) comed
+B) came
 
 C) comes
 
-D) came
+D) come
 
 ---
 
@@ -234,9 +236,9 @@ I _____ my homework yesterday.
 Я сделал домашнюю работу вчера.
 ```
 
-A) maked
+A) do
 
-B) do
+B) maked
 
 C) made
 
@@ -250,11 +252,11 @@ D) did
 
 A) Yesterday I woke up, had breakfast, and goed to work.
 
-B) Yesterday I woke up, had breakfast, and went to work.
+B) Yesterday I waked up, had breakfast, and goed to work.
 
-C) Yesterday I waked up, had breakfast, and goed to work.
+C) Yesterday I woke up, haved breakfast, and went to work.
 
-D) Yesterday I woke up, haved breakfast, and went to work.
+D) Yesterday I woke up, had breakfast, and went to work.
 
 ---
 
@@ -262,13 +264,13 @@ D) Yesterday I woke up, haved breakfast, and went to work.
 
 Выберите глагол, который НЕ меняется в Past Simple:
 
-A) see
+A) eat
 
-B) go
+B) put
 
-C) eat
+C) go
 
-D) put
+D) see
 
 ---
 
@@ -282,11 +284,11 @@ I _____ the answer to that question.
 Я знал ответ на этот вопрос.
 ```
 
-A) known
+A) knew
 
 B) know
 
-C) knew
+C) known
 
 D) knowed
 
@@ -302,13 +304,13 @@ We _____ coffee this morning.
 Мы пили кофе этим утром.
 ```
 
-A) drink
+A) drinked
 
 B) drunk
 
 C) drank
 
-D) drinked
+D) drink
 
 ---
 
@@ -321,13 +323,13 @@ D) drinked
 Когда они пришли домой?
 ```
 
-A) When did they come home?
+A) When they came home?
 
-B) When they did come home?
+B) When did they come home?
 
-C) When did they came home?
+C) When they did come home?
 
-D) When they came home?
+D) When did they came home?
 
 ---
 
@@ -335,13 +337,13 @@ D) When they came home?
 
 Выберите правильное предложение:
 
-A) She slept well last night.
+A) She sleeping well last night.
 
 B) She sleep well last night.
 
-C) She sleeping well last night.
+C) She sleeped well last night.
 
-D) She sleeped well last night.
+D) She slept well last night.
 
 ---
 
@@ -349,11 +351,11 @@ D) She sleeped well last night.
 
 Какой из этих глаголов образует Past Simple так же, как buy?
 
-A) see - saw
+A) think - thought
 
 B) go - went
 
-C) think - thought
+C) see - saw
 
 D) eat - ate
 
@@ -365,26 +367,26 @@ D) eat - ate
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Правильный ответ B. |
+| 1 | A | Правильный ответ B. |
 | 2 | D | Правильный ответ C. |
-| 3 | C | Правильный ответ B. |
+| 3 | A | Правильный ответ B. |
 | 4 | A | Правильный ответ B. |
-| 5 | C | Правильный ответ C. |
-| 6 | B | Правильный ответ B. |
-| 7 | D | Правильный ответ C. |
-| 8 | D | Правильный ответ A. |
-| 9 | A | Правильный ответ A. |
-| 10 | B | Правильный ответ B. |
-| 11 | A | Правильный ответ B. |
-| 12 | D | Правильный ответ B. |
+| 5 | A | Правильный ответ C. |
+| 6 | D | Правильный ответ B. |
+| 7 | C | Правильный ответ C. |
+| 8 | C | Правильный ответ A. |
+| 9 | C | Правильный ответ A. |
+| 10 | A | Правильный ответ B. |
+| 11 | C | Правильный ответ B. |
+| 12 | B | Правильный ответ B. |
 | 13 | D | Правильный ответ C. |
-| 14 | B | Правильный ответ A. |
-| 15 | D | Правильный ответ C. |
-| 16 | C | Правильный ответ B. |
+| 14 | D | Правильный ответ A. |
+| 15 | B | Правильный ответ C. |
+| 16 | A | Правильный ответ B. |
 | 17 | C | Правильный ответ C. |
-| 18 | A | Правильный ответ C. |
-| 19 | A | Правильный ответ C. |
-| 20 | C | Правильный ответ B. |
+| 18 | B | Правильный ответ C. |
+| 19 | D | Правильный ответ C. |
+| 20 | A | Правильный ответ B. |
 
 ---
 

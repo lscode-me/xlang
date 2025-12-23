@@ -282,7 +282,7 @@ D) В любом времени
 
 A) Gelmeseydi kötü olurdu
 
-B) Gelmeseydi kötü olurdu
+B) Gelmediyse kötü olurdu
 
 C) Gelmedi kötü olurdu
 

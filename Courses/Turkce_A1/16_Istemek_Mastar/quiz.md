@@ -92,7 +92,7 @@ D) Ben istiyorum kahve içmek
 
 Как правильно сказать "Я не хочу идти"?
 
-A) Ben gitmek istemiyorum
+A) Ben gitmeye istemiyorum
 
 B) Ben gitmemek istiyorum
 

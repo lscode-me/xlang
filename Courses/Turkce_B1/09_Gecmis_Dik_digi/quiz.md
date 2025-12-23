@@ -258,7 +258,7 @@ B) Ne söylediğini bilmiyordum
 
 C) Ne söylediğini bilmeyeceğim
 
-D) Ne söylediğini bilmiyordum
+D) Ne söylediği bilmiyorum
 
 ---
 

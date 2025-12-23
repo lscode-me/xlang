@@ -124,7 +124,7 @@ A) Ben çalışmayı sevmiyorum
 
 B) Ben çalışmamayı seviyorum
 
-C) Ben çalışmayı sevmiyorum
+C) Ben çalışmayı sevmemiyorum
 
 D) Ben çalışmıyorum seviyorum
 

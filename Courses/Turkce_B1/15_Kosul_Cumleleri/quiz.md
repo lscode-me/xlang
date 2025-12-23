@@ -193,11 +193,11 @@ Hava güzelse _____.
 
 A) dışarı çıkarız
 
-B) dışarı çıkarız
+B) dışarı çıkardık
 
-C) dışarı çıkarız
+C) dışarı çıkacağız
 
-D) dışarı çıkarız
+D) dışarı çıkıyoruz
 
 ---
 

@@ -166,7 +166,7 @@ A) Bu ne?
 
 B) Bunlar ne?
 
-C) Bu ne?
+C) Bunlar nedir?
 
 D) Ne bu?
 

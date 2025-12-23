@@ -45,6 +45,7 @@ class ModuleMetrics:
     quiz_answer_key_format_valid: bool = False  # Соответствует ли формат шаблону
     quiz_answer_key_answers_count: int = 0  # Количество ответов в Answer Key
     quiz_questions_without_answers: list[int] = field(default_factory=list)  # Номера вопросов без ответов
+    quiz_questions_with_duplicate_options: list[int] = field(default_factory=list)  # Номера вопросов с дубликатами вариантов
 
 
 @dataclass
@@ -138,6 +139,7 @@ class ModuleMetrics:
     quiz_answer_key_format_valid: bool = False  # Соответствует ли формат шаблону
     quiz_answer_key_answers_count: int = 0  # Количество ответов в Answer Key
     quiz_questions_without_answers: list[int] = field(default_factory=list)  # Номера вопросов без ответов
+    quiz_questions_with_duplicate_options: list[int] = field(default_factory=list)  # Номера вопросов с дубликатами вариантов
     
     def lecture_status(self) -> str:
         """Статус длины лекции."""
@@ -213,6 +215,11 @@ class ModuleMetrics:
                 # Есть вопросы без правильных ответов - критическая проблема
                 # Каждый вопрос без ответа добавляет серьезный штраф
                 issues += 5 + len(self.quiz_questions_without_answers)
+            
+            # Проверка дубликатов вариантов ответа
+            if self.quiz_questions_with_duplicate_options:
+                # Есть вопросы с дубликатами вариантов - серьезная проблема
+                issues += 2 + len(self.quiz_questions_with_duplicate_options)
             
             # Квиз есть, проверяем его полноту
             if self.quiz_questions < 15:
@@ -341,6 +348,8 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_has_scoring': False,
             'quiz_answer_key_format_valid': False,
             'quiz_answer_key_answers_count': 0,
+            'quiz_questions_without_answers': [],
+            'quiz_questions_with_duplicate_options': [],
         }
     
     # Проверяем размер файла - пустые файлы не считаются квизами
@@ -353,6 +362,8 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_has_scoring': False,
             'quiz_answer_key_format_valid': False,
             'quiz_answer_key_answers_count': 0,
+            'quiz_questions_without_answers': [],
+            'quiz_questions_with_duplicate_options': [],
         }
     
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -450,6 +461,49 @@ def analyze_quiz(filepath: Path) -> dict:
         if question_numbers:
             questions_without_answers = sorted(question_numbers)
     
+    # Проверка на дубликаты вариантов ответа в вопросах
+    questions_with_duplicates = []
+    
+    if questions > 0:
+        # Определяем, какой паттерн использовался для поиска вопросов
+        question_pattern = None
+        if re.search(r'##\s*Question\s+\d+', content, re.IGNORECASE):
+            question_pattern = r'##\s*Question\s+(\d+).*?(?=\n##\s*Question\s+\d+|\n##\s*Answer\s+Key|\Z)'
+        elif re.search(r'\*\*Question\s+\d+', content, re.IGNORECASE):
+            question_pattern = r'\*\*Question\s+(\d+).*?(?=\n\*\*Question\s+\d+|\n##\s*Answer\s+Key|\Z)'
+        elif re.search(r'^##\s*\d+\.', content, re.MULTILINE):
+            question_pattern = r'^##\s*(\d+)\..*?(?=\n##\s*\d+\.|\n##\s*Answer\s+Key|\Z)'
+        
+        if question_pattern:
+            question_matches = re.finditer(question_pattern, content, re.DOTALL | re.IGNORECASE | re.MULTILINE)
+            for match in question_matches:
+                question_num = int(match.group(1))
+                question_text = match.group(0)
+                
+                # Извлекаем все варианты ответа (A), B), C), D))
+                # Паттерн ищет строки, начинающиеся с буквы A-D, затем ), затем пробелы и текст до конца строки
+                options = re.findall(r'^([A-D])\)\s*(.+?)$', question_text, re.MULTILINE)
+                
+                if options:
+                    # Проверяем на дубликаты по тексту варианта (без учета регистра и пробелов)
+                    option_texts = []
+                    for letter, text in options:
+                        # Нормализуем текст: убираем лишние пробелы, приводим к нижнему регистру
+                        normalized = ' '.join(text.strip().split()).lower()
+                        option_texts.append((letter, normalized))
+                    
+                    # Проверяем на дубликаты
+                    seen_texts = set()
+                    has_duplicate = False
+                    for letter, text in option_texts:
+                        if text in seen_texts:
+                            has_duplicate = True
+                            break
+                        seen_texts.add(text)
+                    
+                    if has_duplicate:
+                        questions_with_duplicates.append(question_num)
+    
     # Если вопросов нет, то это не квиз
     if questions == 0:
         return {
@@ -460,6 +514,7 @@ def analyze_quiz(filepath: Path) -> dict:
             'quiz_answer_key_format_valid': False,
             'quiz_answer_key_answers_count': 0,
             'quiz_questions_without_answers': [],
+            'quiz_questions_with_duplicate_options': [],
         }
     
     return {
@@ -470,6 +525,7 @@ def analyze_quiz(filepath: Path) -> dict:
         'quiz_answer_key_format_valid': answer_key_format_valid,
         'quiz_answer_key_answers_count': answer_key_answers_count,
         'quiz_questions_without_answers': questions_without_answers,
+        'quiz_questions_with_duplicate_options': sorted(set(questions_with_duplicates)),
     }
 
 
@@ -597,6 +653,7 @@ def analyze_module(course_path: Path, module_name: str, course_name: str) -> Opt
     metrics.quiz_answer_key_format_valid = quiz_data['quiz_answer_key_format_valid']
     metrics.quiz_answer_key_answers_count = quiz_data['quiz_answer_key_answers_count']
     metrics.quiz_questions_without_answers = quiz_data.get('quiz_questions_without_answers', [])
+    metrics.quiz_questions_with_duplicate_options = quiz_data.get('quiz_questions_with_duplicate_options', [])
     
     return metrics
 
@@ -740,6 +797,14 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics], readme_m
             if m.has_quiz and m.quiz_questions_without_answers:
                 print(f"      - {m.module}: вопросы {', '.join(map(str, m.quiz_questions_without_answers))} без ответов")
     
+    # Проверка дубликатов вариантов ответа
+    modules_with_duplicates = sum(1 for m in modules if m.has_quiz and m.quiz_questions_with_duplicate_options)
+    if modules_with_duplicates > 0:
+        print(f"\n   ⚠️ ПРОБЛЕМА: Модулей с дубликатами вариантов ответа: {modules_with_duplicates}/{modules_with_quiz}")
+        for m in modules:
+            if m.has_quiz and m.quiz_questions_with_duplicate_options:
+                print(f"      - {m.module}: вопросы {', '.join(map(str, m.quiz_questions_with_duplicate_options))} с дубликатами")
+    
     # Структура
     with_prereq = sum(1 for m in modules if m.has_prerequisites)
     with_lo = sum(1 for m in modules if m.has_learning_objectives)
@@ -771,13 +836,15 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics], readme_m
     print("-" * 100)
     
     for m in modules:
-        if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_answer_key_format_valid and m.quiz_answer_key_answers_count == m.quiz_questions and m.quiz_has_scoring and not m.quiz_questions_without_answers:
+        if m.has_quiz and m.quiz_questions >= 20 and m.quiz_has_answer_key and m.quiz_answer_key_format_valid and m.quiz_answer_key_answers_count == m.quiz_questions and m.quiz_has_scoring and not m.quiz_questions_without_answers and not m.quiz_questions_with_duplicate_options:
             quiz_info = f"{m.quiz_questions}✅"
         elif m.has_quiz:
             # Квиз есть, но неполный
             missing = []
             if m.quiz_questions_without_answers:
                 missing.append(f"нет ответов: {', '.join(map(str, m.quiz_questions_without_answers))}")
+            if m.quiz_questions_with_duplicate_options:
+                missing.append(f"дубликаты: {', '.join(map(str, m.quiz_questions_with_duplicate_options))}")
             if m.quiz_questions < 20:
                 missing.append(f"<20")
             if not m.quiz_has_answer_key:

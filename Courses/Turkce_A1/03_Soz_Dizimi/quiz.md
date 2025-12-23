@@ -90,7 +90,7 @@ A) 1-3-2 (Ben evde çalışıyorum)
 
 B) 1-2-3 (Ben çalışıyorum evde)
 
-C) 1-2-3 (Ben çalışıyorum evde)
+C) 2-1-3 (çalışıyorum Ben evde)
 
 D) 3-1-2 (evde Ben çalışıyorum)
 

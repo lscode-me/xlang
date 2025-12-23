@@ -1,6 +1,12 @@
 # ⚡ Quick Reference: Lecture Standards
 
-Краткая памятка для авторов курса. Полная версия: [LECTURE_STANDARD.md](LECTURE_STANDARD.md)
+Краткая памятка для авторов курса. 
+
+**Полные стандарты:**
+- [LECTURE_STANDARD.md](LECTURE_STANDARD.md) - Стандарт написания лекций
+- [README_STANDARD.md](README_STANDARD.md) - Стандарт написания README курса
+- [QUIZ_TEMPLATE.md](QUIZ_TEMPLATE.md) - Шаблон квиза
+- [VALIDATION_GUIDE.md](VALIDATION_GUIDE.md) - Как проверять качество курса
 
 ---
 

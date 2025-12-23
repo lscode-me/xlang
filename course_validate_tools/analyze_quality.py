@@ -45,6 +45,99 @@ class ModuleMetrics:
     quiz_answer_key_format_valid: bool = False  # Соответствует ли формат шаблону
     quiz_answer_key_answers_count: int = 0  # Количество ответов в Answer Key
     quiz_questions_without_answers: list[int] = field(default_factory=list)  # Номера вопросов без ответов
+
+
+@dataclass
+class ReadmeMetrics:
+    """Метрики README курса."""
+    course: str
+    
+    # Basic checks
+    exists: bool = False
+    lines: int = 0
+    
+    # Required sections
+    has_title: bool = False
+    has_description: bool = False
+    has_goals: bool = False
+    has_requirements: bool = False
+    has_structure: bool = False
+    
+    # Structure section details
+    modules_with_links: int = 0
+    modules_with_topics: int = 0
+    modules_with_examples: int = 0
+    
+    # Quality metrics
+    goals_count: int = 0
+    requirements_count: int = 0
+    
+    def quality_status(self) -> str:
+        """Статус качества README."""
+        if not self.exists:
+            return "❌ README отсутствует"
+        
+        issues = 0
+        
+        # Критические проблемы
+        if self.lines < 100:
+            issues += 3
+        if not self.has_description:
+            issues += 2
+        if not self.has_structure:
+            issues += 2
+        if self.modules_with_links < 15:
+            issues += 2
+        
+        # Средние проблемы
+        if self.lines < 200:
+            issues += 1
+        if not self.has_goals or self.goals_count < 3:
+            issues += 1
+        if not self.has_requirements:
+            issues += 1
+        if self.modules_with_examples < 15:
+            issues += 1
+        if self.modules_with_topics < 15:
+            issues += 1
+        
+        if issues == 0:
+            return "✅ Отлично"
+        elif issues <= 2:
+            return "✅ Хорошо"
+        elif issues <= 4:
+            return "⚠️ Требует улучшений"
+        else:
+            return "❌ Серьёзные проблемы"
+
+
+@dataclass
+class ModuleMetrics:
+    """Метрики одного модуля."""
+    course: str
+    module: str
+    
+    # Lecture metrics
+    lecture_lines: int = 0
+    h2_sections: int = 0
+    code_blocks: int = 0
+    learning_objectives: int = 0
+    key_takeaways: int = 0
+    
+    # Structure checks
+    has_prerequisites: bool = False
+    has_learning_objectives: bool = False
+    has_key_takeaways: bool = False
+    has_next_steps: bool = False
+    has_quiz: bool = False
+    
+    # Quiz metrics
+    quiz_questions: int = 0
+    quiz_has_answer_key: bool = False
+    quiz_has_scoring: bool = False
+    quiz_answer_key_format_valid: bool = False  # Соответствует ли формат шаблону
+    quiz_answer_key_answers_count: int = 0  # Количество ответов в Answer Key
+    quiz_questions_without_answers: list[int] = field(default_factory=list)  # Номера вопросов без ответов
     
     def lecture_status(self) -> str:
         """Статус длины лекции."""
@@ -108,7 +201,6 @@ class ModuleMetrics:
         return score
     
     def overall_quality(self) -> str:
-        """Общая оценка качества."""
         issues = 0
         
         # Критические проблемы с квизом
@@ -381,6 +473,98 @@ def analyze_quiz(filepath: Path) -> dict:
     }
 
 
+def analyze_readme(course_path: Path, course_name: str) -> ReadmeMetrics:
+    """Анализ README.md курса."""
+    readme_path = course_path / course_name / 'README.md'
+    
+    metrics = ReadmeMetrics(course=course_name)
+    
+    if not readme_path.exists():
+        return metrics
+    
+    metrics.exists = True
+    
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    lines = content.split('\n')
+    metrics.lines = len(lines)
+    
+    # Проверка заголовка H1
+    metrics.has_title = bool(re.search(r'^# .+', content, re.MULTILINE))
+    
+    # Проверка секций
+    metrics.has_description = bool(re.search(r'## Описание курса', content, re.IGNORECASE))
+    metrics.has_goals = bool(re.search(r'## Цели курса', content, re.IGNORECASE))
+    metrics.has_requirements = bool(re.search(r'## Требования', content, re.IGNORECASE))
+    metrics.has_structure = bool(re.search(r'## Структура курса', content, re.IGNORECASE))
+    
+    # Подсчет целей (список после "Цели курса")
+    if metrics.has_goals:
+        goals_match = re.search(
+            r'## Цели курса.*?\n(.*?)(?=\n## |\n---|\Z)',
+            content, re.DOTALL | re.IGNORECASE
+        )
+        if goals_match:
+            goals_text = goals_match.group(1)
+            metrics.goals_count = len(re.findall(r'^[-*•]\s', goals_text, re.MULTILINE))
+    
+    # Подсчет требований
+    if metrics.has_requirements:
+        req_match = re.search(
+            r'## Требования.*?\n(.*?)(?=\n## |\n---|\Z)',
+            content, re.DOTALL | re.IGNORECASE
+        )
+        if req_match:
+            req_text = req_match.group(1)
+            metrics.requirements_count = len(re.findall(r'^[-*•]\s', req_text, re.MULTILINE))
+    
+    # Анализ структуры курса
+    if metrics.has_structure:
+        struct_match = re.search(
+            r'## Структура курса.*?(?=\n## [^#]|\Z)',
+            content, re.DOTALL | re.IGNORECASE
+        )
+        if struct_match:
+            struct_text = struct_match.group(0)
+            
+            # Модули со ссылками: ### [01. Name](folder/)
+            modules_with_links = re.findall(
+                r'###\s*\[.+?\]\(.+?\)',
+                struct_text
+            )
+            metrics.modules_with_links = len(modules_with_links)
+            
+            # Разбиваем на блоки модулей по разделителю ---
+            module_blocks = re.split(r'\n---\n', struct_text)
+            
+            for block in module_blocks:
+                # Проверяем наличие ссылки на модуль
+                if not re.search(r'###\s*\[', block):
+                    continue
+                
+                # Проверяем наличие маркированного списка тем
+                topics = re.findall(r'^[-*•]\s', block, re.MULTILINE)
+                if topics:
+                    metrics.modules_with_topics += 1
+                
+                # Проверяем наличие подзаголовка "Примеры:" и самих примеров
+                if re.search(r'\*\*Примеры:\*\*', block, re.IGNORECASE):
+                    # Ищем примеры после "Примеры:"
+                    examples_match = re.search(
+                        r'\*\*Примеры:\*\*(.*?)(?=\n---|\n###|\Z)',
+                        block, re.DOTALL | re.IGNORECASE
+                    )
+                    if examples_match:
+                        examples_text = examples_match.group(1)
+                        # Проверяем, что есть хотя бы один пример (строка с содержанием)
+                        example_lines = [line.strip() for line in examples_text.split('\n') if line.strip() and not line.strip().startswith('#')]
+                        if example_lines:
+                            metrics.modules_with_examples += 1
+    
+    return metrics
+
+
 def analyze_module(course_path: Path, module_name: str, course_name: str) -> Optional[ModuleMetrics]:
     """Анализ одного модуля."""
     module_path = course_path / module_name
@@ -434,7 +618,7 @@ def analyze_course(courses_path: Path, course_name: str) -> list[ModuleMetrics]:
     return metrics
 
 
-def print_course_report(course_name: str, modules: list[ModuleMetrics]):
+def print_course_report(course_name: str, modules: list[ModuleMetrics], readme_metrics: Optional[ReadmeMetrics] = None):
     """Вывод отчета по курсу."""
     if not modules:
         print(f"\n{'='*80}")
@@ -444,6 +628,66 @@ def print_course_report(course_name: str, modules: list[ModuleMetrics]):
     print(f"\n{'='*80}")
     print(f"📚 {course_name} ({len(modules)} модулей)")
     print(f"{'='*80}")
+    
+    # README метрики (в начале отчета)
+    if readme_metrics:
+        print(f"\n📖 README:")
+        if readme_metrics.exists:
+            print(f"   Статус: {readme_metrics.quality_status()}")
+            print(f"   Строк: {readme_metrics.lines}", end="")
+            if readme_metrics.lines < 200:
+                print(" ⚠️")
+            else:
+                print(" ✅")
+            
+            # Секции
+            sections_ok = (readme_metrics.has_title and readme_metrics.has_description and 
+                          readme_metrics.has_goals and readme_metrics.has_requirements and 
+                          readme_metrics.has_structure)
+            print(f"   Обязательные секции: {'✅' if sections_ok else '⚠️'}", end="")
+            if not sections_ok:
+                missing = []
+                if not readme_metrics.has_title:
+                    missing.append("заголовок")
+                if not readme_metrics.has_description:
+                    missing.append("описание")
+                if not readme_metrics.has_goals:
+                    missing.append("цели")
+                if not readme_metrics.has_requirements:
+                    missing.append("требования")
+                if not readme_metrics.has_structure:
+                    missing.append("структура")
+                print(f" (отсутствует: {', '.join(missing)})")
+            else:
+                print()
+            
+            # Детали структуры
+            if readme_metrics.has_structure:
+                print(f"   Модулей со ссылками: {readme_metrics.modules_with_links}/20", end="")
+                if readme_metrics.modules_with_links < 20:
+                    print(" ⚠️")
+                else:
+                    print(" ✅")
+                print(f"   Модулей с описанием тем: {readme_metrics.modules_with_topics}/20", end="")
+                if readme_metrics.modules_with_topics < 15:
+                    print(" ⚠️")
+                else:
+                    print(" ✅")
+                print(f"   Модулей с примерами: {readme_metrics.modules_with_examples}/20", end="")
+                if readme_metrics.modules_with_examples < 15:
+                    print(" ⚠️")
+                else:
+                    print(" ✅")
+            
+            # Цели и требования
+            if readme_metrics.has_goals:
+                print(f"   Целей курса: {readme_metrics.goals_count}", end="")
+                if readme_metrics.goals_count < 3:
+                    print(" ⚠️")
+                else:
+                    print(" ✅")
+        else:
+            print(f"   Статус: ❌ README.md отсутствует")
     
     # Сводка по курсу
     total_lines = sum(m.lecture_lines for m in modules)
@@ -669,7 +913,8 @@ def main():
     for course_name in courses:
         modules = analyze_course(courses_path, course_name)
         all_metrics[course_name] = modules
-        print_course_report(course_name, modules)
+        readme_metrics = analyze_readme(courses_path, course_name)
+        print_course_report(course_name, modules, readme_metrics)
     
     # Общая сводка (по только что проанализированным курсам)
     print_summary(all_metrics)
@@ -684,6 +929,11 @@ def main():
     print("   Learning Objectives: 3-5")
     print("   Key Takeaways: 3-5")
     print("   Вопросов в quiz.md: 20-40 (оптимум: 25-30)")
+    print("\n   README.md курса:")
+    print("   - Минимум 200 строк")
+    print("   - Все 20 модулей со ссылками, описанием тем и примерами")
+    print("   - Обязательные секции: Описание, Цели (5+), Требования, Структура")
+    print("   - Подробности: course_write_meta/README_STANDARD.md")
 
 
 if __name__ == '__main__':

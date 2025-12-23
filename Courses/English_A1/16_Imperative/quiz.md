@@ -382,26 +382,26 @@ D) Stand up, open the window and close the door.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Правильный ответ C. |
-| 2 | D | Правильный ответ C. |
-| 3 | D | Правильный ответ C. |
-| 4 | A | Правильный ответ B. |
-| 5 | B | Правильный ответ D. |
-| 6 | A | Правильный ответ B. |
-| 7 | B | Правильный ответ C. |
-| 8 | D | Правильный ответ A. |
-| 9 | D | Правильный ответ C. |
-| 10 | D | Правильный ответ B. |
-| 11 | D | Правильный ответ A. |
-| 12 | A | Правильный ответ C. |
-| 13 | B | Правильный ответ A. |
-| 14 | D | Правильный ответ C. |
-| 15 | D | Правильный ответ C. |
-| 16 | D | Правильный ответ B. |
-| 17 | B | Правильный ответ C. |
-| 18 | A | Правильный ответ A. |
-| 19 | A | Правильный ответ B. |
-| 20 | D | Правильный ответ A. |
+| 1 | D | Повелительное наклонение: глагол в инфинитиве без подлежащего: Open the door! |
+| 2 | D | Отрицание: Don't + инфинитив: Don't run! |
+| 3 | D | С глаголом "be" в повелительном: Be careful! (будь осторожен). |
+| 4 | A | "Please" может стоять в начале: Please sit down. |
+| 5 | B | "Please" в конце предложения отделяется запятой: Open the window, please. |
+| 6 | A | Отрицание с "be": Don't be late! |
+| 7 | B | "Let's" (let us) для предложений "давай(те)": Let's go to the cinema! |
+| 8 | D | Повелительное: глагол + дополнение: Close the window! |
+| 9 | D | Please + отрицание: Please don't worry. |
+| 10 | D | Инструкции в повелительном: Turn right at the corner. |
+| 11 | D | Команда: Look at the board! |
+| 12 | A | Don't be + прилагательное: Don't be rude! |
+| 13 | B | Несколько команд соединяются "and": Open your book and read the text. |
+| 14 | D | Отрицание с Let's: Let's not be late. |
+| 15 | D | "To close the door!" — неправильно. Повелительное без "to": Close the door! |
+| 16 | D | Команда: Write it down! |
+| 17 | B | Don't + инфинитив: Don't forget your passport! |
+| 18 | A | Let's + инфинитив: Let's have a coffee! |
+| 19 | A | С "be" в повелительном: Please be quiet. |
+| 20 | D | Несколько команд: Stand up, open the window and close the door. |
 
 ---
 

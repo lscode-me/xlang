@@ -367,26 +367,26 @@ D) Yesterday I did clean my room and did help my mom.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | D | Правильный ответ C. |
-| 2 | B | Правильный ответ C. |
-| 3 | B | Правильный ответ B. |
-| 4 | D | Правильный ответ C. |
-| 5 | D | Правильный ответ C. |
-| 6 | D | Правильный ответ B. |
-| 7 | D | Правильный ответ B. |
-| 8 | D | Правильный ответ B. |
-| 9 | C | Правильный ответ C. |
-| 10 | D | Правильный ответ A. |
-| 11 | B | Правильный ответ B. |
-| 12 | C | Правильный ответ B. |
-| 13 | D | Правильный ответ C. |
-| 14 | B | Правильный ответ C. |
-| 15 | A | Правильный ответ C. |
-| 16 | D | Правильный ответ B. |
-| 17 | D | Правильный ответ C. |
-| 18 | D | Правильный ответ D. |
-| 19 | D | Правильный ответ C. |
-| 20 | A | Правильный ответ B. |
+| 1 | D | Past Simple правильных глаголов образуется добавлением -ed: work → worked. |
+| 2 | B | Past Simple: I worked yesterday (глагол + ed). |
+| 3 | B | Глаголы на -e добавляют только -d: live → lived. |
+| 4 | D | Согласная + y: y меняется на i + ed: study → studied. |
+| 5 | D | Гласная + y: просто добавляем -ed: play → played. |
+| 6 | D | Короткие глаголы с CVC удваивают согласную: stop → stopped. |
+| 7 | D | Отрицание: didn't + инфинитив: I didn't work yesterday. |
+| 8 | D | Вопрос: Did + подлежащее + инфинитив: Did you watch TV? |
+| 9 | C | Краткий ответ: Yes, she did / No, she didn't. |
+| 10 | D | Краткий отрицательный ответ: No, they didn't. |
+| 11 | B | В Past Simple форма одинаковая для всех лиц: He worked yesterday. |
+| 12 | C | Специальный вопрос: What did you do yesterday? (did + инфинитив). |
+| 13 | D | "Yesterday" указывает на прошлое: I worked yesterday. |
+| 14 | B | -ed произносится как [ɪd] после t/d: wanted [ˈwɒntɪd]. |
+| 15 | A | Ошибка: после did глагол в инфинитиве: Did you work? (не "worked"). |
+| 16 | D | Past Simple: I visited my grandparents. |
+| 17 | D | Вопрос: When did you finish...? (did + инфинитив). |
+| 18 | D | Отрицание: didn't + инфинитив: She didn't cook dinner. |
+| 19 | D | Согласная + y: y меняется на i + ed: try → tried. |
+| 20 | A | Несколько глаголов в Past Simple: I cleaned...and helped. |
 
 ---
 

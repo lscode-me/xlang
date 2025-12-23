@@ -356,26 +356,26 @@ D) I'm going to visiting London next year.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ B. |
-| 2 | A | Правильный ответ B. |
-| 3 | B | Правильный ответ C. |
-| 4 | C | Правильный ответ C. |
-| 5 | B | Правильный ответ B. |
-| 6 | B | Правильный ответ B. |
-| 7 | D | Правильный ответ B. |
-| 8 | B | Правильный ответ C. |
-| 9 | D | Правильный ответ B. |
-| 10 | B | Правильный ответ C. |
-| 11 | A | Правильный ответ B. |
-| 12 | D | Правильный ответ B. |
-| 13 | B | Правильный ответ B. |
-| 14 | D | Правильный ответ B. |
-| 15 | B | Правильный ответ C. |
-| 16 | A | Правильный ответ B. |
-| 17 | D | Правильный ответ B. |
-| 18 | D | Правильный ответ C. |
-| 19 | A | Правильный ответ A. |
-| 20 | C | Правильный ответ B. |
+| 1 | C | Структура: am/is/are + going to + инфинитив: I am going to study English. |
+| 2 | A | Отрицание: am/is/are + not + going to: She isn't going to buy. |
+| 3 | B | Вопрос: Are/Is + подлежащее + going to: Are you going to watch? |
+| 4 | C | С "they" используется "are": They are going to visit London. |
+| 5 | B | Специальный вопрос: What are you going to do tomorrow? |
+| 6 | B | "Going to play" = будущий план. "Going to the park" = движение сейчас. |
+| 7 | D | Краткий ответ: Yes, she is. |
+| 8 | B | Предсказание на основе фактов (тучи): It's going to rain. |
+| 9 | D | С "we" используется "are": We are going to study tonight. |
+| 10 | B | Отрицание с "I": I'm not going to work tomorrow. |
+| 11 | A | После "going to" глагол в инфинитиве: going to become a doctor. |
+| 12 | D | Вопрос: Where is she going to go? |
+| 13 | B | Все формы правильные: I'm going to study, she's going to work, they're going to play. |
+| 14 | D | С "he" используется "is": He is going to buy a new phone. |
+| 15 | B | "Going to watch" = план. Остальные — движение к месту. |
+| 16 | A | Отрицание: She isn't going to go on vacation. |
+| 17 | D | Вопрос: Why are they going to leave? |
+| 18 | D | Предсказание на основе очевидного: You're going to drop the bags. |
+| 19 | A | С "I" используется "am": I am going to call you. |
+| 20 | C | После "going to" инфинитив: I'm going to visit London next year. |
 
 ---
 

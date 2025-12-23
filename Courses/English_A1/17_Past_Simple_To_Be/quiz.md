@@ -375,26 +375,26 @@ D) Last weekend the weather bad.
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | C | Правильный ответ C. |
-| 2 | C | Правильный ответ B. |
-| 3 | A | Правильный ответ B. |
-| 4 | B | Правильный ответ C. |
-| 5 | A | Правильный ответ B. |
-| 6 | C | Правильный ответ B. |
-| 7 | C | Правильный ответ B. |
-| 8 | B | Правильный ответ C. |
-| 9 | A | Правильный ответ B. |
-| 10 | A | Правильный ответ C. |
-| 11 | B | Правильный ответ A. |
-| 12 | C | Правильный ответ C. |
-| 13 | B | Правильный ответ C. |
-| 14 | D | Правильный ответ B. |
-| 15 | A | Правильный ответ C. |
-| 16 | C | Правильный ответ A. |
-| 17 | D | Правильный ответ B. |
-| 18 | B | Правильный ответ B. |
-| 19 | B | Правильный ответ D. |
-| 20 | C | Правильный ответ A. |
+| 1 | C | С "I" используется "was": I was at home yesterday. |
+| 2 | C | С "they" используется "were": They were happy. |
+| 3 | A | С "you" всегда используется "were": You were late yesterday. |
+| 4 | B | Отрицание с "I": I wasn't (was not): I wasn't at school yesterday. |
+| 5 | A | Отрицание с "they": They weren't (were not): They weren't at home. |
+| 6 | C | Вопрос: инверсия was/were + подлежащее: Was he happy? |
+| 7 | C | С "you" используется "were": Were you at home? |
+| 8 | B | Краткий утвердительный ответ: Yes, she was. |
+| 9 | A | Краткий отрицательный ответ: No, they weren't. |
+| 10 | A | Специальный вопрос: Where were you yesterday? |
+| 11 | B | Вопрос о состоянии: How was your day? |
+| 12 | C | С "it" используется "was": It was cold yesterday. |
+| 13 | B | С "I" используется "was": I was at home yesterday. |
+| 14 | D | Отрицание: wasn't (was not): The movie wasn't good. |
+| 15 | A | Ошибка: с "he" должно быть "was", не "were": He was at home. |
+| 16 | C | Вопрос к подлежащему: Who was in the office? (без инверсии). |
+| 17 | D | С "we" используется "were": We were very tired. |
+| 18 | B | Специальный вопрос: Why were you busy? |
+| 19 | B | С "I" используется "was": I was born in 1990. |
+| 20 | C | С "the weather" (it) используется "was": The weather was bad. |
 
 ---
 

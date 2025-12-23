@@ -340,26 +340,26 @@ D) is not
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | B | Правильный ответ B. |
-| 2 | B | Правильный ответ C. |
-| 3 | C | Правильный ответ B. |
-| 4 | C | Правильный ответ B. |
-| 5 | C | Правильный ответ B. |
-| 6 | A | Правильный ответ A. |
-| 7 | D | Правильный ответ B. |
-| 8 | B | Правильный ответ C. |
-| 9 | B | Правильный ответ B. |
-| 10 | A | Правильный ответ B. |
-| 11 | D | Правильный ответ B. |
-| 12 | C | Правильный ответ B. |
-| 13 | D | Правильный ответ A. |
-| 14 | A | Правильный ответ B. |
-| 15 | B | Правильный ответ C. |
-| 16 | C | Правильный ответ B. |
-| 17 | B | Правильный ответ B. |
-| 18 | B | Правильный ответ B. |
-| 19 | A | Правильный ответ C. |
-| 20 | C | Правильный ответ B. |
+| 1 | B | Для единственного числа используется "There is": There is a book. |
+| 2 | B | "Three books" — множественное число, поэтому "There are three books". |
+| 3 | C | С неисчисляемыми существительными используется "There is": There is milk. |
+| 4 | C | Правильная структура: There is + a/an + существительное: There is a book. |
+| 5 | C | Отрицание множ. числа: There aren't any students. |
+| 6 | A | Вопрос в ед. числе: Is there a bank...? (инверсия). |
+| 7 | D | Краткий ответ: Yes, there is (повторяем there is/are). |
+| 8 | B | "Five parks" — множ. число: There are five parks. |
+| 9 | B | "There is no milk" = "There isn't any milk" (то же значение). |
+| 10 | A | How many + are there: How many students are there...? |
+| 11 | D | Когда первый предмет в ед. числе, используем "There is": There is a book and two pens. |
+| 12 | C | Краткий отрицательный ответ множ. числа: No, there aren't. |
+| 13 | D | Вопрос множ. числа с any: Are there any restaurants...? |
+| 14 | A | Вопрос о наличии: Is there a bank here? |
+| 15 | B | "Students" — множ. число: There are students in the classroom. |
+| 16 | C | Вопрос множ. числа: Are there any chairs...? |
+| 17 | B | "Eggs" — множ. число + отрицание: There aren't any eggs. |
+| 18 | B | "Water" — неисчисляемое + How much: How much water is there...? |
+| 19 | A | Стандартный порядок слов: There are + предмет + место. |
+| 20 | C | Краткий отрицательный ответ ед. числа: No, there isn't. |
 
 ---
 

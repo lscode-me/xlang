@@ -367,26 +367,26 @@ D) eat - ate
 
 | # | Answer | Explanation |
 |---|--------|-------------|
-| 1 | A | Правильный ответ B. |
-| 2 | D | Правильный ответ C. |
-| 3 | A | Правильный ответ B. |
-| 4 | A | Правильный ответ B. |
-| 5 | A | Правильный ответ C. |
-| 6 | D | Правильный ответ B. |
-| 7 | C | Правильный ответ C. |
-| 8 | C | Правильный ответ A. |
-| 9 | C | Правильный ответ A. |
-| 10 | A | Правильный ответ B. |
-| 11 | C | Правильный ответ B. |
-| 12 | B | Правильный ответ B. |
-| 13 | D | Правильный ответ C. |
-| 14 | D | Правильный ответ A. |
-| 15 | B | Правильный ответ C. |
-| 16 | A | Правильный ответ B. |
-| 17 | C | Правильный ответ C. |
-| 18 | B | Правильный ответ C. |
-| 19 | D | Правильный ответ C. |
-| 20 | A | Правильный ответ B. |
+| 1 | A | Go — неправильный глагол: go → went. I went to the cinema. |
+| 2 | D | Eat — неправильный глагол: eat → ate. She ate breakfast. |
+| 3 | A | После didn't глагол в инфинитиве: I didn't go (не "went"). |
+| 4 | A | После did глагол в инфинитиве: Did you see? (не "saw"). |
+| 5 | A | Buy — неправильный глагол: buy → bought. They bought a car. |
+| 6 | D | Make — неправильный глагол: make → made. He made dinner. |
+| 7 | C | See — неправильный глагол: see → saw. We saw a bird. |
+| 8 | C | После didn't инфинитив: I didn't have breakfast. |
+| 9 | C | Краткий отрицательный ответ: No, I didn't. |
+| 10 | A | Take — неправильный глагол: take → took. She took the bus. |
+| 11 | C | Специальный вопрос: What did you do? (did + инфинитив). |
+| 12 | B | Come — неправильный глагол: come → came. We came home late. |
+| 13 | D | Do — неправильный глагол: do → did. I did my homework. |
+| 14 | D | Все глаголы правильные: woke up, had, went (wake→woke, have→had, go→went). |
+| 15 | B | Put не меняется: put → put (одинаковая форма). |
+| 16 | A | Know — неправильный глагол: know → knew. I knew the answer. |
+| 17 | C | Drink — неправильный глагол: drink → drank. We drank coffee. |
+| 18 | B | После did инфинитив: When did they come? (не "came"). |
+| 19 | D | Sleep — неправильный глагол: sleep → slept. She slept well. |
+| 20 | A | Buy→bought и think→thought имеют похожую модель образования (с -ought). |
 
 ---
 

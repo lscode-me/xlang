@@ -292,33 +292,118 @@ D) Bu okuyacağım kitabı
 
 ## Question 22: Заполнение пропуска с отрицанием
 
+Выберите правильное слово: "Yarın _____." (Завтра я не приду)
+
+```
+Yarın _____.
+Завтра я не приду.
+```
+
+A) geldim
+
+B) gelmeyeceğim
+
+C) gelmiyorum
+
+D) gelmedim
+
 ---
 
 ## Question 23: Различие времён
+
+Чем отличается "gideceğim" от "gidiyorum"?
+
+A) Первое будущее, второе настоящее
+
+B) Первое настоящее, второе будущее
+
+C) Оба настоящее время
+
+D) Оба будущее время
 
 ---
 
 ## Question 24: Предсказание
 
+Как выразить предсказание "Этот фильм будет успешным"?
+
+A) Bu film başarılı oluyor
+
+B) Bu film başarılı oldu
+
+C) Bu film başarılı olacak
+
+D) Bu film başarılı oluyordu
+
 ---
 
 ## Question 25: Наречие "gelecek hafta"
+
+Что означает "gelecek hafta"?
+
+A) На прошлой неделе
+
+B) На этой неделе
+
+C) На следующей неделе
+
+D) Каждую неделю
 
 ---
 
 ## Question 26: Вопрос о планах
 
+Как спросить "Что ты будешь делать?"
+
+A) Ne yapıyorsun?
+
+B) Ne yaptın?
+
+C) Ne yapacaksın?
+
+D) Ne yapıyordun?
+
 ---
 
 ## Question 27: Выбор между формами
+
+Какая форма выражает намерение в будущем?
+
+A) Türkçe öğreniyorum (настоящее)
+
+B) Türkçe öğrendim (прошедшее)
+
+C) Türkçe öğreneceğim (будущее)
+
+D) Türkçe öğreniyordum (прошедшее продолженное)
 
 ---
 
 ## Question 28: Сложное предложение
 
+Как сказать "Завтра я пойду в кино с друзьями"?
+
+A) Yarın arkadaşlarımla sinemaya gidiyorum
+
+B) Yarın arkadaşlarımla sinemaya gittim
+
+C) Yarın arkadaşlarımla sinemaya gideceğim
+
+D) Yarın arkadaşlarımla sinemaya gidiyordum
+
 ---
 
 ## Question 29: Гармония в вопросительной частице
+
+Какая вопросительная частица правильная для "okuyacak"?
+
+A) mi
+
+B) mı
+
+C) mu
+
+D) mü
 
 ---
 
@@ -369,139 +454,5 @@ D) Bu okuyacağım kitabı
 | **21-26 правильных (70-89%)** | ✅ Хорошо | Хороший результат! Повторите темы, в которых ошиблись. |
 | **15-20 правильных (50-69%)** | ⚠️ Удовлетворительно | Рекомендуется перечитать соответствующие разделы лекции. |
 | **Менее 15 правильных (<50%)** | 📚 Нужно повторить | Внимательно перечитайте лекцию и попробуйте ещё раз. |
-Какой суффикс правильный для глагола "içmek" (пить)?
-
-A) -acak
-
-B) -ecek
-
-C) -ocak
-
-D) -ücek
-
----
-
-
-Выберите правильное слово: "Yarın _____." (Завтра я не приду)
-
-```
-
-Yarın _____.
-Завтра я не приду.
-```
-
-A) geldim
-
-B) gelmeyeceğim
-
-C) gelmiyorum
-
-D) gelmedim
-
----
-
-
-Чем отличается "gideceğim" от "gidiyorum"?
-
-A) Первое будущее, второе настоящее
-
-B) Первое настоящее, второе будущее
-
-C) Оба настоящее время
-
-D) Оба будущее время
-
----
-
-
-Как выразить предсказание "Этот фильм будет успешным"?
-
-A) Bu film başarılı oluyor
-
-B) Bu film başarılı oldu
-
-C) Bu film başarılı olacak
-
-D) Bu film başarılı oluyordu
-
----
-
-
-Что означает "gelecek hafta"?
-
-A) На прошлой неделе
-
-B) На этой неделе
-
-C) На следующей неделе
-
-D) Каждую неделю
-
----
-
-
-Как спросить "Что ты будешь делать?"
-
-A) Ne yapıyorsun?
-
-B) Ne yaptın?
-
-C) Ne yapacaksın?
-
-D) Ne yapıyordun?
-
----
-
-
-Какая форма выражает намерение в будущем?
-
-A) Türkçe öğreniyorum (настоящее)
-
-B) Türkçe öğrendim (прошедшее)
-
-C) Türkçe öğreneceğim (будущее)
-
-D) Türkçe öğreniyordum (прошедшее продолженное)
-
----
-
-
-Как сказать "Завтра я пойду в кино с друзьями"?
-
-A) Yarın arkadaşlarımla sinemaya gidiyorum
-
-B) Yarın arkadaşlarımla sinemaya gittim
-
-C) Yarın arkadaşlarımla sinemaya gideceğim
-
-D) Yarın arkadaşlarımla sinemaya gidiyordum
-
----
-
-
-Какая вопросительная частица правильная для "okuyacak"?
-
-A) mi
-
-B) mı
-
-C) mu
-
-D) mü
-
----
-
-
-Выберите правильное предложение: "Вы не будете читать эту книгу?"
-
-A) Bu kitabı okumayacak mısınız?
-
-B) Bu kitabı okumuyorsunuz mu?
-
-C) Bu kitabı okumadınız mı?
-
-D) Bu kitabı okuyacak mısınız?
-
----
 
 

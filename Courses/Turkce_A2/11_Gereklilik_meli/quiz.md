@@ -444,7 +444,7 @@ B) Sen git memelisin.
 
 C) Sen gitmemalisin.
 
-D) Sen gitmemalısın.
+D) Sen gitmemelisin.
 
 ---
 
@@ -483,7 +483,7 @@ D) Sen gitmemalısın.
 | 27 | A | Отрицательный вопрос для "biz" - "söylememeli miyiz?". |
 | 28 | D | "Daha fazla uyumalısın" выражает совет, не строгую обязанность. |
 | 29 | D | Обязательство держать слово "sözünü tutmalı". |
-| 30 | D | Правильная форма отрицания для "sen" - "gitmemalısın". |
+| 30 | D | Правильная форма отрицания для "sen" - "gitmemelisin" (в глаголе "gitmek" последняя гласная "e" мягкая, поэтому используется -meli, а не -malı). |
 
 ---
 

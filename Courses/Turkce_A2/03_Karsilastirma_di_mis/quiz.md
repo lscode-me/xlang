@@ -316,31 +316,115 @@ D) Başbakan yarın geldi mi
 
 ---
 
+## Question 22: Привычка
+
+Как сказать о своей привычке "Я всегда встаю в 8 часов"?
+
+A) Her zaman saat 8'de kalkmışım
+
+B) Her zaman saat 8'de kalktım
+
+C) Her zaman saat 8'de kalkıyorum
+
+D) Her zaman saat 8'de kalkmıştım
+
+---
+
 ## Question 23: Порядок слов с -di
+
+Как построить предложение "Я прочитал книгу вчера"?
+
+A) Dün kitap okumuşum
+
+B) Dün kitap okudum
+
+C) Dün kitap okuyorum
+
+D) Dün kitap okuyacağım
 
 ---
 
 ## Question 24: Порядок слов с -miş
 
+Как сказать "Книга, говорят, очень хорошая"?
+
+A) Kitap çok iyiydi
+
+B) Kitap çok iyiymiş
+
+C) Kitap çok iyi olacak
+
+D) Kitap çok iyi oluyor
+
 ---
 
 ## Question 25: Разница в контексте
+
+Какое предложение выражает большую уверенность?
+
+A) Film çok güzeldi (я видел сам)
+
+B) Film çok güzelmiş (мне сказали)
+
+C) Оба выражают одинаковую уверенность
+
+D) Ни одно не выражает уверенность
 
 ---
 
 ## Question 26: Наблюдение за другим человеком
 
+Вы смотрите на человека и замечаете, что он устал. Что сказать?
+
+A) Sen çok yoruldun
+
+B) Sen çok yorulmuşsun
+
+C) Sen çok yoruluyorsun
+
+D) Sen çok yorulacaksın
+
 ---
 
 ## Question 27: Установленный факт
+
+Как сказать об установленном факте "Фильм начался в 20:00"?
+
+A) Film saat 20:00'de başlamış
+
+B) Film saat 20:00'de başladı
+
+C) Film saat 20:00'de başlıyor
+
+D) Film saat 20:00'de başlayacak
 
 ---
 
 ## Question 28: Ирония и сомнение
 
+Какая форма может выражать иронию "Он, говорят, очень богатый (но я сомневаюсь)"?
+
+A) O çok zengin
+
+B) O çok zenginmiş
+
+C) O çok zengin olacak
+
+D) O çok zengin oluyor
+
 ---
 
 ## Question 29: Множественный выбор контекста
+
+В каком случае обязательно использовать -miş?
+
+A) Рассказ о своих действиях
+
+B) Исторические даты
+
+C) Начало турецкой сказки
+
+D) Личное наблюдение
 
 ---
 
@@ -371,6 +455,7 @@ D) Başbakan yarın geldi mi
 | 19 | D | Видимый результат (запах) требует формы -miş ("yanmış"). |
 | 20 | A | Прямое наблюдение требует формы -di ("geldi"). |
 | 21 | A | Будущее в пересказе использует форму -miş ("gelecekmiş"). |
+| 22 | C | Привычка выражается настоящим продолженным временем "kalkıyorum", а не прошедшим. |
 | 23 | B | Личное действие в прошлом требует -di ("okudum"). |
 | 24 | B | Пересказ (говорят) требует формы -miş ("iyiymiş"). |
 | 25 | A | -di выражает большую уверенность (личное наблюдение). |

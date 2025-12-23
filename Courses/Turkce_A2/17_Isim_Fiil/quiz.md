@@ -479,7 +479,7 @@ D) Аблатив (-den)
 | 23 | B | tercih ederim — "предпочитаю" требует винительного падежа. |
 | 24 | D | tercih etmek требует винительного падежа (-yi). |
 | 25 | C | beklemeden — аблатив именной формы. |
-| 26 | D | Beklemeden sıkıldım — sıkılmak требует аблатива. |
+| 26 | A | Beklemeden sıkıldım — sıkılmak требует аблатива (-den/-dan), а не дательного падежа. |
 | 27 | A | Gitme! = Не уходи! (отрицательный императив). |
 | 28 | B | bekleme (после e используется -me). |
 | 29 | A | Kitap okumayı ve film izlemeyi severim — оба объекта в винительном. |

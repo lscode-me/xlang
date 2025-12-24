@@ -1,0 +1,5 @@
+{"id":"A1-001-0001","ru":"Где находится остановка?","tr":["Durak nerede?","Otobüs nerede?","Burası neresi?","Saat kaç?"],"correct":1,"explain_ru":"durak — остановка, nerede — где","tags":["transport","location"],"source":"llm"}
+{"id":"A1-001-0002","ru":"Меня зовут Анна","tr":["Benim adım Anna","Senin adın Anna","Onun adı Anna","Ben Anna'yım"],"correct":1,"explain_ru":"benim — мой, adım — моё имя","tags":["introduction"],"source":"llm"}
+{"id":"A1-001-0003","ru":"Сколько это стоит?","tr":["Bu ne kadar?","Bu nerede?","Bu ne?","Bu kim?"],"correct":1,"explain_ru":"bu — это, ne kadar — сколько (о цене)","tags":["shopping","numbers"],"source":"llm"}
+{"id":"A1-001-0004","ru":"Я хочу воды","tr":["Su istiyorum","Çay istiyorum","Kahve istiyorum","Yemek istiyorum"],"correct":1,"explain_ru":"su — вода, istiyorum — хочу","tags":["food","drinks"],"source":"llm"}
+{"id":"A1-001-0005","ru":"Доброе утро","tr":["Günaydın","İyi akşamlar","İyi geceler","Hoş geldiniz"],"correct":1,"explain_ru":"günaydın — доброе утро (gün — день, aydın — светлый)","tags":["greetings"],"source":"llm"}

@@ -5,6 +5,9 @@
 !Courses/
 !Courses/**
 Courses/__pycache__/
+!Vocabulary/
+!Vocabulary/**
+Vocabulary/__pycache__/
 
 # Метаданные для написания курсов
 !course_write_meta/

@@ -6,6 +6,7 @@ Generates HTML files and assets in html/ma/
 import json
 import shutil
 import sys
+import time
 from pathlib import Path
 from typing import List, Dict, Any
 from collections import defaultdict
@@ -50,21 +51,22 @@ def find_jsonl_files(base_dir: Path) -> Dict[str, List[Path]]:
 
 def generate_quiz_page(level: str, questions_count: int) -> str:
     """Generate HTML for a quiz page"""
+    import time
+    cache_buster = int(time.time())
     return f'''<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Quiz: {level}</title>
-  <link rel="stylesheet" href="../../assets/app.css">
+  <link rel="stylesheet" href="../../assets/app.css?v={cache_buster}">
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
   <div class="app">
     <header>
       <div class="header-left">
-        <h1 class="title">RU→TR Quiz</h1>
-        <div class="subtitle">{level}</div>
+        <h1 class="title">RU→TR Quiz · {level}</h1>
       </div>
       <div class="header-right">
         <div class="score">Счёт: <span id="score">0</span></div>
@@ -84,28 +86,24 @@ def generate_quiz_page(level: str, questions_count: int) -> str:
 
       <!-- Quiz screen -->
       <div id="quizScreen" class="screen hidden">
-        <div class="progress-bar">
-          <div id="progressFill" class="progress-fill"></div>
-        </div>
-        <div class="question-counter">
-          Вопрос <span id="currentQ">1</span> из <span id="totalQ">5</span>
+        <div class="progress-container">
+          <div class="progress-bar">
+            <div id="progressFill" class="progress-fill"></div>
+          </div>
+          <div class="progress-counter"><span id="currentQ">1</span>/<span id="totalQ">5</span></div>
         </div>
         
-        <div class="card">
-          <h3 class="question-prompt">Выбери правильный перевод:</h3>
-          <p id="questionText" class="question-text"></p>
-          
-          <div id="answers" class="answers">
-            <!-- Answers will be inserted here -->
-          </div>
-          
-          <div id="explanation" class="explanation hidden">
-            <h4>Объяснение:</h4>
-            <p id="explanationText"></p>
-          </div>
-          
-          <button id="nextBtn" class="btn btn-primary hidden">Следующий вопрос</button>
+        <p id="questionText" class="question-text"></p>
+        
+        <div id="answers" class="answers">
+          <!-- Answers will be inserted here -->
         </div>
+        
+        <div id="explanation" class="explanation hidden">
+          <p id="explanationText"></p>
+        </div>
+        
+        <button id="nextBtn" class="btn btn-primary hidden">Следующий вопрос</button>
       </div>
 
       <!-- Results screen -->
@@ -142,8 +140,8 @@ def generate_quiz_page(level: str, questions_count: int) -> str:
     </main>
   </div>
 
-  <script src="../../assets/storage.js"></script>
-  <script src="../../assets/app.js" data-questions="./questions.json" data-level="{level}"></script>
+  <script src="../../assets/storage.js?v={cache_buster}"></script>
+  <script src="../../assets/app.js?v={cache_buster}" data-questions="./questions.json" data-level="{level}"></script>
 </body>
 </html>'''
 
@@ -157,10 +155,13 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
             continue
         
         levels_html.append(f'''
-        <a href="RU-TR/{level}/index.html" class="level-card">
-          <div class="level-badge">{level}</div>
-          <div class="level-description">
-            {'Начальный уровень' if level == 'A1' else 'Элементарный уровень' if level == 'A2' else 'Средний уровень'}
+        <a href="RU-TR/{level}/index.html" class="level-card" data-level="{level}">
+          <div class="level-content">
+            <div class="level-badge">{level}</div>
+            <div class="level-stats" id="stats-{level}">
+              <span class="stat-label">Ваш прогресс:</span>
+              <span class="stat-value">—</span>
+            </div>
           </div>
         </a>''')
     
@@ -236,21 +237,36 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
     }}
     
     .level-badge {{
-      font-size: 2rem;
+      font-size: 1.8rem;
       font-weight: 700;
-      margin-bottom: 10px;
       color: var(--accent);
+    }}
+    
+    .level-content {{
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }}
+    
+    .level-stats {{
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }}
+    
+    .stat-label {{
+      color: var(--muted);
+    }}
+    
+    .stat-value {{
+      color: var(--accent);
+      font-weight: 600;
+      margin-left: 4px;
     }}
     
     .level-meta {{
       font-size: 0.9rem;
       color: var(--muted);
       margin-bottom: 8px;
-    }}
-    
-    .level-description {{
-      font-size: 1.1rem;
-      font-weight: 500;
     }}
   </style>
 </head>
@@ -264,13 +280,84 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
     </div>
   </div>
   
+  <script src="assets/storage.js?v={int(time.time())}"></script>
   <script>
     // Telegram WebApp integration
     if (window.Telegram && window.Telegram.WebApp) {{
       const tg = window.Telegram.WebApp;
       tg.ready();
-      tg.expand();
+      tg.disableVerticalSwipes();
+      tg.isClosingConfirmationEnabled = true;
     }}
+    
+    // Load and display stats for each level
+    (async function() {{
+      const levels = ['A1', 'A2', 'B1'];
+      
+      // Set default '-' or cached value for all levels immediately
+      levels.forEach(level => {{
+        const statsEl = document.getElementById(`stats-${{level}}`);
+        if (statsEl) {{
+          const valueEl = statsEl.querySelector('.stat-value');
+          if (valueEl) {{
+            // Check if we have cached value
+            const storageKey = `quiz:ru-tr:${{level.toLowerCase()}}`;
+            console.log(`[catalog] Checking cache for level ${{level}}, key: "${{storageKey}}"`);
+            const cached = storage._cache && storage._cache[storageKey];
+            
+            if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
+              try {{
+                const stats = JSON.parse(cached.value);
+                let avgPercent;
+                if (stats.totalScore && stats.attempts) {{
+                  avgPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
+                }} else if (stats.lastScore !== undefined) {{
+                  avgPercent = Math.round((stats.lastScore / 5) * 100);
+                }}
+                if (avgPercent !== null && avgPercent !== undefined) {{
+                  valueEl.textContent = `${{avgPercent}}%`;
+                  return;
+                }}
+              }} catch (e) {{}}
+            }}
+            
+            valueEl.textContent = '-';
+          }}
+        }}
+      }});
+      
+      // Load all stats in parallel for faster response
+      const promises = levels.map(async level => {{
+        const statsEl = document.getElementById(`stats-${{level}}`);
+        if (!statsEl) return;
+        
+        try {{
+          const storageKey = `quiz:ru-tr:${{level.toLowerCase()}}`;
+          console.log(`[catalog] Loading stats for level ${{level}}, key: "${{storageKey}}"`);
+          const data = await storage.get(storageKey);
+          
+          if (data) {{
+            const stats = JSON.parse(data);
+            let avgPercent;
+            
+            if (stats.totalScore && stats.attempts) {{
+              avgPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
+            }} else if (stats.lastScore !== undefined) {{
+              avgPercent = Math.round((stats.lastScore / 5) * 100);
+            }}
+            
+            if (avgPercent !== null && avgPercent !== undefined) {{
+              const valueEl = statsEl.querySelector('.stat-value');
+              if (valueEl) valueEl.textContent = `${{avgPercent}}%`;
+            }}
+          }}
+        }} catch (e) {{
+          console.error(`Failed to load stats for ${{level}}:`, e);
+        }}
+      }});
+      
+      await Promise.all(promises);
+    }})();
   </script>
 </body>
 </html>'''
@@ -368,7 +455,7 @@ main {
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 30px;
+  padding: 20px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
@@ -432,12 +519,19 @@ main {
   display: none;
 }
 
+.progress-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
 .progress-bar {
+  flex: 1;
   height: 6px;
   background: rgba(255,255,255,0.1);
   border-radius: 3px;
   overflow: hidden;
-  margin-bottom: 15px;
 }
 
 .progress-fill {
@@ -447,11 +541,13 @@ main {
   transition: width 0.3s ease;
 }
 
-.question-counter {
-  text-align: center;
-  font-size: 0.9rem;
+.progress-counter {
+  font-size: 0.85rem;
   color: var(--muted);
-  margin-bottom: 20px;
+  font-weight: 600;
+  white-space: nowrap;
+  min-width: 35px;
+  text-align: right;
 }
 
 .question-prompt {
@@ -460,21 +556,24 @@ main {
 }
 
 .question-text {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
   text-align: center;
-  margin: 20px 0 30px 0;
+  margin: 15px 0 20px 0;
 }
 
 .answers {
   display: grid;
-  gap: 12px;
+  gap: 10px;
   margin-bottom: 20px;
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .answer-btn {
   width: 100%;
-  padding: 16px 20px;
+  padding: 12px 16px;
   border: 2px solid var(--border);
   border-radius: 12px;
   background: rgba(255,255,255,0.03);
@@ -534,17 +633,14 @@ main {
 }
 
 .explanation {
-  padding: 20px;
+  padding: 15px 20px;
   background: rgba(106,169,255,0.08);
   border-left: 3px solid var(--accent);
   border-radius: 6px;
   margin-bottom: 20px;
-}
-
-.explanation h4 {
-  margin: 0 0 8px 0;
-  font-size: 0.95rem;
-  color: var(--accent);
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .explanation p {
@@ -629,12 +725,16 @@ def generate_js() -> str:
     """Generate main app.js file"""
     return '''// RU→TR Vocabulary Quiz App
 
+// КОНСТАНТА: Количество вопросов в тесте
+const QUIZ_LENGTH = 5;
+
 // Telegram WebApp initialization
 let tg = null;
 if (window.Telegram && window.Telegram.WebApp) {
   tg = window.Telegram.WebApp;
   tg.ready();
-  tg.expand();
+  tg.disableVerticalSwipes();
+  tg.isClosingConfirmationEnabled = true;
 }
 
 // Quiz state
@@ -680,30 +780,31 @@ async function loadQuestions() {
     const response = await fetch(questionsPath);
     const allQuestions = await response.json();
     
-    // Shuffle and take 5 questions
-    questions = shuffleArray(allQuestions).slice(0, 5);
+    // Shuffle all questions first
+    const shuffled = shuffleArray(allQuestions);
     
-    console.log(`Loaded ${questions.length} questions from ${allQuestions.length} total`);
+    // Take EXACTLY QUIZ_LENGTH questions (5)
+    questions = shuffled.slice(0, QUIZ_LENGTH);
     
-    // Optionally shuffle answer options for each question
-    questions = questions.map(q => {
+    // Shuffle answer options for each question
+    questions = questions.map((q, index) => {
       const variants = [...q.tr];
       const correctAnswer = q.tr[q.correct - 1];
       
       // Shuffle variants
-      const shuffled = shuffleArray(variants);
+      const shuffledVariants = shuffleArray(variants);
       
       // Find new position of correct answer
-      const newCorrectIndex = shuffled.indexOf(correctAnswer) + 1;
+      const newCorrectIndex = shuffledVariants.indexOf(correctAnswer) + 1;
       
       return {
         ...q,
-        tr: shuffled,
+        tr: shuffledVariants,
         correct: newCorrectIndex
       };
     });
     
-    totalQDisplay.textContent = questions.length;
+    totalQDisplay.textContent = QUIZ_LENGTH;
     return true;
   } catch (error) {
     console.error('Failed to load questions:', error);
@@ -819,19 +920,16 @@ function selectAnswer(selected, button) {
 // Next question
 function nextQuestion() {
   currentQuestionIndex++;
-  console.log(`Moving to question ${currentQuestionIndex + 1} of ${questions.length}`);
   
   if (currentQuestionIndex < questions.length) {
     showQuestion();
   } else {
-    console.log('Quiz finished! Showing results...');
     showResults();
   }
 }
 
 // Show results
-async function showResults() {
-  console.log('Showing results screen...');
+function showResults() {
   const correctCount = score;
   const wrongCount = questions.length - score;
   const accuracy = Math.round((score / questions.length) * 100);
@@ -854,114 +952,208 @@ async function showResults() {
   }
   resultsMessage.textContent = message;
   
-  // Save progress to storage
-  const stats = {
-    bestScore: score,
-    lastScore: score,
-    attempts: 1,
-    lastAttemptAt: new Date().toISOString()
-  };
-  
-  // Load previous stats
-  try {
-    const prevStats = await storage.get(storageKey);
-    if (prevStats) {
-      const prev = JSON.parse(prevStats);
-      stats.bestScore = Math.max(score, prev.bestScore || 0);
-      stats.attempts = (prev.attempts || 0) + 1;
-    }
-  } catch (e) {
-    console.error('Failed to load previous stats:', e);
-  }
-  
-  // Save new stats
-  try {
-    await storage.set(storageKey, JSON.stringify(stats));
-  } catch (e) {
-    console.error('Failed to save stats:', e);
-  }
-  
+  // Show screen immediately (non-blocking)
   showScreen(resultsScreen);
+  
+  // Save stats in background
+  setTimeout(() => {
+    (async () => {
+      try {
+        console.log(`[showResults] Saving stats with storageKey: "${storageKey}"`);
+        const stats = {
+          bestScore: score,
+          lastScore: score,
+          totalScore: score,
+          attempts: 1,
+          lastAttemptAt: new Date().toISOString()
+        };
+        
+        // Load previous stats
+        try {
+          const prevStats = await storage.get(storageKey);
+          if (prevStats) {
+            const prev = JSON.parse(prevStats);
+            stats.bestScore = Math.max(score, prev.bestScore || 0);
+            stats.totalScore = (prev.totalScore || prev.lastScore || 0) + score;
+            stats.attempts = (prev.attempts || 0) + 1;
+          }
+        } catch (e) {
+          console.error('Failed to load previous stats:', e);
+        }
+        
+        // Save new stats
+        const statsJson = JSON.stringify(stats);
+        await storage.set(storageKey, statsJson);
+        
+        // Update cache immediately so it's available on catalog page
+        if (storage._cache) {
+          storage._cache[storageKey] = { value: statsJson, timestamp: Date.now() };
+        }
+        
+        // Calculate new percentage
+        const newPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
+        console.log(`Stats saved! New average: ${newPercent}%`);
+      } catch (e) {
+        console.error('Failed to save stats:', e);
+      }
+    })();
+  }, 100);
 }
 
 // Event listeners
 startBtn.addEventListener('click', startQuiz);
 nextBtn.addEventListener('click', nextQuestion);
 playAgainBtn.addEventListener('click', startQuiz);
-
-// Initialize
-console.log('Quiz app loaded');
 '''
 
 
 def generate_storage_js() -> str:
     """Generate storage.js for CloudStorage/localStorage"""
-    return '''// Storage wrapper with Telegram CloudStorage fallback to localStorage
+    return '''// Storage wrapper with Telegram CloudStorage + localStorage fallback
 
 const storage = {
+  // In-memory cache to avoid repeated CloudStorage calls
+  _cache: {},
+  _cacheTTL: 30000, // 30 seconds
+  
   // Check if CloudStorage is available
-  isCloudStorageAvailable() {
+  canUseCloudStorage() {
     return window.Telegram && 
            window.Telegram.WebApp && 
-           window.Telegram.WebApp.CloudStorage;
+           window.Telegram.WebApp.CloudStorage &&
+           typeof window.Telegram.WebApp.CloudStorage.getItem === 'function';
   },
   
   // Get value by key
   async get(key) {
-    if (this.isCloudStorageAvailable()) {
-      return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
+      // Check cache first
+      const cached = this._cache[key];
+      if (cached && Date.now() - cached.timestamp < this._cacheTTL) {
+        console.log(`[Storage] GET ${key} from cache:`, cached.value);
+        resolve(cached.value);
+        return;
+      }
+      
+      // Always try localStorage first for immediate response
+      const localValue = localStorage.getItem(key);
+      
+      if (!this.canUseCloudStorage()) {
+        console.log(`[Storage] GET ${key} from localStorage:`, localValue);
+        if (localValue) {
+          this._cache[key] = { value: localValue, timestamp: Date.now() };
+        }
+        resolve(localValue);
+        return;
+      }
+      
+      // Try CloudStorage with 800ms timeout for faster response
+      let resolved = false;
+      const timeout = setTimeout(() => {
+        if (!resolved) {
+          resolved = true;
+          console.log(`[Storage] GET ${key} timeout, using localStorage:`, localValue);
+          if (localValue) {
+            this._cache[key] = { value: localValue, timestamp: Date.now() };
+          }
+          resolve(localValue);
+        }
+      }, 800);
+      
+      try {
         window.Telegram.WebApp.CloudStorage.getItem(key, (error, value) => {
+          clearTimeout(timeout);
+          if (resolved) return;
+          resolved = true;
+          
           if (error) {
-            console.warn('CloudStorage get error, falling back to localStorage:', error);
-            resolve(localStorage.getItem(key));
+            console.warn(`[Storage] CloudStorage GET ${key} error:`, error);
+            if (localValue) {
+              this._cache[key] = { value: localValue, timestamp: Date.now() };
+            }
+            resolve(localValue);
           } else {
-            resolve(value);
+            console.log(`[Storage] GET ${key} from CloudStorage:`, value);
+            const finalValue = value || localValue;
+            // Cache the result
+            if (finalValue) {
+              this._cache[key] = { value: finalValue, timestamp: Date.now() };
+            }
+            // Sync to localStorage
+            if (value && value !== localValue) {
+              localStorage.setItem(key, value);
+            }
+            resolve(finalValue);
           }
         });
-      });
-    } else {
-      return Promise.resolve(localStorage.getItem(key));
-    }
+      } catch (e) {
+        clearTimeout(timeout);
+        if (!resolved) {
+          resolved = true;
+          console.error(`[Storage] CloudStorage GET ${key} exception:`, e);
+          resolve(localValue);
+        }
+      }
+    });
   },
   
   // Set value by key
   async set(key, value) {
-    if (this.isCloudStorageAvailable()) {
-      return new Promise((resolve, reject) => {
-        window.Telegram.WebApp.CloudStorage.setItem(key, value, (error, success) => {
-          if (error) {
-            console.warn('CloudStorage set error, falling back to localStorage:', error);
-            localStorage.setItem(key, value);
-            resolve();
-          } else {
-            resolve();
-          }
-        });
-      });
-    } else {
+    return new Promise((resolve) => {
+      // Update cache immediately
+      this._cache[key] = { value, timestamp: Date.now() };
+      
+      // Always save to localStorage immediately
       localStorage.setItem(key, value);
-      return Promise.resolve();
-    }
+      console.log(`[Storage] SET ${key} to localStorage:`, value);
+      
+      if (!this.canUseCloudStorage()) {
+        resolve();
+        return;
+      }
+      
+      // Try CloudStorage in background
+      try {
+        window.Telegram.WebApp.CloudStorage.setItem(key, value, (error) => {
+          if (error) {
+            console.warn(`[Storage] CloudStorage SET ${key} error:`, error);
+          } else {
+            console.log(`[Storage] SET ${key} to CloudStorage: OK`);
+          }
+          resolve();
+        });
+      } catch (e) {
+        console.error(`[Storage] CloudStorage SET ${key} exception:`, e);
+        resolve();
+      }
+    });
   },
   
   // Remove value by key
   async remove(key) {
-    if (this.isCloudStorageAvailable()) {
-      return new Promise((resolve, reject) => {
-        window.Telegram.WebApp.CloudStorage.removeItem(key, (error, success) => {
-          if (error) {
-            console.warn('CloudStorage remove error, falling back to localStorage:', error);
-            localStorage.removeItem(key);
-            resolve();
-          } else {
-            resolve();
-          }
-        });
-      });
-    } else {
+    return new Promise((resolve) => {
       localStorage.removeItem(key);
-      return Promise.resolve();
-    }
+      console.log(`[Storage] REMOVE ${key} from localStorage`);
+      
+      if (!this.canUseCloudStorage()) {
+        resolve();
+        return;
+      }
+      
+      try {
+        window.Telegram.WebApp.CloudStorage.removeItem(key, (error) => {
+          if (error) {
+            console.warn(`[Storage] CloudStorage REMOVE ${key} error:`, error);
+          } else {
+            console.log(`[Storage] REMOVE ${key} from CloudStorage: OK`);
+          }
+          resolve();
+        });
+      } catch (e) {
+        console.error(`[Storage] CloudStorage REMOVE ${key} exception:`, e);
+        resolve();
+      }
+    });
   }
 };
 

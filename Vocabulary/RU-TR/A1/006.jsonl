@@ -1,0 +1,39 @@
+{"id": "A1-006-0001", "ru": "Я дома", "tr": ["Evdeyim", "Evdeler", "Evdesin", "Evdeyiz"], "correct": 1, "explain_ru": "evdeyim — я дома (ev-de-y-im)", "tags": ["basic", "locative"], "source": "llm"}
+{"id": "A1-006-0002", "ru": "Твой друг", "tr": ["Bizim arkadaşımız", "Onun arkadaşı", "Senin arkadaşın", "Benim arkadaşım"], "correct": 3, "explain_ru": "arkadaşın — твой друг (possellive)", "tags": ["family", "possessive"], "source": "llm"}
+{"id": "A1-006-0003", "ru": "В школе", "tr": ["Okuldan", "Okulu", "Okulda", "Okula"], "correct": 3, "explain_ru": "okulda — в школе (locative)", "tags": ["places", "cases"], "source": "llm"}
+{"id": "A1-006-0004", "ru": "Мы читаем", "tr": ["Okuyorsun", "Okuyor", "Okuyorum", "Okuyoruz"], "correct": 4, "explain_ru": "okuyoruz — мы читаем", "tags": ["verbs", "present"], "source": "llm"}
+{"id": "A1-006-0005", "ru": "Это моя собака", "tr": ["Bu bizim köpeğimiz", "Bu onun köpeği", "Bu benim köpeğim", "Bu senin köpeğin"], "correct": 3, "explain_ru": "köpeğim — моя собака", "tags": ["animals", "possessive"], "source": "llm"}
+{"id": "A1-006-0006", "ru": "Двадцать", "tr": ["Kırk", "Yirmi", "Elli", "Otuz"], "correct": 2, "explain_ru": "yirmi — двадцать", "tags": ["numbers"], "source": "llm"}
+{"id": "A1-006-0007", "ru": "Красный цвет", "tr": ["Yeşil renk", "Mavi renk", "Sarı renk", "Kırmızı renk"], "correct": 4, "explain_ru": "kırmızı — красный", "tags": ["colors"], "source": "llm"}
+{"id": "A1-006-0008", "ru": "Добрый вечер", "tr": ["İyi geceler", "İyi akşamlar", "Günaydın", "İyi günler"], "correct": 2, "explain_ru": "iyi akşamlar — добрый вечер", "tags": ["greetings"], "source": "llm"}
+{"id": "A1-006-0009", "ru": "Вы говорите по-турецки?", "tr": ["Türkçe konuşuyor musunuz?", "İngilizce konuşuyor musunuz?", "Almanca konuşuyor musunuz?", "Rusça konuşuyor musunuz?"], "correct": 1, "explain_ru": "Konuşuyor musunuz — вы говорите?", "tags": ["questions", "languages"], "source": "llm"}
+{"id": "A1-006-0012", "ru": "Мне нравится чай", "tr": ["Suyu seviyorum", "Kahveyi seviyorum", "Çayı seviyorum", "Sütü seviyorum"], "correct": 3, "explain_ru": "çayı seviyorum — чай люблю", "tags": ["food", "verbs"], "source": "llm"}
+{"id": "A1-006-0014", "ru": "Сколько стоит?", "tr": ["Ne zaman?", "Ne kadar?", "Nerede?", "Nasıl?"], "correct": 2, "explain_ru": "ne kadar — сколько (стоит)", "tags": ["shopping", "questions"], "source": "llm"}
+{"id": "A1-006-0015", "ru": "Очень вкусно", "tr": ["Çok kötü", "Çok ucuz", "Çok lezzetli", "Çok pahalı"], "correct": 3, "explain_ru": "lezzetli — вкусный", "tags": ["food", "adjectives"], "source": "llm"}
+{"id": "A1-006-0017", "ru": "Ты идешь?", "tr": ["Geliyor musun?", "Oturuyor musun?", "Kalıyor musun?", "Gidiyor musun?"], "correct": 4, "explain_ru": "gidiyor musun — ты идешь? (уходишь)", "tags": ["questions", "verbs"], "source": "llm"}
+{"id": "A1-006-0019", "ru": "Нет проблем", "tr": ["İş yok", "Zaman yok", "Sorun yok", "Para yok"], "correct": 3, "explain_ru": "sorun yok — нет проблем", "tags": ["expressions"], "source": "llm"}
+{"id": "A1-006-0021", "ru": "Я работаю", "tr": ["Çalışıyorum", "Yürüyorum", "Okuyorum", "Yatıyorum"], "correct": 1, "explain_ru": "çalışıyorum — я работаю", "tags": ["verbs", "work"], "source": "llm"}
+{"id": "A1-006-0022", "ru": "У меня есть машина", "tr": ["Arabam yok", "Evim yok", "Evim var", "Arabam var"], "correct": 4, "explain_ru": "arabam var — моя машина есть", "tags": ["possessive", "var/yok"], "source": "llm"}
+{"id": "A1-006-0023", "ru": "Где вы живете?", "tr": ["Ne yapıyorsunuz?", "Nereye gidiyorsunuz?", "Nereden geliyorsunuz?", "Nerede yaşıyorsunuz?"], "correct": 4, "explain_ru": "yaşıyorsunuz — живете", "tags": ["questions", "verbs"], "source": "llm"}
+{"id": "A1-006-0025", "ru": "Вчера", "tr": ["Dün", "Bugün", "Şimdi", "Yarın"], "correct": 1, "explain_ru": "dün — вчера", "tags": ["time"], "source": "llm"}
+{"id": "A1-006-0026", "ru": "Завтра", "tr": ["Dün", "Gece", "Yarın", "Bugün"], "correct": 3, "explain_ru": "yarın — завтра", "tags": ["time"], "source": "llm"}
+{"id": "A1-006-0028", "ru": "Он врач", "tr": ["O doktor", "O öğrenci", "O öğretmen", "O mühendis"], "correct": 1, "explain_ru": "doktor — врач", "tags": ["professions"], "source": "llm"}
+{"id": "A1-006-0029", "ru": "Мы в парке", "tr": ["Okuldayız", "Evdeyiz", "İşteyiz", "Parktayız"], "correct": 4, "explain_ru": "parktayız — мы в парке", "tags": ["places", "locative"], "source": "llm"}
+{"id": "A1-006-0030", "ru": "Это дорого", "tr": ["Bu çirkin", "Bu ucuz", "Bu pahalı", "Bu güzel"], "correct": 3, "explain_ru": "pahalı — дорогой", "tags": ["shopping", "adjectives"], "source": "llm"}
+{"id": "A1-006-0033", "ru": "Меня зовут Ахмет", "tr": ["Soyadım Ahmet", "Sen Ahmet", "Adım Ahmet", "Benim Ahmet"], "correct": 3, "explain_ru": "adım — мое имя", "tags": ["basic"], "source": "llm"}
+{"id": "A1-006-0034", "ru": "Приятно познакомиться", "tr": ["Memnun oldum", "Hoşça kal", "Rica ederim", "Teşekkür ederim"], "correct": 1, "explain_ru": "memnun oldum — (я стал) доволен / приятно познакомиться", "tags": ["greetings"], "source": "llm"}
+{"id": "A1-006-0035", "ru": "Старый дом", "tr": ["Büyük ev", "Eski ev", "Yeni ev", "Küçük ev"], "correct": 2, "explain_ru": "eski — старый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0036", "ru": "Новая машина", "tr": ["Yeni araba", "Eski araba", "Yavaş araba", "Hızlı araba"], "correct": 1, "explain_ru": "yeni — новый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0038", "ru": "Вода", "tr": ["Su", "Süt", "Çay", "Kahve"], "correct": 1, "explain_ru": "su — вода", "tags": ["food"], "source": "llm"}
+{"id": "A1-006-0039", "ru": "Хлеб", "tr": ["Zeytin", "Yumurta", "Peynir", "Ekmek"], "correct": 4, "explain_ru": "ekmek — хлеб", "tags": ["food"], "source": "llm"}
+{"id": "A1-006-0040", "ru": "Мой телефон", "tr": ["Telefonun", "Telefonumuz", "Telefonum", "Telefonu"], "correct": 3, "explain_ru": "telefonum — мой телефон", "tags": ["possessive"], "source": "llm"}
+{"id": "A1-006-0041", "ru": "Нет", "tr": ["Hayır", "Lütfen", "Evet", "Belki"], "correct": 1, "explain_ru": "hayır — нет", "tags": ["basic"], "source": "llm"}
+{"id": "A1-006-0042", "ru": "Да", "tr": ["Yok", "Hayır", "Var", "Evet"], "correct": 4, "explain_ru": "evet — да", "tags": ["basic"], "source": "llm"}
+{"id": "A1-006-0043", "ru": "Стол", "tr": ["Yatak", "Dolap", "Masa", "Sandalye"], "correct": 3, "explain_ru": "masa — стол", "tags": ["furniture"], "source": "llm"}
+{"id": "A1-006-0044", "ru": "Кот", "tr": ["Kuş", "Köpek", "Kedi", "Balık"], "correct": 3, "explain_ru": "kedi — кот/кошка", "tags": ["animals"], "source": "llm"}
+{"id": "A1-006-0045", "ru": "Солнце", "tr": ["Bulut", "Ay", "Güneş", "Yıldız"], "correct": 3, "explain_ru": "güneş — солнце", "tags": ["nature"], "source": "llm"}
+{"id": "A1-006-0046", "ru": "День", "tr": ["Yıl", "Gün", "Hafta", "Ay"], "correct": 2, "explain_ru": "gün — день", "tags": ["time"], "source": "llm"}
+{"id": "A1-006-0047", "ru": "Ночь", "tr": ["Akşam", "Öğle", "Sabah", "Gece"], "correct": 4, "explain_ru": "gece — ночь", "tags": ["time"], "source": "llm"}
+{"id": "A1-006-0048", "ru": "Женщина", "tr": ["Çocuk", "Adam", "Kadın", "Bebek"], "correct": 3, "explain_ru": "kadın — женщина", "tags": ["people"], "source": "llm"}
+{"id": "A1-006-0049", "ru": "Мужчина", "tr": ["Kadın", "Adam", "Oğlan", "Kız"], "correct": 2, "explain_ru": "adam — мужчина/человек", "tags": ["people"], "source": "llm"}
+{"id": "A1-006-0050", "ru": "Ребенок", "tr": ["Dede", "Çocuk", "Anne", "Baba"], "correct": 2, "explain_ru": "çocuk — ребенок", "tags": ["people"], "source": "llm"}

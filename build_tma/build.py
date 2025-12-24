@@ -1891,40 +1891,66 @@ def extract_anchors(markdown: str) -> List[Dict[str, str]]:
 
 
 def replace_module_links_in_markdown(
-    markdown: str, module_name_to_id: Dict[str, str], course_id: str
+    markdown: str, 
+    module_name_to_id: Dict[str, str], 
+    course_id: str,
+    global_module_map: Optional[Dict[Tuple[str, str], Tuple[str, str]]] = None
 ) -> str:
     """
     Заменяет ссылки на другие модули в markdown на формат TMA.
     
-    Преобразует ссылки вида [Text](../NN_ModuleName/) в формат:
-    [Text](content/courses/{course_id}/modules/{module_id}/lecture.json)
+    Преобразует ссылки вида:
+    - [Text](../NN_ModuleName/) -> внутрикурсовые ссылки
+    - [Text](../../OtherCourse/NN_ModuleName/) -> кросс-курсовые ссылки
+    
+    в формат: [Text](content/courses/{course_id}/modules/{module_id}/lecture.json)
     
     Args:
         markdown: Исходный markdown текст
-        module_name_to_id: Словарь маппинга module_name -> module_id
-        course_id: ID курса
+        module_name_to_id: Словарь маппинга module_name -> module_id для текущего курса
+        course_id: ID текущего курса
+        global_module_map: Глобальный маппинг (course_name, module_name) -> (course_id, module_id)
     
     Returns:
         Markdown с замененными ссылками
     """
-    def replace_link(match):
+    # Обработчик для кросс-курсовых ссылок вида [Text](../../Course/NN_Module/)
+    def replace_cross_course_link(match):
         link_text = match.group(1)  # Текст ссылки
-        module_name = match.group(2).rstrip('/')  # Имя модуля (например, "07_Sockets")
+        target_course_name = match.group(2)  # Имя курса
+        module_name = match.group(3).rstrip('/')  # Имя модуля
+        
+        if global_module_map:
+            key = (target_course_name, module_name)
+            if key in global_module_map:
+                target_course_id, module_id = global_module_map[key]
+                tma_url = f"content/courses/{target_course_id}/modules/{module_id}/lecture.json"
+                return f'[{link_text}]({tma_url})'
+        
+        # Если модуль не найден, оставляем ссылку как есть
+        return match.group(0)
+    
+    # Обработчик для внутрикурсовых ссылок вида [Text](../NN_Module/)
+    def replace_local_link(match):
+        link_text = match.group(1)  # Текст ссылки
+        module_name = match.group(2).rstrip('/')  # Имя модуля
         
         # Ищем module_id для этого модуля
         if module_name in module_name_to_id:
             module_id = module_name_to_id[module_name]
-            # Формируем URL в формате TMA
             tma_url = f"content/courses/{course_id}/modules/{module_id}/lecture.json"
             return f'[{link_text}]({tma_url})'
         else:
-            # Если модуль не найден, оставляем ссылку как есть (или можно вывести предупреждение)
+            # Если модуль не найден, оставляем ссылку как есть
             return match.group(0)
     
-    # Паттерн для поиска ссылок вида [Text](../NN_ModuleName/)
-    # Поддерживает варианты: [Text](../07_Sockets/), [Text](../07_Sockets)
-    pattern = r'\[([^\]]+)\]\(\.\./(\d{2}_[^/)]+)/?\)'
-    return re.sub(pattern, replace_link, markdown)
+    # Сначала обрабатываем кросс-курсовые ссылки вида [Text](../../Course/NN_Module/)
+    cross_course_pattern = r'\[([^\]]+)\]\(\.\./\.\./([^/]+)/(\d{2}_[^/)]+)/?\)'
+    markdown = re.sub(cross_course_pattern, replace_cross_course_link, markdown)
+    
+    # Затем обрабатываем внутрикурсовые ссылки вида [Text](../NN_Module/)
+    local_pattern = r'\[([^\]]+)\]\(\.\./(\d{2}_[^/)]+)/?\)'
+    return re.sub(local_pattern, replace_local_link, markdown)
 
 
 def parse_quiz_markdown(markdown: str, base_path: Path) -> List[QuizQuestion]:
@@ -2352,6 +2378,31 @@ def build(
             # Оставляем только один курс
             selected_dir = course_id_map[course_filter]
             course_id_map = {course_filter: selected_dir}
+
+    # Строим глобальный маппинг (course_name, module_name) -> (course_id, module_id)
+    # для поддержки кросс-курсовых ссылок
+    global_module_map: Dict[Tuple[str, str], Tuple[str, str]] = {}
+    for c_id, c_dir in course_id_map.items():
+        c_modules = discover_modules(c_dir, report)
+        c_module_id_counts: Dict[str, int] = {}
+        for mdir in c_modules:
+            m = re.match(r"^(\d{2})_(.+)$", mdir.name)
+            if not m:
+                continue
+            module_no = int(m.group(1))
+            module_name_rest = m.group(2)
+            module_id_base = slugify(module_name_rest)
+            if not module_id_base:
+                module_id_base = f"m{module_no}"
+            module_id = module_id_base
+            if module_id in c_module_id_counts:
+                c_module_id_counts[module_id] += 1
+                suffix = c_module_id_counts[module_id]
+                module_id = f"{module_id}-{suffix}"
+            else:
+                c_module_id_counts[module_id] = 1
+            # Ключ: (course_name, module_name), значение: (course_id, module_id)
+            global_module_map[(c_dir.name, mdir.name)] = (c_id, module_id)
 
     # Строим каждый курс
     for course_id, course_dir in sorted(course_id_map.items(), key=lambda kv: kv[0]):

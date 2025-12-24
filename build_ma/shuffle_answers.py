@@ -97,7 +97,8 @@ def process_file(filepath: Path) -> bool:
     # Format current distribution for print
     dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in ratios.items()])
     
-    result_msg = f"  📊 {filepath.name}: {dist_str}"
+    display_path = f"{filepath.parent.name}/{filepath.name}"
+    result_msg = f"  📊 {display_path}: {dist_str}"
     
     if should_shuffle:
         print(result_msg + " -> ⚠️  High deviation, SHUFFLING...")

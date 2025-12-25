@@ -41,7 +41,7 @@
 {"id": "A1-001-0041", "ru": "работа", "tr": ["ofis", "meslek", "iş", "görev"], "correct": 3, "explain_ru": "iş — работа", "tags": ["noun", "general"], "source": "llm"}
 {"id": "A1-001-0042", "ru": "старый", "tr": ["genç", "yaşlı", "yeni", "eski"], "correct": 4, "explain_ru": "eski — старый (о вещах), yaşlı (о людях)", "tags": ["adjective", "quality"], "source": "llm"}
 {"id": "A1-001-0043", "ru": "смотреть", "tr": ["görmek", "bulmak", "aramak", "bakmak"], "correct": 4, "explain_ru": "bakmak — смотреть, глядеть", "tags": ["verb", "Senses"], "source": "llm"}
-{"id": "A1-001-0044", "ru": "друu", "tr": ["arkadaş", "dost", "yabancı", "komşu"], "correct": 1, "explain_ru": "arkadaş — друг", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0044", "ru": "друг", "tr": ["arkadaş", "dost", "yabancı", "komşu"], "correct": 1, "explain_ru": "arkadaş — друг", "tags": ["noun", "people"], "source": "llm"}
 {"id": "A1-001-0045", "ru": "ждать", "tr": ["kalmak", "durmak", "beklemek", "geçmek"], "correct": 3, "explain_ru": "beklemek — ждать", "tags": ["verb", "action"], "source": "llm"}
 {"id": "A1-001-0046", "ru": "имя", "tr": ["lakap", "ad", "isim", "soyadı"], "correct": 2, "explain_ru": "ad — имя", "tags": ["noun", "general"], "source": "llm"}
 {"id": "A1-001-0047", "ru": "женщина", "tr": ["kız", "anne", "kadın", "bayan"], "correct": 3, "explain_ru": "kadın — женщина", "tags": ["noun", "people"], "source": "llm"}

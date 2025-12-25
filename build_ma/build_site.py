@@ -36,7 +36,7 @@ def find_jsonl_files(base_dir: Path, content_type: str) -> Dict[str, List[Path]]
     Find all JSONL files organized by level.
     Args:
         base_dir: Repository root
-        content_type: 'Words' or 'Phrases'
+        content_type: 'Words', 'Phrases', or 'Grammar'
     Returns: {level: [Path, ...], ...}
     """
     structure = defaultdict(list)
@@ -56,7 +56,8 @@ def generate_quiz_page(level: str, questions_count: int, content_type: str) -> s
     """Generate HTML for a quiz page"""
     import time
     cache_buster = int(time.time())
-    type_label = "Слова" if content_type == "Words" else "Фразы"
+    type_labels = {"Words": "Слова", "Phrases": "Фразы", "Grammar": "Грамматика"}
+    type_label = type_labels.get(content_type, "Тесты")
     return f'''<!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -150,7 +151,7 @@ def generate_quiz_page(level: str, questions_count: int, content_type: str) -> s
 </html>'''
 
 
-def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_structure: Dict[str, List[Path]]) -> str:
+def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_structure: Dict[str, List[Path]], grammar_structure: Dict[str, List[Path]]) -> str:
     """Generate HTML for catalog/index page"""
     
     # Generate Words section
@@ -177,6 +178,21 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
           <div class="level-content">
             <div class="level-badge">{level}</div>
             <div class="level-stats" id="stats-phrases-{level}">
+              <span class="stat-label">Ваш прогресс:</span>
+              <span class="stat-value">—</span>
+            </div>
+          </div>
+        </a>''')
+    
+    # Generate Grammar section
+    grammar_html = []
+    for level in ["A1", "A2", "B1"]:
+        if level in grammar_structure:
+            grammar_html.append(f'''
+        <a href="RU-TR_Grammar/{level}/index.html" class="level-card" data-level="{level}">
+          <div class="level-content">
+            <div class="level-badge">{level}</div>
+            <div class="level-stats" id="stats-grammar-{level}">
               <span class="stat-label">Ваш прогресс:</span>
               <span class="stat-value">—</span>
             </div>
@@ -324,6 +340,11 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
     <div class="levels-grid">
       {''.join(phrases_html) if phrases_html else '<p style="color: var(--muted); text-align: center;">Нет доступных тестов</p>'}
     </div>
+    
+    {'<h2 style="margin: 30px 0 15px 0; font-size: 1.3rem;">📚 Тесты по грамматике</h2>' if grammar_html else ''}
+    <div class="levels-grid">
+      {''.join(grammar_html) if grammar_html else '<p style="color: var(--muted); text-align: center;">Нет доступных тестов</p>'}
+    </div>
   </div>
   
   <script src="./assets/storage.js?v={int(time.time())}"></script>
@@ -349,7 +370,7 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
     // Load and display stats for each level and type
     (async function() {{
       const levels = ['A1', 'A2', 'B1'];
-      const types = ['words', 'phrases'];
+      const types = ['words', 'phrases', 'grammar'];
       
       // Load unique days counter
       try {{
@@ -888,7 +909,9 @@ const scriptTag = document.querySelector('script[data-questions]');
 const questionsPath = scriptTag.getAttribute('data-questions');
 const level = scriptTag.getAttribute('data-level') || 'unknown';
 // Determine content type from URL path
-const contentType = window.location.pathname.includes('RU-TR_Words') ? 'words' : 'phrases';
+const contentType = window.location.pathname.includes('RU-TR_Words') ? 'words' 
+  : window.location.pathname.includes('RU-TR_Grammar') ? 'grammar' 
+  : 'phrases';
 const storageKey = `quiz:ru-tr-${contentType}:${level.toLowerCase()}`;
 
 // DOM elements
@@ -1712,9 +1735,10 @@ def build_site():
     
     print("🔍 Running validation...")
     
-    # Run validation first with separate ID tracking for Words and Phrases
+    # Run validation first with separate ID tracking for Words, Phrases, and Grammar
     words_ids = set()
     phrases_ids = set()
+    grammar_ids = set()
     jsonl_files = validate_questions.find_jsonl_files(repo_root)
     
     if not jsonl_files:
@@ -1724,8 +1748,12 @@ def build_site():
     has_errors = False
     for filepath in jsonl_files:
         # Determine which ID set to use based on file path
-        is_words = "RU-TR_Words" in str(filepath)
-        all_ids = words_ids if is_words else phrases_ids
+        if "RU-TR_Words" in str(filepath):
+            all_ids = words_ids
+        elif "RU-TR_Grammar" in str(filepath):
+            all_ids = grammar_ids
+        else:
+            all_ids = phrases_ids
         
         _, errors_list = validate_questions.validate_jsonl_file(filepath, all_ids)
         if errors_list:
@@ -1765,9 +1793,10 @@ def build_site():
     (assets_dir / "app.js").write_text(generate_js(), encoding="utf-8")
     (assets_dir / "storage.js").write_text(generate_storage_js(), encoding="utf-8")
     
-    # Find and organize JSONL files for both types
+    # Find and organize JSONL files for all types
     words_structure = find_jsonl_files(repo_root, "Words")
     phrases_structure = find_jsonl_files(repo_root, "Phrases")
+    grammar_structure = find_jsonl_files(repo_root, "Grammar")
     
     print("🏗️  Building quiz pages...")
     
@@ -1817,17 +1846,42 @@ def build_site():
         
         print(f"  ✓ Phrases/{level} ({len(all_questions)} questions from {len(files)} file(s))")
     
+    # Generate quiz pages for Grammar
+    for level, files in grammar_structure.items():
+        # Create directory for this level
+        quiz_dir = output_dir / "RU-TR_Grammar" / level
+        quiz_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Load and combine all questions from all files in this level
+        all_questions = []
+        for jsonl_file in files:
+            questions = load_questions_from_jsonl(jsonl_file)
+            all_questions.extend(questions)
+        
+        # Save combined questions.json
+        questions_json_path = quiz_dir / "questions.json"
+        with open(questions_json_path, "w", encoding="utf-8") as f:
+            json.dump(all_questions, f, ensure_ascii=False, indent=2)
+        
+        # Generate quiz HTML
+        quiz_html = generate_quiz_page(level, len(all_questions), "Grammar")
+        (quiz_dir / "index.html").write_text(quiz_html, encoding="utf-8")
+        
+        print(f"  ✓ Grammar/{level} ({len(all_questions)} questions from {len(files)} file(s))")
+    
     # Generate catalog/index page
     print("📋 Generating catalog page...")
-    catalog_html = generate_catalog_page(words_structure, phrases_structure)
+    catalog_html = generate_catalog_page(words_structure, phrases_structure, grammar_structure)
     (output_dir / "index.html").write_text(catalog_html, encoding="utf-8")
     
     print(f"\n✅ Build complete! Output: {output_dir}")
     print(f"   Words levels: {len(words_structure)}")
     print(f"   Phrases levels: {len(phrases_structure)}")
+    print(f"   Grammar levels: {len(grammar_structure)}")
     total_words_files = sum(len(files) for files in words_structure.values())
     total_phrases_files = sum(len(files) for files in phrases_structure.values())
-    print(f"   Total source files: {total_words_files + total_phrases_files}")
+    total_grammar_files = sum(len(files) for files in grammar_structure.values())
+    print(f"   Total source files: {total_words_files + total_phrases_files + total_grammar_files}")
     
     return 0
 

@@ -160,7 +160,7 @@ def validate_jsonl_file(filepath: Path, all_ids: Set[str]) -> Tuple[int, List[Tu
 
 
 def find_jsonl_files(base_dir: Path) -> List[Path]:
-    """Find all .jsonl files in Vocabulary/RU-TR_{Words,Phrases}/{A1,A2,B1}/**/*.jsonl"""
+    """Find all .jsonl files in Vocabulary/RU-TR_{Words,Phrases,Grammar}/{A1,A2,B1}/**/*.jsonl"""
     patterns = [
         "Vocabulary/RU-TR_Words/A1/**/*.jsonl",
         "Vocabulary/RU-TR_Words/A2/**/*.jsonl",
@@ -191,21 +191,26 @@ def main():
     jsonl_files = find_jsonl_files(repo_root)
     
     if not jsonl_files:
-        print("⚠️  No JSONL files found in Vocabulary/RU-TR_{Words,Phrases}/{A1,A2,B1}")
+        print("⚠️  No JSONL files found in Vocabulary/RU-TR_{Words,Phrases,Grammar}/{A1,A2,B1}")
         return 0
     
     print(f"📄 Found {len(jsonl_files)} file(s) to validate\n")
     
-    # Separate ID tracking for Words and Phrases to allow same IDs in different categories
+    # Separate ID tracking for Words, Phrases, and Grammar to allow same IDs in different categories
     words_ids: Set[str] = set()
     phrases_ids: Set[str] = set()
+    grammar_ids: Set[str] = set()
     total_errors = 0
     files_with_errors = 0
     
     for filepath in jsonl_files:
         # Determine which ID set to use based on file path
-        is_words = "RU-TR_Words" in str(filepath)
-        all_ids = words_ids if is_words else phrases_ids
+        if "RU-TR_Words" in str(filepath):
+            all_ids = words_ids
+        elif "RU-TR_Grammar" in str(filepath):
+            all_ids = grammar_ids
+        else:
+            all_ids = phrases_ids
         rel_path = filepath.relative_to(repo_root)
         print(f"Validating: {rel_path}")
         

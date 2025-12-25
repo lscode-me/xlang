@@ -31,15 +31,18 @@ def load_questions_from_jsonl(filepath: Path) -> List[Dict[str, Any]]:
     return questions
 
 
-def find_jsonl_files(base_dir: Path) -> Dict[str, List[Path]]:
+def find_jsonl_files(base_dir: Path, content_type: str) -> Dict[str, List[Path]]:
     """
     Find all JSONL files organized by level.
+    Args:
+        base_dir: Repository root
+        content_type: 'Words' or 'Phrases'
     Returns: {level: [Path, ...], ...}
     """
     structure = defaultdict(list)
     
     for level in ["A1", "A2", "B1"]:
-        level_dir = base_dir / "Vocabulary" / "RU-TR_Phrases" / level
+        level_dir = base_dir / "Vocabulary" / f"RU-TR_{content_type}" / level
         if not level_dir.exists():
             continue
         
@@ -49,16 +52,17 @@ def find_jsonl_files(base_dir: Path) -> Dict[str, List[Path]]:
     return structure
 
 
-def generate_quiz_page(level: str, questions_count: int) -> str:
+def generate_quiz_page(level: str, questions_count: int, content_type: str) -> str:
     """Generate HTML for a quiz page"""
     import time
     cache_buster = int(time.time())
+    type_label = "Слова" if content_type == "Words" else "Фразы"
     return f'''<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz: {level}</title>
+  <title>Quiz: {level} · {type_label}</title>
   <link rel="stylesheet" href="../../assets/app.css?v={cache_buster}">
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
@@ -66,7 +70,7 @@ def generate_quiz_page(level: str, questions_count: int) -> str:
   <div class="app">
     <header>
       <div class="header-left">
-        <h1 class="title">RU→TR Quiz · {level}</h1>
+        <h1 class="title">RU→TR {type_label} · {level}</h1>
       </div>
       <div class="header-right">
         <div class="score">Счёт: <span id="score">0</span></div>
@@ -146,19 +150,33 @@ def generate_quiz_page(level: str, questions_count: int) -> str:
 </html>'''
 
 
-def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
+def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_structure: Dict[str, List[Path]]) -> str:
     """Generate HTML for catalog/index page"""
-    levels_html = []
     
+    # Generate Words section
+    words_html = []
     for level in ["A1", "A2", "B1"]:
-        if level not in structure:
-            continue
-        
-        levels_html.append(f'''
-        <a href="RU-TR/{level}/index.html" class="level-card" data-level="{level}">
+        if level in words_structure:
+            words_html.append(f'''
+        <a href="RU-TR_Words/{level}/index.html" class="level-card" data-level="{level}">
           <div class="level-content">
             <div class="level-badge">{level}</div>
-            <div class="level-stats" id="stats-{level}">
+            <div class="level-stats" id="stats-words-{level}">
+              <span class="stat-label">Ваш прогресс:</span>
+              <span class="stat-value">—</span>
+            </div>
+          </div>
+        </a>''')
+    
+    # Generate Phrases section
+    phrases_html = []
+    for level in ["A1", "A2", "B1"]:
+        if level in phrases_structure:
+            phrases_html.append(f'''
+        <a href="RU-TR_Phrases/{level}/index.html" class="level-card" data-level="{level}">
+          <div class="level-content">
+            <div class="level-badge">{level}</div>
+            <div class="level-stats" id="stats-phrases-{level}">
               <span class="stat-label">Ваш прогресс:</span>
               <span class="stat-value">—</span>
             </div>
@@ -216,14 +234,14 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
     
     .levels-grid {{
       display: grid;
-      gap: 20px;
+      gap: 12px;
     }}
     
     .level-card {{
       background: var(--card);
       border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 30px;
+      border-radius: 12px;
+      padding: 16px 20px;
       text-decoration: none;
       color: var(--text);
       transition: all 0.2s;
@@ -268,19 +286,47 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
       color: var(--muted);
       margin-bottom: 8px;
     }}
+    
+    .user-pill {{
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      max-width: 40%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }}
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>🇷🇺 → 🇹🇷 Vocabulary Quiz</h1>
-    <p class="subtitle">Выберите свой уровень</p>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+      <div>
+        <h1 style="margin: 0 0 4px 0; font-size: 1.5rem;">🇷🇺 → 🇹🇷</h1>
+        <div style="font-size: 1.1rem;">Vocabulary Quiz</div>
+      </div>
+      <div style="text-align: right;">
+        <div id="user-pill" style="font-size: 0.85rem; color: var(--muted); margin-bottom: 4px;"></div>
+        <div style="font-size: 0.95rem;">
+          🔥 <span style="color: var(--muted);">Дней:</span> <span id="unique-days" style="color: var(--accent); font-weight: 600;">0</span>
+        </div>
+      </div>
+    </div>
     
+    {'<h2 style="margin: 30px 0 15px 0; font-size: 1.3rem;">📝 Тесты по словам</h2>' if words_html else ''}
     <div class="levels-grid">
-      {''.join(levels_html)}
+      {''.join(words_html) if words_html else '<p style="color: var(--muted); text-align: center;">Нет доступных тестов</p>'}
+    </div>
+    
+    {'<h2 style="margin: 30px 0 15px 0; font-size: 1.3rem;">💬 Тесты по фразам</h2>' if phrases_html else ''}
+    <div class="levels-grid">
+      {''.join(phrases_html) if phrases_html else '<p style="color: var(--muted); text-align: center;">Нет доступных тестов</p>'}
     </div>
   </div>
   
-  <script src="assets/storage.js?v={int(time.time())}"></script>
+  <script src="./assets/storage.js?v={int(time.time())}"></script>
   <script>
     // Telegram WebApp integration
     if (window.Telegram && window.Telegram.WebApp) {{
@@ -288,72 +334,154 @@ def generate_catalog_page(structure: Dict[str, List[Path]]) -> str:
       tg.ready();
       tg.disableVerticalSwipes();
       tg.isClosingConfirmationEnabled = true;
+      
+      // Show user info
+      const userPillEl = document.getElementById('user-pill');
+      if (tg.initDataUnsafe && tg.initDataUnsafe.user && userPillEl) {{
+        const u = tg.initDataUnsafe.user;
+        const name = [u.first_name, u.last_name].filter(Boolean).join(' ') || u.username || 'Пользователь';
+        userPillEl.textContent = '@' + (u.username || name);
+      }} else if (userPillEl) {{
+        userPillEl.textContent = 'Гость';
+      }}
     }}
     
-    // Load and display stats for each level
+    // Load and display stats for each level and type
     (async function() {{
       const levels = ['A1', 'A2', 'B1'];
+      const types = ['words', 'phrases'];
       
-      // Set default '-' or cached value for all levels immediately
-      levels.forEach(level => {{
-        const statsEl = document.getElementById(`stats-${{level}}`);
-        if (statsEl) {{
-          const valueEl = statsEl.querySelector('.stat-value');
-          if (valueEl) {{
-            // Check if we have cached value
-            const storageKey = `quiz:ru-tr:${{level.toLowerCase()}}`;
-            console.log(`[catalog] Checking cache for level ${{level}}, key: "${{storageKey}}"`);
-            const cached = storage._cache && storage._cache[storageKey];
-            
-            if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
-              try {{
-                const stats = JSON.parse(cached.value);
-                let avgPercent;
-                if (stats.totalScore && stats.attempts) {{
-                  avgPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
-                }} else if (stats.lastScore !== undefined) {{
-                  avgPercent = Math.round((stats.lastScore / 5) * 100);
-                }}
-                if (avgPercent !== null && avgPercent !== undefined) {{
-                  valueEl.textContent = `${{avgPercent}}%`;
-                  return;
-                }}
-              }} catch (e) {{}}
+      // Load unique days counter
+      try {{
+        const globalKey = 'quiz:global:days-counter';
+        
+        // Check cache first
+        const cached = storage._cache && storage._cache[globalKey];
+        const uniqueDaysEl = document.getElementById('unique-days');
+        
+        if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
+          try {{
+            const stats = JSON.parse(cached.value);
+            console.log('[catalog] Unique days from cache:', stats.uniqueDays);
+            if (uniqueDaysEl) {{
+              uniqueDaysEl.textContent = stats.uniqueDays || 0;
             }}
-            
-            valueEl.textContent = '-';
+          }} catch (e) {{
+            console.error('[catalog] Error parsing cached unique days:', e);
           }}
         }}
+        
+        // Always load from storage to get latest value
+        const globalData = await storage.get(globalKey);
+        console.log('[catalog] Unique days from storage:', globalData);
+        
+        if (globalData) {{
+          const stats = JSON.parse(globalData);
+          console.log('[catalog] Parsed unique days:', stats);
+          if (uniqueDaysEl) {{
+            uniqueDaysEl.textContent = stats.uniqueDays || 0;
+          }}
+        }} else {{
+          console.log('[catalog] No unique days data found');
+          if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
+        }}
+      }} catch (e) {{
+        console.error('Failed to load unique days:', e);
+      }}
+      
+      // Set default '-' or cached value for all levels immediately
+      types.forEach(type => {{
+        levels.forEach(level => {{
+          const statsEl = document.getElementById(`stats-${{type}}-${{level}}`);
+          if (statsEl) {{
+            const valueEl = statsEl.querySelector('.stat-value');
+            if (valueEl) {{
+              // Check if we have cached value
+              const storageKey = `quiz:ru-tr-${{type}}:${{level.toLowerCase()}}`;
+              console.log(`[catalog] Checking cache for level ${{level}} (${{type}}), key: "${{storageKey}}"`);
+              const cached = storage._cache && storage._cache[storageKey];
+              
+              if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
+                try {{
+                  const stats = JSON.parse(cached.value);
+                  let avgPercent = null;
+                  if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {{
+                    avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
+                  }} else if (stats.lastScore !== undefined) {{
+                    avgPercent = Math.round((stats.lastScore / 5) * 100);
+                  }}
+                  
+                  // Display cached value (will be cleared by async loader if corrupted)
+                  if (avgPercent !== null) {{
+                    valueEl.textContent = `${{avgPercent}}%`;
+                  }} else {{
+                    valueEl.textContent = '—';
+                  }}
+                }} catch (e) {{
+                  valueEl.textContent = '—';
+                }}
+              }} else {{
+                valueEl.textContent = '—';
+              }}
+            }}
+          }}
+        }});
       }});
       
       // Load all stats in parallel for faster response
-      const promises = levels.map(async level => {{
-        const statsEl = document.getElementById(`stats-${{level}}`);
-        if (!statsEl) return;
-        
-        try {{
-          const storageKey = `quiz:ru-tr:${{level.toLowerCase()}}`;
-          console.log(`[catalog] Loading stats for level ${{level}}, key: "${{storageKey}}"`);
-          const data = await storage.get(storageKey);
-          
-          if (data) {{
-            const stats = JSON.parse(data);
-            let avgPercent;
+      const promises = [];
+      types.forEach(type => {{
+        levels.forEach(level => {{
+          promises.push((async () => {{
+            const statsEl = document.getElementById(`stats-${{type}}-${{level}}`);
+            if (!statsEl) return;
             
-            if (stats.totalScore && stats.attempts) {{
-              avgPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
-            }} else if (stats.lastScore !== undefined) {{
-              avgPercent = Math.round((stats.lastScore / 5) * 100);
+            try {{
+              const storageKey = `quiz:ru-tr-${{type}}:${{level.toLowerCase()}}`;
+              
+              // Check if we already have fresh cached data - skip storage request
+              const cached = storage._cache && storage._cache[storageKey];
+              if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
+                console.log(`[catalog] Using cached data for ${{level}} (${{type}}), skipping storage request`);
+                return; // Already displayed from cache, no need to reload
+              }}
+              
+              console.log(`[catalog] Loading stats for level ${{level}} (${{type}}), key: "${{storageKey}}"`);
+              const data = await storage.get(storageKey);
+              
+              console.log(`[catalog] Got data for ${{level}} (${{type}}):`, data);
+              
+              if (data) {{
+                const stats = JSON.parse(data);
+                let avgPercent = null;
+                
+                if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {{
+                  avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
+                }} else if (stats.lastScore !== undefined) {{
+                  avgPercent = Math.round((stats.lastScore / 5) * 100);
+                }}
+                
+                console.log(`[catalog] Calculated percent for ${{level}} (${{type}}):`, avgPercent);
+                
+                // Check for corrupted data (>100%)
+                if (avgPercent !== null && avgPercent > 100) {{
+                  console.warn(`[catalog] Corrupted stats detected for ${{level}} (${{type}}): ${{avgPercent}}%. Clearing...`);
+                  await storage.remove(storageKey);
+                  const valueEl = statsEl.querySelector('.stat-value');
+                  if (valueEl) valueEl.textContent = '—';
+                }} else if (avgPercent !== null) {{
+                  const valueEl = statsEl.querySelector('.stat-value');
+                  if (valueEl) {{
+                    valueEl.textContent = `${{avgPercent}}%`;
+                    console.log(`[catalog] Updated display for ${{level}} (${{type}}) to ${{avgPercent}}%`);
+                  }}
+                }}
+              }}
+            }} catch (e) {{
+              console.error(`Failed to load stats for ${{level}} (${{type}}):`, e);
             }}
-            
-            if (avgPercent !== null && avgPercent !== undefined) {{
-              const valueEl = statsEl.querySelector('.stat-value');
-              if (valueEl) valueEl.textContent = `${{avgPercent}}%`;
-            }}
-          }}
-        }} catch (e) {{
-          console.error(`Failed to load stats for ${{level}}:`, e);
-        }}
+          }})());
+        }});
       }});
       
       await Promise.all(promises);
@@ -747,7 +875,9 @@ let answered = false;
 const scriptTag = document.querySelector('script[data-questions]');
 const questionsPath = scriptTag.getAttribute('data-questions');
 const level = scriptTag.getAttribute('data-level') || 'unknown';
-const storageKey = `quiz:ru-tr:${level.toLowerCase()}`;
+// Determine content type from URL path
+const contentType = window.location.pathname.includes('RU-TR_Words') ? 'words' : 'phrases';
+const storageKey = `quiz:ru-tr-${contentType}:${level.toLowerCase()}`;
 
 // DOM elements
 const startScreen = document.getElementById('startScreen');
@@ -963,7 +1093,8 @@ function showResults() {
         const stats = {
           bestScore: score,
           lastScore: score,
-          totalScore: score,
+          totalCorrect: score,
+          totalQuestions: 5,
           attempts: 1,
           lastAttemptAt: new Date().toISOString()
         };
@@ -973,9 +1104,36 @@ function showResults() {
           const prevStats = await storage.get(storageKey);
           if (prevStats) {
             const prev = JSON.parse(prevStats);
-            stats.bestScore = Math.max(score, prev.bestScore || 0);
-            stats.totalScore = (prev.totalScore || prev.lastScore || 0) + score;
-            stats.attempts = (prev.attempts || 0) + 1;
+            
+            // Check if previous stats are corrupted (>100%)
+            let prevPercent = null;
+            if (prev.totalCorrect !== undefined && prev.totalQuestions > 0) {
+              prevPercent = (prev.totalCorrect / prev.totalQuestions) * 100;
+            } else if (prev.lastScore !== undefined) {
+              prevPercent = (prev.lastScore / 5) * 100;
+            }
+            
+            // If corrupted, reset stats and start fresh
+            if (prevPercent !== null && prevPercent > 100) {
+              console.warn(`[showResults] Corrupted stats detected (${Math.round(prevPercent)}%). Resetting...`);
+              // Keep only current attempt, discard broken history
+            } else {
+              // Stats look good, merge with previous
+              stats.bestScore = Math.max(score, prev.bestScore || 0);
+              
+              // Migrate old stats format to new
+              if (prev.totalCorrect !== undefined && prev.totalQuestions !== undefined) {
+                // New format - just add
+                stats.totalCorrect = prev.totalCorrect + score;
+                stats.totalQuestions = prev.totalQuestions + 5;
+              } else if (prev.lastScore !== undefined) {
+                // Old format - initialize with last score as one attempt
+                stats.totalCorrect = prev.lastScore + score;
+                stats.totalQuestions = 5 + 5; // Previous attempt + current attempt
+              }
+              
+              stats.attempts = (prev.attempts || 0) + 1;
+            }
           }
         } catch (e) {
           console.error('Failed to load previous stats:', e);
@@ -990,8 +1148,62 @@ function showResults() {
           storage._cache[storageKey] = { value: statsJson, timestamp: Date.now() };
         }
         
+        // Update global unique days counter
+        try {
+          console.log('[showResults] Starting unique days update...');
+          const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+          console.log('[showResults] Today:', today);
+          const globalKey = 'quiz:global:days-counter';
+          const globalData = await storage.get(globalKey);
+          console.log('[showResults] Got global data:', globalData);
+          
+          let globalStats = {
+            uniqueDays: 1,
+            lastPassed: today
+          };
+          
+          if (globalData) {
+            const prev = JSON.parse(globalData);
+            console.log('[showResults] Parsed previous data:', prev);
+            
+            // If last passed is not today, increment counter
+            if (prev.lastPassed !== today) {
+              globalStats.uniqueDays = (prev.uniqueDays || 0) + 1;
+              globalStats.lastPassed = today;
+              console.log(`[showResults] New day! Unique days: ${globalStats.uniqueDays}`);
+            } else {
+              // Same day, keep existing count
+              globalStats.uniqueDays = prev.uniqueDays || 1;
+              globalStats.lastPassed = prev.lastPassed;
+              console.log(`[showResults] Already passed today. Unique days: ${globalStats.uniqueDays}`);
+            }
+          } else {
+            console.log(`[showResults] First day! Unique days: 1`);
+          } 
+            // Same day, keep existing count
+            else {
+              globalStats.uniqueDays = prev.uniqueDays || 1;
+              globalStats.lastPassed = prev.lastPassed;
+              console.log(`[showResults] Already passed today. Unique days: ${globalStats.uniqueDays}`);
+            }
+          } else {
+            console.log(`[showResults] First day! Unique days: 1`);
+          }
+          
+          console.log('[showResults] Saving global stats:', globalStats);
+          await storage.set(globalKey, JSON.stringify(globalStats));
+          console.log('[showResults] Global stats saved successfully!');
+          
+          // Update cache
+          if (storage._cache) {
+            storage._cache[globalKey] = { value: JSON.stringify(globalStats), timestamp: Date.now() };
+          }
+        } catch (e) {
+          console.error('Failed to update unique days counter:', e);
+        }
+        
         // Calculate new percentage
-        const newPercent = Math.round((stats.totalScore / (stats.attempts * 5)) * 100);
+        const newPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
         console.log(`Stats saved! New average: ${newPercent}%`);
       } catch (e) {
         console.error('Failed to save stats:', e);
@@ -1170,8 +1382,9 @@ def build_site():
     
     print("🔍 Running validation...")
     
-    # Run validation first
-    all_ids = set()
+    # Run validation first with separate ID tracking for Words and Phrases
+    words_ids = set()
+    phrases_ids = set()
     jsonl_files = validate_questions.find_jsonl_files(repo_root)
     
     if not jsonl_files:
@@ -1180,6 +1393,10 @@ def build_site():
     
     has_errors = False
     for filepath in jsonl_files:
+        # Determine which ID set to use based on file path
+        is_words = "RU-TR_Words" in str(filepath)
+        all_ids = words_ids if is_words else phrases_ids
+        
         _, errors_list = validate_questions.validate_jsonl_file(filepath, all_ids)
         if errors_list:
             has_errors = True
@@ -1218,13 +1435,37 @@ def build_site():
     (assets_dir / "app.js").write_text(generate_js(), encoding="utf-8")
     (assets_dir / "storage.js").write_text(generate_storage_js(), encoding="utf-8")
     
-    # Find and organize JSONL files
-    structure = find_jsonl_files(repo_root)
+    # Find and organize JSONL files for both types
+    words_structure = find_jsonl_files(repo_root, "Words")
+    phrases_structure = find_jsonl_files(repo_root, "Phrases")
     
     print("🏗️  Building quiz pages...")
     
-    # Generate quiz pages for each level
-    for level, files in structure.items():
+    # Generate quiz pages for Words
+    for level, files in words_structure.items():
+        # Create directory for this level
+        quiz_dir = output_dir / "RU-TR_Words" / level
+        quiz_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Load and combine all questions from all files in this level
+        all_questions = []
+        for jsonl_file in files:
+            questions = load_questions_from_jsonl(jsonl_file)
+            all_questions.extend(questions)
+        
+        # Save combined questions.json
+        questions_json_path = quiz_dir / "questions.json"
+        with open(questions_json_path, "w", encoding="utf-8") as f:
+            json.dump(all_questions, f, ensure_ascii=False, indent=2)
+        
+        # Generate quiz HTML
+        quiz_html = generate_quiz_page(level, len(all_questions), "Words")
+        (quiz_dir / "index.html").write_text(quiz_html, encoding="utf-8")
+        
+        print(f"  ✓ Words/{level} ({len(all_questions)} questions from {len(files)} file(s))")
+    
+    # Generate quiz pages for Phrases
+    for level, files in phrases_structure.items():
         # Create directory for this level
         quiz_dir = output_dir / "RU-TR_Phrases" / level
         quiz_dir.mkdir(parents=True, exist_ok=True)
@@ -1241,20 +1482,22 @@ def build_site():
             json.dump(all_questions, f, ensure_ascii=False, indent=2)
         
         # Generate quiz HTML
-        quiz_html = generate_quiz_page(level, len(all_questions))
+        quiz_html = generate_quiz_page(level, len(all_questions), "Phrases")
         (quiz_dir / "index.html").write_text(quiz_html, encoding="utf-8")
         
-        print(f"  ✓ {level} ({len(all_questions)} questions from {len(files)} file(s))")
+        print(f"  ✓ Phrases/{level} ({len(all_questions)} questions from {len(files)} file(s))")
     
     # Generate catalog/index page
     print("📋 Generating catalog page...")
-    catalog_html = generate_catalog_page(structure)
+    catalog_html = generate_catalog_page(words_structure, phrases_structure)
     (output_dir / "index.html").write_text(catalog_html, encoding="utf-8")
     
     print(f"\n✅ Build complete! Output: {output_dir}")
-    print(f"   Total levels: {len(structure)}")
-    total_files = sum(len(files) for files in structure.values())
-    print(f"   Total source files: {total_files}")
+    print(f"   Words levels: {len(words_structure)}")
+    print(f"   Phrases levels: {len(phrases_structure)}")
+    total_words_files = sum(len(files) for files in words_structure.values())
+    total_phrases_files = sum(len(files) for files in phrases_structure.values())
+    print(f"   Total source files: {total_words_files + total_phrases_files}")
     
     return 0
 

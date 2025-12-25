@@ -128,15 +128,29 @@ def validate_html_dir(directory: Path) -> bool:
     """Validate all HTML files in directory recursively."""
     all_errors = []
     html_files = list(directory.rglob('*.html'))
+    js_files = list(directory.rglob('*.js'))
     
-    if not html_files:
-        print(f"⚠️  No HTML files found in {directory}")
+    if not html_files and not js_files:
+        print(f"⚠️  No HTML or JS files found in {directory}")
         return True
     
-    print(f"🔍 Validating {len(html_files)} HTML file(s)...\n")
+    print(f"🔍 Validating {len(html_files)} HTML and {len(js_files)} JS file(s)...\n")
     
+    # Validate HTML files
     for filepath in html_files:
         errors = validate_html_file(filepath)
+        if errors:
+            all_errors.extend(errors)
+            print(f"❌ {filepath.relative_to(directory.parent)}:")
+            for error in errors:
+                print(f"   {error}")
+            print()
+        else:
+            print(f"✅ {filepath.relative_to(directory.parent)}")
+    
+    # Validate standalone JS files
+    for filepath in js_files:
+        errors = validate_js_file(filepath)
         if errors:
             all_errors.extend(errors)
             print(f"❌ {filepath.relative_to(directory.parent)}:")
@@ -151,8 +165,24 @@ def validate_html_dir(directory: Path) -> bool:
         print(f"❌ Validation failed: {len(all_errors)} error(s) found")
         return False
     else:
-        print(f"✅ All HTML files are valid!")
+        print(f"✅ All files are valid!")
         return True
+
+
+def validate_js_file(filepath: Path) -> List[str]:
+    """Validate a standalone JavaScript file."""
+    errors = []
+    
+    try:
+        content = filepath.read_text(encoding='utf-8')
+    except Exception as e:
+        return [f"Failed to read {filepath}: {e}"]
+    
+    lines = content.split('\n')
+    js_errors = check_js_syntax(content, 1, str(filepath))
+    errors.extend(js_errors)
+    
+    return errors
 
 
 def main():

@@ -1179,15 +1179,6 @@ function showResults() {
             }
           } else {
             console.log(`[showResults] First day! Unique days: 1`);
-          } 
-            // Same day, keep existing count
-            else {
-              globalStats.uniqueDays = prev.uniqueDays || 1;
-              globalStats.lastPassed = prev.lastPassed;
-              console.log(`[showResults] Already passed today. Unique days: ${globalStats.uniqueDays}`);
-            }
-          } else {
-            console.log(`[showResults] First day! Unique days: 1`);
           }
           
           console.log('[showResults] Saving global stats:', globalStats);

@@ -387,67 +387,40 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
         }}
       }} catch (e) {{
         console.error('Failed to load unique days:', e);
+        const uniqueDaysEl = document.getElementById('unique-days');
+        if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
       }}
       
-      // Set default '-' or cached value for all levels immediately
+      // Set default '-' for all levels immediately (will be updated by async loader)
       types.forEach(type => {{
         levels.forEach(level => {{
           const statsEl = document.getElementById(`stats-${{type}}-${{level}}`);
           if (statsEl) {{
             const valueEl = statsEl.querySelector('.stat-value');
             if (valueEl) {{
-              // Check if we have cached value
-              const storageKey = `quiz:ru-tr-${{type}}:${{level.toLowerCase()}}`;
-              console.log(`[catalog] Checking cache for level ${{level}} (${{type}}), key: "${{storageKey}}"`);
-              const cached = storage._cache && storage._cache[storageKey];
-              
-              if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
-                try {{
-                  const stats = JSON.parse(cached.value);
-                  let avgPercent = null;
-                  if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {{
-                    avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
-                  }} else if (stats.lastScore !== undefined) {{
-                    avgPercent = Math.round((stats.lastScore / 5) * 100);
-                  }}
-                  
-                  // Display cached value (will be cleared by async loader if corrupted)
-                  if (avgPercent !== null) {{
-                    valueEl.textContent = `${{avgPercent}}%`;
-                  }} else {{
-                    valueEl.textContent = '—';
-                  }}
-                }} catch (e) {{
-                  valueEl.textContent = '—';
-                }}
-              }} else {{
-                valueEl.textContent = '—';
-              }}
+              valueEl.textContent = '—';
             }}
           }}
         }});
       }});
       
-      // Load all stats in parallel for faster response
+      // Load all stats in parallel - ALWAYS fetch from CloudStorage for fresh data
       const promises = [];
       types.forEach(type => {{
         levels.forEach(level => {{
           promises.push((async () => {{
             const statsEl = document.getElementById(`stats-${{type}}-${{level}}`);
-            if (!statsEl) return;
+            if (!statsEl) {{
+              console.warn(`[catalog] Element not found: stats-${{type}}-${{level}}`);
+              return;
+            }}
             
             try {{
               const storageKey = `quiz:ru-tr-${{type}}:${{level.toLowerCase()}}`;
               
-              // Check if we already have fresh cached data - skip storage request
-              const cached = storage._cache && storage._cache[storageKey];
-              if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {{
-                console.log(`[catalog] Using cached data for ${{level}} (${{type}}), skipping storage request`);
-                return; // Already displayed from cache, no need to reload
-              }}
-              
+              // Always load from storage to get CloudStorage data (force refresh to bypass cache)
               console.log(`[catalog] Loading stats for level ${{level}} (${{type}}), key: "${{storageKey}}"`);
-              const data = await storage.get(storageKey);
+              const data = await storage.get(storageKey, {{ forceRefresh: true }});
               
               console.log(`[catalog] Got data for ${{level}} (${{type}}):`, data);
               
@@ -476,6 +449,10 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
                     console.log(`[catalog] Updated display for ${{level}} (${{type}}) to ${{avgPercent}}%`);
                   }}
                 }}
+              }} else {{
+                  // Keep placeholder
+                  const valueEl = statsEl.querySelector('.stat-value');
+                  if (valueEl && (!valueEl.textContent || valueEl.textContent.trim() === '—')) valueEl.textContent = '—';
               }}
             }} catch (e) {{
               console.error(`Failed to load stats for ${{level}} (${{type}}):`, e);
@@ -485,6 +462,41 @@ def generate_catalog_page(words_structure: Dict[str, List[Path]], phrases_struct
       }});
       
       await Promise.all(promises);
+
+      // Second pass refresh (handles slow CloudStorage propagation / late sync)
+      // Only updates cards that are still empty (—)
+      setTimeout(() => {{
+        types.forEach(type => {{
+          levels.forEach(level => {{
+            const statsEl = document.getElementById(`stats-${{type}}-${{level}}`);
+            if (!statsEl) return;
+            const valueEl = statsEl.querySelector('.stat-value');
+            if (!valueEl) return;
+            if (valueEl.textContent && !valueEl.textContent.trim().startsWith('—')) return;
+
+            const storageKey = `quiz:ru-tr-${{type}}:${{level.toLowerCase()}}`;
+            storage.get(storageKey, {{ forceRefresh: true }}).then((data) => {{
+              if (!data) return;
+              try {{
+                const stats = JSON.parse(data);
+                let avgPercent = null;
+
+                if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {{
+                  avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
+                }} else if (stats.lastScore !== undefined) {{
+                  avgPercent = Math.round((stats.lastScore / 5) * 100);
+                }}
+
+                if (avgPercent !== null && avgPercent <= 100) {{
+                  valueEl.textContent = `${{avgPercent}}%`;
+                }}
+              }} catch (_) {{
+                // ignore
+              }}
+            }});
+          }});
+        }});
+      }}, 6500);
     }})();
   </script>
 </body>
@@ -1154,7 +1166,7 @@ function showResults() {
           const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
           console.log('[showResults] Today:', today);
           const globalKey = 'quiz:global:days-counter';
-          const globalData = await storage.get(globalKey);
+          const globalData = await storage.get(globalKey, { forceRefresh: true });
           console.log('[showResults] Got global data:', globalData);
           
           let globalStats = {
@@ -1218,83 +1230,357 @@ const storage = {
   // In-memory cache to avoid repeated CloudStorage calls
   _cache: {},
   _cacheTTL: 30000, // 30 seconds
+  _cloudStorageSupported: null, // Will be checked on first use
+
+  // CloudStorage key encoding: some Telegram clients appear to misbehave
+  // with certain characters (notably ':'). We encode keys for CloudStorage
+  // while keeping the public API keys unchanged.
+  _toCloudKey(key) {
+    if (typeof key !== 'string') return key;
+    // Encode ':' as '__' to preserve readability and avoid collisions.
+    let k = key.replace(/:/g, '__');
+    // Keep only characters that are commonly safe in CloudStorage keys.
+    k = k.replace(/[^a-zA-Z0-9_-]/g, '_');
+    // Conservative length cap.
+    if (k.length > 128) k = k.slice(0, 128);
+    return k;
+  },
+
+  // Best-effort JSON helpers (stats are stored as JSON strings)
+  _safeJsonParse(value) {
+    if (!value || typeof value !== 'string') return null;
+    try { return JSON.parse(value); } catch (_) { return null; }
+  },
+
+  _extractTimestamp(obj) {
+    if (!obj || typeof obj !== 'object') return null;
+    // Quiz stats
+    if (obj.lastAttemptAt) {
+      const ts = Date.parse(obj.lastAttemptAt);
+      return Number.isFinite(ts) ? ts : null;
+    }
+    if (obj.updatedAt) {
+      const ts = Date.parse(obj.updatedAt);
+      return Number.isFinite(ts) ? ts : null;
+    }
+    // Global days counter
+    if (obj.lastPassed) {
+      const ts = Date.parse(String(obj.lastPassed) + 'T00:00:00Z');
+      return Number.isFinite(ts) ? ts : null;
+    }
+    return null;
+  },
+
+  _pickNewestValue(cloudValue, localValue) {
+    // Returns: { chosenValue, chosenSource, cloudValue, localValue }
+    if (cloudValue && !localValue) return { chosenValue: cloudValue, chosenSource: 'cloud', cloudValue, localValue };
+    if (!cloudValue && localValue) return { chosenValue: localValue, chosenSource: 'local', cloudValue, localValue };
+    if (!cloudValue && !localValue) return { chosenValue: null, chosenSource: 'none', cloudValue, localValue };
+
+    if (cloudValue === localValue) return { chosenValue: cloudValue, chosenSource: 'same', cloudValue, localValue };
+
+    const cloudObj = this._safeJsonParse(cloudValue);
+    const localObj = this._safeJsonParse(localValue);
+    const cloudTs = this._extractTimestamp(cloudObj);
+    const localTs = this._extractTimestamp(localObj);
+
+    // If timestamps are available, choose newest deterministically
+    if (cloudTs !== null || localTs !== null) {
+      if (cloudTs === null) return { chosenValue: localValue, chosenSource: 'local', cloudValue, localValue };
+      if (localTs === null) return { chosenValue: cloudValue, chosenSource: 'cloud', cloudValue, localValue };
+      if (localTs > cloudTs) return { chosenValue: localValue, chosenSource: 'local', cloudValue, localValue };
+      return { chosenValue: cloudValue, chosenSource: 'cloud', cloudValue, localValue };
+    }
+
+    // No timestamps: prefer CloudStorage as source of truth
+    return { chosenValue: cloudValue, chosenSource: 'cloud', cloudValue, localValue };
+  },
+
+  _setCloudItem(key, value) {
+    // Best-effort background sync; never throws
+    try {
+      if (!this.canUseCloudStorage()) return;
+      const cloudKey = this._toCloudKey(key);
+      window.Telegram.WebApp.CloudStorage.setItem(cloudKey, value, (error) => {
+        if (error) {
+          console.warn(`[Storage] Background CloudStorage SET ${key} (cloudKey=${cloudKey}) failed:`, error);
+        } else {
+          console.log(`[Storage] Background CloudStorage SET ${key} (cloudKey=${cloudKey}): OK`);
+        }
+      });
+    } catch (e) {
+      console.warn(`[Storage] Background CloudStorage SET ${key} exception:`, e);
+    }
+  },
+
+  _capitalize(word) {
+    if (!word) return word;
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  },
+
+  _canonicalizeKey(key) {
+    if (typeof key !== 'string') return key;
+    // Canonical format: quiz:ru-tr-<type>:<level>
+    // where type in {words, phrases} and level in lowercase (a1/a2/b1)
+    const m = key.match(/^quiz:ru-tr-([^:]+):([^:]+)$/i);
+    if (!m) return key;
+    const typeRaw = m[1];
+    const levelRaw = m[2];
+    const type = String(typeRaw).toLowerCase();
+    const level = String(levelRaw).toLowerCase();
+    return `quiz:ru-tr-${type}:${level}`;
+  },
+
+  _candidateKeys(key) {
+    // Returns a de-duplicated list of plausible legacy keys for the same data.
+    if (typeof key !== 'string') return [key];
+    const canonical = this._canonicalizeKey(key);
+
+    // Only generate variants for ru-tr progress keys.
+    const m = canonical.match(/^quiz:ru-tr-([^:]+):([^:]+)$/);
+    if (!m) return [key];
+    const type = m[1];
+    const level = m[2];
+
+    const typeCap = this._capitalize(type);
+    const levelUpper = level.toUpperCase();
+    const levelLower = level.toLowerCase();
+
+    const variants = [
+      key,
+      canonical,
+      `quiz:ru-tr-${type}:${levelUpper}`,
+      `quiz:ru-tr-${typeCap}:${levelLower}`,
+      `quiz:ru-tr-${typeCap}:${levelUpper}`,
+    ];
+
+    // Preserve order, remove dups
+    const seen = new Set();
+    const out = [];
+    for (const k of variants) {
+      if (typeof k !== 'string') continue;
+      if (!seen.has(k)) {
+        seen.add(k);
+        out.push(k);
+      }
+    }
+    return out;
+  },
+
+  _getLocalAny(keys) {
+    for (const k of keys) {
+      try {
+        const v = localStorage.getItem(k);
+        if (v !== null && v !== undefined) {
+          return { key: k, value: v };
+        }
+      } catch (_) {}
+    }
+    return { key: null, value: null };
+  },
+
+  _getCloudAny(keys, timeoutMs = 5000) {
+    // Tries keys sequentially until first non-empty value.
+    return new Promise((resolve) => {
+      if (!this.canUseCloudStorage()) {
+        resolve({ key: null, value: null, error: null, timedOut: false });
+        return;
+      }
+
+      let finished = false;
+      const timer = setTimeout(() => {
+        if (finished) return;
+        finished = true;
+        resolve({ key: null, value: null, error: null, timedOut: true });
+      }, timeoutMs);
+
+      const tryNext = (idx) => {
+        if (finished) return;
+        if (idx >= keys.length) {
+          clearTimeout(timer);
+          if (!finished) {
+            finished = true;
+            resolve({ key: null, value: null, error: null, timedOut: false });
+          }
+          return;
+        }
+
+        const k = keys[idx];
+        const cloudKey = this._toCloudKey(k);
+        try {
+          window.Telegram.WebApp.CloudStorage.getItem(cloudKey, (error, value) => {
+            if (finished) return;
+            if (error) {
+              // If any key errors, stop and report error.
+              clearTimeout(timer);
+              finished = true;
+              resolve({ key: k, value: null, error, timedOut: false });
+              return;
+            }
+
+            if (value) {
+              clearTimeout(timer);
+              finished = true;
+              resolve({ key: k, value, error: null, timedOut: false });
+            } else {
+              tryNext(idx + 1);
+            }
+          });
+        } catch (e) {
+          clearTimeout(timer);
+          finished = true;
+          resolve({ key: k, value: null, error: e, timedOut: false });
+        }
+      };
+
+      tryNext(0);
+    });
+  },
   
   // Check if CloudStorage is available
   canUseCloudStorage() {
-    return window.Telegram && 
-           window.Telegram.WebApp && 
-           window.Telegram.WebApp.CloudStorage &&
-           typeof window.Telegram.WebApp.CloudStorage.getItem === 'function';
+    // Cache the result of this check
+    if (this._cloudStorageSupported !== null) {
+      return this._cloudStorageSupported;
+    }
+    
+    // Check Telegram WebApp version and CloudStorage availability
+    if (!window.Telegram || !window.Telegram.WebApp) {
+      // Telegram WebApp object may not be available yet (script load race).
+      // Do NOT permanently cache "false" here; allow later retries.
+      console.log('[Storage] Telegram WebApp not available yet');
+      return false;
+    }
+    
+    // Check API version (CloudStorage requires 6.9+)
+    const version = window.Telegram.WebApp.version || '0.0';
+    const [major, minor] = version.split('.').map(Number);
+    const versionOk = major > 6 || (major === 6 && minor >= 9);
+    
+    if (!versionOk) {
+      console.warn(`[Storage] CloudStorage requires WebApp API 6.9+, current: ${version}`);
+      this._cloudStorageSupported = false;
+      return false;
+    }
+    
+    // Check if CloudStorage object exists
+    if (!window.Telegram.WebApp.CloudStorage) {
+      // CloudStorage may appear after tg.ready()/script init; don't cache false permanently.
+      console.warn('[Storage] CloudStorage object not available yet');
+      return false;
+    }
+    
+    // Try to check if getItem method is callable
+    if (typeof window.Telegram.WebApp.CloudStorage.getItem !== 'function') {
+      // Don't cache false permanently; API may not be ready yet.
+      console.warn('[Storage] CloudStorage.getItem is not a function (yet)');
+      return false;
+    }
+    
+    console.log(`[Storage] CloudStorage available (API v${version})`);
+    this._cloudStorageSupported = true;
+    return true;
   },
   
   // Get value by key
-  async get(key) {
+  async get(key, options = {}) {
     return new Promise((resolve) => {
-      // Check cache first
-      const cached = this._cache[key];
-      if (cached && Date.now() - cached.timestamp < this._cacheTTL) {
-        console.log(`[Storage] GET ${key} from cache:`, cached.value);
-        resolve(cached.value);
-        return;
-      }
-      
-      // Always try localStorage first for immediate response
-      const localValue = localStorage.getItem(key);
-      
-      if (!this.canUseCloudStorage()) {
-        console.log(`[Storage] GET ${key} from localStorage:`, localValue);
-        if (localValue) {
-          this._cache[key] = { value: localValue, timestamp: Date.now() };
+      const canonicalKey = this._canonicalizeKey(key);
+      const candidates = this._candidateKeys(key);
+
+      // Check cache first (unless forceRefresh is true)
+      if (!options.forceRefresh) {
+        const cached = this._cache[canonicalKey];
+        if (cached && Date.now() - cached.timestamp < this._cacheTTL) {
+          console.log(`[Storage] GET ${canonicalKey} from cache:`, cached.value);
+          resolve(cached.value);
+          return;
         }
-        resolve(localValue);
+      } else {
+        console.log(`[Storage] GET ${canonicalKey} with forceRefresh - bypassing cache`);
+      }
+
+      if (!this.canUseCloudStorage()) {
+        console.warn(`[Storage] GET ${canonicalKey} failed: CloudStorage not supported (cloud-only mode)`);
+        resolve(null);
         return;
       }
       
-      // Try CloudStorage with 800ms timeout for faster response
+      // CloudStorage is the source of truth - wait for it with generous timeout
       let resolved = false;
+      let resolvedByTimeout = false;
       const timeout = setTimeout(() => {
         if (!resolved) {
           resolved = true;
-          console.log(`[Storage] GET ${key} timeout, using localStorage:`, localValue);
-          if (localValue) {
-            this._cache[key] = { value: localValue, timestamp: Date.now() };
-          }
-          resolve(localValue);
+          resolvedByTimeout = true;
+          console.warn(`[Storage] GET ${canonicalKey} CloudStorage timeout (5s) (cloud-only mode)`);
+          resolve(null);
         }
-      }, 800);
+      }, 5000); // Increased timeout to 5 seconds
       
       try {
-        window.Telegram.WebApp.CloudStorage.getItem(key, (error, value) => {
+        // Probe CloudStorage across legacy keys (case variations). Canonical first.
+        const cloudKeys = [canonicalKey, ...candidates.filter(k => k !== canonicalKey)];
+        this._getCloudAny(cloudKeys, 5000).then((cloudHit) => {
           clearTimeout(timeout);
-          if (resolved) return;
+          const shouldResolve = !resolved;
           resolved = true;
-          
-          if (error) {
-            console.warn(`[Storage] CloudStorage GET ${key} error:`, error);
-            if (localValue) {
-              this._cache[key] = { value: localValue, timestamp: Date.now() };
+
+          if (cloudHit && cloudHit.error) {
+            console.error(`[Storage] CloudStorage GET ${canonicalKey} error:`, cloudHit.error);
+            const msg = cloudHit.error && cloudHit.error.message ? cloudHit.error.message : '';
+            if (msg && msg.includes('Unsupported')) {
+              console.warn('[Storage] CloudStorage API unsupported, switching to localStorage only');
+              this._cloudStorageSupported = false;
             }
-            resolve(localValue);
-          } else {
-            console.log(`[Storage] GET ${key} from CloudStorage:`, value);
-            const finalValue = value || localValue;
-            // Cache the result
-            if (finalValue) {
-              this._cache[key] = { value: finalValue, timestamp: Date.now() };
+            if (shouldResolve) {
+              resolve(null);
             }
-            // Sync to localStorage
-            if (value && value !== localValue) {
-              localStorage.setItem(key, value);
+            return;
+          }
+
+          const cloudValue = (cloudHit && cloudHit.value) ? cloudHit.value : null;
+          if (cloudHit && cloudHit.timedOut) {
+            // Should not happen because we have outer timeout, but keep behavior consistent.
+            if (shouldResolve) {
+              resolve(null);
             }
-            resolve(finalValue);
+            return;
+          }
+
+          console.log(`[Storage] GET ${canonicalKey} from CloudStorage (key=${(cloudHit && cloudHit.key) || canonicalKey}):`, cloudValue);
+
+          // Cloud-only mode: chosen value is whatever CloudStorage has.
+          const chosen = cloudValue;
+
+          // Cache chosen value
+          if (chosen !== null && chosen !== undefined) {
+            this._cache[canonicalKey] = { value: chosen, timestamp: Date.now() };
+          }
+
+          // If cloud data was found under a legacy key, migrate it into canonical key for convergence.
+          if (cloudValue && cloudHit && cloudHit.key && cloudHit.key !== canonicalKey) {
+            console.log(`[Storage] Migrating CloudStorage legacy key → canonical for ${canonicalKey} (from ${cloudHit.key})`);
+            this._setCloudItem(canonicalKey, cloudValue);
+          }
+
+          if (shouldResolve) {
+            resolve(chosen || null);
+          } else if (resolvedByTimeout) {
+            console.log(`[Storage] CloudStorage response for ${canonicalKey} came after timeout (cloud-only mode)`);
           }
         });
       } catch (e) {
         clearTimeout(timeout);
         if (!resolved) {
           resolved = true;
-          console.error(`[Storage] CloudStorage GET ${key} exception:`, e);
-          resolve(localValue);
+          console.error(`[Storage] CloudStorage GET ${canonicalKey} exception:`, e);
+          // Mark as unsupported on exception
+          if (e.message && (e.message.includes('Unsupported') || e.message.includes('not supported'))) {
+            console.warn('[Storage] CloudStorage API unsupported, switching to localStorage only');
+            this._cloudStorageSupported = false;
+          }
+          resolve(null);
         }
       }
     });
@@ -1303,31 +1589,64 @@ const storage = {
   // Set value by key
   async set(key, value) {
     return new Promise((resolve) => {
-      // Update cache immediately
-      this._cache[key] = { value, timestamp: Date.now() };
+      const canonicalKey = this._canonicalizeKey(key);
+      // Update cache immediately for optimistic UI
+      this._cache[canonicalKey] = { value, timestamp: Date.now() };
       
-      // Always save to localStorage immediately
-      localStorage.setItem(key, value);
-      console.log(`[Storage] SET ${key} to localStorage:`, value);
+      // Save to localStorage immediately for offline support
+      try { localStorage.setItem(canonicalKey, value); } catch (_) {}
+      console.log(`[Storage] SET ${canonicalKey} to localStorage`);
       
       if (!this.canUseCloudStorage()) {
-        resolve();
+        // Cloud-only reads are enabled, but writes still try to reach CloudStorage.
+        // If Telegram is simply not ready yet, schedule a few best-effort retries.
+        if (!window.Telegram || !window.Telegram.WebApp) {
+          console.warn('[Storage] CloudStorage not ready yet; will retry background SET');
+          const delays = [1000, 2000, 4000];
+          delays.forEach((ms) => {
+            setTimeout(() => {
+              this._setCloudItem(canonicalKey, value);
+            }, ms);
+          });
+          resolve({ success: true, localOnly: true, pendingCloudRetry: true });
+        } else {
+          console.log('[Storage] CloudStorage not supported, using localStorage only');
+          resolve({ success: true, localOnly: true });
+        }
         return;
       }
       
-      // Try CloudStorage in background
+      // CloudStorage is source of truth - WAIT for it to complete
       try {
-        window.Telegram.WebApp.CloudStorage.setItem(key, value, (error) => {
+        const cloudKey = this._toCloudKey(canonicalKey);
+        let finished = false;
+        const timeoutMs = 3000;
+        const timer = setTimeout(() => {
+          if (finished) return;
+          finished = true;
+          console.warn(`[Storage] CloudStorage SET ${canonicalKey} (cloudKey=${cloudKey}) timed out after ${timeoutMs}ms`);
+          // Best-effort background retries (non-blocking)
+          this._setCloudItem(canonicalKey, value);
+          resolve({ success: false, timedOut: true });
+        }, timeoutMs);
+
+        window.Telegram.WebApp.CloudStorage.setItem(cloudKey, value, (error) => {
+          if (finished) return;
+          finished = true;
+          clearTimeout(timer);
           if (error) {
-            console.warn(`[Storage] CloudStorage SET ${key} error:`, error);
+            console.error(`[Storage] CloudStorage SET ${canonicalKey} (cloudKey=${cloudKey}) FAILED:`, error);
+            // Best-effort background retries (non-blocking)
+            this._setCloudItem(canonicalKey, value);
+            resolve({ success: false, error });
           } else {
-            console.log(`[Storage] SET ${key} to CloudStorage: OK`);
+            console.log(`[Storage] SET ${canonicalKey} to CloudStorage: OK (cloudKey=${cloudKey}) (source of truth updated)`);
+            resolve({ success: true });
           }
-          resolve();
         });
       } catch (e) {
-        console.error(`[Storage] CloudStorage SET ${key} exception:`, e);
-        resolve();
+        console.error(`[Storage] CloudStorage SET ${canonicalKey} exception:`, e);
+        resolve({ success: false, error: e });
       }
     });
   },
@@ -1335,26 +1654,46 @@ const storage = {
   // Remove value by key
   async remove(key) {
     return new Promise((resolve) => {
-      localStorage.removeItem(key);
-      console.log(`[Storage] REMOVE ${key} from localStorage`);
+      const canonicalKey = this._canonicalizeKey(key);
+      // Remove from cache
+      delete this._cache[canonicalKey];
+      
+      // Remove from localStorage
+      try { localStorage.removeItem(canonicalKey); } catch (_) {}
+      console.log(`[Storage] REMOVE ${canonicalKey} from localStorage`);
       
       if (!this.canUseCloudStorage()) {
         resolve();
         return;
       }
       
+      // Wait for CloudStorage removal (source of truth)
       try {
-        window.Telegram.WebApp.CloudStorage.removeItem(key, (error) => {
+        const cloudKey = this._toCloudKey(canonicalKey);
+        let finished = false;
+        const timeoutMs = 3000;
+        const timer = setTimeout(() => {
+          if (finished) return;
+          finished = true;
+          console.warn(`[Storage] CloudStorage REMOVE ${canonicalKey} (cloudKey=${cloudKey}) timed out after ${timeoutMs}ms`);
+          resolve({ success: false, timedOut: true });
+        }, timeoutMs);
+
+        window.Telegram.WebApp.CloudStorage.removeItem(cloudKey, (error) => {
+          if (finished) return;
+          finished = true;
+          clearTimeout(timer);
           if (error) {
-            console.warn(`[Storage] CloudStorage REMOVE ${key} error:`, error);
+            console.error(`[Storage] CloudStorage REMOVE ${canonicalKey} (cloudKey=${cloudKey}) FAILED:`, error);
+            resolve({ success: false, error });
           } else {
-            console.log(`[Storage] REMOVE ${key} from CloudStorage: OK`);
+            console.log(`[Storage] REMOVE ${canonicalKey} from CloudStorage: OK (cloudKey=${cloudKey}) (source of truth updated)`);
+            resolve({ success: true });
           }
-          resolve();
         });
       } catch (e) {
-        console.error(`[Storage] CloudStorage REMOVE ${key} exception:`, e);
-        resolve();
+        console.error(`[Storage] CloudStorage REMOVE ${canonicalKey} exception:`, e);
+        resolve({ success: false, error: e });
       }
     });
   }

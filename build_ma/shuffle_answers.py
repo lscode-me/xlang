@@ -121,9 +121,9 @@ def process_file(filepath: Path) -> bool:
 
 def find_jsonl_files(base_dir: Path) -> List[Path]:
     patterns = [
-        "Vocabulary/RU-TR/A1/**/*.jsonl",
-        "Vocabulary/RU-TR/A2/**/*.jsonl",
-        "Vocabulary/RU-TR/B1/**/*.jsonl",
+        "Vocabulary/RU-TR_Phrases/A1/**/*.jsonl",
+        "Vocabulary/RU-TR_Phrases/A2/**/*.jsonl",
+        "Vocabulary/RU-TR_Phrases/B1/**/*.jsonl",
     ]
     files = []
     for pattern in patterns:

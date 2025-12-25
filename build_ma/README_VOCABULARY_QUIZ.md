@@ -21,7 +21,7 @@ xlang/
 │   ├── validate_questions.py     # Валидация JSONL файлов
 │   ├── build_site.py             # Генерация статического сайта
 │   └── dev_server.py             # Локальный сервер для разработки
-├── Vocabulary/RU-TR/             # Исходные данные (JSONL)
+├── Vocabulary/RU-TR_Phrases/     # Исходные данные (JSONL)
 │   ├── A1/
 │   │   ├── 001.jsonl
 │   │   └── 002.jsonl
@@ -141,7 +141,7 @@ python3 dev_server.py
 
 ### Вручную
 
-1. Создайте или откройте JSONL файл в `Vocabulary/RU-TR/<LEVEL>/`
+1. Создайте или откройте JSONL файл в `Vocabulary/RU-TR_Phrases/<LEVEL>/`
 2. Добавьте строки с вопросами (каждая строка = один JSON объект)
 3. Запустите валидацию: `python3 build_ma/validate_questions.py`
 4. Исправьте ошибки, если есть
@@ -162,7 +162,7 @@ python3 dev_server.py
 
 ```bash
 # Создайте файл для новой темы
-touch Vocabulary/RU-TR/A1/003.jsonl
+touch Vocabulary/RU-TR_Phrases/A1/003.jsonl
 
 # Добавьте вопросы (используя редактор или LLM)
 # Файлы с разными номерами нужны только для организации по темам
@@ -343,7 +343,7 @@ questions = shuffleArray(allQuestions).slice(0, 15);
 
 ### Как добавить новый уровень (например, B2)?
 
-1. Создайте директорию: `Vocabulary/RU-TR/B2/`
+1. Создайте директорию: `Vocabulary/RU-TR_Phrases/B2/`
 2. Добавьте JSONL файлы с вопросами
 3. Обновите `build_site.py`: добавьте `"B2"` в список уровней в функциях `find_jsonl_files()` и `generate_catalog_page()`
 4. Запустите сборку: `bash build_ma/build_ma.sh`

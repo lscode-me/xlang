@@ -39,7 +39,7 @@ def find_jsonl_files(base_dir: Path) -> Dict[str, List[Path]]:
     structure = defaultdict(list)
     
     for level in ["A1", "A2", "B1"]:
-        level_dir = base_dir / "Vocabulary" / "RU-TR" / level
+        level_dir = base_dir / "Vocabulary" / "RU-TR_Phrases" / level
         if not level_dir.exists():
             continue
         
@@ -1226,7 +1226,7 @@ def build_site():
     # Generate quiz pages for each level
     for level, files in structure.items():
         # Create directory for this level
-        quiz_dir = output_dir / "RU-TR" / level
+        quiz_dir = output_dir / "RU-TR_Phrases" / level
         quiz_dir.mkdir(parents=True, exist_ok=True)
         
         # Load and combine all questions from all files in this level

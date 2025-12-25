@@ -3,12 +3,12 @@
 СТРУКТУРА РЕПО (строго)
 - build_ma/                  # скрипты сборки/валидации
 - html/ma/                   # destination собранных файлов (output, статика)
-- Vocabulary/RU-TR/A1/       # наборы jsonl
-- Vocabulary/RU-TR/A2/
-- Vocabulary/RU-TR/B1/
+- Vocabulary/RU-TR_Phrases/A1/       # наборы jsonl
+- Vocabulary/RU-TR_Phrases/A2/
+- Vocabulary/RU-TR_Phrases/B1/
 
 ВХОДНЫЕ ДАННЫЕ (JSONL)
-В каждом файле Vocabulary/RU-TR/<LEVEL>/<SET>.jsonl:
+В каждом файле Vocabulary/RU-TR_Phrases/<LEVEL>/<SET>.jsonl:
 - 1 строка = 1 JSON object
 - обязательные поля:
   - id: string, уникальный во всем репо
@@ -23,7 +23,7 @@
 
 ЦЕЛЬ
 1) build_ma/validate_questions.py:
-   - рекурсивно проходит Vocabulary/RU-TR/{A1,A2,B1}/**/*.jsonl
+   - рекурсивно проходит Vocabulary/RU-TR_Phrases/{A1,A2,B1}/**/*.jsonl
    - проверяет формат и контент:
      * строка валидный JSON объект
      * обязательные поля есть

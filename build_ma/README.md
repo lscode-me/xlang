@@ -23,7 +23,7 @@ python3 dev_server.py
 ## 📝 Скрипты
 
 ### validate_questions.py
-Проверяет все JSONL файлы в `Vocabulary/RU-TR/{A1,A2,B1}/` на:
+Проверяет все JSONL файлы в `Vocabulary/RU-TR_Phrases/{A1,A2,B1}/` на:
 - Корректность JSON
 - Обязательные поля
 - Уникальность ID

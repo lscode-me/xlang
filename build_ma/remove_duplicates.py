@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Removes duplicate questions from Vocabulary/RU-TR_Phrases/{A1,A2,B1}/*.jsonl files.
+Removes duplicate questions from Vocabulary/{RU-TR_Phrases,RU-TR_Words}/{A1,A2,B1}/*.jsonl files.
 Duplicates are identified by comparing normalized 'ru' text within the same level.
 Files are processed in order (001, 002, ...), keeping the first occurrence.
 """
@@ -83,20 +83,23 @@ def process_level(level_dir: Path) -> int:
 def main():
     script_dir = Path(__file__).resolve().parent
     repo_root = script_dir.parent
-    base_dir = repo_root / "Vocabulary" / "RU-TR_Phrases"
-    
-    if not base_dir.exists():
-        print(f"❌ Directory not found: {base_dir}")
-        return 1
-        
-    print(f"🔍 Searching for duplicates in: {base_dir}\n")
-    
-    levels = ["A1", "A2", "B1"]
+    vocab_dirs = ["RU-TR_Phrases", "RU-TR_Words"]
     total_duplicates = 0
     
-    for level in levels:
-        level_dir = base_dir / level
-        total_duplicates += process_level(level_dir)
+    for vocab_name in vocab_dirs:
+        base_dir = repo_root / "Vocabulary" / vocab_name
+        
+        if not base_dir.exists():
+            print(f"⚠️  Directory not found: {base_dir}")
+            continue
+            
+        print(f"🔍 Searching for duplicates in: {base_dir}")
+        
+        levels = ["A1", "A2", "B1"]
+        
+        for level in levels:
+            level_dir = base_dir / level
+            total_duplicates += process_level(level_dir)
         print()
         
     print("=" * 60)

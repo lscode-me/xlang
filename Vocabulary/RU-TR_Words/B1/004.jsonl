@@ -1,0 +1,49 @@
+{"id": "B1-004-0001", "ru": "любопытство", "tr": ["soru", "merak", "istek", "ilgi"], "correct": 2, "explain_ru": "merak — любопытство (и интерес)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0002", "ru": "интерес", "tr": ["ilgi", "fayda", "merak", "kar"], "correct": 1, "explain_ru": "ilgi — интерес", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0003", "ru": "надежда", "tr": ["dilek", "istek", "umut", "beklenti"], "correct": 3, "explain_ru": "umut — надежда (veya ümit)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0004", "ru": "вера", "tr": ["inanç", "güven", "fikir", "din"], "correct": 1, "explain_ru": "inanç — вера (религиозная или убеждение)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0005", "ru": "доверие", "tr": ["güven", "inanç", "bağlılık", "sadakat"], "correct": 1, "explain_ru": "güven — доверие", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0006", "ru": "сомнение", "tr": ["soru", "şüphe", "korku", "tereddüt"], "correct": 2, "explain_ru": "şüphe — сомнение", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0007", "ru": "страх", "tr": ["endişe", "dehşet", "korku", "panik"], "correct": 3, "explain_ru": "korku — страх", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0008", "ru": "счастье", "tr": ["neşe", "mutluluk", "sevinç", "huzur"], "correct": 2, "explain_ru": "mutluluk — счастье", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0009", "ru": "горе", "tr": ["üzüntü", "acı", "yas", "keder"], "correct": 4, "explain_ru": "keder — горе, печаль", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0010", "ru": "радость", "tr": ["mutluluk", "sevinç", "haz", "neşe"], "correct": 2, "explain_ru": "sevinç — радость", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0011", "ru": "скука", "tr": ["sıkıntı", "sorun", "bunalım", "dert"], "correct": 1, "explain_ru": "sıkıntı — скука (и проблема, неприятность)", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0012", "ru": "усталость", "tr": ["bitkinlik", "yorgunluk", "halsizlik", "uyku"], "correct": 2, "explain_ru": "yorgunluk — усталость", "tags": ["noun", "health"], "source": "llm"}
+{"id": "B1-004-0013", "ru": "лень", "tr": ["rahatlık", "tembellik", "uyku", "yavaşlık"], "correct": 2, "explain_ru": "tembellik — лень", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0014", "ru": "зависть", "tr": ["nefret", "istek", "hırs", "kıskançlık"], "correct": 4, "explain_ru": "kıskançlık — зависть (и ревность)", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0015", "ru": "гордость", "tr": ["kibir", "onur", "şeref", "gurur"], "correct": 4, "explain_ru": "gurur — гордость", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "B1-004-0016", "ru": "честь", "tr": ["saygı", "şeref", "itibar", "onur"], "correct": 4, "explain_ru": "onur — честь, достоинство", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0017", "ru": "совесть", "tr": ["ahlak", "vicdan", "kalp", "ruh"], "correct": 2, "explain_ru": "vicdan — совесть", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0018", "ru": "душа", "tr": ["kalp", "ruh", "gönül", "can"], "correct": 2, "explain_ru": "ruh — душа", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0019", "ru": "ум", "tr": ["zeka", "fikir", "akıl", "beyin"], "correct": 3, "explain_ru": "akıl — ум", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0020", "ru": "память", "tr": ["hatıra", "anı", "akıl", "hafıza"], "correct": 4, "explain_ru": "hafıza — память (способность), anı (воспоминание)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0021", "ru": "фантазия", "tr": ["kurgu", "düş", "hayal", "rüya"], "correct": 3, "explain_ru": "hayal — фантазия, мечта", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0022", "ru": "мечта", "tr": ["rüya", "hayal", "dilek", "umut"], "correct": 1, "explain_ru": "rüya — мечта (и сон)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0023", "ru": "реальность", "tr": ["hayat", "gerçek", "hakikat", "varlık"], "correct": 2, "explain_ru": "gerçek — реальность", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0024", "ru": "правда", "tr": ["gerçek", "doğru", "hak", "yalan"], "correct": 2, "explain_ru": "doğru — правда", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0025", "ru": "ложь", "tr": ["yanlış", "hata", "kurgu", "yalan"], "correct": 4, "explain_ru": "yalan — ложь", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0027", "ru": "независимость", "tr": ["hürriyet", "bağımsızlık", "özgürlük", "egemenlik"], "correct": 2, "explain_ru": "bağımsızlık — независимость", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-004-0028", "ru": "справедливость", "tr": ["hak", "adalet", "eşitlik", "doğruluk"], "correct": 2, "explain_ru": "adalet — справедливость", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0029", "ru": "равенство", "tr": ["eşitlik", "birli", "kardeşlik", "denklik"], "correct": 1, "explain_ru": "eşitlik — равенство", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0030", "ru": "братство", "tr": ["kardeşlik", "dostluk", "birlik", "beraberlik"], "correct": 1, "explain_ru": "kardeşlik — братство", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-004-0031", "ru": "трудолюбивый", "tr": ["aktif", "gayretli", "çalışkan", "becerikli"], "correct": 3, "explain_ru": "çalışkan — трудолюбивый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0032", "ru": "ленивый", "tr": ["uyuşuk", "yavaş", "pasif", "tembel"], "correct": 4, "explain_ru": "tembel — ленивый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0033", "ru": "честный", "tr": ["adil", "temiz", "dürüst", "doğru"], "correct": 3, "explain_ru": "dürüst — честный", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0034", "ru": "хитрый", "tr": ["kurnaz", "akıllı", "zeki", "hain"], "correct": 1, "explain_ru": "kurnaz — хитрый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0035", "ru": "смелый", "tr": ["güçlü", "korkusuz", "yiğit", "cesur"], "correct": 4, "explain_ru": "cesur — смелый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0036", "ru": "трусливый", "tr": ["utangaç", "korkak", "çekingen", "zayıf"], "correct": 2, "explain_ru": "korkak — трусливый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0037", "ru": "вежливый", "tr": ["iyi", "nazik", "kibar", "saygılı"], "correct": 2, "explain_ru": "nazik — вежливый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0038", "ru": "грубый", "tr": ["cahil", "sert", "kaba", "kötü"], "correct": 3, "explain_ru": "kaba — грубый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0039", "ru": "щедрый", "tr": ["zengin", "iyi", "cömert", "bol"], "correct": 3, "explain_ru": "cömert — щедрый", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0040", "ru": "жадный", "tr": ["kötü", "açgözlü", "pis", "cimri"], "correct": 4, "explain_ru": "cimri — жадный, скупой", "tags": ["adjective", "personality"], "source": "llm"}
+{"id": "B1-004-0041", "ru": "разрушать", "tr": ["yıkmak", "dağıtmak", "kırmak", "bozmak"], "correct": 1, "explain_ru": "yıkmak — разрушать, сносить", "tags": ["verb", "action"], "source": "llm"}
+{"id": "B1-004-0042", "ru": "строить", "tr": ["dikmek", "yapmak", "kurmak", "inşa etmek"], "correct": 4, "explain_ru": "inşa etmek — строить (здание), kurmak (создавать, основывать)", "tags": ["verb", "action"], "source": "llm"}
+{"id": "B1-004-0043", "ru": "создавать", "tr": ["kurmak", "yapmak", "oluşturmak", "yaratmak"], "correct": 4, "explain_ru": "yaratmak — создавать, творить", "tags": ["verb", "action"], "source": "llm"}
+{"id": "B1-004-0044", "ru": "использовать", "tr": ["harcamak", "işletmek", "yararlanmak", "kullanmak"], "correct": 4, "explain_ru": "kullanmak — использовать", "tags": ["verb", "action"], "source": "llm"}
+{"id": "B1-004-0045", "ru": "управлять", "tr": ["idare etmek", "sürmek", "yönetmek", "kullanmak"], "correct": 3, "explain_ru": "yönetmek — управлять (руководить)", "tags": ["verb", "action"], "source": "llm"}
+{"id": "B1-004-0046", "ru": "решать", "tr": ["bitirmek", "çözmek", "karar vermek", "sonuçlandırmak"], "correct": 3, "explain_ru": "karar vermek — решать (принимать решение), çözmek (решать задачу)", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "B1-004-0047", "ru": "выбирать", "tr": ["tercih etmek", "seçmek", "istemek", "almak"], "correct": 1, "explain_ru": "tercih etmek — выбирать, предпочитать", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "B1-004-0048", "ru": "забывать", "tr": ["kaybetmek", "atlamak", "bırakmak", "unutmak"], "correct": 4, "explain_ru": "unutmak — забывать", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "B1-004-0049", "ru": "вспоминать", "tr": ["bilmek", "anmak", "hatırlamak", "tanımak"], "correct": 3, "explain_ru": "hatırlamak — вспоминать, помнить", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "B1-004-0050", "ru": "понимать", "tr": ["duymak", "görmek", "anlamak", "bilmek"], "correct": 3, "explain_ru": "anlamak — понимать", "tags": ["verb", "mental"], "source": "llm"}

@@ -1,0 +1,50 @@
+{"id": "A2-002-0001", "ru": "костюм", "tr": ["takım elbise", "gömlek", "ceket", "pantolon"], "correct": 1, "explain_ru": "takım elbise — костюм (мужской)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0002", "ru": "пальто", "tr": ["mont", "palto", "kaban", "ceket"], "correct": 2, "explain_ru": "palto — пальто", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0003", "ru": "куртка", "tr": ["mont", "ceket", "palto", "hırka"], "correct": 1, "explain_ru": "mont — куртка", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0004", "ru": "носки", "tr": ["bot", "ayakkabı", "çorap", "terlik"], "correct": 3, "explain_ru": "çorap — носки (ед.ч. тоже çorap)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0005", "ru": "перчатки", "tr": ["eldiven", "şapka", "atkı", "kemer"], "correct": 1, "explain_ru": "eldiven — перчатки", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0006", "ru": "шарф", "tr": ["fular", "kravat", "şal", "atkı"], "correct": 4, "explain_ru": "atkı — шарф", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0007", "ru": "ремень", "tr": ["zincir", "kemer", "ip", "kuşak"], "correct": 2, "explain_ru": "kemer — ремень, пояс", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0008", "ru": "галстук", "tr": ["yaka", "kravat", "atkı", "papyon"], "correct": 2, "explain_ru": "kravat — галстук", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0009", "ru": "нижнее белье", "tr": ["mayo", "iç çamaşırı", "pijama", "bikini"], "correct": 2, "explain_ru": "iç çamaşırı — нижнее белье", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0010", "ru": "пижама", "tr": ["tulum", "gecelik", "elbise", "pijama"], "correct": 4, "explain_ru": "pijama — пижама", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0011", "ru": "продавать", "tr": ["vermek", "bakmak", "satmak", "almak"], "correct": 3, "explain_ru": "satmak — продавать", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0012", "ru": "платить", "tr": ["harcamak", "almak", "kazanmak", "ödemek"], "correct": 4, "explain_ru": "ödemek — платить", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0013", "ru": "стоить", "tr": ["mal olmak", "değmek", "etmek", "tutmak"], "correct": 1, "explain_ru": "mal olmak — стоить (или fiyatı olmak, tutmak)", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0014", "ru": "дешевый", "tr": ["pahalı", "bedava", "indirimli", "ucuz"], "correct": 4, "explain_ru": "ucuz — дешевый", "tags": ["adjective", "shopping"], "source": "llm"}
+{"id": "A2-002-0015", "ru": "дорогой", "tr": ["pahalı", "zengin", "değerli", "lüks"], "correct": 1, "explain_ru": "pahalı — дорогой", "tags": ["adjective", "shopping"], "source": "llm"}
+{"id": "A2-002-0016", "ru": "скидка", "tr": ["indirim", "satış", "kampanya", "fiyat"], "correct": 1, "explain_ru": "indirim — скидка", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0017", "ru": "касса", "tr": ["vezne", "cüzdan", "kasa", "banka"], "correct": 3, "explain_ru": "kasa — касса", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0018", "ru": "очередь", "tr": ["sıra", "dizi", "hat", "kuyruk"], "correct": 1, "explain_ru": "sıra — очередь (или kuyruk)", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0019", "ru": "клиент", "tr": ["satıcı", "patron", "misafir", "müşteri"], "correct": 4, "explain_ru": "müşteri — клиент, покупатель", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0020", "ru": "продавец", "tr": ["kasiyer", "satıcı", "manav", "esnaf"], "correct": 2, "explain_ru": "satıcı — продавец", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0021", "ru": "центр", "tr": ["kenar", "meydan", "merkez", "ortam"], "correct": 3, "explain_ru": "merkez — центр", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0022", "ru": "площадь", "tr": ["meydan", "alan", "park", "saha"], "correct": 1, "explain_ru": "meydan — площадь", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0023", "ru": "здание", "tr": ["yapı", "bina", "apartman", "ev"], "correct": 2, "explain_ru": "bina — здание", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0024", "ru": "музей", "tr": ["müze", "saray", "sergi", "galeri"], "correct": 1, "explain_ru": "müze — музей", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0025", "ru": "театр", "tr": ["sinema", "sahne", "opera", "tiyatro"], "correct": 4, "explain_ru": "tiyatro — театр", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0026", "ru": "кинотеатр", "tr": ["film", "tiyatro", "sinema", "salon"], "correct": 3, "explain_ru": "sinema — кинотеатр (или кино)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0027", "ru": "кафе", "tr": ["büfe", "restoran", "lokanta", "kafe"], "correct": 4, "explain_ru": "kafe — кафе", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0028", "ru": "ресторан", "tr": ["restoran", "yemekhane", "lokanta", "mutfak"], "correct": 1, "explain_ru": "restoran — ресторан", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0029", "ru": "отель", "tr": ["misafirhane", "ev", "otel", "pansiyon"], "correct": 3, "explain_ru": "otel — отель, гостиница", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0030", "ru": "банк", "tr": ["ofis", "postane", "şube", "banka"], "correct": 4, "explain_ru": "banka — банк", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0031", "ru": "почта", "tr": ["paket", "mektup", "kargo", "postane"], "correct": 4, "explain_ru": "postane — почта (отделение)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0032", "ru": "полиция", "tr": ["bekçi", "polis", "asker", "karakol"], "correct": 2, "explain_ru": "polis — полиция (или полисмен)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0033", "ru": "деревня", "tr": ["kasaba", "ülke", "köy", "şehir"], "correct": 3, "explain_ru": "köy — деревня", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0034", "ru": "страна", "tr": ["toprak", "vatan", "devlet", "ülke"], "correct": 4, "explain_ru": "ülke — страна", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0035", "ru": "север", "tr": ["doğu", "kuzey", "güney", "batı"], "correct": 2, "explain_ru": "kuzey — север", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0036", "ru": "юг", "tr": ["kuzey", "doğu", "güney", "batı"], "correct": 3, "explain_ru": "güney — юг", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0037", "ru": "восток", "tr": ["güney", "kuzey", "batı", "doğu"], "correct": 4, "explain_ru": "doğu — восток", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0038", "ru": "запад", "tr": ["batı", "doğu", "güney", "kuzey"], "correct": 1, "explain_ru": "batı — запад", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0039", "ru": "путь", "tr": ["rota", "yol", "cadde", "sokak"], "correct": 2, "explain_ru": "yol — путь, дорога", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0040", "ru": "карта", "tr": ["kroki", "harita", "resim", "plan"], "correct": 2, "explain_ru": "harita — карта (географическая)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0041", "ru": "свитер", "tr": ["süveter", "hırka", "kazak", "tişört"], "correct": 3, "explain_ru": "kazak — свитер", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0042", "ru": "джинсы", "tr": ["kot", "kumaş", "tayt", "pantolon"], "correct": 1, "explain_ru": "kot — джинсы (kot pantolon)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0043", "ru": "кроссовки", "tr": ["spor ayakkabı", "terlik", "kundura", "bot"], "correct": 1, "explain_ru": "spor ayakkabı — кроссовки", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0044", "ru": "примерять", "tr": ["takmak", "giymek", "denemek", "çıkarmak"], "correct": 3, "explain_ru": "denemek — примерять (или пробовать)", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0045", "ru": "носить", "tr": ["giymek", "götürmek", "takmak", "taşımak"], "correct": 1, "explain_ru": "giyinmek/taşımak — носить одежду (giymek), носить вещи (taşımak)", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0046", "ru": "размер", "tr": ["numara", "ölçü", "boyut", "beden"], "correct": 4, "explain_ru": "beden — размер (одежды), numara (обуви)", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0047", "ru": "цвет", "tr": ["ton", "renk", "ışık", "boya"], "correct": 2, "explain_ru": "renk — цвет", "tags": ["noun", "general"], "source": "llm"}
+{"id": "A2-002-0048", "ru": "выбирать", "tr": ["aramak", "bakmak", "seçmek", "almak"], "correct": 3, "explain_ru": "seçmek — выбирать", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0049", "ru": "находить", "tr": ["kaybetmek", "bakmak", "aramak", "bulmak"], "correct": 4, "explain_ru": "bulmak — находить", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0050", "ru": "терять", "tr": ["bırakmak", "bulmak", "kaybetmek", "unutmak"], "correct": 3, "explain_ru": "kaybetmek — терять", "tags": ["verb", "general"], "source": "llm"}

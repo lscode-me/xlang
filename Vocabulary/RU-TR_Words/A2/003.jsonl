@@ -1,0 +1,49 @@
+{"id": "A2-003-0001", "ru": "директор", "tr": ["müdür", "başkan", "yönetici", "patron"], "correct": 1, "explain_ru": "müdür — директор", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0002", "ru": "секретарь", "tr": ["yardımcı", "asistan", "sekreter", "memur"], "correct": 3, "explain_ru": "sekreter — секретарь", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0003", "ru": "повар", "tr": ["fırıncı", "aşçı", "garson", "komi"], "correct": 2, "explain_ru": "aşçı — повар", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0004", "ru": "официант", "tr": ["garson", "barmen", "müşteri", "aşçı"], "correct": 1, "explain_ru": "garson — официант", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0005", "ru": "полицейский", "tr": ["polis", "bekçi", "asker", "güvenlik"], "correct": 1, "explain_ru": "polis — полицейский", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0006", "ru": "солдат", "tr": ["asker", "polis", "subay", "komutan"], "correct": 1, "explain_ru": "asker — солдат", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0007", "ru": "актер", "tr": ["yazar", "oyuncu", "sanatçı", "şarkıcı"], "correct": 2, "explain_ru": "oyuncu — актер", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0008", "ru": "певец", "tr": ["besteci", "oyuncu", "müzisyen", "şarkıcı"], "correct": 4, "explain_ru": "şarkıcı — певец", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0009", "ru": "писатель", "tr": ["şair", "yazar", "gazeteci", "okur"], "correct": 2, "explain_ru": "yazar — писатель", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0010", "ru": "художник", "tr": ["tasarımcı", "mimar", "ressam", "sanatçı"], "correct": 3, "explain_ru": "ressam — художник", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0011", "ru": "парикмахер", "tr": ["satıcı", "kuaför", "berber", "terzi"], "correct": 2, "explain_ru": "kuaför — парикмахер (женский), berber (мужской)", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0012", "ru": "портной", "tr": ["tamirci", "terzi", "esnaf", "kuaför"], "correct": 2, "explain_ru": "terzi — портной", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0013", "ru": "фермер", "tr": ["çiftçi", "bahçıvan", "köylü", "tarımcı"], "correct": 1, "explain_ru": "çiftçi — фермер", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0014", "ru": "рабочий", "tr": ["eleman", "usta", "işçi", "memur"], "correct": 3, "explain_ru": "işçi — рабочий", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0015", "ru": "служащий", "tr": ["müdür", "personel", "işçi", "memur"], "correct": 4, "explain_ru": "memur — служащий, чиновник", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-003-0016", "ru": "каникулы", "tr": ["izin", "tatil", "seyahat", "bayram"], "correct": 2, "explain_ru": "tatil — каникулы, отпуск", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0017", "ru": "тетрадь", "tr": ["defter", "dosya", "kağıt", "kitap"], "correct": 1, "explain_ru": "defter — тетрадь", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0018", "ru": "ручка", "tr": ["boya", "kalem", "silgi", "cetvel"], "correct": 2, "explain_ru": "kalem — ручка, карандаш (tükenmez kalem - ручка)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0019", "ru": "карандаш", "tr": ["kalem", "fırça", "kurşun kalem", "boya"], "correct": 3, "explain_ru": "kurşun kalem — карандаш", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0020", "ru": "словарь", "tr": ["kitap", "ansiklopedi", "rehber", "sözlük"], "correct": 4, "explain_ru": "sözlük — словарь", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0021", "ru": "ошибка", "tr": ["yanlış", "sorun", "hata", "doğru"], "correct": 3, "explain_ru": "hata — ошибка (или yanlış)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0022", "ru": "вопрос", "tr": ["cevap", "konu", "soru", "ders"], "correct": 3, "explain_ru": "soru — вопрос", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0023", "ru": "ответ", "tr": ["çözüm", "cevap", "sonuç", "soru"], "correct": 2, "explain_ru": "cevap — ответ (или yanıt)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0024", "ru": "оценка", "tr": ["karne", "puan", "sınav", "not"], "correct": 4, "explain_ru": "not — оценка, отметка", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0025", "ru": "диплом", "tr": ["mezuniyet", "belge", "sertifika", "diploma"], "correct": 4, "explain_ru": "diploma — диплом", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0026", "ru": "метро", "tr": ["tramvay", "tren", "otobüs", "metro"], "correct": 4, "explain_ru": "metro — метро", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0027", "ru": "трамвай", "tr": ["tramvay", "tren", "metro", "otobüs"], "correct": 1, "explain_ru": "tramvay — трамвай", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0028", "ru": "велосипед", "tr": ["motosiklet", "araba", "bisiklet", "kaykay"], "correct": 3, "explain_ru": "bisiklet — велосипед", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0029", "ru": "мотоцикл", "tr": ["araba", "kamyon", "bisiklet", "motosiklet"], "correct": 4, "explain_ru": "motosiklet — мотоцикл", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0030", "ru": "грузовик", "tr": ["araba", "tır", "kamyon", "minibüs"], "correct": 3, "explain_ru": "kamyon — грузовик", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0031", "ru": "дорога", "tr": ["kaldırım", "cadde", "yol", "sokak"], "correct": 3, "explain_ru": "yol — дорога, путь", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0032", "ru": "светофор", "tr": ["işaret", "tabela", "trafik lambası", "levha"], "correct": 3, "explain_ru": "trafik lambası — светофор", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0033", "ru": "пробка", "tr": ["kalabalık", "kaza", "trafik", "sıra"], "correct": 3, "explain_ru": "trafik — пробка (дорожная), yoğunluk", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0034", "ru": "остановка", "tr": ["durak", "gar", "istasyon", "liman"], "correct": 1, "explain_ru": "durak — остановка", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0035", "ru": "путешествие", "tr": ["yolculuk", "gezi", "seyahat", "tatil"], "correct": 3, "explain_ru": "seyahat — путешествие", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0036", "ru": "чемодан", "tr": ["valiz", "çanta", "kutu", "bavul"], "correct": 4, "explain_ru": "bavul — чемодан (или valiz)", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0037", "ru": "паспорт", "tr": ["vize", "bilet", "kimlik", "pasaport"], "correct": 4, "explain_ru": "pasaport — паспорт", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0038", "ru": "виза", "tr": ["pasaport", "vize", "onay", "bilet"], "correct": 2, "explain_ru": "vize — виза", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0039", "ru": "турист", "tr": ["misafir", "yabancı", "yolcu", "turist"], "correct": 4, "explain_ru": "turist — турист", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0040", "ru": "гид", "tr": ["rehber", "öğretmen", "kılavuz", "sürücü"], "correct": 1, "explain_ru": "rehber — гид, экскурсовод", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-003-0041", "ru": "биология", "tr": ["tarih", "biyoloji", "kimya", "fizik"], "correct": 2, "explain_ru": "biyoloji — биология", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0042", "ru": "химия", "tr": ["fizik", "matematik", "biyoloji", "kimya"], "correct": 4, "explain_ru": "kimya — химия", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0043", "ru": "физика", "tr": ["fizik", "kimya", "coğrafya", "biyoloji"], "correct": 1, "explain_ru": "fizik — физика", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0044", "ru": "математика", "tr": ["fizik", "edebiyat", "matematik", "tarih"], "correct": 3, "explain_ru": "matematik — математика", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0045", "ru": "география", "tr": ["biyoloji", "coğrafya", "resim", "tarih"], "correct": 2, "explain_ru": "coğrafya — география", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0046", "ru": "история", "tr": ["sanat", "edebiyat", "coğrafya", "tarih"], "correct": 4, "explain_ru": "tarih — история (предмет)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0047", "ru": "язык", "tr": ["dil", "konuşma", "ders", "yabancı dil"], "correct": 1, "explain_ru": "dil — язык (иностранный)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0048", "ru": "спорт", "tr": ["beden eğitimi", "spor", "oyun", "yarış"], "correct": 2, "explain_ru": "spor — спорт", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-003-0049", "ru": "музыка", "tr": ["resim", "tiyatro", "müzik", "sanat"], "correct": 3, "explain_ru": "müzik — музыка (урок)", "tags": ["noun", "education"], "source": "llm"}

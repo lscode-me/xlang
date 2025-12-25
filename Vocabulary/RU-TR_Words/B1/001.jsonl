@@ -1,0 +1,50 @@
+{"id": "B1-001-0001", "ru": "развитие", "tr": ["başlangıç", "gelişme", "duraklama", "gerileme"], "correct": 2, "explain_ru": "gelişme — развитие", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0002", "ru": "исследовать", "tr": ["okumak", "yazmak", "anlamak", "araştırmak"], "correct": 4, "explain_ru": "araştırmak — исследовать", "tags": ["verb", "science"], "source": "llm"}
+{"id": "B1-001-0003", "ru": "успех", "tr": ["sonuç", "hata", "başarı", "kayıp"], "correct": 3, "explain_ru": "başarı — успех", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0004", "ru": "культура", "tr": ["edebiyat", "kültür", "sanat", "tarih"], "correct": 2, "explain_ru": "kültür — культура", "tags": ["noun", "society"], "source": "llm"}
+{"id": "B1-001-0005", "ru": "общество", "tr": ["millet", "toplum", "aile", "halk"], "correct": 2, "explain_ru": "toplum — общество", "tags": ["noun", "society"], "source": "llm"}
+{"id": "B1-001-0006", "ru": "экономика", "tr": ["ekonomi", "ticaret", "sanayi", "politika"], "correct": 1, "explain_ru": "ekonomi — экономика", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-001-0007", "ru": "влияние", "tr": ["sonuç", "etki", "neden", "tepki"], "correct": 2, "explain_ru": "etki — влияние", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0008", "ru": "возможность", "tr": ["olasılık", "zorluk", "mecburiyet", "imkan"], "correct": 4, "explain_ru": "imkan — возможность (или fırsat)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0009", "ru": "опыт", "tr": ["deneyim", "yetenek", "beceri", "bilgi"], "correct": 1, "explain_ru": "deneyim — опыт (текубе)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0010", "ru": "цель", "tr": ["yol", "amaç", "hedef", "son"], "correct": 3, "explain_ru": "hedef — цель (или amaç)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0011", "ru": "свобода", "tr": ["özgürlük", "esaret", "tutsaklık", "bağımsızlık"], "correct": 1, "explain_ru": "özgürlük — свобода", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0012", "ru": "производить", "tr": ["satmak", "üretmek", "almak", "tüketmek"], "correct": 2, "explain_ru": "üretmek — производить", "tags": ["verb", "economy"], "source": "llm"}
+{"id": "B1-001-0013", "ru": "ответственность", "tr": ["yetki", "hak", "sorumluluk", "görev"], "correct": 3, "explain_ru": "sorumluluk — ответственность", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0014", "ru": "обсуждать", "tr": ["anlatmak", "tartışmak", "dinlemek", "konuşmak"], "correct": 2, "explain_ru": "tartışmak — обсуждать, спорить", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "B1-001-0015", "ru": "решение", "tr": ["karar", "problem", "sorun", "çözüm"], "correct": 4, "explain_ru": "çözüm — решение (задачи), karar — решение (выбор)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0016", "ru": "интернет", "tr": ["bilgisayar", "site", "ağ", "internet"], "correct": 4, "explain_ru": "internet — интернет", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-001-0017", "ru": "закон", "tr": ["yasa", "ceza", "kural", "kanun"], "correct": 4, "explain_ru": "kanun — закон (юридический)", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-001-0018", "ru": "искусство", "tr": ["heykel", "müzik", "sanat", "resim"], "correct": 3, "explain_ru": "sanat — искусство", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0019", "ru": "проблема", "tr": ["çözüm", "olay", "konu", "sorun"], "correct": 4, "explain_ru": "sorun — проблема, вопрос", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0020", "ru": "информация", "tr": ["veri", "kayıt", "haber", "bilgi"], "correct": 4, "explain_ru": "bilgi — информация, знание", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0021", "ru": "деньги", "tr": ["para", "kuruş", "lira", "dolar"], "correct": 1, "explain_ru": "para — деньги", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-001-0022", "ru": "война", "tr": ["kavga", "barış", "anlaşma", "savaş"], "correct": 4, "explain_ru": "savaş — война", "tags": ["noun", "society"], "source": "llm"}
+{"id": "B1-001-0023", "ru": "мир", "tr": ["toplum", "alem", "barış", "dünya"], "correct": 3, "explain_ru": "barış — мир (отсутствие войны)", "tags": ["noun", "society"], "source": "llm"}
+{"id": "B1-001-0024", "ru": "система", "tr": ["plan", "yapı", "düzen", "sistem"], "correct": 4, "explain_ru": "sistem — система", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0025", "ru": "результат", "tr": ["sonuç", "neden", "sebep", "başlangıç"], "correct": 1, "explain_ru": "sonuç — результат", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0026", "ru": "проект", "tr": ["proje", "plan", "tasarı", "program"], "correct": 1, "explain_ru": "proje — проект", "tags": ["noun", "work"], "source": "llm"}
+{"id": "B1-001-0027", "ru": "идея", "tr": ["görüş", "düşünce", "fikir", "akıl"], "correct": 3, "explain_ru": "fikir — идея, мысль", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0028", "ru": "история", "tr": ["geçmiş", "hikaye", "tarih", "masal"], "correct": 3, "explain_ru": "tarih — история (наука, прошлое)", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0029", "ru": "правительство", "tr": ["meclis", "hükümet", "bakanlık", "devlet"], "correct": 2, "explain_ru": "hükümet — правительство", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-001-0030", "ru": "президент", "tr": ["başkan", "bakan", "lider", "vekili"], "correct": 1, "explain_ru": "başkan — президент, глава", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-001-0031", "ru": "литература", "tr": ["kitap", "roman", "yazı", "edebiyat"], "correct": 4, "explain_ru": "edebiyat — литература", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0032", "ru": "театр", "tr": ["sahne", "sinema", "tiyatro", "opera"], "correct": 3, "explain_ru": "tiyatro — театр", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0033", "ru": "музыка", "tr": ["müzik", "melodi", "şarkı", "ritim"], "correct": 1, "explain_ru": "müzik — музыка", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0034", "ru": "банк", "tr": ["kasa", "banka", "vezne", "şube"], "correct": 2, "explain_ru": "banka — банк", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-001-0035", "ru": "цена", "tr": ["fiyat", "bedel", "değer", "ücret"], "correct": 1, "explain_ru": "fiyat — цена", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-001-0036", "ru": "качество", "tr": ["kalite", "nitelik", "durum", "özellik"], "correct": 1, "explain_ru": "kalite — качество", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-001-0037", "ru": "технология", "tr": ["teknoloji", "bilim", "üretim", "sanayi"], "correct": 1, "explain_ru": "teknoloji — технология", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-001-0038", "ru": "компьютер", "tr": ["tablet", "telefon", "ekran", "bilgisayar"], "correct": 4, "explain_ru": "bilgisayar — компьютер", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-001-0039", "ru": "телефон", "tr": ["cep", "hat", "telefon", "tel"], "correct": 3, "explain_ru": "telefon — телефон", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-001-0040", "ru": "программа", "tr": ["program", "kod", "uygulama", "yazılım"], "correct": 1, "explain_ru": "program — программа", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-001-0041", "ru": "новость", "tr": ["haber", "gazete", "olay", "duyuru"], "correct": 1, "explain_ru": "haber — новость", "tags": ["noun", "media"], "source": "llm"}
+{"id": "B1-001-0042", "ru": "газета", "tr": ["dergi", "broşür", "gazete", "kitap"], "correct": 3, "explain_ru": "gazete — газета", "tags": ["noun", "media"], "source": "llm"}
+{"id": "B1-001-0043", "ru": "журнал", "tr": ["yayın", "makale", "dergi", "gazete"], "correct": 3, "explain_ru": "dergi — журнал", "tags": ["noun", "media"], "source": "llm"}
+{"id": "B1-001-0044", "ru": "телевидение", "tr": ["kanal", "radyo", "ekran", "televizyon"], "correct": 4, "explain_ru": "televizyon — телевидение", "tags": ["noun", "media"], "source": "llm"}
+{"id": "B1-001-0045", "ru": "радио", "tr": ["televizyon", "kanal", "müzik", "radyo"], "correct": 4, "explain_ru": "radyo — радио", "tags": ["noun", "media"], "source": "llm"}
+{"id": "B1-001-0046", "ru": "фильм", "tr": ["dizi", "film", "sinema", "resim"], "correct": 2, "explain_ru": "film — фильм", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0047", "ru": "актер", "tr": ["yönetmen", "oyuncu", "seyirci", "sanatçı"], "correct": 2, "explain_ru": "oyuncu — актер", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0048", "ru": "роль", "tr": ["kısım", "bölüm", "sahne", "rol"], "correct": 4, "explain_ru": "rol — роль", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0049", "ru": "сцена", "tr": ["sahne", "salon", "tiyatro", "perde"], "correct": 1, "explain_ru": "sahne — сцена", "tags": ["noun", "culture"], "source": "llm"}
+{"id": "B1-001-0050", "ru": "зритель", "tr": ["izleyici", "okuyucu", "dinleyici", "seyirci"], "correct": 4, "explain_ru": "seyirci — зритель", "tags": ["noun", "culture"], "source": "llm"}

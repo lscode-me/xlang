@@ -1,0 +1,50 @@
+{"id": "B1-003-0001", "ru": "инженер", "tr": ["uzman", "teknisyen", "mühendis", "mimar"], "correct": 3, "explain_ru": "mühendis — инженер", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0002", "ru": "программист", "tr": ["yazılımcı", "tekniker", "kodlama", "bilgisayarcı"], "correct": 1, "explain_ru": "yazılımcı — программист (или programcı)", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0003", "ru": "адвокат", "tr": ["hukukçu", "hakim", "avukat", "savcı"], "correct": 3, "explain_ru": "avukat — адвокат", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0004", "ru": "журналист", "tr": ["sunucu", "yazar", "muhabir", "gazeteci"], "correct": 4, "explain_ru": "gazeteci — журналист", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0005", "ru": "переводчик", "tr": ["rehber", "çevirmen", "tercüman", "dilbilimci"], "correct": 3, "explain_ru": "tercüman — переводчик (устный), çevirmen (письменный)", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0006", "ru": "менеджер", "tr": ["müdür", "yönetici", "lider", "şef"], "correct": 2, "explain_ru": "yönetici/menajer — менеджер, управляющий", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0007", "ru": "специалист", "tr": ["uzman", "usta", "bilirkişi", "profesyonel"], "correct": 1, "explain_ru": "uzman — специалист", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0008", "ru": "профессор", "tr": ["öğretmen", "doçent", "profesör", "hocam"], "correct": 3, "explain_ru": "profesör — профессор", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0009", "ru": "ученый", "tr": ["bilim insanı", "araştırmacı", "mucit", "akademisyen"], "correct": 1, "explain_ru": "bilim insanı — ученый", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0010", "ru": "коллега", "tr": ["ortak", "arkadaş", "meslektaş", "eleman"], "correct": 3, "explain_ru": "meslektaş — коллега", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "B1-003-0011", "ru": "вселенная", "tr": ["dünya", "evren", "uzay", "kainat"], "correct": 2, "explain_ru": "evren — вселенная", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "B1-003-0012", "ru": "космос", "tr": ["uzay", "kainat", "gök", "boşluk"], "correct": 1, "explain_ru": "uzay — космос", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "B1-003-0013", "ru": "планета", "tr": ["uydu", "gezegen", "dünya", "yıldız"], "correct": 2, "explain_ru": "gezegen — планета", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "B1-003-0014", "ru": "энергия", "tr": ["elektrik", "enerji", "güç", "kuvvet"], "correct": 2, "explain_ru": "enerji — энергия", "tags": ["noun", "science"], "source": "llm"}
+{"id": "B1-003-0015", "ru": "электричество", "tr": ["elektrik", "akım", "enerji", "ışık"], "correct": 1, "explain_ru": "elektrik — электричество", "tags": ["noun", "science"], "source": "llm"}
+{"id": "B1-003-0016", "ru": "двигатель", "tr": ["makine", "motor", "araç", "alet"], "correct": 2, "explain_ru": "motor — двигатель", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0017", "ru": "машина", "tr": ["araba", "alet", "cihaz", "makine"], "correct": 4, "explain_ru": "makine — машина (механизм), araba (автомобиль)", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0018", "ru": "устройство", "tr": ["makine", "alet", "cihaz", "aygıt"], "correct": 3, "explain_ru": "cihaz — устройство", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0019", "ru": "экран", "tr": ["ekran", "monitör", "cam", "perde"], "correct": 1, "explain_ru": "ekran — экран", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0020", "ru": "клавиатура", "tr": ["tuş", "düğme", "yazı", "klavye"], "correct": 4, "explain_ru": "klavye — клавиатура", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0021", "ru": "мышь", "tr": ["sıçan", "cihaz", "fare", "mouse"], "correct": 3, "explain_ru": "fare — мышь (компьютерная и животное)", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0022", "ru": "файл", "tr": ["belge", "dosya", "klasör", "veri"], "correct": 2, "explain_ru": "dosya — файл, папка (документов)", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0023", "ru": "сайт", "tr": ["web", "site", "internet", "sayfa"], "correct": 2, "explain_ru": "site — сайт", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0024", "ru": "ссылка", "tr": ["köprü", "bağlantı", "link", "adres"], "correct": 3, "explain_ru": "link/bağlantı — ссылка", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0025", "ru": "пароль", "tr": ["şifre", "anahtar", "giriş", "kod"], "correct": 1, "explain_ru": "şifre — пароль", "tags": ["noun", "technology"], "source": "llm"}
+{"id": "B1-003-0026", "ru": "безопасный", "tr": ["tehlikesiz", "sağlam", "korunaklı", "güvenli"], "correct": 4, "explain_ru": "güvenli — безопасный", "tags": ["adjective", "security"], "source": "llm"}
+{"id": "B1-003-0027", "ru": "вредный", "tr": ["kötü", "zararlı", "tehlikeli", "faydasız"], "correct": 2, "explain_ru": "zararlı — вредный", "tags": ["adjective", "health"], "source": "llm"}
+{"id": "B1-003-0028", "ru": "полезный", "tr": ["gerekli", "iyi", "faydalı", "yararlı"], "correct": 3, "explain_ru": "faydalı — полезный", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0029", "ru": "нужный", "tr": ["gerekli", "önemli", "zorunlu", "lazım"], "correct": 1, "explain_ru": "gerekli — нужный (lazım - разговорное)", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0030", "ru": "лишний", "tr": ["boş", "artık", "gereksiz", "fazla"], "correct": 4, "explain_ru": "fazla — лишний (избыточный), gereksiz (ненужный)", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0031", "ru": "сложный", "tr": ["çetin", "karmaşık", "zor", "karışık"], "correct": 2, "explain_ru": "karmaşık — сложный (запутанный), zor (трудный)", "tags": ["adjective", "difficulty"], "source": "llm"}
+{"id": "B1-003-0032", "ru": "простой", "tr": ["sade", "kolay", "düz", "basit"], "correct": 4, "explain_ru": "basit — простой", "tags": ["adjective", "difficulty"], "source": "llm"}
+{"id": "B1-003-0033", "ru": "открытый", "tr": ["net", "açık", "doğru", "serbest"], "correct": 2, "explain_ru": "açık — открытый (и светлый цвет)", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0034", "ru": "закрытый", "tr": ["gizli", "örtülü", "kapalı", "saklı"], "correct": 3, "explain_ru": "kapalı — закрытый (и темный цвет)", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0035", "ru": "полный", "tr": ["bütün", "dolu", "tame", "şişman"], "correct": 3, "explain_ru": "dolu — полный (наполненный), tam (целый)", "tags": ["adjective", "amount"], "source": "llm"}
+{"id": "B1-003-0036", "ru": "пустой", "tr": ["boş", "kuru", "açık", "temiz"], "correct": 1, "explain_ru": "boş — пустой", "tags": ["adjective", "amount"], "source": "llm"}
+{"id": "B1-003-0037", "ru": "главный", "tr": ["temel", "baş", "ana", "önemli"], "correct": 3, "explain_ru": "ana — главный, основной", "tags": ["adjective", "importance"], "source": "llm"}
+{"id": "B1-003-0038", "ru": "средний", "tr": ["ortalama", "merkez", "orta", "ara"], "correct": 3, "explain_ru": "orta — средний", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "B1-003-0039", "ru": "последний", "tr": ["yeni", "geçen", "önceki", "son"], "correct": 4, "explain_ru": "son — последний", "tags": ["adjective", "order"], "source": "llm"}
+{"id": "B1-003-0040", "ru": "следующий", "tr": ["sonraki", "diğer", "gelecek", "ertesi"], "correct": 1, "explain_ru": "sonraki — следующий", "tags": ["adjective", "order"], "source": "llm"}
+{"id": "B1-003-0041", "ru": "предыдущий", "tr": ["önceki", "eski", "geçen", "ilk"], "correct": 1, "explain_ru": "önceki — предыдущий", "tags": ["adjective", "order"], "source": "llm"}
+{"id": "B1-003-0042", "ru": "другой", "tr": ["farklı", "öteki", "başka", "diğer"], "correct": 3, "explain_ru": "başka/diğer — другой", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0043", "ru": "одинаковый", "tr": ["eşit", "aynı", "denk", "benzer"], "correct": 2, "explain_ru": "aynı — одинаковый, такой же", "tags": ["adjective", "comparison"], "source": "llm"}
+{"id": "B1-003-0044", "ru": "разный", "tr": ["ayrı", "farklı", "çeşitli", "değişik"], "correct": 2, "explain_ru": "farklı — разный", "tags": ["adjective", "comparison"], "source": "llm"}
+{"id": "B1-003-0045", "ru": "похожий", "tr": ["aynı", "eşit", "yakın", "benzer"], "correct": 4, "explain_ru": "benzer — похожий", "tags": ["adjective", "comparison"], "source": "llm"}
+{"id": "B1-003-0046", "ru": "любой", "tr": ["her", "tüm", "bütün", "herhangi"], "correct": 4, "explain_ru": "herhangi (bir) — любой", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0047", "ru": "каждый", "tr": ["herkes", "bütün", "tüm", "her"], "correct": 4, "explain_ru": "her — каждый", "tags": ["adjective", "general"], "source": "llm"}
+{"id": "B1-003-0048", "ru": "весь", "tr": ["bütün", "tüm", "tam", "hepsi"], "correct": 1, "explain_ru": "bütün — весь, целый", "tags": ["adjective", "amount"], "source": "llm"}
+{"id": "B1-003-0049", "ru": "много", "tr": ["çok", "birçok", "bol", "fazla"], "correct": 1, "explain_ru": "çok — много (и очень)", "tags": ["adverb", "amount"], "source": "llm"}
+{"id": "B1-003-0050", "ru": "мало", "tr": ["kısa", "eksik", "az", "biraz"], "correct": 3, "explain_ru": "az — мало", "tags": ["adverb", "amount"], "source": "llm"}

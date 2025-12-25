@@ -1,0 +1,50 @@
+{"id": "B1-002-0001", "ru": "политика", "tr": ["devlet", "hükümet", "politika", "siyaset"], "correct": 3, "explain_ru": "politika — политика (или siyaset)", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0002", "ru": "выборы", "tr": ["sandık", "aday", "oy", "seçim"], "correct": 4, "explain_ru": "seçim — выборы", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0003", "ru": "демократия", "tr": ["özgürlük", "cumhuriyet", "adalet", "demokrasi"], "correct": 4, "explain_ru": "demokrasi — демократия", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0004", "ru": "партия", "tr": ["grup", "takım", "parti", "ekip"], "correct": 3, "explain_ru": "parti — партия (политическая)", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0005", "ru": "министр", "tr": ["bakan", "lider", "vekil", "başkan"], "correct": 1, "explain_ru": "bakan — министр", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0006", "ru": "депутат", "tr": ["milletvekili", "üye", "temsilci", "başkan"], "correct": 1, "explain_ru": "milletvekili — депутат", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0007", "ru": "гражданин", "tr": ["halk", "birey", "insan", "vatandaş"], "correct": 4, "explain_ru": "vatandaş — гражданин", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0008", "ru": "право", "tr": ["hukuk", "yasa", "adalet", "hak"], "correct": 4, "explain_ru": "hak — право (человека)", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0009", "ru": "суд", "tr": ["savcı", "dava", "hakim", "mahkeme"], "correct": 4, "explain_ru": "mahkeme — суд (учреждение)", "tags": ["noun", "politics"], "source": "llm"}
+{"id": "B1-002-0010", "ru": "налог", "tr": ["ceza", "vergi", "borç", "para"], "correct": 2, "explain_ru": "vergi — налог", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0011", "ru": "бюджет", "tr": ["bütçe", "plan", "hesap", "para"], "correct": 1, "explain_ru": "bütçe — бюджет", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0012", "ru": "рынок", "tr": ["borsa", "pazar", "piyasa", "market"], "correct": 3, "explain_ru": "piyasa — рынок (экономический), borsa (биржа)", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0013", "ru": "торговля", "tr": ["satış", "ticaret", "pazarlık", "alışveriş"], "correct": 2, "explain_ru": "ticaret — торговля", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0014", "ru": "прибыль", "tr": ["kar", "gelir", "kazanç", "fayda"], "correct": 1, "explain_ru": "kar — прибыль", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0015", "ru": "убыток", "tr": ["harcama", "kayıp", "zarar", "gider"], "correct": 3, "explain_ru": "zarar — убыток, вред", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0016", "ru": "компания", "tr": ["firma", "kurum", "ofis", "şirket"], "correct": 4, "explain_ru": "şirket — компания, фирма", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0017", "ru": "клиент", "tr": ["müşteri", "tüketici", "alıcı", "misafir"], "correct": 1, "explain_ru": "müşteri — клиент", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0018", "ru": "счет", "tr": ["fatura", "fiş", "makbuz", "hesap"], "correct": 4, "explain_ru": "hesap — счет (в банке или ресторане)", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0019", "ru": "долг", "tr": ["ödeme", "kredi", "borç", "taksit"], "correct": 3, "explain_ru": "borç — долг", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0020", "ru": "кредит", "tr": ["para", "borç", "nakit", "kredi"], "correct": 4, "explain_ru": "kredi — кредит", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0021", "ru": "кризис", "tr": ["problem", "kriz", "durgunluk", "sorun"], "correct": 2, "explain_ru": "kriz — кризис", "tags": ["noun", "economy"], "source": "llm"}
+{"id": "B1-002-0022", "ru": "развивать", "tr": ["artırmak", "geliştirmek", "ilerletmek", "büyütmek"], "correct": 2, "explain_ru": "geliştirmek — развивать", "tags": ["verb", "general"], "source": "llm"}
+{"id": "B1-002-0023", "ru": "организация", "tr": ["organizasyon", "dernek", "kurum", "vakıf"], "correct": 1, "explain_ru": "organizasyon — организация (процесс или структура)", "tags": ["noun", "social"], "source": "llm"}
+{"id": "B1-002-0024", "ru": "фонд", "tr": ["kaynak", "vakıf", "fon", "para"], "correct": 3, "explain_ru": "fon/vakıf — фонд", "tags": ["noun", "social"], "source": "llm"}
+{"id": "B1-002-0025", "ru": "разница", "tr": ["fark", "değişiklik", "aras", "ayrım"], "correct": 1, "explain_ru": "fark — разница", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0026", "ru": "причина", "tr": ["neden", "sonuç", "gerekçe", "sebep"], "correct": 4, "explain_ru": "sebep — причина (или neden)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0027", "ru": "следствие", "tr": ["dava", "çıkarım", "etki", "sonuç"], "correct": 4, "explain_ru": "sonuç — следствие, результат", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0028", "ru": "значение", "tr": ["anlam", "manası", "önem", "değer"], "correct": 1, "explain_ru": "anlam — значение (смысл), önem (важность)", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0029", "ru": "мнение", "tr": ["görüş", "kanaat", "düşünce", "fikir"], "correct": 4, "explain_ru": "fikir — мнение, идея", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0030", "ru": "отношение", "tr": ["alaka", "ilişki", "tutum", "bağ"], "correct": 2, "explain_ru": "ilişki — отношение, связь", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0031", "ru": "поведение", "tr": ["hareket", "tutum", "tavır", "davranış"], "correct": 4, "explain_ru": "davranış — поведение", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0032", "ru": "характер", "tr": ["karakter", "kişilik", "doğa", "huy"], "correct": 1, "explain_ru": "karakter — характер", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0033", "ru": "личность", "tr": ["birey", "şahsiyet", "kişilik", "insan"], "correct": 3, "explain_ru": "kişilik — личность", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0034", "ru": "важный", "tr": ["önemli", "büyük", "değerli", "ciddi"], "correct": 1, "explain_ru": "önemli — важный", "tags": ["adjective", "abstract"], "source": "llm"}
+{"id": "B1-002-0035", "ru": "серьезный", "tr": ["sert", "ciddi", "önemli", "ağır"], "correct": 2, "explain_ru": "ciddi — серьезный", "tags": ["adjective", "abstract"], "source": "llm"}
+{"id": "B1-002-0036", "ru": "опасный", "tr": ["zararlı", "tehlikeli", "kötü", "korkunç"], "correct": 2, "explain_ru": "tehlikeli — опасный", "tags": ["adjective", "abstract"], "source": "llm"}
+{"id": "B1-002-0037", "ru": "безопасность", "tr": ["güvenlik", "emniyet", "koruma", "huzur"], "correct": 1, "explain_ru": "güvenlik — безопасность", "tags": ["noun", "abstract"], "source": "llm"}
+{"id": "B1-002-0038", "ru": "свободный", "tr": ["rahat", "özgür", "serbest", "boş"], "correct": 2, "explain_ru": "özgür — свободный (человек), boş (место)", "tags": ["adjective", "abstract"], "source": "llm"}
+{"id": "B1-002-0039", "ru": "личный", "tr": ["özel", "şahsi", "kişisel", "kendi"], "correct": 3, "explain_ru": "kişisel — личный", "tags": ["adjective", "abstract"], "source": "llm"}
+{"id": "B1-002-0040", "ru": "общественный", "tr": ["halk", "toplumsal", "genel", "sosyal"], "correct": 4, "explain_ru": "sosyal/toplumsal — общественный", "tags": ["adjective", "social"], "source": "llm"}
+{"id": "B1-002-0041", "ru": "современный", "tr": ["yeni", "çağdaş", "modern", "güncel"], "correct": 3, "explain_ru": "modern — современный", "tags": ["adjective", "time"], "source": "llm"}
+{"id": "B1-002-0042", "ru": "прошлый", "tr": ["eski", "geçen", "dün", "önceki"], "correct": 2, "explain_ru": "geçen — прошлый (год, неделя)", "tags": ["adjective", "time"], "source": "llm"}
+{"id": "B1-002-0043", "ru": "будущее", "tr": ["sonra", "gelecek", "istikbal", "yarın"], "correct": 2, "explain_ru": "gelecek — будущее", "tags": ["noun", "time"], "source": "llm"}
+{"id": "B1-002-0044", "ru": "настоящее", "tr": ["şimdi", "asıl", "bugün", "gerçek"], "correct": 3, "explain_ru": "bugün/şimdi — настоящее (время), gerçek — настоящий (подлинный)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "B1-002-0045", "ru": "возможно", "tr": ["ihtimal", "belki", "mümkün", "olabilir"], "correct": 3, "explain_ru": "mümkün — возможно", "tags": ["adverb", "abstract"], "source": "llm"}
+{"id": "B1-002-0046", "ru": "невозможно", "tr": ["yasak", "olmaz", "zor", "imkansız"], "correct": 4, "explain_ru": "imkansız — невозможно", "tags": ["adverb", "abstract"], "source": "llm"}
+{"id": "B1-002-0047", "ru": "вероятно", "tr": ["galiba", "muhtemelen", "sanırım", "belki"], "correct": 2, "explain_ru": "muhtemelen — вероятно", "tags": ["adverb", "abstract"], "source": "llm"}
+{"id": "B1-002-0048", "ru": "конечно", "tr": ["elbette", "kesinlikle", "tabii", "mutlaka"], "correct": 3, "explain_ru": "tabii — конечно", "tags": ["adverb", "communication"], "source": "llm"}
+{"id": "B1-002-0049", "ru": "действительно", "tr": ["gerçekten", "hakikaten", "aslında", "doğru"], "correct": 1, "explain_ru": "gerçekten — действительно", "tags": ["adverb", "communication"], "source": "llm"}
+{"id": "B1-002-0050", "ru": "кстати", "tr": ["tesadüfen", "bu arada", "uygun", "sırası gelmişken"], "correct": 2, "explain_ru": "bu arada — кстати", "tags": ["adverb", "communication"], "source": "llm"}

@@ -1,0 +1,50 @@
+{"id": "A1-004-0001", "ru": "горячий", "tr": ["soğuk", "ılık", "sıcak", "serin"], "correct": 3, "explain_ru": "sıcak — горячий, жарко", "tags": ["adjective", "temperature"], "source": "llm"}
+{"id": "A1-004-0002", "ru": "холодный", "tr": ["donmuş", "buzlu", "sıcak", "soğuk"], "correct": 4, "explain_ru": "soğuk — холодный, холодно", "tags": ["adjective", "temperature"], "source": "llm"}
+{"id": "A1-004-0003", "ru": "длинный", "tr": ["kısa", "geniş", "uzun", "dar"], "correct": 3, "explain_ru": "uzun — длинный (и высокий для человека)", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-004-0004", "ru": "короткий", "tr": ["uzun", "kısa", "küçük", "az"], "correct": 2, "explain_ru": "kısa — короткий", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-004-0005", "ru": "толстый", "tr": ["şişman", "zayıf", "kalın", "ince"], "correct": 1, "explain_ru": "şişman — толстый (о человеке), kalın (о предмете)", "tags": ["adjective", "body"], "source": "llm"}
+{"id": "A1-004-0006", "ru": "худой", "tr": ["zayıf", "kuru", "ince", "şişman"], "correct": 1, "explain_ru": "zayıf — худой, слабый", "tags": ["adjective", "body"], "source": "llm"}
+{"id": "A1-004-0007", "ru": "дорогой", "tr": ["ucuz", "fakir", "zengin", "pahalı"], "correct": 4, "explain_ru": "pahalı — дорогой (о цене)", "tags": ["adjective", "price"], "source": "llm"}
+{"id": "A1-004-0008", "ru": "дешевый", "tr": ["bedava", "ucuz", "pahalı", "boş"], "correct": 2, "explain_ru": "ucuz — дешевый", "tags": ["adjective", "price"], "source": "llm"}
+{"id": "A1-004-0009", "ru": "богатый", "tr": ["güçlü", "fakir", "pahalı", "zengin"], "correct": 4, "explain_ru": "zengin — богатый", "tags": ["adjective", "social"], "source": "llm"}
+{"id": "A1-004-0010", "ru": "бедный", "tr": ["fakir", "zengin", "aç", "şanssız"], "correct": 1, "explain_ru": "fakir — бедный", "tags": ["adjective", "social"], "source": "llm"}
+{"id": "A1-004-0011", "ru": "быстрый", "tr": ["yavaş", "seri", "acele", "hızlı"], "correct": 4, "explain_ru": "hızlı — быстрый", "tags": ["adjective", "speed"], "source": "llm"}
+{"id": "A1-004-0012", "ru": "медленный", "tr": ["hızlı", "yavaş", "sakin", "durgun"], "correct": 2, "explain_ru": "yavaş — медленный", "tags": ["adjective", "speed"], "source": "llm"}
+{"id": "A1-004-0013", "ru": "умный", "tr": ["aptal", "zek", "bilgili", "akıllı"], "correct": 4, "explain_ru": "akıllı — умный", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0014", "ru": "глупый", "tr": ["deli", "aptal", "boş", "akıllı"], "correct": 2, "explain_ru": "aptal — глупый", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0015", "ru": "сильный", "tr": ["sert", "güçlü", "ağır", "zayıf"], "correct": 2, "explain_ru": "güçlü — сильный", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0016", "ru": "слабый", "tr": ["hafif", "yumuşak", "güçlü", "zayıf"], "correct": 4, "explain_ru": "zayıf — слабый (и худой)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0017", "ru": "легкий", "tr": ["ağır", "zor", "kolay", "hafif"], "correct": 3, "explain_ru": "kolay — легкий (нетрудный), hafif (нетяжелый)", "tags": ["adjective", "difficulty"], "source": "llm"}
+{"id": "A1-004-0018", "ru": "тяжелый", "tr": ["hafif", "ağır", "kolay", "zor"], "correct": 2, "explain_ru": "ağır — тяжелый (вес), zor (трудный)", "tags": ["adjective", "difficulty"], "source": "llm"}
+{"id": "A1-004-0019", "ru": "трудный", "tr": ["zor", "kolay", "ağır", "karışık"], "correct": 1, "explain_ru": "zor — трудный, сложный", "tags": ["adjective", "difficulty"], "source": "llm"}
+{"id": "A1-004-0020", "ru": "чистый", "tr": ["saf", "temiz", "kirli", "yeni"], "correct": 2, "explain_ru": "temiz — чистый", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0021", "ru": "грязный", "tr": ["leke", "pis", "temiz", "kirli"], "correct": 4, "explain_ru": "kirli — грязный", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-004-0022", "ru": "первый", "tr": ["ilk", "son", "tek", "birinci"], "correct": 4, "explain_ru": "birinci — первый (1.)", "tags": ["number", "ordinal"], "source": "llm"}
+{"id": "A1-004-0023", "ru": "второй", "tr": ["ikinci", "birinci", "sonraki", "üçüncü"], "correct": 1, "explain_ru": "ikinci — второй (2.)", "tags": ["number", "ordinal"], "source": "llm"}
+{"id": "A1-004-0024", "ru": "третий", "tr": ["birinci", "ikinci", "üçüncü", "dördüncü"], "correct": 3, "explain_ru": "üçüncü — третий (3.)", "tags": ["number", "ordinal"], "source": "llm"}
+{"id": "A1-004-0025", "ru": "четыре", "tr": ["dört", "beş", "altı", "üç"], "correct": 1, "explain_ru": "dört — четыре", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0026", "ru": "пять", "tr": ["yedi", "dört", "beş", "altı"], "correct": 3, "explain_ru": "beş — пять", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0027", "ru": "шесть", "tr": ["sekiz", "beş", "yedi", "altı"], "correct": 4, "explain_ru": "altı — шесть", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0028", "ru": "семь", "tr": ["sekiz", "yedi", "altı", "dokuz"], "correct": 2, "explain_ru": "yedi — семь", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0029", "ru": "восемь", "tr": ["sekiz", "yedi", "on", "dokuz"], "correct": 1, "explain_ru": "sekiz — восемь", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0030", "ru": "девять", "tr": ["yedi", "dokuz", "on", "sekiz"], "correct": 2, "explain_ru": "dokuz — девять", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0031", "ru": "десять", "tr": ["on", "dokuz", "yirmi", "otuz"], "correct": 1, "explain_ru": "on — десять", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-004-0032", "ru": "двадцать", "tr": ["kırk", "on", "yirmi", "otuz"], "correct": 3, "explain_ru": "yirmi — двадцать", "tags": ["number", "tens"], "source": "llm"}
+{"id": "A1-004-0033", "ru": "тридцать", "tr": ["kırk", "elli", "otuz", "yirmi"], "correct": 3, "explain_ru": "otuz — тридцать", "tags": ["number", "tens"], "source": "llm"}
+{"id": "A1-004-0034", "ru": "сорок", "tr": ["kırk", "altmış", "otuz", "elli"], "correct": 1, "explain_ru": "kırk — сорок", "tags": ["number", "tens"], "source": "llm"}
+{"id": "A1-004-0035", "ru": "пятьдесят", "tr": ["yüz", "kırk", "altmış", "elli"], "correct": 4, "explain_ru": "elli — пятьдесят", "tags": ["number", "tens"], "source": "llm"}
+{"id": "A1-004-0036", "ru": "сто", "tr": ["bin", "yüz", "on", "elli"], "correct": 2, "explain_ru": "yüz — сто", "tags": ["number", "tens"], "source": "llm"}
+{"id": "A1-004-0037", "ru": "сын", "tr": ["oğul", "baba", "kardeş", "kız"], "correct": 1, "explain_ru": "oğul — сын", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0038", "ru": "дочь", "tr": ["abla", "anne", "kız", "oğul"], "correct": 3, "explain_ru": "kız — дочь (также 'девочка')", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0039", "ru": "брат", "tr": ["kız kardeş", "abi", "kardeş", "erkek kardeş"], "correct": 4, "explain_ru": "erkek kardeş — брат (младший), abi (старший)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0040", "ru": "сестра", "tr": ["kız kardeş", "abla", "erkek kardeş", "anne"], "correct": 1, "explain_ru": "kız kardeş — сестра (младшая), abla (старшая)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0041", "ru": "дедушка", "tr": ["baba", "dede", "amca", "dayı"], "correct": 2, "explain_ru": "dede — дедушка (или büyükbaba)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0042", "ru": "бабушка", "tr": ["teyze", "hala", "anne", "büyükanne"], "correct": 4, "explain_ru": "büyükanne — бабушка (или anneanne/babaanne)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0043", "ru": "муж", "tr": ["baba", "eş", "karı", "koca"], "correct": 4, "explain_ru": "koca — муж (или eş)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0044", "ru": "жена", "tr": ["karı", "koca", "anne", "eş"], "correct": 1, "explain_ru": "karı — жена (или eş)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0045", "ru": "дядя", "tr": ["dayı", "enişte", "amca", "dede"], "correct": 3, "explain_ru": "amca — дядя (брат отца), dayı (брат матери)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0046", "ru": "тетя", "tr": ["teyze", "hala", "yenge", "anne"], "correct": 2, "explain_ru": "hala — тетя (сестра отца), teyze (сестра матери)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0047", "ru": "семья", "tr": ["yuva", "akraba", "aile", "ev"], "correct": 3, "explain_ru": "aile — семья", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-004-0048", "ru": "коричневый", "tr": ["kırmızı", "gri", "kahverengi", "siyah"], "correct": 3, "explain_ru": "kahverengi — коричневый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-004-0049", "ru": "серый", "tr": ["mavi", "gri", "beyaz", "siyah"], "correct": 2, "explain_ru": "gri — серый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-004-0050", "ru": "желтый", "tr": ["yeşil", "kırmızı", "sarı", "turuncu"], "correct": 3, "explain_ru": "sarı — желтый", "tags": ["adjective", "colors"], "source": "llm"}

@@ -1,0 +1,50 @@
+{"id": "A1-002-0001", "ru": "завтрак", "tr": ["akşam yemeği", "öğle yemeği", "kahvaltı", "ara öğün"], "correct": 3, "explain_ru": "kahvaltı — завтрак", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0002", "ru": "обед", "tr": ["ziyafet", "öğle yemeği", "akşam yemeği", "kahvaltı"], "correct": 2, "explain_ru": "öğle yemeği — обед", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0003", "ru": "ужин", "tr": ["öğle yemeği", "kahvaltı", "akşam yemeği", "çorba"], "correct": 3, "explain_ru": "akşam yemeği — ужин", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0004", "ru": "кухня", "tr": ["banyo", "tuvalet", "mutfak", "salon"], "correct": 3, "explain_ru": "mutfak — кухня", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-002-0005", "ru": "соль", "tr": ["tuz", "biber", "şeker", "un"], "correct": 1, "explain_ru": "tuz — соль", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0006", "ru": "сахар", "tr": ["şeker", "yağ", "tuz", "süt"], "correct": 1, "explain_ru": "şeker — сахар", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0007", "ru": "нож", "tr": ["bıçak", "kaşık", "tabak", "çatal"], "correct": 1, "explain_ru": "bıçak — нож", "tags": ["noun", "kitchen"], "source": "llm"}
+{"id": "A1-002-0008", "ru": "вилка", "tr": ["bardak", "kaşık", "çatal", "bıçak"], "correct": 3, "explain_ru": "çatal — вилка", "tags": ["noun", "kitchen"], "source": "llm"}
+{"id": "A1-002-0009", "ru": "ложка", "tr": ["çatal", "kaşık", "tencere", "bıçak"], "correct": 2, "explain_ru": "kaşık — ложка", "tags": ["noun", "kitchen"], "source": "llm"}
+{"id": "A1-002-0010", "ru": "тарелка", "tr": ["kase", "tabak", "bardak", "şişe"], "correct": 2, "explain_ru": "tabak — тарелка", "tags": ["noun", "kitchen"], "source": "llm"}
+{"id": "A1-002-0011", "ru": "лицо", "tr": ["burun", "göz", "ağız", "yüz"], "correct": 4, "explain_ru": "yüz — лицо", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0012", "ru": "волосы", "tr": ["sakal", "kaş", "kirpik", "saç"], "correct": 4, "explain_ru": "saç — волосы", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0013", "ru": "палец", "tr": ["parmak", "tırnak", "kol", "el"], "correct": 1, "explain_ru": "parmak — палец", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0014", "ru": "спина", "tr": ["sırt", "karın", "göğüs", "bel"], "correct": 1, "explain_ru": "sırt — спина", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0015", "ru": "живот", "tr": ["karın", "ciğer", "kalp", "mide"], "correct": 1, "explain_ru": "karın — живот", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0016", "ru": "кровать", "tr": ["çarşaf", "yastık", "yorgan", "yatak"], "correct": 4, "explain_ru": "yatak — кровать", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0017", "ru": "шкаф", "tr": ["dolap", "kutu", "sandık", "rafa"], "correct": 1, "explain_ru": "dolap — шкаф", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0018", "ru": "стул", "tr": ["kanepe", "koltuk", "masa", "sandalye"], "correct": 4, "explain_ru": "sandalye — стул", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0019", "ru": "диван", "tr": ["koltuk", "yatak", "sandalye", "kanepe"], "correct": 4, "explain_ru": "kanepe — диван", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0020", "ru": "окно", "tr": ["kapı", "perde", "pencere", "duvar"], "correct": 3, "explain_ru": "pencere — окно", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-002-0021", "ru": "мясо", "tr": ["köfte", "et", "balık", "tavuk"], "correct": 2, "explain_ru": "et — мясо", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0022", "ru": "курица", "tr": ["ördek", "kaz", "tavuk", "horoz"], "correct": 3, "explain_ru": "tavuk — курица", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0023", "ru": "рыба", "tr": ["balık", "et", "yumurta", "tavuk"], "correct": 1, "explain_ru": "balık — рыба", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0024", "ru": "сыр", "tr": ["tereyağı", "yoğurt", "zeytin", "peynir"], "correct": 4, "explain_ru": "peynir — сыр", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0025", "ru": "масло", "tr": ["bal", "süt", "reçel", "yağ"], "correct": 4, "explain_ru": "yağ — масло (жир), tereyağı (сливочное)", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0026", "ru": "чай", "tr": ["kahve", "süt", "çay", "su"], "correct": 3, "explain_ru": "çay — чай", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0027", "ru": "кофе", "tr": ["kakao", "kahve", "kola", "çay"], "correct": 2, "explain_ru": "kahve — кофе", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0028", "ru": "сок", "tr": ["su", "fanta", "meyve suyu", "kola"], "correct": 3, "explain_ru": "meyve suyu — сок", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0029", "ru": "пиво", "tr": ["rakı", "bira", "şarap", "votka"], "correct": 2, "explain_ru": "bira — пиво", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0030", "ru": "фрукты", "tr": ["tatlı", "et", "sebze", "meyve"], "correct": 4, "explain_ru": "meyve — фрукты", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0031", "ru": "овощи", "tr": ["salata", "yemek", "meyve", "sebze"], "correct": 4, "explain_ru": "sebze — овощи", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0032", "ru": "картофель", "tr": ["soğan", "salatalık", "domates", "patates"], "correct": 4, "explain_ru": "patates — картофель", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0033", "ru": "помидор", "tr": ["patlıcan", "biber", "kabak", "domates"], "correct": 4, "explain_ru": "domates — помидор", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0034", "ru": "огурец", "tr": ["maydanoz", "salatalık", "marul", "dereotu"], "correct": 2, "explain_ru": "salatalık — огурец", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0035", "ru": "лук", "tr": ["soğan", "sarımsak", "pırasa", "havuç"], "correct": 1, "explain_ru": "soğan — лук", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0036", "ru": "морковь", "tr": ["havuç", "ıspanak", "lahana", "turp"], "correct": 1, "explain_ru": "havuç — морковь", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0037", "ru": "ключ", "tr": ["anahtar", "zincir", "kapı", "kilit"], "correct": 1, "explain_ru": "anahtar — ключ", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0038", "ru": "деньги", "tr": ["kart", "para", "banka", "cüzdan"], "correct": 2, "explain_ru": "para — деньги", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0039", "ru": "сумка", "tr": ["valiz", "çanta", "kutu", "poşet"], "correct": 2, "explain_ru": "çanta — сумка", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0040", "ru": "телефон", "tr": ["bilgisayar", "radyo", "telefon", "televizyon"], "correct": 3, "explain_ru": "telefon — телефон", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0041", "ru": "часы", "tr": ["dakika", "saat", "saniye", "zaman"], "correct": 2, "explain_ru": "saat — часы (прибор)", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0042", "ru": "очки", "tr": ["ayna", "lens", "cam", "gözlük"], "correct": 4, "explain_ru": "gözlük — очки", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-002-0043", "ru": "сердце", "tr": ["ciğer", "mide", "böbrek", "kalp"], "correct": 4, "explain_ru": "kalp — сердце", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0044", "ru": "ухо", "tr": ["kulak", "dil", "burun", "göz"], "correct": 1, "explain_ru": "kulak — ухо", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0045", "ru": "нос", "tr": ["yanak", "ağız", "burun", "çene"], "correct": 3, "explain_ru": "burun — нос", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0046", "ru": "рот", "tr": ["ağız", "diş", "dil", "dudak"], "correct": 1, "explain_ru": "ağız — рот", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0047", "ru": "язык", "tr": ["dil", "dudak", "diş", "boğaz"], "correct": 1, "explain_ru": "dil — язык (орган и речь)", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0048", "ru": "банан", "tr": ["kivi", "elma", "muz", "portakal"], "correct": 3, "explain_ru": "muz — банан", "tags": ["noun", "food", "fruits"], "source": "llm"}
+{"id": "A1-002-0049", "ru": "апельсин", "tr": ["portakal", "greyfurt", "mandalina", "limon"], "correct": 1, "explain_ru": "portakal — апельсин", "tags": ["noun", "food", "fruits"], "source": "llm"}
+{"id": "A1-002-0050", "ru": "лимон", "tr": ["portakal", "limon", "mandalina", "elma"], "correct": 2, "explain_ru": "limon — лимон", "tags": ["noun", "food", "fruits"], "source": "llm"}

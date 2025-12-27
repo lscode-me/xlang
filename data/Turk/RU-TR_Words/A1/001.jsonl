@@ -1,0 +1,50 @@
+{"id": "A1-001-0001", "question": "дом", "options": ["oda", "apartman", "bina", "ev"], "correct": 4, "explanation": "ev — дом (мн.ч. evler)", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-001-0002", "question": "вода", "options": ["çay", "süt", "su", "kahve"], "correct": 3, "explanation": "su — вода (мн.ч. sular)", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-001-0003", "question": "мама", "options": ["teyze", "baba", "kardeş", "anne"], "correct": 4, "explanation": "anne — мама, мать", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0004", "question": "один", "options": ["dört", "üç", "iki", "bir"], "correct": 4, "explanation": "bir — один (число)", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-001-0005", "question": "красный", "options": ["mavi", "kırmızı", "sarı", "yeşil"], "correct": 2, "explanation": "kırmızı — красный", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0006", "question": "хлеб", "options": ["zeytin", "peynir", "ekmek", "yumurta"], "correct": 3, "explanation": "ekmek — хлеб", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-001-0007", "question": "кошка", "options": ["kedi", "kuş", "balık", "köpek"], "correct": 1, "explanation": "kedi — кошка", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0008", "question": "идти", "options": ["durmak", "koşmak", "gitmek", "gelmek"], "correct": 3, "explanation": "gitmek — идти, уходить", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-001-0009", "question": "хороший", "options": ["güzel", "çirkin", "kötü", "iyi"], "correct": 4, "explanation": "iyi — хороший", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0010", "question": "рука", "options": ["ayak", "baş", "el", "kol"], "correct": 3, "explanation": "el — рука (кисть)", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0011", "question": "яблоко", "options": ["portakal", "elma", "muz", "armut"], "correct": 2, "explanation": "elma — яблоко", "tags": ["noun", "food", "fruits"], "source": "llm"}
+{"id": "A1-001-0012", "question": "стол", "options": ["sandalye", "yatak", "masa", "dolap"], "correct": 3, "explanation": "masa — стол", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-001-0013", "question": "черный", "options": ["turuncu", "gri", "siyah", "beyaz"], "correct": 3, "explanation": "siyah — черный", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0014", "question": "пить", "options": ["içmek", "çalışmak", "yemek", "uyumak"], "correct": 1, "explanation": "içmek — пить", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-001-0015", "question": "день", "options": ["sabah", "gün", "akşam", "gece"], "correct": 2, "explanation": "gün — день", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-001-0016", "question": "молоко", "options": ["su", "ayran", "meyve suyu", "süt"], "correct": 4, "explanation": "süt — молоко", "tags": ["noun", "food", "drinks"], "source": "llm"}
+{"id": "A1-001-0017", "question": "папа", "options": ["amca", "anne", "baba", "dede"], "correct": 3, "explanation": "baba — папа, отец", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0018", "question": "два", "options": ["bir", "on", "beş", "iki"], "correct": 4, "explanation": "iki — два", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-001-0019", "question": "белый", "options": ["mavi", "beyaz", "siyah", "pembe"], "correct": 2, "explanation": "beyaz — белый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0020", "question": "собака", "options": ["köpek", "kedi", "at", "eşek"], "correct": 1, "explanation": "köpek — собака", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0021", "question": "делать", "options": ["oynamak", "yapmak", "çalışmak", "etmek"], "correct": 2, "explanation": "yapmak — делать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-001-0022", "question": "плохой", "options": ["berbat", "kötü", "iyi", "fena"], "correct": 2, "explanation": "kötü — плохой", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0023", "question": "нога", "options": ["el", "bacak", "ayak", "diz"], "correct": 3, "explanation": "ayak — нога (ступня), bacak (вся нога)", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0024", "question": "книга", "options": ["kitap", "kalem", "kağıt", "defter"], "correct": 1, "explanation": "kitap — книга", "tags": ["noun", "objects"], "source": "llm"}
+{"id": "A1-001-0025", "question": "маленький", "options": ["küçük", "uzun", "kısa", "büyük"], "correct": 1, "explanation": "küçük — маленький", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-001-0026", "question": "дверь", "options": ["çatı", "duvar", "pencere", "kapı"], "correct": 4, "explanation": "kapı — дверь", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-001-0027", "question": "человек", "options": ["adam", "insan", "çocuk", "kadın"], "correct": 2, "explanation": "insan — человек", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0028", "question": "знать", "options": ["tanımak", "anlamak", "unutmak", "bilmek"], "correct": 4, "explanation": "bilmek — знать", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A1-001-0029", "question": "красивый", "options": ["yakışıklı", "tatlı", "çirkin", "güzel"], "correct": 4, "explanation": "güzel — красивый", "tags": ["adjective", "appearance"], "source": "llm"}
+{"id": "A1-001-0030", "question": "глаз", "options": ["ağız", "göz", "burun", "kulak"], "correct": 2, "explanation": "göz — глаз", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0031", "question": "три", "options": ["üç", "dört", "altı", "yedi"], "correct": 1, "explanation": "üç — три", "tags": ["number", "basic"], "source": "llm"}
+{"id": "A1-001-0032", "question": "синий", "options": ["yeşil", "mor", "lacivert", "mavi"], "correct": 4, "explanation": "mavi — синий, голубой", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0033", "question": "видеть", "options": ["bakmak", "seyretmek", "görmek", "izlemek"], "correct": 3, "explanation": "görmek — видеть", "tags": ["verb", "Senses"], "source": "llm"}
+{"id": "A1-001-0034", "question": "большой", "options": ["dar", "büyük", "küçük", "geniş"], "correct": 2, "explanation": "büyük — большой", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-001-0035", "question": "ребенок", "options": ["çocuk", "yetişkin", "genç", "bebek"], "correct": 1, "explanation": "çocuk — ребенок", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0036", "question": "говорить", "options": ["konuşmak", "söylemek", "demek", "anlatmak"], "correct": 1, "explanation": "konuşmak — говорить, разговаривать", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "A1-001-0037", "question": "комната", "options": ["oda", "banyo", "salon", "mutfak"], "correct": 1, "explanation": "oda — комната", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-001-0038", "question": "голова", "options": ["yüz", "kafa", "saç", "baş"], "correct": 4, "explanation": "baş — голова", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0039", "question": "новый", "options": ["yeni", "taze", "bayat", "eski"], "correct": 1, "explanation": "yeni — новый", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0040", "question": "жить", "options": ["kalmak", "oturmak", "durmak", "yaşamak"], "correct": 4, "explanation": "yaşamak — жить", "tags": ["verb", "life"], "source": "llm"}
+{"id": "A1-001-0041", "question": "работа", "options": ["ofis", "meslek", "iş", "görev"], "correct": 3, "explanation": "iş — работа", "tags": ["noun", "general"], "source": "llm"}
+{"id": "A1-001-0042", "question": "старый", "options": ["genç", "yaşlı", "yeni", "eski"], "correct": 4, "explanation": "eski — старый (о вещах), yaşlı (о людях)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0043", "question": "смотреть", "options": ["görmek", "bulmak", "aramak", "bakmak"], "correct": 4, "explanation": "bakmak — смотреть, глядеть", "tags": ["verb", "Senses"], "source": "llm"}
+{"id": "A1-001-0044", "question": "друг", "options": ["arkadaş", "dost", "yabancı", "komşu"], "correct": 1, "explanation": "arkadaş — друг", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0045", "question": "ждать", "options": ["kalmak", "durmak", "beklemek", "geçmek"], "correct": 3, "explanation": "beklemek — ждать", "tags": ["verb", "action"], "source": "llm"}
+{"id": "A1-001-0046", "question": "имя", "options": ["lakap", "ad", "isim", "soyadı"], "correct": 2, "explanation": "ad — имя", "tags": ["noun", "general"], "source": "llm"}
+{"id": "A1-001-0047", "question": "женщина", "options": ["kız", "anne", "kadın", "bayan"], "correct": 3, "explanation": "kadın — женщина", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0048", "question": "мужчина", "options": ["oğul", "adam", "baba", "erkek"], "correct": 4, "explanation": "erkek — мужчина (пол), adam — мужчина (человек)", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A1-001-0049", "question": "любить", "options": ["nefret etmek", "sevmek", "hoşlanmak", "istemek"], "correct": 2, "explanation": "sevmek — любить", "tags": ["verb", "emotions"], "source": "llm"}
+{"id": "A1-001-0050", "question": "хотеть", "options": ["ummak", "dilemek", "istemek", "beklemek"], "correct": 3, "explanation": "istemek — хотеть", "tags": ["verb", "mental"], "source": "llm"}

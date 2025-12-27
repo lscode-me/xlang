@@ -1,0 +1,50 @@
+{"id": "A2-001-0001", "question": "врач", "options": ["mühendis", "öğretmen", "doktor", "hemşire"], "correct": 3, "explanation": "doktor — врач", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0002", "question": "погода", "options": ["kar", "rüzgar", "yağmur", "hava"], "correct": 4, "explanation": "hava — погода, воздух", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-001-0003", "question": "самолет", "options": ["uçak", "gemi", "otobüs", "tren"], "correct": 1, "explanation": "uçak — самолет", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0004", "question": "учитель", "options": ["müdür", "sekreter", "öğrenci", "öğretmen"], "correct": 4, "explanation": "öğretmen — учитель", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0005", "question": "дождь", "options": ["yağmur", "sis", "dolu", "kar"], "correct": 1, "explanation": "yağmur — дождь", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-001-0006", "question": "платье", "options": ["elbise", "pantolon", "gömlek", "etek"], "correct": 1, "explanation": "elbise — платье", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0007", "question": "магазин", "options": ["mağaza", "bakkal", "market", "pazar"], "correct": 1, "explanation": "mağaza — магазин (обычно одежды или промтоваров)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0008", "question": "город", "options": ["şehir", "köy", "dünya", "ülke"], "correct": 1, "explanation": "şehir — город", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0009", "question": "школа", "options": ["dershane", "okul", "üniversite", "lise"], "correct": 2, "explanation": "okul — школа", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0010", "question": "болеть", "options": ["dinlenmek", "hastalanmak", "yorulmak", "iyileşmek"], "correct": 2, "explanation": "hastalanmak — болеть, заболеть", "tags": ["verb", "health"], "source": "llm"}
+{"id": "A2-001-0011", "question": "счастливый", "options": ["kızgın", "korkmuş", "mutlu", "üzgün"], "correct": 3, "explanation": "mutlu — счастливый", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-001-0012", "question": "небо", "options": ["yer", "gökyüzü", "toprak", "deniz"], "correct": 2, "explanation": "gökyüzü — небо", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0013", "question": "вокзал", "options": ["havaalanı", "istasyon", "liman", "durak"], "correct": 2, "explanation": "istasyon — вокзал, станция", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0014", "question": "покупать", "options": ["bakmak", "satmak", "satın almak", "seçmek"], "correct": 3, "explanation": "satın almak — покупать (или просто almak)", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-001-0015", "question": "сад", "options": ["tarla", "park", "bahçe", "orman"], "correct": 3, "explanation": "bahçe — сад", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0016", "question": "больница", "options": ["klinik", "sağlık ocağı", "eczane", "hastane"], "correct": 4, "explanation": "hastane — больница", "tags": ["noun", "places", "health"], "source": "llm"}
+{"id": "A2-001-0017", "question": "поезд", "options": ["metro", "tramvay", "tren", "vapur"], "correct": 3, "explanation": "tren — поезд", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0018", "question": "снег", "options": ["kar", "kırağı", "don", "buz"], "correct": 1, "explanation": "kar — снег", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-001-0019", "question": "рубашка", "options": ["ceket", "gömlek", "tişört", "kazak"], "correct": 2, "explanation": "gömlek — рубашка", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0020", "question": "аптека", "options": ["ofis", "market", "dükkan", "eczane"], "correct": 4, "explanation": "eczane — аптека", "tags": ["noun", "places", "health"], "source": "llm"}
+{"id": "A2-001-0021", "question": "улица", "options": ["cadde", "yol", "meydan", "sokak"], "correct": 4, "explanation": "sokak — улица", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0022", "question": "университет", "options": ["enstitü", "lise", "üniversite", "kolej"], "correct": 3, "explanation": "üniversite — университет", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0023", "question": "медсестра", "options": ["doktor", "ebe", "hasta bakıcı", "hemşire"], "correct": 4, "explanation": "hemşire — медсестра", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0024", "question": "автобус", "options": ["otobüs", "dolmuş", "taksi", "minibüs"], "correct": 1, "explanation": "otobüs — автобус", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0025", "question": "ветер", "options": ["fırtına", "hortum", "rüzgar", "esinti"], "correct": 3, "explanation": "rüzgar — ветер", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-001-0026", "question": "юбка", "options": ["elbise", "şort", "tayt", "etek"], "correct": 4, "explanation": "etek — юбка", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0027", "question": "рынок", "options": ["çarşı", "fuar", "market", "pazar"], "correct": 4, "explanation": "pazar — рынок, базар", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0028", "question": "студент", "options": ["mezun", "öğrenci", "kursiyer", "çırak"], "correct": 2, "explanation": "öğrenci — студент, ученик", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0029", "question": "лекарство", "options": ["ilaç", "serum", "aşı", "hap"], "correct": 1, "explanation": "ilaç — лекарство", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-001-0030", "question": "такси", "options": ["motor", "araba", "kamyon", "taksi"], "correct": 4, "explanation": "taksi — такси", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0031", "question": "солнце", "options": ["yıldız", "güneş", "ay", "gezegen"], "correct": 2, "explanation": "güneş — солнце", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0032", "question": "брюки", "options": ["kot", "pantolon", "eşofman", "şalvar"], "correct": 2, "explanation": "pantolon — брюки", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0033", "question": "мост", "options": ["yol", "tünel", "geçit", "köprü"], "correct": 4, "explanation": "köprü — мост", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0034", "question": "урок", "options": ["ders", "okul", "teneffüs", "sınıf"], "correct": 1, "explanation": "ders — урок", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0035", "question": "зуб", "options": ["ağız", "dudak", "diş", "dil"], "correct": 3, "explanation": "diş — зуб", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A2-001-0036", "question": "инженер", "options": ["mimar", "usta", "mühendis", "işçi"], "correct": 3, "explanation": "mühendis — инженер", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0037", "question": "корабль", "options": ["yat", "kayık", "gemi", "tekne"], "correct": 3, "explanation": "gemi — корабль", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0038", "question": "облако", "options": ["duman", "buhar", "bulut", "sis"], "correct": 3, "explanation": "bulut — облако", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-001-0039", "question": "обувь", "options": ["ayakkabı", "bot", "terlik", "çizme"], "correct": 1, "explanation": "ayakkabı — обувь", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0040", "question": "парк", "options": ["park", "bahçe", "orman", "koru"], "correct": 1, "explanation": "park — парк", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0041", "question": "экзамен", "options": ["not", "test", "sınav", "ödev"], "correct": 3, "explanation": "sınav — экзамен", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0042", "question": "стоматолог", "options": ["cerrah", "diş hekimi", "göz doktoru", "veteriner"], "correct": 2, "explanation": "diş hekimi — стоматолог", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0043", "question": "билет", "options": ["kart", "vize", "bilet", "pasaport"], "correct": 3, "explanation": "bilet — билет", "tags": ["noun", "transport"], "source": "llm"}
+{"id": "A2-001-0044", "question": "жарко", "options": ["ılık", "soğuk", "sıcak", "serin"], "correct": 3, "explanation": "sıcak — жарко, горячий", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-001-0045", "question": "шапка", "options": ["bere", "şapka", "kask", "türban"], "correct": 2, "explanation": "şapka — шапка, шляпа", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-001-0046", "question": "библиотека", "options": ["müze", "kitabevi", "arşiv", "kütüphane"], "correct": 4, "explanation": "kütüphane — библиотека", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-001-0047", "question": "класс", "options": ["oda", "derslik", "sınıf", "salon"], "correct": 3, "explanation": "sınıf — класс (помещение или группа)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0048", "question": "кровь", "options": ["can", "kan", "kalp", "damar"], "correct": 2, "explanation": "kan — кровь", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-001-0049", "question": "водитель", "options": ["şoför", "kaptan", "pilot", "makinist"], "correct": 1, "explanation": "şoför — водитель", "tags": ["noun", "profession"], "source": "llm"}
+{"id": "A2-001-0050", "question": "холодно", "options": ["don", "buz", "serin", "soğuk"], "correct": 4, "explanation": "soğuk — холодно, холодный", "tags": ["adjective", "weather"], "source": "llm"}

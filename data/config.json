@@ -1,0 +1,62 @@
+{
+  "courses": [
+    {
+      "id": "sch",
+      "name": "School",
+      "dest_folder": "sch",
+      "description": "Уроки",
+      "icon": "🎓",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "english",
+          "name": "English",
+          "emoji": "🇬🇧",
+          "description": "Английский язык",
+          "levels": ["A1", "A2"]
+        },
+        {
+          "id": "maths",
+          "name": "Maths",
+          "emoji": "🔢",
+          "description": "Математика",
+          "levels": ["RS5", "RS6", "RS7", "RS8", "RS9"]
+        }
+      ]
+    },
+    {
+      "id": "turk",
+      "name": "Turk",
+      "dest_folder": "test",
+      "description": "Турецкий язык",
+      "icon": "🇷🇺 → 🇹🇷",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "rutrwords",
+          "dir": "RU-TR_Words",
+          "name": "Слова",
+          "emoji": "📝",
+          "description": "Тесты по словам",
+          "levels": ["A1", "A2", "B1"]
+        },
+        {
+          "id": "rutrphrases",
+          "dir": "RU-TR_Phrases",
+          "name": "Фразы",
+          "emoji": "💬",
+          "description": "Тесты по фразам",
+          "levels": ["A1", "A2", "B1"]
+        },
+        {
+          "id": "rutrgrammar",
+          "dir": "RU-TR_Grammar",
+          "name": "Грамматика",
+          "emoji": "📚",
+          "description": "Тесты по грамматике",
+          "levels": ["A1", "A2", "B1"]
+        }
+      ]
+    }
+  ]
+}

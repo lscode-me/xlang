@@ -1,0 +1,49 @@
+{"id": "A2-004-0001", "question": "здоровье", "options": ["tedavi", "hastalık", "sağlık", "ilaç"], "correct": 3, "explanation": "sağlık — здоровье", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0002", "question": "болезнь", "options": ["yaralanma", "ağrı", "sağlık", "hastalık"], "correct": 4, "explanation": "hastalık — болезнь", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0003", "question": "боль", "options": ["ağrı", "acı", "sızı", "yara"], "correct": 1, "explanation": "ağrı — боль, acı — боль (острая)", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0004", "question": "простуда", "options": ["ateş", "grip", "öksürük", "nezle"], "correct": 2, "explanation": "grip — грипп, простуда (nezle - насморк)", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0005", "question": "температура", "options": ["soğuk", "derece", "ateş", "sıcaklık"], "correct": 3, "explanation": "ateş — температура (жар у человека)", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0006", "question": "кашель", "options": ["boğaz", "hapşırık", "nefes", "öksürük"], "correct": 4, "explanation": "öksürük — кашель", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0007", "question": "голова", "options": ["baş", "yüz", "kafa", "beyin"], "correct": 1, "explanation": "baş — голова", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0008", "question": "живот", "options": ["karın", "bel", "mide", "bağırsak"], "correct": 1, "explanation": "karın — живот", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0009", "question": "сердце", "options": ["kan", "damar", "kalp", "nabız"], "correct": 3, "explanation": "kalp — сердце", "tags": ["noun", "health"], "source": "llm"}
+{"id": "A2-004-0011", "question": "лечить", "options": ["bakmak", "tedavi etmek", "ameliyat etmek", "iyileştirmek"], "correct": 2, "explanation": "tedavi etmek — лечить", "tags": ["verb", "health"], "source": "llm"}
+{"id": "A2-004-0012", "question": "вызывать", "options": ["gelmek", "gitmek", "çağırmak", "aramak"], "correct": 3, "explanation": "çağırmak — вызывать (врача)", "tags": ["verb", "health"], "source": "llm"}
+{"id": "A2-004-0013", "question": "принимать", "options": ["almak", "tutmak", "kabul etmek", "içmek"], "correct": 1, "explanation": "almak — принимать (лекарство), içmek (пить)", "tags": ["verb", "health"], "source": "llm"}
+{"id": "A2-004-0014", "question": "чувствовать", "options": ["duymak", "anlamak", "hissetmek", "görmek"], "correct": 3, "explanation": "hissetmek — чувствовать", "tags": ["verb", "health"], "source": "llm"}
+{"id": "A2-004-0015", "question": "веселый", "options": ["komik", "gülen", "neşeli", "mutlu"], "correct": 3, "explanation": "neşeli — веселый", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0016", "question": "грустный", "options": ["mutsuz", "sakin", "ağlayan", "üzgün"], "correct": 4, "explanation": "üzgün — грустный", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0017", "question": "злой", "options": ["kızgın", "öfkeli", "sinirli", "kötü"], "correct": 1, "explanation": "kızgın — злой, сердитый", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0018", "question": "добрый", "options": ["nazik", "yumuşak", "kibar", "iyi"], "correct": 3, "explanation": "kibar — добрый, вежливый (или iyi kalpli)", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0019", "question": "удивленный", "options": ["korkmuş", "şaşkın", "meraklı", "heyecanlı"], "correct": 2, "explanation": "şaşkın — удивленный", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0020", "question": "спокойный", "options": ["sessiz", "yavaş", "uykulu", "sakin"], "correct": 4, "explanation": "sakin — спокойный", "tags": ["adjective", "emotions"], "source": "llm"}
+{"id": "A2-004-0021", "question": "бояться", "options": ["ağlamak", "korkmak", "kaçmak", "titremek"], "correct": 2, "explanation": "korkmak — бояться", "tags": ["verb", "emotions"], "source": "llm"}
+{"id": "A2-004-0022", "question": "смеяться", "options": ["konuşmak", "gülmek", "oynamak", "eğlenmek"], "correct": 2, "explanation": "gülmek — смеяться", "tags": ["verb", "emotions"], "source": "llm"}
+{"id": "A2-004-0023", "question": "плакать", "options": ["susmak", "bağırmak", "üzülmek", "ağlamak"], "correct": 4, "explanation": "ağlamak — плакать", "tags": ["verb", "emotions"], "source": "llm"}
+{"id": "A2-004-0024", "question": "любовь", "options": ["nefret", "dostluk", "aşk", "sevgi"], "correct": 3, "explanation": "aşk — любовь", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "A2-004-0025", "question": "ненависть", "options": ["sevgi", "kızgınlık", "nefret", "öfke"], "correct": 3, "explanation": "nefret — ненависть", "tags": ["noun", "emotions"], "source": "llm"}
+{"id": "A2-004-0026", "question": "осень", "options": ["yaz", "kış", "sonbahar", "ilkbahar"], "correct": 3, "explanation": "sonbahar — осень (или güz)", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0027", "question": "зима", "options": ["yaz", "kış", "sonbahar", "ilkbahar"], "correct": 2, "explanation": "kış — зима", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0028", "question": "весна", "options": ["sonbahar", "kış", "ilkbahar", "yaz"], "correct": 3, "explanation": "ilkbahar — весна (или bahar)", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0029", "question": "лето", "options": ["kış", "sonbahar", "ilkbahar", "yaz"], "correct": 4, "explanation": "yaz — лето", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0030", "question": "солнечный", "options": ["güneşli", "bulutlu", "karlı", "yağmurlu"], "correct": 1, "explanation": "güneşli — солнечный", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-004-0031", "question": "облачный", "options": ["açık", "bulutlu", "kapalı", "güneşli"], "correct": 2, "explanation": "bulutlu — облачный", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-004-0032", "question": "ветреный", "options": ["rüzgarlı", "sakin", "soğuk", "fırtınalı"], "correct": 1, "explanation": "rüzgarlı — ветреный", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-004-0033", "question": "жаркий", "options": ["soğuk", "serin", "ılık", "sıcak"], "correct": 4, "explanation": "sıcak — жаркий", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-004-0034", "question": "холодный", "options": ["buzlu", "serin", "soğuk", "sıcak"], "correct": 3, "explanation": "soğuk — холодный", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-004-0035", "question": "гроза", "options": ["şimşek", "fırtına", "yağmur", "gök gürültüsü"], "correct": 2, "explanation": "fırtına — гроза, буря", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0036", "question": "туман", "options": ["duman", "bulut", "buhar", "sis"], "correct": 4, "explanation": "sis — туман", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0037", "question": "лед", "options": ["su", "buz", "kar", "dolu"], "correct": 2, "explanation": "buz — лед", "tags": ["noun", "weather"], "source": "llm"}
+{"id": "A2-004-0038", "question": "море", "options": ["nehir", "göl", "okyanus", "deniz"], "correct": 4, "explanation": "deniz — море", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0039", "question": "пляж", "options": ["deniz", "sahil", "kumsal", "plaj"], "correct": 4, "explanation": "plaj — пляж", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0040", "question": "остров", "options": ["yarımada", "ada", "kıta", "ülke"], "correct": 2, "explanation": "ada — остров", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0041", "question": "лес", "options": ["orman", "koru", "park", "bahçe"], "correct": 1, "explanation": "orman — лес", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0042", "question": "дерево", "options": ["odun", "kök", "dal", "ağaç"], "correct": 4, "explanation": "ağaç — дерево", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0043", "question": "гора", "options": ["dağ", "tepe", "ova", "yayla"], "correct": 1, "explanation": "dağ — гора", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0044", "question": "цветок", "options": ["gül", "çiçek", "papatya", "lale"], "correct": 2, "explanation": "çiçek — цветок", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0045", "question": "животное", "options": ["canlı", "hayvan", "yaratık", "böcek"], "correct": 2, "explanation": "hayvan — животное", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0046", "question": "природа", "options": ["dünya", "çevre", "doğa", "tabiat"], "correct": 3, "explanation": "doğa — природа", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0047", "question": "камень", "options": ["toprak", "kum", "kaya", "taş"], "correct": 4, "explanation": "taş — камень", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0048", "question": "земля", "options": ["toprak", "arazi", "dünya", "yer"], "correct": 1, "explanation": "toprak — земля, почва", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0049", "question": "воздух", "options": ["rüzgar", "nefes", "oksijen", "hava"], "correct": 4, "explanation": "hava — воздух", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-004-0050", "question": "огонь", "options": ["yangın", "duman", "alev", "ateş"], "correct": 4, "explanation": "ateş — огонь", "tags": ["noun", "nature"], "source": "llm"}

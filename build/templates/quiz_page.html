@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz: {{ level }} · {{ type_label }}</title>
+  <link rel="stylesheet" href="../../assets/app.css?v={{ cache_buster }}">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="header-left">
+        <h1 class="title">RU→TR {{ type_label }} · {{ level }}</h1>
+      </div>
+      <div class="header-right">
+        <div class="score">Счёт: <span id="score">0</span></div>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- Start screen -->
+      <div id="startScreen" class="screen">
+        <div class="card">
+          <h2>Готовы начать?</h2>
+          <p>Вам будет предложено 5 вопросов на перевод с русского на турецкий.</p>
+          <p class="info">Уровень: <strong>{{ level }}</strong><br>Всего вопросов в базе: <strong>{{ questions_count }}</strong></p>
+          <button id="startBtn" class="btn btn-primary">Начать тест</button>
+        </div>
+      </div>
+
+      <!-- Quiz screen -->
+      <div id="quizScreen" class="screen hidden">
+        <div class="progress-container">
+          <div class="progress-bar">
+            <div id="progressFill" class="progress-fill"></div>
+          </div>
+          <div class="progress-counter"><span id="currentQ">1</span>/<span id="totalQ">5</span></div>
+        </div>
+        
+        <p id="questionText" class="question-text"></p>
+        
+        <div id="answers" class="answers">
+          <!-- Answers will be inserted here -->
+        </div>
+        
+        <div id="explanation" class="explanation hidden">
+          <p id="explanationText"></p>
+        </div>
+        
+        <button id="nextBtn" class="btn btn-primary hidden">Следующий вопрос</button>
+      </div>
+
+      <!-- Results screen -->
+      <div id="resultsScreen" class="screen hidden">
+        <div class="card results-card">
+          <h2>Результаты</h2>
+          <div class="results-score">
+            <div class="score-circle">
+              <span id="finalScore">0</span>
+              <span class="score-total">/ 5</span>
+            </div>
+          </div>
+          <p id="resultsMessage" class="results-message"></p>
+          <div class="results-stats">
+            <div class="stat">
+              <div class="stat-label">Правильно</div>
+              <div id="correctCount" class="stat-value">0</div>
+            </div>
+            <div class="stat">
+              <div class="stat-label">Неправильно</div>
+              <div id="wrongCount" class="stat-value">0</div>
+            </div>
+            <div class="stat">
+              <div class="stat-label">Точность</div>
+              <div id="accuracy" class="stat-value">0%</div>
+            </div>
+          </div>
+          <div id="savingIndicator" class="results-actions">
+            <p style="text-align: center; color: var(--tg-theme-hint-color, #999);">💾 Сохранение результатов...</p>
+          </div>
+          <div id="resultsActions" class="results-actions hidden">
+            <button id="playAgainBtn" class="btn btn-primary">Сыграть ещё</button>
+            <a href="../../index.html" class="btn btn-secondary">Выбрать другой уровень</a>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="../../assets/storage.js?v={{ cache_buster }}"></script>
+  <script src="../../assets/app.js?v={{ cache_buster }}" data-content-id="{{ content_id }}" data-questions="./questions.json" data-level="{{ level }}"></script>
+</body>
+</html>

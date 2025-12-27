@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ course_name }} Quiz</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --card: #121b2f;
+      --text: #e9eefc;
+      --muted: #9fb0d1;
+      --accent: #6aa9ff;
+      --border: rgba(255,255,255,0.08);
+      --shadow: 0 10px 30px rgba(0,0,0,0.35);
+      --radius: 18px;
+    }
+    
+    * { box-sizing: border-box; }
+    
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: radial-gradient(1200px 700px at 20% 0%, rgba(106,169,255,0.18), transparent 60%),
+                  radial-gradient(900px 600px at 90% 20%, rgba(40,209,124,0.12), transparent 55%),
+                  var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      font-size: 2rem;
+      margin: 0 0 10px 0;
+      text-align: center;
+    }
+    
+    .subtitle {
+      text-align: center;
+      color: var(--muted);
+      margin-bottom: 40px;
+    }
+    
+    .levels-grid {
+      display: grid;
+      gap: 12px;
+    }
+    
+    .level-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 20px;
+      text-decoration: none;
+      color: var(--text);
+      transition: all 0.2s;
+      display: block;
+    }
+    
+    .level-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+      border-color: var(--accent);
+    }
+    
+    .level-badge {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    
+    .level-content {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    
+    .level-stats {
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }
+    
+    .stat-label {
+      color: var(--muted);
+    }
+    
+    .stat-value {
+      color: var(--accent);
+      font-weight: 600;
+      margin-left: 4px;
+    }
+    
+    .level-meta {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    
+    .user-pill {
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      max-width: 40%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    {% if debug_mode %}
+    .debug-panel {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      width: 90%;
+      max-width: 400px;
+      max-height: 300px;
+      overflow-y: auto;
+      background: rgba(0, 0, 0, 0.92);
+      color: #ff3333;
+      padding: 12px;
+      font-family: 'Courier New', monospace;
+      font-size: 10px;
+      line-height: 1.3;
+      z-index: 9999;
+      border: 2px solid #ff3333;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(255, 51, 51, 0.3);
+      transition: all 0.3s;
+    }
+    
+    .debug-panel.minimized {
+      max-height: 40px;
+      overflow: hidden;
+    }
+    
+    .debug-toggle {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      background: #ff3333;
+      color: white;
+      border: none;
+      padding: 4px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 10px;
+      font-weight: bold;
+    }
+    
+    .debug-panel h3 {
+      color: #ff6666;
+      margin: 0 0 8px 0;
+      font-size: 12px;
+      border-bottom: 1px solid #ff3333;
+      padding-bottom: 4px;
+    }
+    
+    .debug-key {
+      margin: 6px 0;
+      padding: 6px;
+      background: rgba(255, 51, 51, 0.1);
+      border-left: 2px solid #ff3333;
+    }
+    
+    .debug-key-name {
+      color: #ff9999;
+      font-weight: bold;
+    }
+    
+    .debug-key-value {
+      color: #ffcccc;
+      margin-top: 3px;
+      word-break: break-all;
+    }
+    {% endif %}
+  </style>
+</head>
+<body>
+  {% if debug_mode %}
+  <div id="debug-panel" class="debug-panel">
+    <button class="debug-toggle" onclick="document.getElementById('debug-panel').classList.toggle('minimized')">▼/▲</button>
+    <h3>🔴 DEBUG STORAGE</h3>
+    <div id="debug-content">Загрузка...</div>
+  </div>
+  {% endif %}
+  
+  <div class="container">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+      <div>
+        <h1 style="margin: 0 0 4px 0; font-size: 1.5rem;">{{ course_icon }}</h1>
+        <div style="font-size: 1.1rem;">{{ course_name }}</div>
+      </div>
+      <div style="text-align: right;">
+        <div id="user-pill" style="font-size: 0.85rem; color: var(--muted); margin-bottom: 4px;"></div>
+        <div style="font-size: 0.95rem;">
+          🔥 <span style="color: var(--muted);">Дней:</span> <span id="unique-days" style="color: var(--accent); font-weight: 600;">0</span>
+        </div>
+      </div>
+    </div>
+    
+    {% if sections %}
+      {% for section in sections %}
+        <h2 style="margin: 30px 0 15px 0; font-size: 1.3rem;">{{ section.name }}</h2>
+        <div class="levels-grid">
+          {% for level_card in section.level_cards %}
+            <a href="{{ level_card.href }}" class="level-card" data-level="{{ level_card.level }}">
+              <div class="level-content">
+                <div class="level-badge">{{ level_card.level }}</div>
+                <div class="level-stats" id="stats-{{ level_card.content_id }}-{{ level_card.level }}">
+                  <span class="stat-label">Ваш прогресс:</span>
+                  <span class="stat-value">—</span>
+                </div>
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    {% else %}
+      <p style="color: var(--muted); text-align: center; margin-top: 40px;">Нет доступных тестов</p>
+    {% endif %}
+  </div>
+  
+  <script src="./assets/storage.js?v={{ cache_buster }}"></script>
+  <script>
+    {% if debug_mode %}
+    // DEBUG PANEL - Show all storage keys and values
+    async function updateDebugPanel() {
+      const debugContent = document.getElementById('debug-content');
+      if (!debugContent) return;
+      
+      let html = '';
+      
+      // Get all CloudStorage keys if available
+      if (window.Telegram && window.Telegram.WebApp && window.Telegram.WebApp.CloudStorage) {
+        try {
+          html += '<h3 style="color: #ff6666;">☁️ CloudStorage Keys:</h3>';
+          const keys = await new Promise((resolve, reject) => {
+            window.Telegram.WebApp.CloudStorage.getKeys((error, keys) => {
+              if (error) reject(error);
+              else resolve(keys || []);
+            });
+          });
+          
+          html += `<div style="color: #ff9999;">Total keys: ${keys.length}</div>`;
+          
+          if (keys.length > 0) {
+            for (const key of keys) {
+              const value = await new Promise((resolve) => {
+                window.Telegram.WebApp.CloudStorage.getItem(key, (error, value) => {
+                  resolve(error ? `ERROR: ${error}` : value);
+                });
+              });
+              
+              html += `<div class="debug-key">
+                <div class="debug-key-name">🔑 ${key}</div>
+                <div class="debug-key-value">${value || '(empty)'}</div>
+              </div>`;
+            }
+          } else {
+            html += '<div style="color: #ff6666; margin: 10px 0;">⚠️ No keys found in CloudStorage</div>';
+          }
+        } catch (e) {
+          html += `<div style="color: #ff3333;">CloudStorage error: ${e.message}</div>`;
+        }
+      } else {
+        html += '<div style="color: #ff6666;">⚠️ CloudStorage not available</div>';
+      }
+      
+      // Get all localStorage keys
+      html += '<h3 style="color: #ff6666; margin-top: 20px;">💾 localStorage Keys:</h3>';
+      const localKeys = Object.keys(localStorage).filter(k => k.includes('quiz'));
+      html += `<div style="color: #ff9999;">Total keys: ${localKeys.length}</div>`;
+      
+      if (localKeys.length > 0) {
+        for (const key of localKeys) {
+          const value = localStorage.getItem(key);
+          html += `<div class="debug-key">
+            <div class="debug-key-name">🔑 ${key}</div>
+            <div class="debug-key-value">${value || '(empty)'}</div>
+          </div>`;
+        }
+      } else {
+        html += '<div style="color: #ff6666; margin: 10px 0;">⚠️ No quiz keys in localStorage</div>';
+      }
+      
+      // Storage cache info
+      if (storage._cache) {
+        html += '<h3 style="color: #ff6666; margin-top: 20px;">📦 Storage Cache:</h3>';
+        const cacheKeys = Object.keys(storage._cache);
+        html += `<div style="color: #ff9999;">Cached keys: ${cacheKeys.length}</div>`;
+        
+        for (const key of cacheKeys) {
+          const cached = storage._cache[key];
+          const age = Math.round((Date.now() - cached.timestamp) / 1000);
+          html += `<div class="debug-key">
+            <div class="debug-key-name">🔑 ${key} (${age}s ago)</div>
+            <div class="debug-key-value">${cached.value || '(empty)'}</div>
+          </div>`;
+        }
+      }
+      
+      debugContent.innerHTML = html;
+    }
+    
+    // Update debug panel on load and every 3 seconds
+    updateDebugPanel();
+    setInterval(updateDebugPanel, 3000);
+    {% endif %}
+    
+    // Telegram WebApp integration
+    if (window.Telegram && window.Telegram.WebApp) {
+      const tg = window.Telegram.WebApp;
+      tg.ready();
+      tg.disableVerticalSwipes();
+      tg.isClosingConfirmationEnabled = true;
+      
+      // Show user info
+      const userPillEl = document.getElementById('user-pill');
+      if (tg.initDataUnsafe && tg.initDataUnsafe.user && userPillEl) {
+        const u = tg.initDataUnsafe.user;
+        const name = [u.first_name, u.last_name].filter(Boolean).join(' ') || u.username || 'Пользователь';
+        userPillEl.textContent = '@' + (u.username || name);
+      } else if (userPillEl) {
+        userPillEl.textContent = 'Гость';
+      }
+    }
+    
+    // Load and display stats for each level and type
+    (async function() {
+      // Dynamically collect all content IDs and levels from the page
+      const allStats = [];
+      document.querySelectorAll('[id^="stats-"]').forEach(el => {
+        const match = el.id.match(/^stats-(.+?)-(.+)$/);
+        if (match) {
+          allStats.push({ contentId: match[1], level: match[2], element: el });
+        }
+      });
+      
+      console.log('[catalog] Found stats elements:', allStats);
+      
+      // Initialize all storage keys if they don't exist
+      console.log('[catalog] Initializing storage keys...');
+      const initPromises = allStats.map(item => (async () => {
+        const storageKey = storageKeys.quiz(item.contentId, item.level);
+        try {
+          const existing = await storage.get(storageKey);
+          if (!existing) {
+            const initialStats = {
+              bestScore: 0,
+              lastScore: 0,
+              totalCorrect: 0,
+              totalQuestions: 0,
+              attempts: 0,
+              lastAttemptAt: null
+            };
+            await storage.set(storageKey, JSON.stringify(initialStats));
+            console.log(`[catalog] Initialized key: ${storageKey}`);
+          }
+        } catch (e) {
+          console.error(`[catalog] Failed to initialize ${storageKey}:`, e);
+        }
+      })());
+      
+      // Initialize global counter
+      const globalKey = storageKeys.globalDaysCounter();
+      initPromises.push((async () => {
+        try {
+          const existing = await storage.get(globalKey);
+          if (!existing) {
+            const initialGlobal = {
+              uniqueDays: 0,
+              lastPassed: null
+            };
+            await storage.set(globalKey, JSON.stringify(initialGlobal));
+            console.log(`[catalog] Initialized global counter: ${globalKey}`);
+          }
+        } catch (e) {
+          console.error(`[catalog] Failed to initialize global counter:`, e);
+        }
+      })());
+      
+      await Promise.all(initPromises);
+      console.log('[catalog] Storage initialization complete');
+      
+      // Load unique days counter
+      try {
+        const globalKey = storageKeys.globalDaysCounter();
+        
+        // Check cache first
+        const cached = storage._cache && storage._cache[globalKey];
+        const uniqueDaysEl = document.getElementById('unique-days');
+        
+        if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {
+          try {
+            const stats = JSON.parse(cached.value);
+            console.log('[catalog] Unique days from cache:', stats.uniqueDays);
+            if (uniqueDaysEl) {
+              uniqueDaysEl.textContent = stats.uniqueDays || 0;
+            }
+          } catch (e) {
+            console.error('[catalog] Error parsing cached unique days:', e);
+          }
+        }
+        
+        // Always load from storage to get latest value
+        const globalData = await storage.get(globalKey);
+        console.log('[catalog] Unique days from storage:', globalData);
+        
+        if (globalData) {
+          const stats = JSON.parse(globalData);
+          console.log('[catalog] Parsed unique days:', stats);
+          if (uniqueDaysEl) {
+            uniqueDaysEl.textContent = stats.uniqueDays || 0;
+          }
+        } else {
+          console.log('[catalog] No unique days data found');
+          if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
+        }
+      } catch (e) {
+        console.error('Failed to load unique days:', e);
+        const uniqueDaysEl = document.getElementById('unique-days');
+        if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
+      }
+      
+      // Set default '-' for all levels immediately (will be updated by async loader)
+      allStats.forEach(item => {
+        const valueEl = item.element.querySelector('.stat-value');
+        if (valueEl) {
+          valueEl.textContent = '—';
+        }
+      });
+      
+      // Load all stats in parallel - ALWAYS fetch from CloudStorage for fresh data
+      const promises = allStats.map(item => (async () => {
+        const statsEl = item.element;
+        const contentId = item.contentId;
+        const level = item.level;
+        
+        try {
+          // Use contentId directly to generate storage key
+          const storageKey = storageKeys.quiz(contentId, level);
+          
+          // Always load from storage to get CloudStorage data (force refresh to bypass cache)
+          console.log(`[catalog] Loading stats for level ${level} (${contentId}), key: "${storageKey}"`);
+          const data = await storage.get(storageKey, { forceRefresh: true });
+          
+          console.log(`[catalog] Got data for ${level} (${contentId}):`, data);
+          
+          if (data) {
+            const stats = JSON.parse(data);
+            let avgPercent = null;
+            
+            if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {
+              avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
+            } else if (stats.lastScore !== undefined) {
+              avgPercent = Math.round((stats.lastScore / 5) * 100);
+            }
+            
+            console.log(`[catalog] Calculated percent for ${level} (${contentId}):`, avgPercent);
+            
+            // Check for corrupted data (>100%)
+            if (avgPercent !== null && avgPercent > 100) {
+              console.warn(`[catalog] Corrupted stats detected for ${level} (${contentId}): ${avgPercent}%. Clearing...`);
+              await storage.remove(storageKey);
+              const valueEl = statsEl.querySelector('.stat-value');
+              if (valueEl) valueEl.textContent = '—';
+            } else if (avgPercent !== null) {
+              const valueEl = statsEl.querySelector('.stat-value');
+              if (valueEl) {
+                valueEl.textContent = `${avgPercent}%`;
+                console.log(`[catalog] Updated display for ${level} (${contentId}) to ${avgPercent}%`);
+              }
+            }
+          } else {
+              // Keep placeholder
+              const valueEl = statsEl.querySelector('.stat-value');
+              if (valueEl && (!valueEl.textContent || valueEl.textContent.trim() === '—')) valueEl.textContent = '—';
+          }
+        } catch (e) {
+          console.error(`Failed to load stats for ${level} (${contentId}):`, e);
+        }
+      })());
+      
+      await Promise.all(promises);
+
+      // Second pass refresh (handles slow CloudStorage propagation / late sync)
+      // Only updates cards that are still empty (—)
+      setTimeout(() => {
+        allStats.forEach(item => {
+          const statsEl = item.element;
+          const contentId = item.contentId;
+          const level = item.level;
+          
+          const valueEl = statsEl.querySelector('.stat-value');
+          if (!valueEl) return;
+          if (valueEl.textContent && !valueEl.textContent.trim().startsWith('—')) return;
+
+          const storageKey = storageKeys.quiz(contentId, level);
+          
+          storage.get(storageKey, { forceRefresh: true }).then((data) => {
+            if (!data) return;
+            try {
+              const stats = JSON.parse(data);
+              let avgPercent = null;
+
+              if (stats.totalCorrect !== undefined && stats.totalQuestions > 0) {
+                avgPercent = Math.round((stats.totalCorrect / stats.totalQuestions) * 100);
+              } else if (stats.lastScore !== undefined) {
+                avgPercent = Math.round((stats.lastScore / 5) * 100);
+              }
+
+              if (avgPercent !== null && avgPercent <= 100) {
+                valueEl.textContent = `${avgPercent}%`;
+              }
+            } catch (_) {
+              // ignore
+            }
+          });
+        });
+      }, 6500);
+    })();
+  </script>
+</body>
+</html>

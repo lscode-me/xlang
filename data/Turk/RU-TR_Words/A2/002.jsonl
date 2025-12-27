@@ -1,0 +1,50 @@
+{"id": "A2-002-0001", "question": "костюм", "options": ["takım elbise", "gömlek", "ceket", "pantolon"], "correct": 1, "explanation": "takım elbise — костюм (мужской)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0002", "question": "пальто", "options": ["mont", "palto", "kaban", "ceket"], "correct": 2, "explanation": "palto — пальто", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0003", "question": "куртка", "options": ["mont", "ceket", "palto", "hırka"], "correct": 1, "explanation": "mont — куртка", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0004", "question": "носки", "options": ["bot", "ayakkabı", "çorap", "terlik"], "correct": 3, "explanation": "çorap — носки (ед.ч. тоже çorap)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0005", "question": "перчатки", "options": ["eldiven", "şapka", "atkı", "kemer"], "correct": 1, "explanation": "eldiven — перчатки", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0006", "question": "шарф", "options": ["fular", "kravat", "şal", "atkı"], "correct": 4, "explanation": "atkı — шарф", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0007", "question": "ремень", "options": ["zincir", "kemer", "ip", "kuşak"], "correct": 2, "explanation": "kemer — ремень, пояс", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0008", "question": "галстук", "options": ["yaka", "kravat", "atkı", "papyon"], "correct": 2, "explanation": "kravat — галстук", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0009", "question": "нижнее белье", "options": ["mayo", "iç çamaşırı", "pijama", "bikini"], "correct": 2, "explanation": "iç çamaşırı — нижнее белье", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0010", "question": "пижама", "options": ["tulum", "gecelik", "elbise", "pijama"], "correct": 4, "explanation": "pijama — пижама", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0011", "question": "продавать", "options": ["vermek", "bakmak", "satmak", "almak"], "correct": 3, "explanation": "satmak — продавать", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0012", "question": "платить", "options": ["harcamak", "almak", "kazanmak", "ödemek"], "correct": 4, "explanation": "ödemek — платить", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0013", "question": "стоить", "options": ["mal olmak", "değmek", "etmek", "tutmak"], "correct": 1, "explanation": "mal olmak — стоить (или fiyatı olmak, tutmak)", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0014", "question": "дешевый", "options": ["pahalı", "bedava", "indirimli", "ucuz"], "correct": 4, "explanation": "ucuz — дешевый", "tags": ["adjective", "shopping"], "source": "llm"}
+{"id": "A2-002-0015", "question": "дорогой", "options": ["pahalı", "zengin", "değerli", "lüks"], "correct": 1, "explanation": "pahalı — дорогой", "tags": ["adjective", "shopping"], "source": "llm"}
+{"id": "A2-002-0016", "question": "скидка", "options": ["indirim", "satış", "kampanya", "fiyat"], "correct": 1, "explanation": "indirim — скидка", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0017", "question": "касса", "options": ["vezne", "cüzdan", "kasa", "banka"], "correct": 3, "explanation": "kasa — касса", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0018", "question": "очередь", "options": ["sıra", "dizi", "hat", "kuyruk"], "correct": 1, "explanation": "sıra — очередь (или kuyruk)", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0019", "question": "клиент", "options": ["satıcı", "patron", "misafir", "müşteri"], "correct": 4, "explanation": "müşteri — клиент, покупатель", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0020", "question": "продавец", "options": ["kasiyer", "satıcı", "manav", "esnaf"], "correct": 2, "explanation": "satıcı — продавец", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0021", "question": "центр", "options": ["kenar", "meydan", "merkez", "ortam"], "correct": 3, "explanation": "merkez — центр", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0022", "question": "площадь", "options": ["meydan", "alan", "park", "saha"], "correct": 1, "explanation": "meydan — площадь", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0023", "question": "здание", "options": ["yapı", "bina", "apartman", "ev"], "correct": 2, "explanation": "bina — здание", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0024", "question": "музей", "options": ["müze", "saray", "sergi", "galeri"], "correct": 1, "explanation": "müze — музей", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0025", "question": "театр", "options": ["sinema", "sahne", "opera", "tiyatro"], "correct": 4, "explanation": "tiyatro — театр", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0026", "question": "кинотеатр", "options": ["film", "tiyatro", "sinema", "salon"], "correct": 3, "explanation": "sinema — кинотеатр (или кино)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0027", "question": "кафе", "options": ["büfe", "restoran", "lokanta", "kafe"], "correct": 4, "explanation": "kafe — кафе", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0028", "question": "ресторан", "options": ["restoran", "yemekhane", "lokanta", "mutfak"], "correct": 1, "explanation": "restoran — ресторан", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0029", "question": "отель", "options": ["misafirhane", "ev", "otel", "pansiyon"], "correct": 3, "explanation": "otel — отель, гостиница", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0030", "question": "банк", "options": ["ofis", "postane", "şube", "banka"], "correct": 4, "explanation": "banka — банк", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0031", "question": "почта", "options": ["paket", "mektup", "kargo", "postane"], "correct": 4, "explanation": "postane — почта (отделение)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0032", "question": "полиция", "options": ["bekçi", "polis", "asker", "karakol"], "correct": 2, "explanation": "polis — полиция (или полисмен)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0033", "question": "деревня", "options": ["kasaba", "ülke", "köy", "şehir"], "correct": 3, "explanation": "köy — деревня", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0034", "question": "страна", "options": ["toprak", "vatan", "devlet", "ülke"], "correct": 4, "explanation": "ülke — страна", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0035", "question": "север", "options": ["doğu", "kuzey", "güney", "batı"], "correct": 2, "explanation": "kuzey — север", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0036", "question": "юг", "options": ["kuzey", "doğu", "güney", "batı"], "correct": 3, "explanation": "güney — юг", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0037", "question": "восток", "options": ["güney", "kuzey", "batı", "doğu"], "correct": 4, "explanation": "doğu — восток", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0038", "question": "запад", "options": ["batı", "doğu", "güney", "kuzey"], "correct": 1, "explanation": "batı — запад", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0039", "question": "путь", "options": ["rota", "yol", "cadde", "sokak"], "correct": 2, "explanation": "yol — путь, дорога", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0040", "question": "карта", "options": ["kroki", "harita", "resim", "plan"], "correct": 2, "explanation": "harita — карта (географическая)", "tags": ["noun", "places"], "source": "llm"}
+{"id": "A2-002-0041", "question": "свитер", "options": ["süveter", "hırka", "kazak", "tişört"], "correct": 3, "explanation": "kazak — свитер", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0042", "question": "джинсы", "options": ["kot", "kumaş", "tayt", "pantolon"], "correct": 1, "explanation": "kot — джинсы (kot pantolon)", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0043", "question": "кроссовки", "options": ["spor ayakkabı", "terlik", "kundura", "bot"], "correct": 1, "explanation": "spor ayakkabı — кроссовки", "tags": ["noun", "clothes"], "source": "llm"}
+{"id": "A2-002-0044", "question": "примерять", "options": ["takmak", "giymek", "denemek", "çıkarmak"], "correct": 3, "explanation": "denemek — примерять (или пробовать)", "tags": ["verb", "shopping"], "source": "llm"}
+{"id": "A2-002-0045", "question": "носить", "options": ["giymek", "götürmek", "takmak", "taşımak"], "correct": 1, "explanation": "giyinmek/taşımak — носить одежду (giymek), носить вещи (taşımak)", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0046", "question": "размер", "options": ["numara", "ölçü", "boyut", "beden"], "correct": 4, "explanation": "beden — размер (одежды), numara (обуви)", "tags": ["noun", "shopping"], "source": "llm"}
+{"id": "A2-002-0047", "question": "цвет", "options": ["ton", "renk", "ışık", "boya"], "correct": 2, "explanation": "renk — цвет", "tags": ["noun", "general"], "source": "llm"}
+{"id": "A2-002-0048", "question": "выбирать", "options": ["aramak", "bakmak", "seçmek", "almak"], "correct": 3, "explanation": "seçmek — выбирать", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0049", "question": "находить", "options": ["kaybetmek", "bakmak", "aramak", "bulmak"], "correct": 4, "explanation": "bulmak — находить", "tags": ["verb", "general"], "source": "llm"}
+{"id": "A2-002-0050", "question": "терять", "options": ["bırakmak", "bulmak", "kaybetmek", "unutmak"], "correct": 3, "explanation": "kaybetmek — терять", "tags": ["verb", "general"], "source": "llm"}

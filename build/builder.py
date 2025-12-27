@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Tuple
 from collections import defaultdict
 
-import manage_vocabulary as vocab
+import check_data as vocab
 from template_engine import TemplateEngine
 
 
@@ -310,11 +310,13 @@ class SiteBuilder:
                     json.dump(all_questions, f, ensure_ascii=False, indent=2)
                 
                 # Generate quiz HTML using template engine
+                content_emoji = content.get("emoji", "📚")
                 quiz_html = self.template_engine.render_quiz_page(
                     content_id=content_id,
                     level=level,
                     questions_count=len(all_questions),
-                    type_label=content_name
+                    type_label=content_name,
+                    content_emoji=content_emoji
                 )
                 (quiz_dir / "index.html").write_text(quiz_html, encoding="utf-8")
                 
@@ -334,6 +336,7 @@ class SiteBuilder:
         print("📋 Generating catalog page...")
         
         course_icon = self.course_config.get("icon", "📚")
+        course_description = self.course_config.get("description", "")
         contents = self.course_config.get("contents", [])
         
         # Build sections data for template
@@ -364,6 +367,7 @@ class SiteBuilder:
         # Render catalog page using template engine
         catalog_html = self.template_engine.render_catalog_page(
             course_name=self.course_name,
+            course_description=course_description,
             course_icon=course_icon,
             sections=sections,
             debug_mode=self.debug_mode

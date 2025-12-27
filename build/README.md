@@ -43,7 +43,7 @@ tma/
 │   │   ├── app.css               # Стили приложения
 │   │   ├── app.js                # JavaScript квиза
 │   │   └── storage.js            # Обертка для Telegram CloudStorage
-│   ├── manage_vocabulary.py      # Управление данными (валидация, дедупликация, балансировка)
+│   ├── check_data.py              # Управление данными (валидация, дедупликация, балансировка)
 │   ├── dev_server.py             # Локальный HTTP-сервер
 │   ├── validate_html.py          # Проверка HTML
 │   └── requirements.txt          # Python зависимости
@@ -101,7 +101,7 @@ tma/
 
 ### Управление данными
 
-- **manage_vocabulary.py** — Универсальный инструмент для работы с Vocabulary
+- **check_data.py** — Универсальный инструмент для проверки и управления данными
   - Валидация формата вопросов
   - Валидация словарных записей
   - Балансировка распределения ответов
@@ -120,31 +120,31 @@ tma/
 ### Автоматическая проверка и исправление
 
 ```bash
-# По умолчанию: валидация + балансировка + дедупликация
-./build/manage_vocabulary.py
-
-# Или конкретные команды:
-./build/manage_vocabulary.py validate-questions  # Только валидация
-./build/manage_vocabulary.py shuffle             # Только балансировка
-./build/manage_vocabulary.py remove-duplicates   # Только дедупликация
-./build/manage_vocabulary.py fix-all             # Всё сразу
+# Универсальные команды (работают для всех курсов):
+./build/check_data.py validate-questions <course_id>  # Универсальная валидация формата
+./build/check_data.py validate-content <course_id>    # Контент-специфичная валидация
+./build/check_data.py shuffle <course_id>             # Балансировка ответов
+./build/check_data.py remove-duplicates <course_id>   # Дедупликация
+./build/check_data.py check-all <course_id>           # Все проверки
+./build/check_data.py fix-all <course_id>            # Все проверки и исправления
 ```
 
 ### Что проверяется
 
-**validate-questions** — проверяет все JSONL файлы:
+**validate-questions** — универсальная проверка формата для всех курсов:
 - ✅ Корректность JSON
 - ✅ Наличие обязательных полей: `id`, `question`, `options`, `correct`, `explanation`
 - ✅ Уникальность ID (в пределах категории)
 - ✅ Ровно 4 варианта ответа (все уникальные)
-- ✅ Отсутствие кириллицы в турецких вариантах
 - ✅ Отсутствие LLM-мусора ("правильный ответ", "as an AI")
 - ✅ Корректное поле `explanation` с разделителями
 
-**validate-words** — дополнительная проверка для RU-TR_Words:
-- ✅ ID в формате `{LEVEL}-{SET}-{NUM}` (например, `A1-001-0001`)
-- ⚠️ Русское слово должно быть одним словом (предупреждение)
-- ✅ Консистентность: русское слово в `explanation`
+**validate-content** — контент-специфичная проверка (если есть `data/{course_name}/check.py`):
+- Для курса **Turk** (`data/Turk/check.py`):
+  - ✅ ID в формате `{LEVEL}-{SET}-{NUM}` (например, `A1-001-0001`)
+  - ✅ Отсутствие кириллицы в турецких вариантах ответов
+  - ⚠️ Русское слово должно быть одним словом (предупреждение)
+  - ✅ Консистентность: русское слово в `explanation`
 
 **shuffle** — балансирует распределение правильных ответов:
 - Проверяет распределение вариантов 1, 2, 3, 4
@@ -204,7 +204,7 @@ tma/
 
 1. Создайте или откройте JSONL файл в `data/Turk/RU-TR_{Words,Phrases,Grammar}/<LEVEL>/`
 2. Добавьте строки с вопросами (каждая строка = один JSON объект)
-3. Запустите: `./build/manage_vocabulary.py` (автоматическая проверка и исправление)
+3. Запустите: `./build/check_data.py fix-all <course_id>` (автоматическая проверка и исправление)
 4. Соберите сайт: `./build/build_ma.sh`
 
 **Примечание**: Все JSONL файлы одного уровня автоматически объединяются в один тест.
@@ -365,7 +365,7 @@ const newCorrectIndex = shuffled.indexOf(correctAnswer);
 
 ```bash
 # Валидация данных
-./build/manage_vocabulary.py
+./build/check_data.py
 
 # Сборка сайта
 python3 build/build_site.py
@@ -408,12 +408,12 @@ python3 -m http.server -d html/ma 8000
 **Результат:**
 - Более модульный и поддерживаемый код
 - Шаблоны с подсветкой синтаксиса в VS Code
-- Универсальный `manage_vocabulary.py` для всех операций с данными
+- Универсальный `check_data.py` для всех операций с данными
 
 ### 25 декабря 2024 — Объединение инструментов
 
 **Объединены скрипты управления данными:**
-- Создан универсальный `manage_vocabulary.py`
+- Создан универсальный `check_data.py`
 - Удалены: `validate_questions.py`, `validate_vocabulary.py`, `shuffle_answers.py`, `remove_duplicates.py`
 - Удалены устаревшие: `generate_ma.py`, `index.html` (шаблон)
 
@@ -427,7 +427,7 @@ python3 -m http.server -d html/ma 8000
 1. Форкните репозиторий
 2. Создайте ветку: `git checkout -b feature/new-questions`
 3. Добавьте вопросы в JSONL
-4. Запустите: `./build_ma/manage_vocabulary.py`
+4. Запустите: `./build/check_data.py fix-all <course_id>`
 5. Закоммитьте: `git commit -am 'Add new A2 questions'`
 6. Запушьте: `git push origin feature/new-questions`
 7. Создайте Pull Request

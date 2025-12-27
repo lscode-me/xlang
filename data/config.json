@@ -3,20 +3,38 @@
     {
       "id": "sch",
       "name": "School",
-      "dest_folder": "sch",
+      "dest_folder": "test",
       "description": "Уроки",
       "icon": "🎓",
       "quiz_length": 5,
       "contents": [
         {
-          "id": "english",
-          "name": "English",
+          "id": "enwords",
+          "dir": "EnWords",
+          "name": "English Words",
           "emoji": "🇬🇧",
-          "description": "Английский язык",
+          "description": "Английские слова",
+          "levels": ["A1", "A2"]
+        },
+        {
+          "id": "enphrases",
+          "dir": "EnPhrases",
+          "name": "English Phrases",
+          "emoji": "💬",
+          "description": "Английские фразы",
+          "levels": ["A1", "A2"]
+        },
+        {
+          "id": "engrammar",
+          "dir": "EnGrammar",
+          "name": "English Grammar",
+          "emoji": "📚",
+          "description": "Английская грамматика",
           "levels": ["A1", "A2"]
         },
         {
           "id": "maths",
+          "dir": "Maths",
           "name": "Maths",
           "emoji": "🔢",
           "description": "Математика",
@@ -27,7 +45,7 @@
     {
       "id": "turk",
       "name": "Turk",
-      "dest_folder": "test",
+      "dest_folder": "test_new",
       "description": "Турецкий язык",
       "icon": "🇷🇺 → 🇹🇷",
       "quiz_length": 5,

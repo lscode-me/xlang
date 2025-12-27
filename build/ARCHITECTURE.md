@@ -13,7 +13,7 @@ build/
 │   ├── app.css            # Стили приложения
 │   ├── app.js             # JavaScript квиза (с переменной {{ quiz_length }})
 │   └── storage.js         # Обертка для Telegram CloudStorage
-├── manage_vocabulary.py   # Валидация и управление данными
+├── check_data.py          # Валидация и управление данными
 ├── quizes.py             # Конфигурация типов контента
 └── requirements.txt       # Зависимости (jinja2)
 ```

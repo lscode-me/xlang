@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """
-Universal tool for managing vocabulary JSONL files.
-Combines validation, shuffling, deduplication, and quality checks.
+Universal tool for checking and managing vocabulary JSONL files.
+Handles format validation, shuffling, and deduplication for all courses.
+
+Content-specific validations are handled by course-specific check modules
+(e.g., data/Turk/check.py for Turk course).
 
 Usage:
-    ./manage_vocabulary.py <course_id>                     # Required: check and fix everything for course
-    ./manage_vocabulary.py validate-questions <course_id>  # Validate question format
-    ./manage_vocabulary.py validate-words <course_id>      # Validate word entries (Words content only)
-    ./manage_vocabulary.py shuffle <course_id>             # Shuffle answers if distribution is unbalanced
-    ./manage_vocabulary.py remove-duplicates <course_id>   # Remove duplicate questions
-    ./manage_vocabulary.py check-all <course_id>           # Run all checks (validate + shuffle)
-    ./manage_vocabulary.py fix-all <course_id>             # Run all checks and fixes (deduplicate + validate + shuffle)
+    ./check_data.py validate-questions <course_id>  # Validate question format (universal)
+    ./check_data.py shuffle <course_id>             # Shuffle answers if distribution is unbalanced
+    ./check_data.py remove-duplicates <course_id>   # Remove duplicate questions
+    ./check_data.py check-all <course_id>           # Run all checks (validate + content-specific + shuffle)
+    ./check_data.py fix-all <course_id>             # Run all checks and fixes (deduplicate + validate + content-specific + shuffle)
 """
 import json
 import random
@@ -36,16 +37,12 @@ LLM_JUNK_PATTERNS = [
     r"as an ai",
     r"chatgpt",
     r"i'?m sorry",
-    r"i can'?t",
+    r"i can'?t (help|provide|assist|answer|do that|generate|create)",
     r"openai",
 ]
 
 REQUIRED_FIELDS = {"id", "question", "options", "correct", "explanation"}
 OPTIONAL_FIELDS = {"tags", "source"}
-
-# Vocabulary-specific patterns
-ID_PATTERN = re.compile(r"^(A1|A2|B1)-\d{3}-\d{4}$")
-CYRILLIC_PATTERN = re.compile(r"[а-яА-ЯёЁ]")
 
 
 # ============================================================================
@@ -119,8 +116,18 @@ def shuffle_question(question: Dict[str, Any]) -> Dict[str, Any]:
     return question
 
 
-def process_shuffle_file(filepath: Path) -> bool:
-    """Process a single file for shuffling. Returns True if file was modified."""
+def process_shuffle_file(filepath: Path, max_iterations: int = 10) -> bool:
+    """
+    Process a single file for shuffling. 
+    Repeats shuffling until distribution is balanced (within 5% threshold).
+    
+    Args:
+        filepath: Path to JSONL file
+        max_iterations: Maximum number of shuffle iterations (default: 10)
+    
+    Returns:
+        True if file was modified, False otherwise
+    """
     questions = load_questions(filepath)
     if not questions:
         return False
@@ -131,25 +138,46 @@ def process_shuffle_file(filepath: Path) -> bool:
     # Format distribution
     dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in ratios.items()])
     display_path = f"{filepath.parent.name}/{filepath.name}"
-    result_msg = f"  📊 {display_path}: {dist_str}"
     
-    if should_shuffle:
-        print(result_msg + " -> ⚠️  High deviation, SHUFFLING...")
+    if not should_shuffle:
+        print(f"  📊 {display_path}: {dist_str} -> ✅ Balanced")
+        return False
+    
+    # Initial distribution message
+    print(f"  📊 {display_path}: {dist_str} -> ⚠️  High deviation, SHUFFLING...")
+    
+    # Repeat shuffling until balanced or max iterations reached
+    iteration = 0
+    was_modified = False
+    
+    while iteration < max_iterations:
+        iteration += 1
         
         # Shuffle all questions
         for q in questions:
             shuffle_question(q)
-            
-        # Verify new distribution
-        new_ratios = check_distribution(questions)
-        new_dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in new_ratios.items()])
-        print(f"     New dist: {new_dist_str}")
         
-        save_questions(filepath, questions)
-        return True
-    else:
-        print(result_msg + " -> ✅ Balanced")
-        return False
+        # Check new distribution
+        new_ratios = check_distribution(questions)
+        
+        if not needs_shuffling(new_ratios):
+            # Distribution is now balanced
+            new_dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in new_ratios.items()])
+            print(f"     Iteration {iteration}: {new_dist_str} -> ✅ Balanced")
+            save_questions(filepath, questions)
+            return True
+        
+        # Still unbalanced, continue shuffling
+        if iteration < max_iterations:
+            new_dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in new_ratios.items()])
+            print(f"     Iteration {iteration}: {new_dist_str} -> Still unbalanced, continuing...")
+    
+    # Max iterations reached
+    final_ratios = check_distribution(questions)
+    final_dist_str = ", ".join([f"{k}: {v*100:.1f}%" for k, v in final_ratios.items()])
+    print(f"     Iteration {max_iterations}: {final_dist_str} -> ⚠️  Max iterations reached, saving current state")
+    save_questions(filepath, questions)
+    return True
 
 
 # ============================================================================
@@ -158,11 +186,6 @@ def process_shuffle_file(filepath: Path) -> bool:
 def normalize_text(text: str) -> str:
     """Normalize text for comparison."""
     return re.sub(r"\s+", " ", text.strip().lower())
-
-
-def has_cyrillic(text: str) -> bool:
-    """Check if text contains Cyrillic characters."""
-    return bool(re.search(r"[а-яёА-ЯЁ]", text))
 
 
 def has_llm_junk(text: str) -> bool:
@@ -216,10 +239,7 @@ def validate_question(obj: dict, line_num: int, filepath: Path, all_ids: Set[str
             if not isinstance(variant, str) or not variant.strip():
                 errors.append(f"Variant {i} in 'options' is empty or not a string")
             else:
-                # Check for Cyrillic
-                if has_cyrillic(variant):
-                    errors.append(f"Variant {i} contains Cyrillic: '{variant}'")
-                # Check for LLM junk
+                # Check for LLM junk (universal check)
                 if has_llm_junk(variant):
                     errors.append(f"Variant {i} contains LLM junk: '{variant}'")
         
@@ -240,8 +260,6 @@ def validate_question(obj: dict, line_num: int, filepath: Path, all_ids: Set[str
     explanation = obj.get("explanation", "")
     if not isinstance(explanation, str) or not explanation.strip():
         errors.append("Field 'explanation' must be a non-empty string")
-    elif "—" not in explanation and "-" not in explanation:
-        errors.append("Field 'explanation' must contain at least one separator ('—' or '-')")
     
     # Validate optional fields
     tags = obj.get("tags")
@@ -283,85 +301,6 @@ def validate_jsonl_file_questions(filepath: Path, all_ids: Set[str]) -> Tuple[in
         errors_list.append((0, [f"Failed to read file: {e}"]))
     
     return len(errors_list), errors_list
-
-
-# ============================================================================
-# VALIDATION FUNCTIONS - WORDS (any Words content type)
-# ============================================================================
-def validate_word_entry(entry: Dict[str, Any], line_num: int) -> Tuple[List[str], List[str]]:
-    """Validate a single word entry. Returns (errors, warnings)."""
-    errors = []
-    warnings = []
-    
-    # 1. ID Validation
-    obj_id = entry.get("id")
-    if not isinstance(obj_id, str) or not ID_PATTERN.match(obj_id):
-        errors.append(f"Line {line_num}: Invalid ID format '{obj_id}'")
-
-    # 2. Question Validation
-    question = entry.get("question")
-    if not isinstance(question, str):
-        errors.append(f"Line {line_num}: 'question' field must be a string")
-    elif not question.strip():
-        errors.append(f"Line {line_num}: 'question' field is empty")
-    elif " " in question.strip():
-        warnings.append(f"Line {line_num}: 'question' field contains multiple words: '{question}'")
-
-    # 3. Options Validation
-    options = entry.get("options")
-    if not isinstance(options, list) or len(options) != 4:
-        errors.append(f"Line {line_num}: 'options' must be a list of exactly 4 options")
-    else:
-        # Check for duplicates
-        if len(set(options)) != 4:
-            errors.append(f"Line {line_num}: 'options' options must be unique")
-        
-        # Check each option
-        for opt in options:
-            if not isinstance(opt, str):
-                errors.append(f"Line {line_num}: 'options' option must be a string")
-                continue
-            if CYRILLIC_PATTERN.search(opt):
-                errors.append(f"Line {line_num}: 'options' option '{opt}' contains Cyrillic characters")
-
-    # 4. Correct Validation
-    correct = entry.get("correct")
-    if not isinstance(correct, int) or not (1 <= correct <= 4):
-        errors.append(f"Line {line_num}: 'correct' must be an integer between 1 and 4")
-
-    # 5. Consistency Check
-    explanation = entry.get("explanation", "")
-    if isinstance(explanation, str) and isinstance(question, str) and question.lower() not in explanation.lower():
-        warnings.append(f"Line {line_num}: 'question' word '{question}' not found in 'explanation'")
-
-    # 6. Tags Validation
-    tags = entry.get("tags")
-    if tags is not None and not isinstance(tags, list):
-        errors.append(f"Line {line_num}: 'tags' must be a list")
-
-    return errors, warnings
-
-
-def validate_file_words(filepath: Path) -> Tuple[List[str], List[str]]:
-    """Validate a JSONL file for word-specific rules."""
-    file_errors = []
-    file_warnings = []
-    
-    with open(filepath, "r", encoding="utf-8") as f:
-        for i, line in enumerate(f, 1):
-            line = line.strip()
-            if not line:
-                continue
-            
-            try:
-                entry = json.loads(line)
-                e, w = validate_word_entry(entry, i)
-                file_errors.extend(e)
-                file_warnings.extend(w)
-            except json.JSONDecodeError as e:
-                file_errors.append(f"Line {i}: Invalid JSON - {e}")
-                
-    return file_errors, file_warnings
 
 
 # ============================================================================
@@ -464,6 +403,38 @@ def process_level_duplicates(level_dir: Path) -> int:
 
 
 # ============================================================================
+# CONTENT-SPECIFIC VALIDATION LOADER
+# ============================================================================
+def load_content_specific_validator(repo_root: Path, course_id: str) -> Optional[Any]:
+    """
+    Load content-specific validation module for a course.
+    Looks for check.py in data/{course_name}/ directory.
+    
+    Returns:
+        Module with validate_content_specific function, or None if not found
+    """
+    course_config = get_course_config(repo_root, course_id)
+    if not course_config:
+        return None
+    
+    course_name = course_config["name"]
+    check_module_path = repo_root / "data" / course_name / "check.py"
+    
+    if not check_module_path.exists():
+        return None
+    
+    # Import the module dynamically
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(f"{course_name}_check", check_module_path)
+    if spec is None or spec.loader is None:
+        return None
+    
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+# ============================================================================
 # COMMAND HANDLERS
 # ============================================================================
 def cmd_validate_questions(repo_root: Path, course_id: str):
@@ -549,64 +520,22 @@ def cmd_validate_questions(repo_root: Path, course_id: str):
         return 1
 
 
-def cmd_validate_words(repo_root: Path, course_id: str):
-    """Validate word entries for any Words content type."""
-    course_config = get_course_config(repo_root, course_id)
-    if not course_config:
-        print(f"❌ Course '{course_id}' not found in config.json")
-        return 1
+def cmd_validate_content_specific(repo_root: Path, course_id: str):
+    """
+    Run content-specific validation for a course.
+    Looks for check.py in data/{course_name}/ directory.
+    """
+    validator_module = load_content_specific_validator(repo_root, course_id)
     
-    course_name = course_config["name"]
-    data_dir = repo_root / "data" / course_name
-    
-    # Find Words content type
-    words_content = None
-    for content in course_config.get("contents", []):
-        if "Words" in content["id"]:
-            words_content = content
-            break
-    
-    if not words_content:
-        print(f"⚠️  No Words content found for course '{course_id}'")
+    if validator_module is None:
+        # No content-specific validator found - this is OK
         return 0
     
-    words_dir = data_dir / words_content["id"]
-    
-    if not words_dir.exists():
-        print(f"❌ Directory not found: {words_dir}")
-        return 1
-
-    print(f"🔍 Validating vocabulary in: {words_dir}")
-    print("=" * 60)
-
-    all_files = sorted(words_dir.glob("**/*.jsonl"))
-    total_errors = 0
-    files_with_issues = 0
-
-    for filepath in all_files:
-        errors, warnings = validate_file_words(filepath)
-        if errors or warnings:
-            files_with_issues += 1
-            rel_path = filepath.relative_to(repo_root)
-            print(f"\n📂 {rel_path}")
-            
-            for err in errors:
-                print(f"  ❌ ERROR: {err}")
-            for warn in warnings:
-                print(f"  ⚠️  WARNING: {warn}")
-            
-            total_errors += len(errors)
-
-    print("\n" + "=" * 60)
-    if total_errors > 0:
-        print(f"FAILED. Found {total_errors} errors.")
-        return 1
-    else:
-        if files_with_issues > 0:
-            print(f"✨ SUCCESS with warnings. Scanned {len(all_files)} files.")
-        else:
-            print(f"✨ SUCCESS. Scanned {len(all_files)} files. No issues found.")
+    if not hasattr(validator_module, 'validate_content_specific'):
+        print(f"⚠️  Content-specific validator found but missing validate_content_specific function")
         return 0
+    
+    return validator_module.validate_content_specific(repo_root, course_id, "all")
 
 
 def cmd_shuffle(repo_root: Path, course_id: str):
@@ -631,17 +560,17 @@ def cmd_shuffle(repo_root: Path, course_id: str):
 
 
 def cmd_check_all(repo_root: Path, course_id: str):
-    """Run all checks (validate + shuffle)."""
+    """Run all checks (validate + content-specific + shuffle)."""
     print("=" * 60)
-    print("STEP 1: Validate Questions")
+    print("STEP 1: Validate Questions (Universal)")
     print("=" * 60)
     result1 = cmd_validate_questions(repo_root, course_id)
     
     print("\n")
     print("=" * 60)
-    print("STEP 2: Validate Words (Words content only)")
+    print("STEP 2: Content-Specific Validation")
     print("=" * 60)
-    result2 = cmd_validate_words(repo_root, course_id)
+    result2 = cmd_validate_content_specific(repo_root, course_id)
     
     print("\n")
     print("=" * 60)
@@ -658,7 +587,7 @@ def cmd_check_all(repo_root: Path, course_id: str):
         print("❌ Question validation failed")
         return 1
     if result2 != 0:
-        print("❌ Word validation failed")
+        print("❌ Content-specific validation failed")
         return 1
     
     print("✅ All checks passed!")
@@ -704,7 +633,7 @@ def cmd_remove_duplicates(repo_root: Path, course_id: str):
 
 
 def cmd_fix_all(repo_root: Path, course_id: str):
-    """Run all checks and fixes (deduplicate + validate + shuffle)."""
+    """Run all checks and fixes (deduplicate + validate + content-specific + shuffle)."""
     print("=" * 60)
     print("STEP 1: Remove Duplicates")
     print("=" * 60)
@@ -712,15 +641,15 @@ def cmd_fix_all(repo_root: Path, course_id: str):
     
     print("\n")
     print("=" * 60)
-    print("STEP 2: Validate Questions")
+    print("STEP 2: Validate Questions (Universal)")
     print("=" * 60)
     result1 = cmd_validate_questions(repo_root, course_id)
     
     print("\n")
     print("=" * 60)
-    print("STEP 3: Validate Words (Words content only)")
+    print("STEP 3: Content-Specific Validation")
     print("=" * 60)
-    result2 = cmd_validate_words(repo_root, course_id)
+    result2 = cmd_validate_content_specific(repo_root, course_id)
     
     print("\n")
     print("=" * 60)
@@ -737,7 +666,7 @@ def cmd_fix_all(repo_root: Path, course_id: str):
         print("❌ Question validation failed")
         return 1
     if result2 != 0:
-        print("❌ Word validation failed")
+        print("❌ Content-specific validation failed")
         return 1
     if result3 != 0:
         print("❌ Shuffle failed")
@@ -759,22 +688,22 @@ def main():
     args = sys.argv[1:]
     
     if len(args) < 2:
-        print("❌ Usage: python manage_vocabulary.py <command> <course_id>")
-        print("   Commands: validate-questions, validate-words, shuffle, remove-duplicates, check-all, fix-all")
-        print("   Example: python manage_vocabulary.py fix-all turk")
+        print("❌ Usage: python check_data.py <command> <course_id>")
+        print("   Commands: validate-questions, validate-content, shuffle, remove-duplicates, check-all, fix-all")
+        print("   Example: python check_data.py fix-all turk")
         return 1
     
     command = args[0]
     course_id = args[1]
     
-    if command not in ["validate-questions", "validate-words", "shuffle", "remove-duplicates", "check-all", "fix-all"]:
+    if command not in ["validate-questions", "validate-content", "shuffle", "remove-duplicates", "check-all", "fix-all"]:
         print(f"❌ Unknown command: {command}")
-        print("   Valid commands: validate-questions, validate-words, shuffle, remove-duplicates, check-all, fix-all")
+        print("   Valid commands: validate-questions, validate-content, shuffle, remove-duplicates, check-all, fix-all")
         return 1
     
     commands = {
         "validate-questions": cmd_validate_questions,
-        "validate-words": cmd_validate_words,
+        "validate-content": cmd_validate_content_specific,
         "shuffle": cmd_shuffle,
         "remove-duplicates": cmd_remove_duplicates,
         "check-all": cmd_check_all,

@@ -15,7 +15,7 @@
 ## Структура каждого JSON объекта
 
 ```json
-{"id":"<LEVEL>-<SET>-<NUM>","ru":"<Russian phrase>","tr":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explain_ru":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
+{"id":"<LEVEL>-<SET>-<NUM>","question":"<Russian phrase>","options":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explanation":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
 ```
 
 ## Обязательные поля
@@ -26,24 +26,24 @@
   - SET: трёхзначный номер набора (001, 002, 003...)
   - NUM: четырёхзначный порядковый номер (0001, 0002, 0003...)
 
-- **ru**: Фраза на русском языке
+- **question**: Фраза на русском языке
   - Естественная, разговорная фраза
   - Соответствует уровню (A1/A2/B1)
   - Длина 2-15 слов
 
-- **tr**: Массив из **ровно 4** вариантов перевода на турецкий
+- **options**: Массив из **ровно 4** вариантов перевода на турецкий
   - Все варианты должны быть грамматически правильными
-  - Только **ОДИН** вариант - правильный перевод `ru`
+  - Только **ОДИН** вариант - правильный перевод `question`
   - Остальные 3 - правдоподобные дистракторы (похожие, но неправильные)
   - НЕ используй очевидно неправильные варианты
   - НЕ используй кириллицу в турецких вариантах
   - НЕ добавляй маркеры типа "правильный ответ", "вариант 1"
 
 - **correct**: Номер правильного варианта (1, 2, 3, или 4)
-  - Указывает индекс правильного перевода в массиве `tr`
+  - Указывает индекс правильного перевода в массиве `options`
   - Индексация с 1 (не с 0!)
 
-- **explain_ru**: Объяснение на русском
+- **explanation**: Объяснение на русском
   - Базовые формы турецких слов с переводом
   - Формат: `<турецкое слово> — <перевод>, <турецкое слово> — <перевод>`
   - Пример: `durak — остановка, nerede — где`
@@ -81,7 +81,7 @@
 
 1. **Уникальность вариантов**: После нормализации (trim, lowercase, collapse spaces) все 4 варианта должны быть разными
 2. **Правдоподобность дистракторов**: Неправильные варианты должны быть похожи на правильный (та же тема, похожая грамматика)
-3. **Нет кириллицы в tr**: Все турецкие варианты только латиницей
+3. **Нет кириллицы в options**: Все турецкие варианты только латиницей
 4. **Нет LLM мусора**: Никаких фраз типа "As an AI", "ChatGPT", "правильный ответ"
 5. **Корректный турецкий**: Грамматически правильный турецкий язык
 
@@ -89,18 +89,18 @@
 
 ### Пример A1:
 ```
-{"id":"A1-001-0001","ru":"Где находится остановка?","tr":["Durak nerede?","Otobüs nerede?","Burası neresi?","Saat kaç?"],"correct":1,"explain_ru":"durak — остановка, nerede — где","tags":["transport","location"],"source":"llm"}
-{"id":"A1-001-0002","ru":"Меня зовут Анна","tr":["Benim adım Anna","Senin adın Anna","Onun adı Anna","Ben Anna'yım"],"correct":1,"explain_ru":"benim — мой, adım — имя (с аффиксом принадлежности)","tags":["introduction"],"source":"llm"}
+{"id":"A1-001-0001","question":"Где находится остановка?","options":["Durak nerede?","Otobüs nerede?","Burası neresi?","Saat kaç?"],"correct":1,"explanation":"durak — остановка, nerede — где","tags":["transport","location"],"source":"llm"}
+{"id":"A1-001-0002","question":"Меня зовут Анна","options":["Benim adım Anna","Senin adın Anna","Onun adı Anna","Ben Anna'yım"],"correct":1,"explanation":"benim — мой, adım — имя (с аффиксом принадлежности)","tags":["introduction"],"source":"llm"}
 ```
 
 ### Пример A2:
 ```
-{"id":"A2-003-0015","ru":"Я был в Стамбуле прошлым летом","tr":["Geçen yaz İstanbul'daydım","Bu yaz İstanbul'dayım","Gelecek yaz İstanbul'da olacağım","Her yaz İstanbul'dayım"],"correct":1,"explain_ru":"geçen yaz — прошлым летом, İstanbul'da — в Стамбуле, -ydım — был (прош. время)","tags":["past","travel"],"source":"llm"}
+{"id":"A2-003-0015","question":"Я был в Стамбуле прошлым летом","options":["Geçen yaz İstanbul'daydım","Bu yaz İstanbul'dayım","Gelecek yaz İstanbul'da olacağım","Her yaz İstanbul'dayım"],"correct":1,"explanation":"geçen yaz — прошлым летом, İstanbul'da — в Стамбуле, -ydım — был (прош. время)","tags":["past","travel"],"source":"llm"}
 ```
 
 ### Пример B1:
 ```
-{"id":"B1-002-0008","ru":"Если бы у меня было время, я бы пришёл","tr":["Vaktim olsaydı gelirdim","Vaktim olursa gelirim","Vaktim var geldim","Vaktim olacak geleceğim"],"correct":1,"explain_ru":"vakit — время, olsaydı — если бы было (условное прош.), gelirdim — пришёл бы","tags":["conditional","hypothetical"],"source":"llm"}
+{"id":"B1-002-0008","question":"Если бы у меня было время, я бы пришёл","options":["Vaktim olsaydı gelirdim","Vaktim olursa gelirim","Vaktim var geldim","Vaktim olacak geleceğim"],"correct":1,"explanation":"vakit — время, olsaydı — если бы было (условное прош.), gelirdim — пришёл бы","tags":["conditional","hypothetical"],"source":"llm"}
 ```
 
 ## Инструкция

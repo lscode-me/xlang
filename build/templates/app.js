@@ -31,6 +31,7 @@ const quizScreen = document.getElementById('quizScreen');
 const resultsScreen = document.getElementById('resultsScreen');
 
 const startBtn = document.getElementById('startBtn');
+const cancelBtn = document.getElementById('cancelBtn');
 const nextBtn = document.getElementById('nextBtn');
 const playAgainBtn = document.getElementById('playAgainBtn');
 
@@ -180,7 +181,7 @@ function selectAnswer(selected, button) {
   }
   
   // Show explanation
-  explanationText.textContent = question.explain_ru;
+  explanationText.textContent = question.explanation;
   explanation.classList.remove('hidden');
   
   // Show next button or finish
@@ -366,5 +367,8 @@ function showResults() {
 
 // Event listeners
 startBtn.addEventListener('click', startQuiz);
+cancelBtn.addEventListener('click', () => {
+  window.location.href = '../../index.html';
+});
 nextBtn.addEventListener('click', nextQuestion);
 playAgainBtn.addEventListener('click', startQuiz);

@@ -195,12 +195,12 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
       <div>
         <h1 style="margin: 0 0 4px 0; font-size: 1.5rem;">{{ course_icon }}</h1>
-        <div style="font-size: 1.1rem;">{{ course_name }}</div>
+        <div style="font-size: 1.1rem;">{{ course_description }}</div>
       </div>
       <div style="text-align: right;">
         <div id="user-pill" style="font-size: 0.85rem; color: var(--muted); margin-bottom: 4px;"></div>
         <div style="font-size: 0.95rem;">
-          🔥 <span style="color: var(--muted);">Дней:</span> <span id="unique-days" style="color: var(--accent); font-weight: 600;">0</span>
+          <span id="streak-fire" style="opacity: 0.3;">🔥</span> <span style="color: var(--muted);">Дней:</span> <span id="unique-days" style="color: var(--accent); font-weight: 600;">0</span>
         </div>
       </div>
     </div>
@@ -392,10 +392,12 @@
       // Load unique days counter
       try {
         const globalKey = storageKeys.globalDaysCounter();
+        const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
         
         // Check cache first
         const cached = storage._cache && storage._cache[globalKey];
         const uniqueDaysEl = document.getElementById('unique-days');
+        const streakFireEl = document.getElementById('streak-fire');
         
         if (cached && Date.now() - cached.timestamp < storage._cacheTTL) {
           try {
@@ -403,6 +405,14 @@
             console.log('[catalog] Unique days from cache:', stats.uniqueDays);
             if (uniqueDaysEl) {
               uniqueDaysEl.textContent = stats.uniqueDays || 0;
+            }
+            // Check if passed today
+            if (streakFireEl) {
+              if (stats.lastPassed === today) {
+                streakFireEl.style.opacity = '1';
+              } else {
+                streakFireEl.style.opacity = '0.3';
+              }
             }
           } catch (e) {
             console.error('[catalog] Error parsing cached unique days:', e);
@@ -419,14 +429,25 @@
           if (uniqueDaysEl) {
             uniqueDaysEl.textContent = stats.uniqueDays || 0;
           }
+          // Check if passed today
+          if (streakFireEl) {
+            if (stats.lastPassed === today) {
+              streakFireEl.style.opacity = '1';
+            } else {
+              streakFireEl.style.opacity = '0.3';
+            }
+          }
         } else {
           console.log('[catalog] No unique days data found');
           if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
+          if (streakFireEl) streakFireEl.style.opacity = '0.3';
         }
       } catch (e) {
         console.error('Failed to load unique days:', e);
         const uniqueDaysEl = document.getElementById('unique-days');
+        const streakFireEl = document.getElementById('streak-fire');
         if (uniqueDaysEl) uniqueDaysEl.textContent = '0';
+        if (streakFireEl) streakFireEl.style.opacity = '0.3';
       }
       
       // Set default '-' for all levels immediately (will be updated by async loader)

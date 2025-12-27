@@ -88,7 +88,7 @@ echo "✅ Зависимости установлены"
 echo ""
 echo "🔍 Валидация и обработка данных..."
 echo "-------------------------------------------"
-if ! python3 manage_vocabulary.py fix-all "$COURSE_ID"; then
+if ! python3 check_data.py fix-all "$COURSE_ID"; then
     echo "❌ Валидация не прошла. Исправьте ошибки."
     exit 1
 fi

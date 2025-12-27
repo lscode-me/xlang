@@ -33,7 +33,7 @@ class TemplateEngine:
         self._static_cache: Dict[str, str] = {}
         
     def render_quiz_page(self, content_id: str, level: str, questions_count: int, 
-                        type_label: str, cache_buster: int = None) -> str:
+                        type_label: str, content_emoji: str = "📚", cache_buster: int = None) -> str:
         """
         Render quiz page HTML
         
@@ -42,6 +42,7 @@ class TemplateEngine:
             level: Quiz level (e.g., 'A1', 'A2')
             questions_count: Number of questions in database
             type_label: Content type label (e.g., 'Слова', 'Фразы')
+            content_emoji: Content emoji icon (e.g., '🇬🇧', '💬', '📚')
             cache_buster: Optional cache buster timestamp
             
         Returns:
@@ -56,12 +57,13 @@ class TemplateEngine:
             level=level,
             questions_count=questions_count,
             type_label=type_label,
+            content_emoji=content_emoji,
             cache_buster=cache_buster
         )
     
     def render_catalog_page(self, course_name: str, course_icon: str,
                            sections: list, debug_mode: bool = False, 
-                           cache_buster: int = None) -> str:
+                           cache_buster: int = None, course_description: str = "") -> str:
         """
         Render catalog/index page HTML
         
@@ -71,6 +73,7 @@ class TemplateEngine:
             sections: List of section dictionaries with level cards
             debug_mode: Enable debug panel display
             cache_buster: Optional cache buster timestamp
+            course_description: Description of the course
             
         Returns:
             Rendered HTML string
@@ -81,6 +84,7 @@ class TemplateEngine:
         template = self.env.get_template('catalog_page.html')
         return template.render(
             course_name=course_name,
+            course_description=course_description,
             course_icon=course_icon,
             sections=sections,
             debug_mode=debug_mode,

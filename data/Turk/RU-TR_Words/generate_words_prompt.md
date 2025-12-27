@@ -15,7 +15,7 @@
 ## Структура каждого JSON объекта
 
 ```json
-{"id":"<LEVEL>-<SET>-<NUM>","ru":"<Russian word>","tr":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explain_ru":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
+{"id":"<LEVEL>-<SET>-<NUM>","question":"<Russian word>","options":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explanation":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
 ```
 
 ## Обязательные поля
@@ -26,15 +26,15 @@
   - SET: трёхзначный номер набора (001, 002, 003...)
   - NUM: четырёхзначный порядковый номер (0001, 0002, 0003...)
 
-- **ru**: **ОДНО СЛОВО** на русском языке
+- **question**: **ОДНО СЛОВО** на русском языке
   - Существительное, прилагательное, глагол (в инфинитиве), наречие
   - НЕ фраза, НЕ предложение - только одно слово!
   - Соответствует уровню (A1/A2/B1)
   - Примеры: "дом", "красный", "есть", "быстро"
 
-- **tr**: Массив из **ровно 4** вариантов перевода на турецкий
+- **options**: Массив из **ровно 4** вариантов перевода на турецкий
   - Все варианты - **одиночные слова** (не фразы!)
-  - Только **ОДИН** вариант - правильный перевод `ru`
+  - Только **ОДИН** вариант - правильный перевод `question`
   - Остальные 3 - правдоподобные дистракторы из той же тематики
   - Для существительных: используй базовую форму (именительный падеж)
   - Для глаголов: используй инфинитив (-mek/-mak)
@@ -42,10 +42,10 @@
   - НЕ используй кириллицу в турецких вариантах
 
 - **correct**: Номер правильного варианта (1, 2, 3, или 4)
-  - Указывает индекс правильного перевода в массиве `tr`
+  - Указывает индекс правильного перевода в массиве `options`
   - Индексация с 1 (не с 0!)
 
-- **explain_ru**: Объяснение на русском
+- **explanation**: Объяснение на русском
   - Дополнительная информация о слове
   - Для существительных: род, множественное число (если нестандартное)
   - Для глаголов: тип спряжения, особенности
@@ -109,7 +109,7 @@
 
 ## Правила качества
 
-1. **Только одно слово**: В поле `ru` должно быть ровно одно слово, не фраза
+1. **Только одно слово**: В поле `question` должно быть ровно одно слово, не фраза
 2. **Уникальность вариантов**: Все 4 варианта должны быть разными
 3. **Правдоподобность дистракторов**: Неправильные варианты из той же тематики и категории
 4. **Базовые формы**: 
@@ -139,33 +139,33 @@
 
 ### Пример A1 (Существительные):
 ```
-{"id":"A1-001-0001","ru":"дом","tr":["ev","bina","apartman","oda"],"correct":1,"explain_ru":"ev — дом (мн.ч. evler)","tags":["noun","home"],"source":"llm"}
-{"id":"A1-001-0002","ru":"вода","tr":["su","süt","çay","kahve"],"correct":1,"explain_ru":"su — вода (мн.ч. sular)","tags":["noun","drinks"],"source":"llm"}
-{"id":"A1-001-0003","ru":"яблоко","tr":["elma","armut","muz","portakal"],"correct":1,"explain_ru":"elma — яблоко (мн.ч. elmalar)","tags":["noun","food","fruits"],"source":"llm"}
+{"id":"A1-001-0001","question":"дом","options":["ev","bina","apartman","oda"],"correct":1,"explanation":"ev — дом (мн.ч. evler)","tags":["noun","home"],"source":"llm"}
+{"id":"A1-001-0002","question":"вода","options":["su","süt","çay","kahve"],"correct":1,"explanation":"su — вода (мн.ч. sular)","tags":["noun","drinks"],"source":"llm"}
+{"id":"A1-001-0003","question":"яблоко","options":["elma","armut","muz","portakal"],"correct":1,"explanation":"elma — яблоко (мн.ч. elmalar)","tags":["noun","food","fruits"],"source":"llm"}
 ```
 
 ### Пример A1 (Глаголы):
 ```
-{"id":"A1-002-0001","ru":"идти","tr":["gitmek","gelmek","koşmak","yürümek"],"correct":1,"explain_ru":"gitmek — идти, уходить; gidiyor (наст. вр.), gitti (прош. вр.)","tags":["verb","movement"],"source":"llm"}
-{"id":"A1-002-0002","ru":"есть","tr":["yemek","içmek","almak","vermek"],"correct":1,"explain_ru":"yemek — есть; также сущ. 'еда'; yiyor (наст. вр.), yedi (прош. вр.)","tags":["verb","daily"],"source":"llm"}
+{"id":"A1-002-0001","question":"идти","options":["gitmek","gelmek","koşmak","yürümek"],"correct":1,"explanation":"gitmek — идти, уходить; gidiyor (наст. вр.), gitti (прош. вр.)","tags":["verb","movement"],"source":"llm"}
+{"id":"A1-002-0002","question":"есть","options":["yemek","içmek","almak","vermek"],"correct":1,"explanation":"yemek — есть; также сущ. 'еда'; yiyor (наст. вр.), yedi (прош. вр.)","tags":["verb","daily"],"source":"llm"}
 ```
 
 ### Пример A1 (Прилагательные):
 ```
-{"id":"A1-003-0001","ru":"большой","tr":["büyük","küçük","orta","uzun"],"correct":1,"explain_ru":"büyük — большой; сравн. daha büyük, превосх. en büyük","tags":["adjective","size"],"source":"llm"}
-{"id":"A1-003-0002","ru":"красный","tr":["kırmızı","mavi","yeşil","sarı"],"correct":1,"explain_ru":"kırmızı — красный","tags":["adjective","colors"],"source":"llm"}
+{"id":"A1-003-0001","question":"большой","options":["büyük","küçük","orta","uzun"],"correct":1,"explanation":"büyük — большой; сравн. daha büyük, превосх. en büyük","tags":["adjective","size"],"source":"llm"}
+{"id":"A1-003-0002","question":"красный","options":["kırmızı","mavi","yeşil","sarı"],"correct":1,"explanation":"kırmızı — красный","tags":["adjective","colors"],"source":"llm"}
 ```
 
 ### Пример A2:
 ```
-{"id":"A2-005-0023","ru":"врач","tr":["doktor","hemşire","öğretmen","mühendis"],"correct":1,"explain_ru":"doktor — врач, доктор","tags":["noun","profession","health"],"source":"llm"}
-{"id":"A2-005-0024","ru":"погода","tr":["hava","yağmur","kar","güneş"],"correct":1,"explain_ru":"hava — погода, воздух","tags":["noun","weather"],"source":"llm"}
+{"id":"A2-005-0023","question":"врач","options":["doktor","hemşire","öğretmen","mühendis"],"correct":1,"explanation":"doktor — врач, доктор","tags":["noun","profession","health"],"source":"llm"}
+{"id":"A2-005-0024","question":"погода","options":["hava","yağmur","kar","güneş"],"correct":1,"explanation":"hava — погода, воздух","tags":["noun","weather"],"source":"llm"}
 ```
 
 ### Пример B1:
 ```
-{"id":"B1-002-0008","ru":"развитие","tr":["gelişme","değişim","büyüme","ilerleme"],"correct":1,"explain_ru":"gelişme — развитие, прогресс; от глагола gelişmek","tags":["noun","abstract"],"source":"llm"}
-{"id":"B1-002-0009","ru":"исследовать","tr":["araştırmak","incelemek","öğrenmek","bulmak"],"correct":1,"explain_ru":"araştırmak — исследовать, изучать","tags":["verb","science"],"source":"llm"}
+{"id":"B1-002-0008","question":"развитие","options":["gelişme","değişim","büyüme","ilerleme"],"correct":1,"explanation":"gelişme — развитие, прогресс; от глагола gelişmek","tags":["noun","abstract"],"source":"llm"}
+{"id":"B1-002-0009","question":"исследовать","options":["araştırmak","incelemek","öğrenmek","bulmak"],"correct":1,"explanation":"araştırmak — исследовать, изучать","tags":["verb","science"],"source":"llm"}
 ```
 
 ## Инструкция

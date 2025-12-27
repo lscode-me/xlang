@@ -15,7 +15,7 @@
 ## Структура каждого JSON объекта
 
 ```json
-{"id":"<LEVEL>-<KEY>-<NUM>","ru":"<Russian phrase>","tr":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explain_ru":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
+{"id":"<LEVEL>-<KEY>-<NUM>","question":"<Russian phrase>","options":["<Option 1>","<Option 2>","<Option 3>","<Option 4>"],"correct":<1-4>,"explanation":"<Explanation>","tags":["<tag1>","<tag2>"],"source":"llm"}
 ```
 
 ## Обязательные поля
@@ -26,11 +26,11 @@
   - KEY: Код темы (например, GRAM, CASES, TENSE, POSS) или номер набора (001)
   - NUM: четырёхзначный порядковый номер
 
-- **ru**: Фраза или предложение на русском языке
+- **question**: Фраза или предложение на русском языке
   - Четко иллюстрирует определенное грамматическое правило (падеж, время, лицо и т.д.)
   - Примеры: "Я иду **в школу**" (направление), "Это **твоя** книга" (притяжательность)
 
-- **tr**: Массив из **ровно 4** вариантов перевода на турецкий
+- **options**: Массив из **ровно 4** вариантов перевода на турецкий
   - **ВАЖНО**: Все 4 варианта должны быть **одним и тем же предложением**, отличающимся ТОЛЬКО грамматической формой.
   - Используй одну и ту же лексику (те же корни слов).
   - Меняй только суффиксы (падежи, притяжательные, времена, личные окончания).
@@ -41,7 +41,7 @@
 - **correct**: Номер правильного варианта (1, 2, 3, или 4)
   - Индексация с 1.
 
-- **explain_ru**: Объяснение грамматики на русском
+- **explanation**: Объяснение грамматики на русском
   - Объясни, почему выбран именно этот суффикс/форма.
   - Укажи название падежа, времени или правила.
   - Пример: `"В школу (куда?) — дательный падеж (-a/-e). Okula gidiyorum."`
@@ -110,22 +110,22 @@
 
 ### Пример A1 (Падежи - Направление):
 ```json
-{"id":"A1-GRAM-0001","ru":"Я иду в школу","tr":["Okula gidiyorum","Okulda gidiyorum","Okuldan gidiyorum","Okulu gidiyorum"],"correct":1,"explain_ru":"В школу (куда?) — Дательный падеж (-a). Okulda (где), Okuldan (откуда), Okulu (винительный).","tags":["grammar","cases","dative"],"source":"llm"}
+{"id":"A1-GRAM-0001","question":"Я иду в школу","options":["Okula gidiyorum","Okulda gidiyorum","Okuldan gidiyorum","Okulu gidiyorum"],"correct":1,"explanation":"В школу (куда?) — Дательный падеж (-a). Okulda (где), Okuldan (откуда), Okulu (винительный).","tags":["grammar","cases","dative"],"source":"llm"}
 ```
 
 ### Пример A1 (Личные окончания):
 ```json
-{"id":"A1-GRAM-0002","ru":"Ты учитель?","tr":["Sen öğretmen misin?","Ben öğretmen miyim?","O öğretmen mi?","Biz öğretmen miyiz?"],"correct":1,"explain_ru":"Sen ... misin? (Ты ... ли?). Остальные формы: Ben (я), O (он), Biz (мы).","tags":["grammar","personal_endings","questions"],"source":"llm"}
+{"id":"A1-GRAM-0002","question":"Ты учитель?","options":["Sen öğretmen misin?","Ben öğretmen miyim?","O öğretmen mi?","Biz öğretmen miyiz?"],"correct":1,"explanation":"Sen ... misin? (Ты ... ли?). Остальные формы: Ben (я), O (он), Biz (мы).","tags":["grammar","personal_endings","questions"],"source":"llm"}
 ```
 
 ### Пример A2 (Времена):
 ```json
-{"id":"A2-GRAM-0010","ru":"Вчера я пришел домой","tr":["Dün eve geldim","Dün eve geliyorum","Dün eve geleceğim","Dün eve gelirsem"],"correct":1,"explain_ru":"Вчера (dün) требует прошедшего времени (-di). Geldim (пришел). Geliyorum (иду), Geleceğim (приду).","tags":["grammar","tenses","past"],"source":"llm"}
+{"id":"A2-GRAM-0010","question":"Вчера я пришел домой","options":["Dün eve geldim","Dün eve geliyorum","Dün eve geleceğim","Dün eve gelirsem"],"correct":1,"explanation":"Вчера (dün) требует прошедшего времени (-di). Geldim (пришел). Geliyorum (иду), Geleceğim (приду).","tags":["grammar","tenses","past"],"source":"llm"}
 ```
 
 ### Пример A1 (Притяжательные):
 ```json
-{"id":"A1-GRAM-0005","ru":"Где твоя машина?","tr":["Araban nerede?","Arabam nerede?","Arabası nerede?","Arabamız nerede?"],"correct":1,"explain_ru":"Твоя машина — Araban (суффикс -n). Arabam (моя), Arabası (его), Arabamız (наша).","tags":["grammar","possessive"],"source":"llm"}
+{"id":"A1-GRAM-0005","question":"Где твоя машина?","options":["Araban nerede?","Arabam nerede?","Arabası nerede?","Arabamız nerede?"],"correct":1,"explanation":"Твоя машина — Araban (суффикс -n). Arabam (моя), Arabası (его), Arabamız (наша).","tags":["grammar","possessive"],"source":"llm"}
 ```
 
 ## Инструкция

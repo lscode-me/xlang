@@ -1,0 +1,50 @@
+{"id": "A1-002-0001", "question": "кошка", "options": ["cat", "fish", "bird", "dog"], "correct": 1, "explanation": "cat — кошка (мн.ч. cats)", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-002-0002", "question": "красный", "options": ["green", "red", "yellow", "blue"], "correct": 2, "explanation": "red — красный", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0003", "question": "книга", "options": ["book", "paper", "pen", "desk"], "correct": 1, "explanation": "book — книга (мн.ч. books)", "tags": ["noun", "school"], "source": "llm"}
+{"id": "A1-002-0004", "question": "большой", "options": ["small", "long", "short", "big"], "correct": 4, "explanation": "big — большой (bigger, biggest)", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-002-0005", "question": "стол", "options": ["table", "bed", "chair", "sofa"], "correct": 1, "explanation": "table — стол (мн.ч. tables)", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0006", "question": "пить", "options": ["drink", "take", "give", "eat"], "correct": 1, "explanation": "drink — пить (drinks, drank, drunk)", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-002-0007", "question": "синий", "options": ["red", "green", "blue", "black"], "correct": 3, "explanation": "blue — синий", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0008", "question": "мать", "options": ["mother", "brother", "father", "sister"], "correct": 1, "explanation": "mother — мать, мама", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0009", "question": "хлеб", "options": ["milk", "bread", "water", "cheese"], "correct": 2, "explanation": "bread — хлеб (uncountable noun)", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-002-0010", "question": "маленький", "options": ["tall", "small", "wide", "big"], "correct": 2, "explanation": "small — маленький (smaller, smallest)", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-002-0011", "question": "собака", "options": ["dog", "rabbit", "cat", "mouse"], "correct": 1, "explanation": "dog — собака (мн.ч. dogs)", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-002-0012", "question": "делать", "options": ["do", "make", "take", "have"], "correct": 1, "explanation": "do — делать (does, did, done)", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-002-0013", "question": "зелёный", "options": ["brown", "blue", "yellow", "green"], "correct": 4, "explanation": "green — зелёный", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0014", "question": "отец", "options": ["mother", "son", "father", "daughter"], "correct": 3, "explanation": "father — отец, папа", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0015", "question": "молоко", "options": ["juice", "tea", "milk", "water"], "correct": 3, "explanation": "milk — молоко (uncountable noun)", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0016", "question": "идти", "options": ["run", "walk", "come", "go"], "correct": 4, "explanation": "go — идти, уходить (goes, went, gone)", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-002-0017", "question": "жёлтый", "options": ["white", "red", "orange", "yellow"], "correct": 4, "explanation": "yellow — жёлтый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0018", "question": "сын", "options": ["son", "daughter", "father", "mother"], "correct": 1, "explanation": "son — сын (мн.ч. sons)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0019", "question": "вода", "options": ["coffee", "juice", "milk", "water"], "correct": 4, "explanation": "water — вода (uncountable noun)", "tags": ["noun", "drinks"], "source": "llm"}
+{"id": "A1-002-0020", "question": "хороший", "options": ["bad", "good", "nice", "great"], "correct": 2, "explanation": "good — хороший (better, best)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-002-0021", "question": "стул", "options": ["desk", "chair", "bed", "table"], "correct": 2, "explanation": "chair — стул (мн.ч. chairs)", "tags": ["noun", "furniture"], "source": "llm"}
+{"id": "A1-002-0022", "question": "есть", "options": ["eat", "cook", "taste", "drink"], "correct": 1, "explanation": "eat — есть (eats, ate, eaten)", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-002-0023", "question": "чёрный", "options": ["white", "brown", "black", "grey"], "correct": 3, "explanation": "black — чёрный", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0024", "question": "дочь", "options": ["sister", "daughter", "son", "mother"], "correct": 2, "explanation": "daughter — дочь (мн.ч. daughters)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0025", "question": "яблоко", "options": ["pear", "apple", "banana", "orange"], "correct": 2, "explanation": "apple — яблоко (мн.ч. apples)", "tags": ["noun", "food", "fruits"], "source": "llm"}
+{"id": "A1-002-0026", "question": "новый", "options": ["old", "fresh", "new", "young"], "correct": 3, "explanation": "new — новый (newer, newest)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-002-0027", "question": "дверь", "options": ["floor", "wall", "window", "door"], "correct": 4, "explanation": "door — дверь (мн.ч. doors)", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-002-0028", "question": "смотреть", "options": ["view", "look", "see", "watch"], "correct": 2, "explanation": "look — смотреть (looks, looked, looked)", "tags": ["verb", "senses"], "source": "llm"}
+{"id": "A1-002-0029", "question": "белый", "options": ["white", "black", "silver", "grey"], "correct": 1, "explanation": "white — белый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0030", "question": "брат", "options": ["sister", "brother", "father", "son"], "correct": 2, "explanation": "brother — брат (мн.ч. brothers)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0031", "question": "рука", "options": ["arm", "hand", "foot", "leg"], "correct": 2, "explanation": "hand — рука (кисть), мн.ч. hands", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0032", "question": "старый", "options": ["young", "ancient", "new", "old"], "correct": 4, "explanation": "old — старый (older, oldest)", "tags": ["adjective", "age"], "source": "llm"}
+{"id": "A1-002-0033", "question": "окно", "options": ["roof", "door", "wall", "window"], "correct": 4, "explanation": "window — окно (мн.ч. windows)", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-002-0034", "question": "читать", "options": ["speak", "write", "read", "listen"], "correct": 3, "explanation": "read — читать (reads, read [red], read [red])", "tags": ["verb", "learning"], "source": "llm"}
+{"id": "A1-002-0035", "question": "оранжевый", "options": ["brown", "yellow", "red", "orange"], "correct": 4, "explanation": "orange — оранжевый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0036", "question": "сестра", "options": ["brother", "daughter", "sister", "mother"], "correct": 3, "explanation": "sister — сестра (мн.ч. sisters)", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-002-0037", "question": "голова", "options": ["head", "face", "eye", "hair"], "correct": 1, "explanation": "head — голова (мн.ч. heads)", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0038", "question": "холодный", "options": ["warm", "cool", "hot", "cold"], "correct": 4, "explanation": "cold — холодный (colder, coldest)", "tags": ["adjective", "temperature"], "source": "llm"}
+{"id": "A1-002-0039", "question": "комната", "options": ["flat", "room", "building", "house"], "correct": 2, "explanation": "room — комната (мн.ч. rooms)", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-002-0040", "question": "писать", "options": ["draw", "read", "type", "write"], "correct": 4, "explanation": "write — писать (writes, wrote, written)", "tags": ["verb", "learning"], "source": "llm"}
+{"id": "A1-002-0041", "question": "коричневый", "options": ["grey", "brown", "beige", "black"], "correct": 2, "explanation": "brown — коричневый", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0042", "question": "день", "options": ["morning", "night", "day", "evening"], "correct": 3, "explanation": "day — день (мн.ч. days)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-002-0043", "question": "нога", "options": ["foot", "hand", "leg", "arm"], "correct": 3, "explanation": "leg — нога (от бедра до стопы), мн.ч. legs", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0044", "question": "горячий", "options": ["cold", "warm", "hot", "cool"], "correct": 3, "explanation": "hot — горячий (hotter, hottest)", "tags": ["adjective", "temperature"], "source": "llm"}
+{"id": "A1-002-0045", "question": "школа", "options": ["university", "class", "school", "college"], "correct": 3, "explanation": "school — школа (мн.ч. schools)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A1-002-0046", "question": "говорить", "options": ["speak", "say", "talk", "tell"], "correct": 1, "explanation": "speak — говорить (speaks, spoke, spoken)", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "A1-002-0047", "question": "серый", "options": ["silver", "black", "grey", "white"], "correct": 3, "explanation": "grey — серый (gray в американском английском)", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-002-0048", "question": "ночь", "options": ["morning", "day", "evening", "night"], "correct": 4, "explanation": "night — ночь (мн.ч. nights)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-002-0049", "question": "глаз", "options": ["nose", "ear", "eye", "mouth"], "correct": 3, "explanation": "eye — глаз (мн.ч. eyes)", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-002-0050", "question": "быстрый", "options": ["rapid", "fast", "quick", "slow"], "correct": 2, "explanation": "fast — быстрый (faster, fastest)", "tags": ["adjective", "speed"], "source": "llm"}

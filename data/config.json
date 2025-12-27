@@ -3,7 +3,7 @@
     {
       "id": "sch",
       "name": "School",
-      "dest_folder": "test",
+      "dest_folder": "mathik",
       "description": "Уроки",
       "icon": "🎓",
       "quiz_length": 5,

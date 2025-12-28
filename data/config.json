@@ -14,7 +14,10 @@
           "name": "English Words",
           "emoji": "🇬🇧",
           "description": "Английские слова",
-          "levels": ["A1", "A2"]
+          "levels": [
+            "A1",
+            "A2"
+          ]
         },
         {
           "id": "enphrases",
@@ -22,7 +25,10 @@
           "name": "English Phrases",
           "emoji": "💬",
           "description": "Английские фразы",
-          "levels": ["A1", "A2"]
+          "levels": [
+            "A1",
+            "A2"
+          ]
         },
         {
           "id": "engrammar",
@@ -30,7 +36,10 @@
           "name": "English Grammar",
           "emoji": "📚",
           "description": "Английская грамматика",
-          "levels": ["A1", "A2"]
+          "levels": [
+            "A1",
+            "A2"
+          ]
         },
         {
           "id": "maths",
@@ -38,7 +47,25 @@
           "name": "Maths",
           "emoji": "🔢",
           "description": "Математика",
-          "levels": ["RS5", "RS6", "RS7", "RS8", "RS9"]
+          "levels": [
+            "RS5",
+            "RS6",
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "informatics",
+          "dir": "Informatics",
+          "name": "Informatics",
+          "emoji": "💻",
+          "description": "Информатика",
+          "levels": [
+            "I1",
+            "I2",
+            "I3"
+          ]
         }
       ]
     },
@@ -56,7 +83,11 @@
           "name": "Слова",
           "emoji": "📝",
           "description": "Тесты по словам",
-          "levels": ["A1", "A2", "B1"]
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
         },
         {
           "id": "rutrphrases",
@@ -64,7 +95,11 @@
           "name": "Фразы",
           "emoji": "💬",
           "description": "Тесты по фразам",
-          "levels": ["A1", "A2", "B1"]
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
         },
         {
           "id": "rutrgrammar",
@@ -72,7 +107,11 @@
           "name": "Грамматика",
           "emoji": "📚",
           "description": "Тесты по грамматике",
-          "levels": ["A1", "A2", "B1"]
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
         }
       ]
     }

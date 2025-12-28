@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Content-specific validation for School course.
-Orchestrates validation for all School subjects: EnGrammar, EnPhrases, EnWords, Maths.
+Orchestrates validation for all School subjects: EnGrammar, EnPhrases, EnWords, Maths, Informatics.
 """
 import sys
 from pathlib import Path
@@ -49,6 +49,11 @@ def validate_content_specific(repo_root: Path, course_id: str, content_type: str
     maths_check = script_dir / "Maths" / "check.py"
     if maths_check.exists():
         validators.append(("Maths", maths_check))
+    
+    # Informatics validator
+    informatics_check = script_dir / "Informatics" / "check.py"
+    if informatics_check.exists():
+        validators.append(("Informatics", informatics_check))
     
     if not validators:
         print("⚠️  No subject-specific validators found")

@@ -32,7 +32,7 @@
 {"id": "B1-003-0032", "question": "простой", "options": ["sade", "kolay", "düz", "basit"], "correct": 4, "explanation": "basit — простой", "tags": ["adjective", "difficulty"], "source": "llm"}
 {"id": "B1-003-0033", "question": "открытый", "options": ["net", "açık", "doğru", "serbest"], "correct": 2, "explanation": "açık — открытый (и светлый цвет)", "tags": ["adjective", "general"], "source": "llm"}
 {"id": "B1-003-0034", "question": "закрытый", "options": ["gizli", "örtülü", "kapalı", "saklı"], "correct": 3, "explanation": "kapalı — закрытый (и темный цвет)", "tags": ["adjective", "general"], "source": "llm"}
-{"id": "B1-003-0035", "question": "полный", "options": ["bütün", "dolu", "tame", "şişman"], "correct": 3, "explanation": "dolu — полный (наполненный), tam (целый)", "tags": ["adjective", "amount"], "source": "llm"}
+{"id": "B1-003-0035", "question": "полный", "options": ["bütün", "dolu", "tam", "şişman"], "correct": 2, "explanation": "dolu — полный (наполненный), tam (целый), şişman (полный/толстый)", "tags": ["adjective", "amount"], "source": "llm"}
 {"id": "B1-003-0036", "question": "пустой", "options": ["boş", "kuru", "açık", "temiz"], "correct": 1, "explanation": "boş — пустой", "tags": ["adjective", "amount"], "source": "llm"}
 {"id": "B1-003-0037", "question": "главный", "options": ["temel", "baş", "ana", "önemli"], "correct": 3, "explanation": "ana — главный, основной", "tags": ["adjective", "importance"], "source": "llm"}
 {"id": "B1-003-0038", "question": "средний", "options": ["ortalama", "merkez", "orta", "ara"], "correct": 3, "explanation": "orta — средний", "tags": ["adjective", "size"], "source": "llm"}

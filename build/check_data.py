@@ -459,7 +459,7 @@ def cmd_validate_questions(repo_root: Path, course_id: str):
         elif "phrase" in content_id.lower():
             content_categories[content_id] = "phrases"
         else:
-            content_categories[content_id] = "other"
+            content_categories[content_id] = content_id
     
     jsonl_files = find_jsonl_files(repo_root, course_id, "all")
     

@@ -66,6 +66,53 @@
             "I2",
             "I3"
           ]
+        },
+        {
+          "id": "physics",
+          "dir": "Physics",
+          "name": "Physics",
+          "emoji": "🧲",
+          "description": "Физика",
+          "levels": [
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "chemistry",
+          "dir": "Chemistry",
+          "name": "Chemistry",
+          "emoji": "🧪",
+          "description": "Химия",
+          "levels": [
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "biology",
+          "dir": "Biology",
+          "name": "Biology",
+          "emoji": "🧬",
+          "description": "Биология",
+          "levels": [
+            "RS6",
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "astronomy",
+          "dir": "Astronomy",
+          "name": "Astronomy",
+          "emoji": "🔭",
+          "description": "Астрономия",
+          "levels": [
+            "I1",
+            "I2"
+          ]
         }
       ]
     },

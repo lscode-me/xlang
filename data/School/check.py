@@ -55,6 +55,26 @@ def validate_content_specific(repo_root: Path, course_id: str, content_type: str
     if informatics_check.exists():
         validators.append(("Informatics", informatics_check))
     
+    # Physics validator
+    physics_check = script_dir / "Physics" / "check.py"
+    if physics_check.exists():
+        validators.append(("Physics", physics_check))
+    
+    # Chemistry validator
+    chemistry_check = script_dir / "Chemistry" / "check.py"
+    if chemistry_check.exists():
+        validators.append(("Chemistry", chemistry_check))
+    
+    # Biology validator
+    biology_check = script_dir / "Biology" / "check.py"
+    if biology_check.exists():
+        validators.append(("Biology", biology_check))
+    
+    # Astronomy validator
+    astronomy_check = script_dir / "Astronomy" / "check.py"
+    if astronomy_check.exists():
+        validators.append(("Astronomy", astronomy_check))
+    
     if not validators:
         print("⚠️  No subject-specific validators found")
         return 0

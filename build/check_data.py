@@ -338,6 +338,7 @@ def find_jsonl_files(repo_root: Path, course_id: str, category: str = "all") -> 
     
     for content in contents:
         content_id = content["id"]
+        content_dir_name = content.get("dir", content_id)
         
         # Filter by category if specified
         if category != "all":
@@ -351,7 +352,7 @@ def find_jsonl_files(repo_root: Path, course_id: str, category: str = "all") -> 
         
         levels = content.get("levels", [])
         for level in levels:
-            level_dir = data_dir / content_id / level
+            level_dir = data_dir / content_dir_name / level
             if level_dir.exists():
                 files.extend(level_dir.glob("**/*.jsonl"))
     
@@ -447,19 +448,24 @@ def cmd_validate_questions(repo_root: Path, course_id: str):
         print(f"❌ Course '{course_id}' not found in config.json")
         return 1
     
-    # Build mapping of content_id to category (words, phrases, grammar, etc.)
-    content_categories = {}
+    # Build mapping of content_dir_name to category (words, phrases, grammar, etc.)
+    # We use dir name because that's what's in the filepath
+    dir_to_category = {}
     for content in course_config.get("contents", []):
         content_id = content["id"]
+        content_dir_name = content.get("dir", content_id)
+        
         # Determine category from content_id (case-insensitive)
         if "word" in content_id.lower():
-            content_categories[content_id] = "words"
+            category = "words"
         elif "grammar" in content_id.lower():
-            content_categories[content_id] = "grammar"
+            category = "grammar"
         elif "phrase" in content_id.lower():
-            content_categories[content_id] = "phrases"
+            category = "phrases"
         else:
-            content_categories[content_id] = content_id
+            category = content_id
+            
+        dir_to_category[content_dir_name] = category
     
     jsonl_files = find_jsonl_files(repo_root, course_id, "all")
     
@@ -475,10 +481,10 @@ def cmd_validate_questions(repo_root: Path, course_id: str):
     files_with_errors = 0
     
     for filepath in jsonl_files:
-        # Determine category by checking which content_id is in the path
+        # Determine category by checking which dir name is in the path
         current_category = "other"
-        for content_id, category in content_categories.items():
-            if content_id in str(filepath):
+        for dir_name, category in dir_to_category.items():
+            if dir_name in str(filepath):
                 current_category = category
                 break
         
@@ -608,7 +614,8 @@ def cmd_remove_duplicates(repo_root: Path, course_id: str):
     
     for content in contents:
         content_id = content["id"]
-        content_dir = data_dir / content_id
+        content_dir_name = content.get("dir", content_id)
+        content_dir = data_dir / content_dir_name
         
         if not content_dir.exists():
             print(f"⚠️  Directory not found: {content_dir}")

@@ -1,0 +1,41 @@
+{"id": "A2-006-0001", "question": "Одежда", "options": ["Çanta", "Şapka", "Elbise / Kıyafet", "Ayakkabı"], "correct": 3, "explanation": "elbise/kıyafet — одежда", "tags": ["clothes"], "source": "llm"}
+{"id": "A2-006-0007", "question": "Кот / Кошка", "options": ["Kedi", "Kuş", "Köpek", "Balık"], "correct": 1, "explanation": "kedi — кот/кошка", "tags": ["animals"], "source": "llm"}
+{"id": "A2-006-0008", "question": "Собака", "options": ["Köpek", "Eşek", "At", "Kedi"], "correct": 1, "explanation": "köpek — собака", "tags": ["animals"], "source": "llm"}
+{"id": "A2-006-0009", "question": "Птица", "options": ["Böcek", "Yılan", "Kuş", "Balık"], "correct": 3, "explanation": "kuş — птица", "tags": ["animals"], "source": "llm"}
+{"id": "A2-006-0010", "question": "Рыба", "options": ["Kuş", "Kedi", "Kaplumbağa", "Balık"], "correct": 4, "explanation": "balık — рыба", "tags": ["animals"], "source": "llm"}
+{"id": "A2-006-0011", "question": "Лошадь", "options": ["Koyun", "Eşek", "İnek", "At"], "correct": 4, "explanation": "at — лошадь", "tags": ["animals"], "source": "llm"}
+{"id": "A2-006-0012", "question": "Мебель", "options": ["Aksesuar", "Eşya", "Beyaz eşya", "Mobilya"], "correct": 4, "explanation": "mobilya — мебель", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0013", "question": "Кровать", "options": ["Masa", "Dolap", "Sandalye", "Yatak"], "correct": 4, "explanation": "yatak — кровать", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0014", "question": "Шкаф", "options": ["Dolap", "Koltuk", "Yatak", "Masa"], "correct": 1, "explanation": "dolap — шкаф", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0015", "question": "Диван / Кресло", "options": ["Masa", "Koltuk / Kanepe", "Sandalye", "Yatak"], "correct": 2, "explanation": "koltuk/kanepe — диван/кресло", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0016", "question": "Кухня", "options": ["Bahçe", "Banyo", "Mutfak", "Oda"], "correct": 3, "explanation": "mutfak — кухня", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0017", "question": "Ванная", "options": ["Salon", "Banyo", "Oda", "Mutfak"], "correct": 2, "explanation": "banyo — ванная", "tags": ["home"], "source": "llm"}
+{"id": "A2-006-0018", "question": "Инструмент / Орудие", "options": ["Makine", "Araç / Gereç / Alet", "Parça", "Cihaz"], "correct": 2, "explanation": "alet — инструмент", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-006-0019", "question": "Компьютер", "options": ["Telefon", "Bilgisayar", "Tablet", "Televizyon"], "correct": 2, "explanation": "bilgisayar — компьютер", "tags": ["technology"], "source": "llm"}
+{"id": "A2-006-0020", "question": "Телефон", "options": ["Telsiz", "Telefon", "Bilgisayar", "Kamera"], "correct": 2, "explanation": "telefon — телефон", "tags": ["technology"], "source": "llm"}
+{"id": "A2-006-0021", "question": "Экран", "options": ["Kasa", "Ekran", "Fare", "Klavye"], "correct": 2, "explanation": "ekran — экран", "tags": ["technology"], "source": "llm"}
+{"id": "A2-006-0022", "question": "Кнопка / Клавиша", "options": ["Kablo", "Priz", "Tuş / Düğme", "Ekran"], "correct": 3, "explanation": "tuş/düğme — кнопка", "tags": ["technology"], "source": "llm"}
+{"id": "A2-006-0023", "question": "Умный", "options": ["Ciddi", "Zeki / Akıllı", "Aptal", "Komik"], "correct": 2, "explanation": "zeki/akıllı — умный", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0024", "question": "Глупый / Дурак", "options": ["Zeki", "Aptal", "Akıllı", "Çalışkan"], "correct": 2, "explanation": "aptal — глупый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0025", "question": "Смешной / Веселый", "options": ["Ciddi", "Sessiz", "Komik / Eğlenceli", "Üzgün"], "correct": 3, "explanation": "komik/eğlenceli — смешной", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0026", "question": "Серьезный", "options": ["Rahat", "Şakacı", "Ciddi", "Komik"], "correct": 3, "explanation": "ciddi — серьезный", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0027", "question": "Ленивый", "options": ["Aktif", "Zeki", "Çalışkan", "Tembel"], "correct": 4, "explanation": "tembel — ленивый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0028", "question": "Трудолюбивый", "options": ["Yavaş", "Tembel", "Çalışkan", "Zayıf"], "correct": 3, "explanation": "çalışkan — трудолюбивый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0029", "question": "Слабый", "options": ["Hızlı", "Şişman", "Zayıf / Güçsüz", "Güçlü"], "correct": 3, "explanation": "zayıf/güçsüz — слабый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0030", "question": "Сильный", "options": ["Hafif", "Zayıf", "Yavaş", "Güçlü"], "correct": 4, "explanation": "güçlü — сильный", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-006-0031", "question": "Начинать", "options": ["Başlamak", "Gitmek", "Bitirmek", "Durdurmak"], "correct": 1, "explanation": "başlamak — начинать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0032", "question": "Заканчивать / Завершать", "options": ["Açmak", "Kapatmak", "Bitirmek / Tamamlamak", "Başlamak"], "correct": 3, "explanation": "bitirmek/tamamlamak — заканчивать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0033", "question": "Открывать", "options": ["Saklamak", "Açmak", "Kapatmak", "Kilitlemek"], "correct": 2, "explanation": "açmak — открывать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0034", "question": "Закрывать", "options": ["Kapatmak", "Açmak", "Bırakmak", "Satmak"], "correct": 1, "explanation": "kapatmak — закрывать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0039", "question": "Уставать", "options": ["Dinlenmek", "Kalkmak", "Yorulmak", "Uyumak"], "correct": 3, "explanation": "yorulmak — уставать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0040", "question": "Отдыхать", "options": ["Çalışmak", "Yürümek", "Dinlenmek", "Yorulmak"], "correct": 3, "explanation": "dinlenmek — отдыхать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-006-0041", "question": "Часто", "options": ["Sık sık", "Bazen", "Asla", "Hiç"], "correct": 1, "explanation": "sık sık — часто", "tags": ["adverbs"], "source": "llm"}
+{"id": "A2-006-0042", "question": "Редко", "options": ["Bazen", "Seyrek / Nadiren", "Her zaman", "Sık sık"], "correct": 2, "explanation": "seyrek/nadiren — редко", "tags": ["adverbs"], "source": "llm"}
+{"id": "A2-006-0043", "question": "Иногда / Кое-когда", "options": ["Bazen / Ara sıra", "Her gün", "Hiçbir zaman", "Sürekli"], "correct": 1, "explanation": "bazen/ara sıra — иногда", "tags": ["adverbs"], "source": "llm"}
+{"id": "A2-006-0044", "question": "Всегда", "options": ["Bazen", "Asla", "Her zaman / Daima", "Sık sık"], "correct": 3, "explanation": "her zaman/daima — всегда", "tags": ["adverbs"], "source": "llm"}
+{"id": "A2-006-0045", "question": "Никогда", "options": ["Hiçbir zaman / Asla", "Bazen", "Her zaman", "Sıklıkla"], "correct": 1, "explanation": "hiçbir zaman/asla — никогда", "tags": ["adverbs"], "source": "llm"}
+{"id": "A2-006-0046", "question": "Рядом / Возле", "options": ["Uzak", "Üstünde", "Altında", "Yanında"], "correct": 4, "explanation": "yanında — рядом", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-006-0047", "question": "Напротив", "options": ["Yanında", "Arkasında", "Önünde", "Karşısında"], "correct": 4, "explanation": "karşısında — напротив", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-006-0048", "question": "Внутри", "options": ["Dışında", "Üstünde", "Altında", "İçinde"], "correct": 4, "explanation": "içinde — внутри", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-006-0049", "question": "Снаружи", "options": ["Dışında", "Arkasında", "Önünde", "İçinde"], "correct": 1, "explanation": "dışında — снаружи", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-006-0050", "question": "Между", "options": ["Arasında", "Altında", "Yanında", "Üstünde"], "correct": 1, "explanation": "arasında — между", "tags": ["vocabulary"], "source": "llm"}

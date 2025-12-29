@@ -119,7 +119,7 @@
     {
       "id": "turk",
       "name": "Turk",
-      "dest_folder": "test_new",
+      "dest_folder": "ma",
       "description": "Турецкий язык",
       "icon": "🇷🇺 → 🇹🇷",
       "quiz_length": 5,

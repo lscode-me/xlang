@@ -1,0 +1,25 @@
+{"id": "A1-006-0001", "question": "Я", "options": ["Biz", "Sen", "O", "Ben"], "correct": 4, "explanation": "ben — я", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0002", "question": "Ты", "options": ["Ben", "O", "Sen", "Siz"], "correct": 3, "explanation": "sen — ты", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0003", "question": "Он/Она/Оно", "options": ["O", "Biz", "Onlar", "Siz"], "correct": 1, "explanation": "o — он/она/оно", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0004", "question": "Мы", "options": ["Siz", "Onlar", "Biz", "Ben"], "correct": 3, "explanation": "biz — мы", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0005", "question": "Вы", "options": ["Ben", "Biz", "Siz", "Onlar"], "correct": 3, "explanation": "siz — вы", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0006", "question": "Они", "options": ["Biz", "Onlar", "Siz", "O"], "correct": 2, "explanation": "onlar — они", "tags": ["pronouns"], "source": "llm"}
+{"id": "A1-006-0007", "question": "Что?", "options": ["Nerede?", "Kim?", "Ne?", "Nasıl?"], "correct": 3, "explanation": "ne? — что?", "tags": ["questions"], "source": "llm"}
+{"id": "A1-006-0008", "question": "Кто?", "options": ["Kim?", "Hangi?", "Ne?", "Kaç?"], "correct": 1, "explanation": "kim? — кто?", "tags": ["questions"], "source": "llm"}
+{"id": "A1-006-0009", "question": "Где?", "options": ["Ne zaman?", "Nereye?", "Nereden?", "Nerede?"], "correct": 4, "explanation": "nerede? — где?", "tags": ["questions"], "source": "llm"}
+{"id": "A1-006-0010", "question": "Как?", "options": ["Nasıl?", "Nerede?", "Niçin?", "Neden?"], "correct": 1, "explanation": "nasıl? — как?", "tags": ["questions"], "source": "llm"}
+{"id": "A1-006-0011", "question": "Почему?", "options": ["Ne?", "Hangi?", "Nasıl?", "Niçin / Neden?"], "correct": 4, "explanation": "niçin/neden — почему", "tags": ["questions"], "source": "llm"}
+{"id": "A1-006-0017", "question": "Оранжевый", "options": ["Mor", "Turuncu", "Pembe", "Gri"], "correct": 2, "explanation": "turuncu — оранжевый", "tags": ["colors"], "source": "llm"}
+{"id": "A1-006-0018", "question": "Розовый", "options": ["Pembe", "Kırmızı", "Yeşil", "Mavi"], "correct": 1, "explanation": "pembe — розовый", "tags": ["colors"], "source": "llm"}
+{"id": "A1-006-0022", "question": "Старый (о предмете)", "options": ["Yeni", "Eski", "Genç", "Büyük"], "correct": 2, "explanation": "eski — старый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0023", "question": "Старый (о человеке)", "options": ["Yeni", "Genç", "Eski", "Yaşlı"], "correct": 4, "explanation": "yaşlı — пожилой/старый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0024", "question": "Молодой", "options": ["Yaşlı", "Çocuk", "Bebek", "Genç"], "correct": 4, "explanation": "genç — молодой", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0025", "question": "Теплый", "options": ["Soğuk", "Sıcak", "Ilık", "Serin"], "correct": 3, "explanation": "ılık — теплый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0026", "question": "Горячий / Жаркий", "options": ["Sıcak", "Ilık", "Serin", "Soğuk"], "correct": 1, "explanation": "sıcak — горячий", "tags": ["adjectives"], "source": "llm"}
+{"id": "A1-006-0030", "question": "Находить", "options": ["Bilmek", "Bakmak", "Beklemek", "Bulmak"], "correct": 4, "explanation": "bulmak — находить", "tags": ["verbs"], "source": "llm"}
+{"id": "A1-006-0032", "question": "Брать / Покупать / Получать", "options": ["Bakmak", "Almak", "Görmek", "Vermek"], "correct": 2, "explanation": "almak — брать/покупать/получать", "tags": ["verbs"], "source": "llm"}
+{"id": "A1-006-0035", "question": "Слышать", "options": ["Duymak", "Görmek", "Söylemek", "Bakmak"], "correct": 1, "explanation": "duymak — слышать/чувствовать", "tags": ["verbs"], "source": "llm"}
+{"id": "A1-006-0037", "question": "Фамилия", "options": ["İsim", "Ad", "Lakap", "Soyadı"], "correct": 4, "explanation": "soyadı — фамилия", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A1-006-0041", "question": "День (календарный)", "options": ["Saat", "Gün", "Hafta", "Ay"], "correct": 2, "explanation": "gün — день", "tags": ["time"], "source": "llm"}
+{"id": "A1-006-0042", "question": "Вкусный", "options": ["Kötü", "Lezzetli / Tadı güzel", "Acı", "Ekşi"], "correct": 2, "explanation": "lezzetli — вкусный", "tags": ["food"], "source": "llm"}
+{"id": "A1-006-0050", "question": "Яйцо", "options": ["Peynir", "Yumurta", "Zeytin", "Ekmek"], "correct": 2, "explanation": "yumurta — яйцо", "tags": ["food"], "source": "llm"}

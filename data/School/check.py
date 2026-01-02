@@ -74,6 +74,11 @@ def validate_content_specific(repo_root: Path, course_id: str, content_type: str
     astronomy_check = script_dir / "Astronomy" / "check.py"
     if astronomy_check.exists():
         validators.append(("Astronomy", astronomy_check))
+
+    # Finance validator
+    finance_check = script_dir / "Finance" / "check.py"
+    if finance_check.exists():
+        validators.append(("Finance", finance_check))
     
     if not validators:
         print("⚠️  No subject-specific validators found")

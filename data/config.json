@@ -113,6 +113,18 @@
             "I1",
             "I2"
           ]
+        },
+        {
+          "id": "finance",
+          "dir": "Finance",
+          "name": "Finance",
+          "emoji": "💰",
+          "description": "Финансовая грамотность",
+          "levels": [
+            "F1",
+            "F2",
+            "F3"
+          ]
         }
       ]
     },

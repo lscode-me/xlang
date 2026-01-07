@@ -173,6 +173,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "avar",
+      "name": "Avar",
+      "dest_folder": "av",
+      "description": "Аварский язык",
+      "icon": "🇷🇺 → 🦅",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "ruavwords",
+          "dir": "RU-AV_Words",
+          "name": "Слова",
+          "emoji": "📝",
+          "description": "Тесты по словам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        },
+        {
+          "id": "ruavphrases",
+          "dir": "RU-AV_Phrases",
+          "name": "Фразы",
+          "emoji": "💬",
+          "description": "Тесты по фразам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        },
+        {
+          "id": "ruavgrammar",
+          "dir": "RU-AV_Grammar",
+          "name": "Грамматика",
+          "emoji": "📚",
+          "description": "Тесты по грамматике",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        }
+      ]
     }
   ]
 }

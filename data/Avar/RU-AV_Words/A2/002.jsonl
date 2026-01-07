@@ -1,0 +1,38 @@
+{"id": "A2-001-0051", "question": "Дружба", "options": ["ЛъикIлъи", "Гьудуллъи", "РакI-гьаби", "Квешлъи"], "correct": 2, "explanation": "Гьудуллъи — дружба.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0053", "question": "Счастье", "options": ["ТалихI", "ХIинкъи", "Ццин", "Къварилъи"], "correct": 1, "explanation": "ТалихI — счастье.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0054", "question": "Печаль", "options": ["Сурдин", "Къварилъи", "ТалихI", "Рохел"], "correct": 2, "explanation": "Къварилъи — печаль, грусть.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0055", "question": "Радость", "options": ["ХIинкъи", "Ццин", "Къварилъи", "Рохел"], "correct": 4, "explanation": "Рохел — радость.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0056", "question": "Богатство", "options": ["ГIарцул", "Ракь", "Бечелъи", "Мискинлъи"], "correct": 3, "explanation": "Бечелъи — богатство.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0057", "question": "Бедность", "options": ["Къварилъи", "Мискинлъи", "ТалихI", "Бечелъи"], "correct": 2, "explanation": "Мискинлъи — бедность.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0058", "question": "Здоровье", "options": ["ЧIаго", "Унтрабалъи", "Сахлъи", "Хвезе"], "correct": 3, "explanation": "Сахлъи — здоровье.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0059", "question": "Болезнь", "options": ["Сахлъи", "Унти", "ЦIад", "Хвезе"], "correct": 2, "explanation": "Унти — болезнь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0060", "question": "Начало", "options": ["КIал", "Байбихьи", "БетIер", "Ахир"], "correct": 2, "explanation": "Байбихьи — начало.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0061", "question": "Конец", "options": ["Байбихьи", "БетIер", "КIал", "Ахир"], "correct": 4, "explanation": "Ахир — конец.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0062", "question": "Правда", "options": ["Гьереси", "ХIакъикъат", "Чи", "ХIама"], "correct": 2, "explanation": "ХIакъикъат — правда, истина.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0063", "question": "Ложь", "options": ["КIал", "Гьереси", "МацI", "ХIакъикъат"], "correct": 2, "explanation": "Гьереси — ложь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0064", "question": "Работа (процесс)", "options": ["Щукълу", "Кьижи", "ХIалтIи", "Кванай"], "correct": 3, "explanation": "ХIалтIи — работа.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0065", "question": "Отдых", "options": ["Кванай", "ХIалтIи", "Унтрабалъи", "ХIухьбахъи"], "correct": 4, "explanation": "ХIухьбахъи — отдых.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0066", "question": "Знание", "options": ["ГIелму", "ТIехь", "Барт", "Лъай"], "correct": 4, "explanation": "Лъай — знание.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0067", "question": "Ум", "options": ["РакI", "БетIер", "Лъай", "ГIакълу"], "correct": 4, "explanation": "ГIакълу — ум, разум.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0068", "question": "Сила", "options": ["Би", "Къуват", "ГIакълу", "Лъай"], "correct": 2, "explanation": "Къуват — сила.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0069", "question": "Свобода", "options": ["ТалихI", "Рохел", "Асирлъи", "Эркенлъи"], "correct": 4, "explanation": "Эркенлъи — свобода.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0070", "question": "Мир", "options": ["Рекъел", "ЛъикIлъи", "Рагъ", "Квешлъи"], "correct": 1, "explanation": "Рекъел — мир, согласие.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0071", "question": "Война", "options": ["ЦIа", "Рагъ", "Би", "Рекъел"], "correct": 2, "explanation": "Рагъ — война, битва.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0072", "question": "Помощь", "options": ["Кумек", "Рекъел", "Рагъ", "ХIалтIи"], "correct": 1, "explanation": "Кумек — помощь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0073", "question": "Вопрос", "options": ["Суал", "Кагъат", "ТIехь", "Жаваб"], "correct": 1, "explanation": "Суал — вопрос.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0074", "question": "Ответ", "options": ["Суал", "Кагъат", "ТIехь", "Жаваб"], "correct": 4, "explanation": "Жаваб — ответ.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0076", "question": "Слово", "options": ["Кагъат", "МацI", "РагIи", "КIал"], "correct": 3, "explanation": "РагIи — слово.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0077", "question": "Имя", "options": ["РагIи", "Чи", "МацI", "ЦIар"], "correct": 4, "explanation": "ЦIар — имя.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0078", "question": "Город", "options": ["Росу", "Нух", "Шагьар", "Рукъ"], "correct": 3, "explanation": "Шагьар — город.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0079", "question": "Село", "options": ["Шагьар", "Росу", "Нух", "Рукъ"], "correct": 2, "explanation": "Росу — село, аул.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0080", "question": "Страна", "options": ["Пачалихъ", "Ракь", "Росу", "Шагьар"], "correct": 1, "explanation": "Пачалихъ — страна, государство.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0081", "question": "Вчера", "options": ["Сон", "Метер", "Жакъа", "Жиндир"], "correct": 1, "explanation": "Сон — вчера.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0082", "question": "Сегодня", "options": ["Жакъа", "МетеркIал", "Метер", "Сон"], "correct": 1, "explanation": "Жакъа — сегодня.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0083", "question": "Завтра", "options": ["Жакъа", "МетеркIал", "Метер", "Сон"], "correct": 3, "explanation": "Метер — завтра.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0084", "question": "Утро", "options": ["Сордо", "МаркIачIул", "Къади", "Рогьалил"], "correct": 4, "explanation": "Рогьалил — утро.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0085", "question": "Вечер", "options": ["Къади", "Рогьалил", "МаркIачIул", "Сордо"], "correct": 3, "explanation": "МаркIачIул — вечер.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0089", "question": "Месяц", "options": ["МоцI", "Къо", "Анкь", "ЛъагIел"], "correct": 1, "explanation": "МоцI — месяц, луна.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0093", "question": "Понедельник", "options": ["Арбаи", "Талтин", "Итни", "Хамис"], "correct": 3, "explanation": "Итни — понедельник.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0094", "question": "Пятница", "options": ["Рузма", "Хамис", "Талтин", "Арбаи"], "correct": 1, "explanation": "Рузма — пятница.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0095", "question": "Суббота", "options": ["Хамис", "Рузма", "Щамат", "Арбаи"], "correct": 3, "explanation": "Щамат — суббота.", "tags": ["lexical"], "source": "llm"}
+{"id": "A2-001-0096", "question": "Воскресенье", "options": ["ГьатIан", "Рузма", "Щамат", "Хамис"], "correct": 1, "explanation": "ГьатIан — воскресенье.", "tags": ["lexical"], "source": "llm"}

@@ -16,7 +16,7 @@
 {"id": "B1-001-0016", "question": "прошлое", "options": ["некIо", "цебе", "метер", "жакъа"], "correct": 1, "explanation": "некIо — давно, в прошлом", "tags": ["noun", "time"], "source": "llm"}
 {"id": "B1-001-0017", "question": "извинить", "options": ["бицине", "кваназе", "тIаса лъугьине", "гьабизе"], "correct": 3, "explanation": "тIаса лъугьине — простить, извинить", "tags": ["verb", "communication"], "source": "llm"}
 {"id": "B1-001-0018", "question": "обещать", "options": ["рагIи кьезе", "ине", "лъай", "кванай"], "correct": 1, "explanation": "рагIи кьезе — дать слово, обещать", "tags": ["verb", "communication"], "source": "llm"}
-{"id": "B1-001-0019", "question": "надеяться", "options": ["бицине", "хIажатлъизе", "хIажатлъи", "ине"], "correct": 2, "explanation": "хIажатлъизе — нуждаться, надеяться (в контексте)", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "B1-001-0019", "question": "надеяться", "options": ["бицине", "хьул лъезе", "хIажатлъи", "ине"], "correct": 2, "explanation": "хьул лъезе — надеяться (букв. надежду положить)", "tags": ["verb", "mental"], "source": "llm"}
 {"id": "B1-001-0020", "question": "верить", "options": ["иманила", "ине", "бицине", "божизе"], "correct": 4, "explanation": "божизе — верить, доверять", "tags": ["verb", "mental"], "source": "llm"}
 {"id": "B1-001-0021", "question": "решать", "options": ["бицине", "тIубазе", "ине", "лъазе"], "correct": 2, "explanation": "тIубазе — выполнять, решать (задачу)", "tags": ["verb", "mental"], "source": "llm"}
 {"id": "B1-001-0022", "question": "искать", "options": ["ватузе", "балагьизе", "бачIине", "ине"], "correct": 2, "explanation": "балагьизе — искать, смотреть", "tags": ["verb", "action"], "source": "llm"}
@@ -41,7 +41,7 @@
 {"id": "B1-001-0041", "question": "лекарство", "options": ["лъим", "дару", "гьан", "чед"], "correct": 2, "explanation": "дару — лекарство (арабское)", "tags": ["noun", "health"], "source": "llm"}
 {"id": "B1-001-0042", "question": "врач", "options": ["магIалим", "вац", "тохтур", "студент"], "correct": 3, "explanation": "тохтур — врач (от русского)", "tags": ["noun", "occupations"], "source": "llm"}
 {"id": "B1-001-0043", "question": "путешествие", "options": ["майдан", "сапар", "рокью", "нух"], "correct": 2, "explanation": "сапар — путешествие, поездка (арабское)", "tags": ["noun", "place"], "source": "llm"}
-{"id": "B1-001-0044", "question": "интересный", "options": ["гьуинаб", "цогидаб", "пайдаяб", "кIудияб"], "correct": 3, "explanation": "пайдаяб — полезный, интересный (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "B1-001-0044", "question": "интересный", "options": ["гьуинаб", "цогидаб", "интересияб", "кIудияб"], "correct": 3, "explanation": "интересияб — интересный (от русского)", "tags": ["adjective", "quality"], "source": "llm"}
 {"id": "B1-001-0045", "question": "важный", "options": ["гьитIинаб", "квешаб", "кIвар бугеб", "лъикIаб"], "correct": 3, "explanation": "кIвар бугеб — важный, имеющий значение", "tags": ["adjective", "abstract"], "source": "llm"}
 {"id": "B1-001-0046", "question": "каждый", "options": ["щибав", "цо", "гьединав", "кIиго"], "correct": 1, "explanation": "щибав — каждый (мужской класс)", "tags": ["pronoun", "logic"], "source": "llm"}
 {"id": "B1-001-0047", "question": "другой", "options": ["гьадинаб", "цогидаб", "цIияб", "гьединаб"], "correct": 2, "explanation": "цогидаб — другой, иной (класс б)", "tags": ["pronoun", "logic"], "source": "llm"}

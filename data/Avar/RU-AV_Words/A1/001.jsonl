@@ -1,8 +1,8 @@
 {"id": "A1-001-0001", "question": "дом", "options": ["бакI", "мина", "азбар", "рукъ"], "correct": 4, "explanation": "Mapping: рукъ — дом (мн.ч. рукъал)", "tags": ["noun", "home"], "source": "llm"}
-{"id": "A1-001-0002", "question": "мама", "options": ["вац", "эбель", "яц", "эмен"], "correct": 2, "explanation": "эбель — мать", "tags": ["noun", "family"], "source": "llm"}
-{"id": "A1-001-0003", "question": "папа", "options": ["эбель", "вац", "яц", "эмен"], "correct": 4, "explanation": "эмен — отец", "tags": ["noun", "family"], "source": "llm"}
-{"id": "A1-001-0004", "question": "брат", "options": ["вац", "эмен", "яц", "эбель"], "correct": 1, "explanation": "вац — брат", "tags": ["noun", "family"], "source": "llm"}
-{"id": "A1-001-0005", "question": "сестра", "options": ["эбель", "яц", "эмен", "вац"], "correct": 2, "explanation": "яц — сестра", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0002", "question": "мама", "options": ["вац", "эбел", "яц", "эмен"], "correct": 2, "explanation": "эбел — мать", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0003", "question": "папа", "options": ["эбел", "вац", "яц", "эмен"], "correct": 4, "explanation": "эмен — отец", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0004", "question": "брат", "options": ["вац", "эмен", "яц", "эбел"], "correct": 1, "explanation": "вац — брат", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0005", "question": "сестра", "options": ["эбел", "яц", "эмен", "вац"], "correct": 2, "explanation": "яц — сестра", "tags": ["noun", "family"], "source": "llm"}
 {"id": "A1-001-0006", "question": "красный", "options": ["гIурччинаб", "тIогьилаб", "багIараб", "чIегIераб"], "correct": 3, "explanation": "багIараб — красный (класс б)", "tags": ["adjective", "colors"], "source": "llm"}
 {"id": "A1-001-0007", "question": "белый", "options": ["гIурччинаб", "хъахIаб", "багIараб", "чIегIераб"], "correct": 2, "explanation": "хъахIаб — белый (класс б)", "tags": ["adjective", "colors"], "source": "llm"}
 {"id": "A1-001-0008", "question": "черный", "options": ["гIурччинаб", "чIегIераб", "хъахIаб", "тIогьилаб"], "correct": 2, "explanation": "чIегIераб — черный (класс б)", "tags": ["adjective", "colors"], "source": "llm"}

@@ -16,17 +16,17 @@
 {"id": "A2-001-0016", "question": "дорога", "options": ["нух", "хур", "майдан", "рокью"], "correct": 1, "explanation": "нух — дорога, путь (мн.ч. нухал)", "tags": ["noun", "place"], "source": "llm"}
 {"id": "A2-001-0017", "question": "гора", "options": ["хур", "гIор", "мегIер", "лагълъи"], "correct": 3, "explanation": "мегIер — гора (мн.ч. мугIрул)", "tags": ["noun", "nature"], "source": "llm"}
 {"id": "A2-001-0018", "question": "река", "options": ["мегIер", "майдан", "гIака", "гIор"], "correct": 4, "explanation": "гIор — река (мн.ч. гIорал)", "tags": ["noun", "nature"], "source": "llm"}
-{"id": "A2-001-0019", "question": "сад", "options": ["бакI", "гьурда", "майдан", "рокъ"], "correct": 2, "explanation": "гьурда — сад, огород", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0019", "question": "сад", "options": ["бакI", "ах", "майдан", "рокъ"], "correct": 2, "explanation": "ах — сад (мн.ч. ахал)", "tags": ["noun", "nature"], "source": "llm"}
 {"id": "A2-001-0020", "question": "дерево", "options": ["хур", "тIанчI", "тIегь", "гъветI"], "correct": 4, "explanation": "гъветI — дерево (мн.ч. гъутIби)", "tags": ["noun", "nature"], "source": "llm"}
 {"id": "A2-001-0021", "question": "цветок", "options": ["мичI", "тIегь", "тIанчI", "гъветI"], "correct": 2, "explanation": "тIегь — цветок (мн.ч. тIугьдул)", "tags": ["noun", "nature"], "source": "llm"}
 {"id": "A2-001-0022", "question": "весна", "options": ["хас", "рии", "хасел", "нии"], "correct": 4, "explanation": "нии — весна", "tags": ["noun", "time"], "source": "llm"}
-{"id": "A2-001-0023", "question": "лето", "options": ["рии", "хасел", "хасти", "нии"], "correct": 1, "explanation": "рии — лето", "tags": ["noun", "time"], "source": "llm"}
-{"id": "A2-001-0024", "question": "осень", "options": ["нии", "хасел", "рии", "хасти"], "correct": 4, "explanation": "хасти — осень", "tags": ["noun", "time"], "source": "llm"}
-{"id": "A2-001-0025", "question": "зима", "options": ["нии", "рии", "хасел", "хасти"], "correct": 3, "explanation": "хасел — зима", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0023", "question": "лето", "options": ["рии", "хасел", "хасалихълъи", "нии"], "correct": 1, "explanation": "рии — лето", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0024", "question": "осень", "options": ["нии", "хасел", "рии", "хасалихълъи"], "correct": 4, "explanation": "хасалихълъи — осень", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0025", "question": "зима", "options": ["нии", "рии", "хасел", "хасалихълъи"], "correct": 3, "explanation": "хасел — зима", "tags": ["noun", "time"], "source": "llm"}
 {"id": "A2-001-0026", "question": "холодный", "options": ["меседил", "цIорораб", "хинаб", "гьуинаб"], "correct": 2, "explanation": "цIорораб — холодный (класс б)", "tags": ["adjective", "weather"], "source": "llm"}
 {"id": "A2-001-0027", "question": "горячий", "options": ["хинаб", "квешаб", "цIорораб", "бацIадаб"], "correct": 1, "explanation": "хинаб — теплый, горячий (класс б)", "tags": ["adjective", "weather"], "source": "llm"}
 {"id": "A2-001-0028", "question": "чистый", "options": ["бацIадаб", "хинаб", "цIияб", "чIедераб"], "correct": 1, "explanation": "бацIадаб — чистый (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
-{"id": "A2-001-0029", "question": "грязный", "options": ["цIияб", "бацIадаб", "чIедераб", "басрияб"], "correct": 3, "explanation": "чIедераб — грязный, неопрятный (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A2-001-0029", "question": "грязный", "options": ["цIияб", "бацIадаб", "хIамилаб", "басрияб"], "correct": 3, "explanation": "хIамилаб — грязный (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
 {"id": "A2-001-0030", "question": "дорогой (цена)", "options": ["бигьаяб", "багьаяб", "лъикIаб", "гьуинаб"], "correct": 2, "explanation": "багьаяб — дорогой (класс б)", "tags": ["adjective", "money"], "source": "llm"}
 {"id": "A2-001-0031", "question": "дешевый", "options": ["гьуинаб", "квешаб", "бигьаяб", "багьаяб"], "correct": 3, "explanation": "бигьаяб — легкий, дешевый (класс б)", "tags": ["adjective", "money"], "source": "llm"}
 {"id": "A2-001-0032", "question": "купить", "options": ["лъазе", "босизе", "гьабизе", "бичизе"], "correct": 2, "explanation": "босизе — купить, брать", "tags": ["verb", "money"], "source": "llm"}

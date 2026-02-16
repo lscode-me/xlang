@@ -171,6 +171,19 @@
             "A2",
             "B1"
           ]
+        },
+        {
+          "id": "exam",
+          "dir": "Exam",
+          "name": "Exam",
+          "emoji": "🎓",
+          "description": "Экзаменационные тесты",
+          "levels": [
+            "RuTr",
+            "TrRu",
+            "RuTrPhrases",
+            "TrRuPhrases"
+          ]
         }
       ]
     },

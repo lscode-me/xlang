@@ -184,6 +184,18 @@
             "RuTrPhrases",
             "TrRuPhrases"
           ]
+        },
+        {
+          "id": "quizzes",
+          "dir": "Quizzes",
+          "name": "Логика",
+          "emoji": "🧩",
+          "description": "Простые логические задачи",
+          "levels": [
+            "L1",
+            "L2",
+            "L3"
+          ]
         }
       ]
     },
@@ -235,6 +247,18 @@
             "B1",
             "B2",
             "C1"
+          ]
+        },
+        {
+          "id": "quizzes",
+          "dir": "Quizzes",
+          "name": "Логика",
+          "emoji": "🧩",
+          "description": "Простые логические задачи",
+          "levels": [
+            "L1",
+            "L2",
+            "L3"
           ]
         }
       ]

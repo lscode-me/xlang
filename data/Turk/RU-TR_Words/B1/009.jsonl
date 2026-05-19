@@ -46,4 +46,4 @@
 {"id": "B1-009-0047", "question": "почка", "options": ["karaciğer", "böbrek", "mide", "kalp"], "correct": 2, "explanation": "böbrek — почка", "tags": ["noun", "health"], "source": "llm"}
 {"id": "B1-009-0048", "question": "прием пищи", "options": ["akşam yemeği", "öğün", "yemek", "kahvaltı"], "correct": 2, "explanation": "öğün — прием пищи (напр. günde üç öğün)", "tags": ["noun", "food"], "source": "llm"}
 {"id": "B1-009-0049", "question": "измерять", "options": ["bakmak", "tartmak", "ölçmek", "saymak"], "correct": 3, "explanation": "ölçmek — измерять", "tags": ["verb", "abstract"], "source": "llm"}
-{"id": "B1-009-0050", "question": "тошнота", "options": ["sızı", "bulantı", "ağrı", "kramр"], "correct": 2, "explanation": "bulantı — тошнота (mide bulantısı)", "tags": ["noun", "health"], "source": "llm"}
+{"id": "B1-009-0050", "question": "тошнота", "options": ["sızı", "bulantı", "ağrı", "kramp"], "correct": 2, "explanation": "bulantı — тошнота (mide bulantısı)", "tags": ["noun", "health"], "source": "llm"}

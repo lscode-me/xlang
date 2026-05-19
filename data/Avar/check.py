@@ -11,8 +11,8 @@ from typing import List, Dict, Any, Tuple
 # ============================================================================
 # AVAR-SPECIFIC VALIDATION CONFIGURATION
 # ============================================================================
-# ID pattern for Avar course: A1-001-0001 to C1-003-0015
-ID_PATTERN = re.compile(r"^(A1|A2|B1|B2|C1)-[\w-]+-\d{4}$")
+# ID pattern for Avar course: A1-001-0001 to L3-002-0050
+ID_PATTERN = re.compile(r"^(A1|A2|B1|B2|C1|L1|L2|L3)-[\w-]+-\d{4}$")
 
 
 def validate_word_entry(entry: Dict[Any, Any], line_num: int) -> Tuple[List[str], List[str]]:

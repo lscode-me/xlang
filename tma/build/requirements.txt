@@ -1,0 +1,4 @@
+# Зависимости для генератора Mini App тестов
+
+# Template engine
+jinja2>=3.1.0

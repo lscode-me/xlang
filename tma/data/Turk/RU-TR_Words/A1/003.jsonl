@@ -1,0 +1,50 @@
+{"id": "A1-003-0001", "question": "утро", "options": ["sabah", "gece", "akşam", "öğle"], "correct": 1, "explanation": "sabah — утро", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0002", "question": "вечер", "options": ["akşam", "öğle", "sabah", "gece"], "correct": 1, "explanation": "akşam — вечер", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0003", "question": "ночь", "options": ["hafta", "gün", "gece", "ay"], "correct": 3, "explanation": "gece — ночь", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0004", "question": "сегодня", "options": ["bugün", "dün", "yarın", "şimdi"], "correct": 1, "explanation": "bugün — сегодня", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0005", "question": "вчера", "options": ["önce", "yarın", "dün", "bugün"], "correct": 3, "explanation": "dün — вчера", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0006", "question": "завтра", "options": ["yarın", "sonra", "dün", "bugün"], "correct": 1, "explanation": "yarın — завтра", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0007", "question": "сейчас", "options": ["şimdi", "önce", "sonra", "zaman"], "correct": 1, "explanation": "şimdi — сейчас", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0008", "question": "потом", "options": ["önce", "sonra", "şimdi", "yarın"], "correct": 2, "explanation": "sonra — потом, после", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-003-0009", "question": "рано", "options": ["geç", "hızlı", "yavaş", "erken"], "correct": 4, "explanation": "erken — рано", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-003-0010", "question": "поздно", "options": ["kısa", "uzun", "geç", "erken"], "correct": 3, "explanation": "geç — поздно", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-003-0011", "question": "понедельник", "options": ["çarşamba", "pazartesi", "cuma", "salı"], "correct": 2, "explanation": "pazartesi — понедельник", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0012", "question": "вторник", "options": ["perşembe", "cumartesi", "salı", "çarşamba"], "correct": 3, "explanation": "salı — вторник", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0013", "question": "среда", "options": ["perşembe", "cuma", "çarşamba", "pazar"], "correct": 3, "explanation": "çarşamba — среда", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0014", "question": "четверг", "options": ["cuma", "pazartesi", "perşembe", "cumartesi"], "correct": 3, "explanation": "perşembe — четверг", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0015", "question": "пятница", "options": ["pazar", "cumartesi", "salı", "cuma"], "correct": 4, "explanation": "cuma — пятница", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0016", "question": "суббота", "options": ["pazar", "pazartesi", "cumartesi", "çarşamba"], "correct": 3, "explanation": "cumartesi — суббота", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0017", "question": "воскресенье", "options": ["pazartesi", "salı", "perşembe", "pazar"], "correct": 4, "explanation": "pazar — воскресенье", "tags": ["noun", "time", "days"], "source": "llm"}
+{"id": "A1-003-0018", "question": "неделя", "options": ["yıl", "hafta", "gün", "ay"], "correct": 2, "explanation": "hafta — неделя", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0019", "question": "месяц", "options": ["yıl", "ay", "saat", "gün"], "correct": 2, "explanation": "ay — месяц", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0020", "question": "год", "options": ["zaman", "tarih", "ay", "yıl"], "correct": 4, "explanation": "yıl — год (или sene)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A1-003-0021", "question": "дерево", "options": ["ot", "yaprak", "çiçek", "ağaç"], "correct": 4, "explanation": "ağaç — дерево", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-003-0022", "question": "цветок", "options": ["çiçek", "lale", "gül", "ot"], "correct": 1, "explanation": "çiçek — цветок", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-003-0023", "question": "море", "options": ["deniz", "göl", "okyanus", "nehir"], "correct": 1, "explanation": "deniz — море", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-003-0024", "question": "река", "options": ["deniz", "nehir", "göl", "havuz"], "correct": 2, "explanation": "nehir — река (или ırmak)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-003-0025", "question": "гора", "options": ["tepe", "taş", "dağ", "yol"], "correct": 3, "explanation": "dağ — гора", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-003-0026", "question": "птица", "options": ["balık", "kedi", "köpek", "kuş"], "correct": 4, "explanation": "kuş — птица", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-003-0027", "question": "читать", "options": ["okumak", "yazmak", "izlemek", "dinlemek"], "correct": 1, "explanation": "okumak — читать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0028", "question": "писать", "options": ["söylemek", "yazmak", "çizmek", "okumak"], "correct": 2, "explanation": "yazmak — писать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0029", "question": "слушать", "options": ["anlamak", "dinlemek", "sormak", "duymak"], "correct": 2, "explanation": "dinlemek — слушать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0030", "question": "спать", "options": ["yatmak", "uyanmak", "uyumak", "kalkmak"], "correct": 3, "explanation": "uyumak — спать", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-003-0031", "question": "вставать", "options": ["oturmak", "kalkmak", "durmak", "yatmak"], "correct": 2, "explanation": "kalkmak — вставать (с постели или со стула)", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-003-0032", "question": "сидеть", "options": ["beklemek", "durmak", "oturmak", "kalkmak"], "correct": 3, "explanation": "oturmak — сидеть (и жить)", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-003-0033", "question": "брать", "options": ["bırakmak", "vermek", "almak", "tutmak"], "correct": 3, "explanation": "almak — брать, покупать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0034", "question": "давать", "options": ["götürmek", "getirmek", "vermek", "almak"], "correct": 3, "explanation": "vermek — давать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0035", "question": "приходить", "options": ["girmek", "dönmek", "gitmek", "gelmek"], "correct": 4, "explanation": "gelmek — приходить", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-003-0036", "question": "бежать", "options": ["koşmak", "yürümek", "durmak", "zıplamak"], "correct": 1, "explanation": "koşmak — бежать", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-003-0037", "question": "играть", "options": ["gülmek", "eğlenmek", "oynamak", "koşmak"], "correct": 3, "explanation": "oynamak — играть", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0038", "question": "открывать", "options": ["girmek", "çıkmak", "kapatmak", "açmak"], "correct": 4, "explanation": "açmak — открывать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0039", "question": "закрывать", "options": ["gizlemek", "açmak", "kapatmak", "örtmek"], "correct": 3, "explanation": "kapatmak — закрывать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0040", "question": "спрашивать", "options": ["istemek", "sormak", "söylemek", "cevaplamak"], "correct": 2, "explanation": "sormak — спрашивать", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "A1-003-0041", "question": "отвечать", "options": ["sormak", "dinlemek", "anlatmak", "cevaplamak"], "correct": 4, "explanation": "cevaplamak — отвечать (или cevap vermek)", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "A1-003-0042", "question": "помогать", "options": ["istemek", "yardım etmek", "vermek", "almak"], "correct": 2, "explanation": "yardım etmek — помогать", "tags": ["verb", "social"], "source": "llm"}
+{"id": "A1-003-0043", "question": "начинать", "options": ["başlamak", "devam etmek", "sürmek", "bitirmek"], "correct": 1, "explanation": "başlamak — начинать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0044", "question": "кончать", "options": ["başlamak", "bitirmek", "bırakmak", "durmak"], "correct": 2, "explanation": "bitirmek — заканчивать, кончать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0045", "question": "мыть", "options": ["silmek", "temizlemek", "yıkamak", "süpürmek"], "correct": 3, "explanation": "yıkamak — мыть", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-003-0046", "question": "чистить", "options": ["temizlemek", "silmek", "boyamak", "yıkamak"], "correct": 1, "explanation": "temizlemek — чистить", "tags": ["verb", "daily"], "source": "llm"}
+{"id": "A1-003-0047", "question": "учить", "options": ["bilmek", "öğrenmek", "çalışmak", "öğretmek"], "correct": 2, "explanation": "öğrenmek — учить (изучать), учиться", "tags": ["verb", "education"], "source": "llm"}
+{"id": "A1-003-0048", "question": "работать", "options": ["çalışmak", "yapmak", "işlemek", "üretmek"], "correct": 1, "explanation": "çalışmak — работать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0049", "question": "отдыхать", "options": ["tatil yapmak", "gezmek", "uyumak", "dinlenmek"], "correct": 4, "explanation": "dinlenmek — отдыхать", "tags": ["verb", "basic"], "source": "llm"}
+{"id": "A1-003-0050", "question": "гулять", "options": ["koşmak", "gezmek", "dolaşmak", "yürümek"], "correct": 2, "explanation": "gezmek — гулять, путешествовать", "tags": ["verb", "movement"], "source": "llm"}

@@ -1,0 +1,27 @@
+{"id": "A2-005-0007", "question": "Рука (кисть)", "options": ["Ayak", "El", "Kol", "Bacak"], "correct": 2, "explanation": "el — рука (кисть)", "tags": ["body"], "source": "llm"}
+{"id": "A2-005-0008", "question": "Нога", "options": ["El", "Omuz", "Ayak", "Kol"], "correct": 3, "explanation": "ayak — нога/стопа", "tags": ["body"], "source": "llm"}
+{"id": "A2-005-0009", "question": "Глаз", "options": ["Göz", "Kirpik", "Ağız", "Kaş"], "correct": 1, "explanation": "göz — глаз", "tags": ["body"], "source": "llm"}
+{"id": "A2-005-0012", "question": "Луна", "options": ["Gezegen", "Güneş", "Ay", "Yıldız"], "correct": 3, "explanation": "ay — луна", "tags": ["nature"], "source": "llm"}
+{"id": "A2-005-0013", "question": "Звезда", "options": ["Yıldız", "Gökkuşağı", "Ay", "Güneş"], "correct": 1, "explanation": "yıldız — звезда", "tags": ["nature"], "source": "llm"}
+{"id": "A2-005-0020", "question": "Гостиница / Отель", "options": ["Ev", "Okul", "Otel", "Pansiyon"], "correct": 3, "explanation": "otel — отель", "tags": ["travel"], "source": "llm"}
+{"id": "A2-005-0028", "question": "Счастье", "options": ["Öfke", "Mutluluk", "Üzüntü", "Korku"], "correct": 2, "explanation": "mutluluk — счастье", "tags": ["emotions"], "source": "llm"}
+{"id": "A2-005-0029", "question": "Грусть / Печаль", "options": ["Heyecan", "Sevinç", "Şaşkınlık", "Üzüntü"], "correct": 4, "explanation": "üzüntü — грусть", "tags": ["emotions"], "source": "llm"}
+{"id": "A2-005-0030", "question": "Удивление", "options": ["Şaşkınlık", "Gurur", "Korku", "Öfke"], "correct": 1, "explanation": "şaşkınlık — удивление", "tags": ["emotions"], "source": "llm"}
+{"id": "A2-005-0031", "question": "Страх", "options": ["Cesaret", "Nefret", "Endişe", "Korku"], "correct": 4, "explanation": "korku — страх", "tags": ["emotions"], "source": "llm"}
+{"id": "A2-005-0032", "question": "Вкус", "options": ["Ses", "Koku", "Renk", "Tat"], "correct": 4, "explanation": "tat — вкус", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-005-0033", "question": "Запах", "options": ["Ses", "Koku", "Tat", "Işık"], "correct": 2, "explanation": "koku — запах", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-005-0034", "question": "Звук", "options": ["Işık", "Ses", "Tat", "Görüntü"], "correct": 2, "explanation": "ses — звук/голос", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-005-0035", "question": "Свет", "options": ["Ayna", "Işık", "Karanlık", "Gölge"], "correct": 2, "explanation": "ışık — свет", "tags": ["vocabulary"], "source": "llm"}
+{"id": "A2-005-0036", "question": "Тяжелый", "options": ["Yavaş", "Ağır", "Kolay", "Hafif"], "correct": 2, "explanation": "ağır — тяжелый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0037", "question": "Легкий (по весу)", "options": ["Hafif", "İnce", "Hızlı", "Ağır"], "correct": 1, "explanation": "hafif — легкий", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0038", "question": "Быстрый", "options": ["Yavaş", "Hızlı", "Yumuşak", "Sert"], "correct": 2, "explanation": "hızlı — быстрый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0039", "question": "Медленный", "options": ["Yavaş", "Zayıf", "Hızlı", "Güçlü"], "correct": 1, "explanation": "yavaş — медленный", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0042", "question": "Чистый", "options": ["Dağınık", "Kirli", "Pis", "Temiz"], "correct": 4, "explanation": "temiz — чистый", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0043", "question": "Грязный", "options": ["Temiz", "Yeni", "Kirli / Pis", "Sıcak"], "correct": 3, "explanation": "kirli/pis — грязный", "tags": ["adjectives"], "source": "llm"}
+{"id": "A2-005-0044", "question": "Понимать", "options": ["Dinlemek", "Anlatmak", "Sormak", "Anlamak"], "correct": 4, "explanation": "anlamak — понимать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0045", "question": "Рассказывать", "options": ["Anlatmak", "Dinlemek", "Bakmak", "Anlamak"], "correct": 1, "explanation": "anlatmak — рассказывать/объяснять", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0046", "question": "Спрашивать", "options": ["Cevaplamak", "Anlatmak", "Sormak", "Söylemek"], "correct": 3, "explanation": "sormak — спрашивать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0047", "question": "Отвечать", "options": ["Dinlemek", "Bilmek", "Cevaplamak / Yanıtlamak", "Sormak"], "correct": 3, "explanation": "cevaplamak/yanıtlamak — отвечать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0048", "question": "Забывать", "options": ["Hatırlamak", "Unutmak", "Bilmek", "Görmek"], "correct": 2, "explanation": "unutmak — забывать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0049", "question": "Вспоминать / Помнить", "options": ["Gülmek", "Bakmak", "Hatırlamak", "Unutmak"], "correct": 3, "explanation": "hatırlamak — вспоминать", "tags": ["verbs"], "source": "llm"}
+{"id": "A2-005-0050", "question": "Обещать", "options": ["Almak", "Gitmek", "Sormak", "Söz vermek"], "correct": 4, "explanation": "söz vermek — обещать (давать слово)", "tags": ["verbs"], "source": "llm"}

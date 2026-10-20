@@ -1,0 +1,34 @@
+{"id": "A1-001-0051", "question": "Человек", "options": ["ХIама", "Вас", "ГIадам", "Чи"], "correct": 4, "explanation": "Чи — человек, мужчина.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0052", "question": "Вещь", "options": ["жо", "тIегь", "чи", "мацI"], "correct": 1, "explanation": "Жо — вещь, предмет.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0053", "question": "Язык", "options": ["РакI", "КIал", "Чи", "МацI"], "correct": 4, "explanation": "МацI — язык (орган и средство общения).", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0054", "question": "Рот", "options": ["Бери", "ГIин", "КIал", "МацI"], "correct": 3, "explanation": "КIал — рот.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0056", "question": "Ухо", "options": ["ГIин", "Бер", "МегIер", "Лъим"], "correct": 1, "explanation": "ГIин — ухо.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0061", "question": "Волосы", "options": ["БетIер", "ХIама", "Рас", "Чи"], "correct": 3, "explanation": "Рас — волос (ед.ч. используется собирательно).", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0062", "question": "Лицо", "options": ["РакI", "Гьумер", "КIал", "Бер"], "correct": 2, "explanation": "Гьумер — лицо.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0063", "question": "Зуб", "options": ["Ца", "Гьумер", "МацI", "КIал"], "correct": 1, "explanation": "Ца — зуб.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0064", "question": "Кровь", "options": ["Би", "ЦIад", "Лъим", "Ракь"], "correct": 1, "explanation": "Би — кровь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0068", "question": "Дождь", "options": ["Лъим", "ЦIад", "Би", "ЦIа"], "correct": 2, "explanation": "ЦIад — дождь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0069", "question": "Снег", "options": ["Лъим", "ГIазу", "ЦIад", "ЦIа"], "correct": 2, "explanation": "ГIазу — снег.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0075", "question": "Гора", "options": ["МегIер", "ЦIва", "Зов", "Ракь"], "correct": 1, "explanation": "МегIер — гора.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0076", "question": "Река", "options": ["ГIор", "МегIер", "Зов", "ЦIва"], "correct": 1, "explanation": "ГIор — река.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0077", "question": "Дерево", "options": ["МегIер", "Ракь", "ГIор", "ГъветI"], "correct": 4, "explanation": "ГъветI — дерево.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0078", "question": "Трава", "options": ["ГъветI", "ГIор", "Хер", "МегIер"], "correct": 3, "explanation": "Хер — трава, сено.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0079", "question": "Цветок", "options": ["ГIор", "Хер", "ТIегь", "ГъветI"], "correct": 3, "explanation": "ТIегь — цветок.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0080", "question": "Камень", "options": ["ГъветI", "Хер", "ГамачI", "ТIегь"], "correct": 3, "explanation": "ГамачI — камень.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0082", "question": "Дверь", "options": ["НуцIа", "ТIегь", "Рукъ", "ГамачI"], "correct": 1, "explanation": "НуцIа — дверь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0083", "question": "Окно", "options": ["Рукъ", "ГамачI", "Горду", "НуцIа"], "correct": 3, "explanation": "Горду — окно.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0084", "question": "Стол", "options": ["Горду", "НуцIа", "Стол", "Рукъ"], "correct": 3, "explanation": "Стол — стол (заимствование из рус.).", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0085", "question": "Стул", "options": ["Стол", "Горду", "НуцIа", "ТIула"], "correct": 4, "explanation": "ТIула — стул, скамья.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0086", "question": "Кровать", "options": ["Горду", "ТIула", "Стол", "Таргьа"], "correct": 4, "explanation": "Таргьа — кровать.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0088", "question": "Молоко", "options": ["тIула", "таргьа", "рахь", "чед"], "correct": 3, "explanation": "Рахь — молоко.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0090", "question": "Соль", "options": ["ГьатIи", "ЦIам", "Гьан", "Чед"], "correct": 2, "explanation": "ЦIам — соль.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0091", "question": "Сахар", "options": ["ЦIам", "ГьатIи", "Гьан", "Шекера"], "correct": 4, "explanation": "Шекера — сахар (заимствование).", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0092", "question": "Чай", "options": ["ЦIам", "Шекера", "Гьан", "Чай"], "correct": 4, "explanation": "Чай — чай.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0093", "question": "Нож", "options": ["Шекера", "Нус", "Чай", "ЦIам"], "correct": 2, "explanation": "Нус — нож.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0094", "question": "Ложка", "options": ["чай", "нус", "гъуд", "шекера"], "correct": 3, "explanation": "Гъуд — ложка.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0095", "question": "Вилка", "options": ["Гъарав", "ЧIатIа", "Чай", "Нус"], "correct": 2, "explanation": "ЧIатIа — вилка.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0096", "question": "Одежда", "options": ["ЧIатIа", "Релъен", "Нус", "Гъарав"], "correct": 2, "explanation": "Релъен — одежда.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0097", "question": "Шапка", "options": ["Гъарав", "ЧIатIа", "Къапа", "Релъен"], "correct": 3, "explanation": "Къапа — шапка.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0098", "question": "Обувь", "options": ["Релъен", "Къапа", "ЧIатIа", "Хъати"], "correct": 4, "explanation": "Хъати — обувь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0099", "question": "Дорога", "options": ["Релъен", "Къапа", "Хъати", "Нух"], "correct": 4, "explanation": "Нух — дорога, путь.", "tags": ["lexical"], "source": "llm"}
+{"id": "A1-001-0100", "question": "Машина", "options": ["Хъати", "Нух", "Къапа", "Машина"], "correct": 4, "explanation": "Машина — машина.", "tags": ["lexical"], "source": "llm"}

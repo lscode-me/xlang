@@ -1,0 +1,267 @@
+{
+  "courses": [
+    {
+      "id": "sch",
+      "name": "School",
+      "dest_folder": "mathik",
+      "description": "Уроки",
+      "icon": "🎓",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "enwords",
+          "dir": "EnWords",
+          "name": "English Words",
+          "emoji": "🇬🇧",
+          "description": "Английские слова",
+          "levels": [
+            "A1",
+            "A2"
+          ]
+        },
+        {
+          "id": "enphrases",
+          "dir": "EnPhrases",
+          "name": "English Phrases",
+          "emoji": "💬",
+          "description": "Английские фразы",
+          "levels": [
+            "A1",
+            "A2"
+          ]
+        },
+        {
+          "id": "engrammar",
+          "dir": "EnGrammar",
+          "name": "English Grammar",
+          "emoji": "📚",
+          "description": "Английская грамматика",
+          "levels": [
+            "A1",
+            "A2"
+          ]
+        },
+        {
+          "id": "maths",
+          "dir": "Maths",
+          "name": "Maths",
+          "emoji": "🔢",
+          "description": "Математика",
+          "levels": [
+            "RS5",
+            "RS6",
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "informatics",
+          "dir": "Informatics",
+          "name": "Informatics",
+          "emoji": "💻",
+          "description": "Информатика",
+          "levels": [
+            "I1",
+            "I2",
+            "I3"
+          ]
+        },
+        {
+          "id": "physics",
+          "dir": "Physics",
+          "name": "Physics",
+          "emoji": "🧲",
+          "description": "Физика",
+          "levels": [
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "chemistry",
+          "dir": "Chemistry",
+          "name": "Chemistry",
+          "emoji": "🧪",
+          "description": "Химия",
+          "levels": [
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "biology",
+          "dir": "Biology",
+          "name": "Biology",
+          "emoji": "🧬",
+          "description": "Биология",
+          "levels": [
+            "RS6",
+            "RS7",
+            "RS8",
+            "RS9"
+          ]
+        },
+        {
+          "id": "astronomy",
+          "dir": "Astronomy",
+          "name": "Astronomy",
+          "emoji": "🔭",
+          "description": "Астрономия",
+          "levels": [
+            "I1",
+            "I2"
+          ]
+        },
+        {
+          "id": "finance",
+          "dir": "Finance",
+          "name": "Finance",
+          "emoji": "💰",
+          "description": "Финансовая грамотность",
+          "levels": [
+            "F1",
+            "F2",
+            "F3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "turk",
+      "name": "Turk",
+      "dest_folder": "ma",
+      "description": "Турецкий язык",
+      "icon": "🇷🇺 → 🇹🇷",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "rutrwords",
+          "dir": "RU-TR_Words",
+          "name": "Слова",
+          "emoji": "📝",
+          "description": "Тесты по словам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
+        },
+        {
+          "id": "rutrphrases",
+          "dir": "RU-TR_Phrases",
+          "name": "Фразы",
+          "emoji": "💬",
+          "description": "Тесты по фразам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
+        },
+        {
+          "id": "rutrgrammar",
+          "dir": "RU-TR_Grammar",
+          "name": "Грамматика",
+          "emoji": "📚",
+          "description": "Тесты по грамматике",
+          "levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
+        },
+        {
+          "id": "exam",
+          "dir": "Exam",
+          "name": "Exam",
+          "emoji": "🎓",
+          "description": "Экзаменационные тесты",
+          "levels": [
+            "RuTr",
+            "TrRu",
+            "RuTrPhrases",
+            "TrRuPhrases"
+          ]
+        },
+        {
+          "id": "quizzes",
+          "dir": "Quizzes",
+          "name": "Логика",
+          "emoji": "🧩",
+          "description": "Простые логические задачи",
+          "levels": [
+            "L1",
+            "L2",
+            "L3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avar",
+      "name": "Avar",
+      "dest_folder": "av",
+      "description": "Аварский язык",
+      "icon": "🇷🇺 → 🦅",
+      "quiz_length": 5,
+      "contents": [
+        {
+          "id": "ruavwords",
+          "dir": "RU-AV_Words",
+          "name": "Слова",
+          "emoji": "📝",
+          "description": "Тесты по словам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        },
+        {
+          "id": "ruavphrases",
+          "dir": "RU-AV_Phrases",
+          "name": "Фразы",
+          "emoji": "💬",
+          "description": "Тесты по фразам",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        },
+        {
+          "id": "ruavgrammar",
+          "dir": "RU-AV_Grammar",
+          "name": "Грамматика",
+          "emoji": "📚",
+          "description": "Тесты по грамматике",
+          "levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1"
+          ]
+        },
+        {
+          "id": "quizzes",
+          "dir": "Quizzes",
+          "name": "Логика",
+          "emoji": "🧩",
+          "description": "Простые логические задачи",
+          "levels": [
+            "L1",
+            "L2",
+            "L3"
+          ]
+        }
+      ]
+    }
+  ]
+}

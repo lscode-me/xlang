@@ -1,0 +1,50 @@
+{"id": "A1-001-0001", "question": "дом", "options": ["бакI", "мина", "азбар", "рукъ"], "correct": 4, "explanation": "Mapping: рукъ — дом (мн.ч. рукъал)", "tags": ["noun", "home"], "source": "llm"}
+{"id": "A1-001-0002", "question": "мама", "options": ["вац", "эбел", "яц", "эмен"], "correct": 2, "explanation": "эбел — мать", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0003", "question": "папа", "options": ["эбел", "вац", "яц", "эмен"], "correct": 4, "explanation": "эмен — отец", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0004", "question": "брат", "options": ["вац", "эмен", "яц", "эбел"], "correct": 1, "explanation": "вац — брат", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0005", "question": "сестра", "options": ["эбел", "яц", "эмен", "вац"], "correct": 2, "explanation": "яц — сестра", "tags": ["noun", "family"], "source": "llm"}
+{"id": "A1-001-0006", "question": "красный", "options": ["гIурччинаб", "тIогьилаб", "багIараб", "чIегIераб"], "correct": 3, "explanation": "багIараб — красный (класс б)", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0007", "question": "белый", "options": ["гIурччинаб", "хъахIаб", "багIараб", "чIегIераб"], "correct": 2, "explanation": "хъахIаб — белый (класс б)", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0008", "question": "черный", "options": ["гIурччинаб", "чIегIераб", "хъахIаб", "тIогьилаб"], "correct": 2, "explanation": "чIегIераб — черный (класс б)", "tags": ["adjective", "colors"], "source": "llm"}
+{"id": "A1-001-0009", "question": "вода", "options": ["гьури", "ракь", "лълъар", "лъим"], "correct": 4, "explanation": "лъим — вода", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0010", "question": "хлеб", "options": ["гьан", "гьецI", "тIагIам", "чед"], "correct": 4, "explanation": "чед — хлеб", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-001-0011", "question": "мясо", "options": ["лъим", "гьан", "мичI", "чед"], "correct": 2, "explanation": "гьан — мясо", "tags": ["noun", "food"], "source": "llm"}
+{"id": "A1-001-0012", "question": "большой", "options": ["халатаб", "гьитIинаб", "кIудияб", "гIатIидаб"], "correct": 3, "explanation": "кIудияб — большой (класс б)", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-001-0013", "question": "маленький", "options": ["къокъаб", "цIияб", "кIудияб", "гьитIинаб"], "correct": 4, "explanation": "гьитIинаб — маленький (класс б)", "tags": ["adjective", "size"], "source": "llm"}
+{"id": "A1-001-0014", "question": "хороший", "options": ["лъикIаб", "берцинаб", "цIияб", "квешаб"], "correct": 1, "explanation": "лъикIаб — хороший (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0015", "question": "плохой", "options": ["квешаб", "лъикIаб", "басрияб", "хораб"], "correct": 1, "explanation": "квешаб — плохой (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0016", "question": "один", "options": ["кIиго", "ункъго", "лъабго", "цо"], "correct": 4, "explanation": "цо — один", "tags": ["numeral"], "source": "llm"}
+{"id": "A1-001-0017", "question": "два", "options": ["кIиго", "лъабго", "ункъго", "цо"], "correct": 1, "explanation": "кIиго — два", "tags": ["numeral"], "source": "llm"}
+{"id": "A1-001-0018", "question": "три", "options": ["кIиго", "лъабго", "цо", "ункъго"], "correct": 2, "explanation": "лъабго — три", "tags": ["numeral"], "source": "llm"}
+{"id": "A1-001-0019", "question": "кушать", "options": ["гьекъозе", "кваназе", "ине", "бицине"], "correct": 2, "explanation": "кваназе — есть, кушать", "tags": ["verb", "survival"], "source": "llm"}
+{"id": "A1-001-0020", "question": "пить", "options": ["бегьизе", "лъазе", "гьекъозе", "кваназе"], "correct": 3, "explanation": "гьекъозе — пить", "tags": ["verb", "survival"], "source": "llm"}
+{"id": "A1-001-0021", "question": "идти", "options": ["лъутине", "бачIине", "тIаде", "ине"], "correct": 4, "explanation": "ине — идти (уходить)", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-001-0022", "question": "прийти", "options": ["тезе", "ине", "лъазе", "бачIине"], "correct": 4, "explanation": "бачIине — прийти, приходить", "tags": ["verb", "movement"], "source": "llm"}
+{"id": "A1-001-0023", "question": "знать", "options": ["тезе", "гьабизе", "лъазе", "бицине"], "correct": 3, "explanation": "лъазе — знать", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A1-001-0024", "question": "делать", "options": ["тезе", "гьабизе", "ине", "лъазе"], "correct": 2, "explanation": "гьабизе — делать", "tags": ["verb", "action"], "source": "llm"}
+{"id": "A1-001-0025", "question": "говорить", "options": ["гьабизе", "бицине", "лъазе", "ахIизе"], "correct": 2, "explanation": "бицине — говорить, рассказывать", "tags": ["verb", "communication"], "source": "llm"}
+{"id": "A1-001-0026", "question": "солнце", "options": ["цIва", "бакъ", "моцI", "зоб"], "correct": 2, "explanation": "бакъ — солнце", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0027", "question": "луна", "options": ["моцI", "цIва", "ракь", "бакъ"], "correct": 1, "explanation": "моцI — луна, месяц", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0028", "question": "звезда", "options": ["зоб", "цIва", "бакъ", "моцI"], "correct": 2, "explanation": "цIва — звезда", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0029", "question": "земля", "options": ["цIа", "гьури", "ракь", "лъим"], "correct": 3, "explanation": "ракь — земля", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0030", "question": "небо", "options": ["зоб", "бакъ", "ракь", "лъим"], "correct": 1, "explanation": "зоб — небо", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0031", "question": "огонь", "options": ["лъим", "ракь", "гьури", "цIа"], "correct": 4, "explanation": "цIа — огонь", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0032", "question": "ветер", "options": ["зоб", "лъим", "гьури", "цIа"], "correct": 3, "explanation": "гьури — ветер", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A1-001-0033", "question": "собака", "options": ["кету", "гьой", "гIака", "чу"], "correct": 2, "explanation": "гьой — собака (мн.ч. гьвеял)", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0034", "question": "кошка", "options": ["кету", "гьой", "чу", "бече"], "correct": 1, "explanation": "кету — кошка", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0035", "question": "лошадь", "options": ["бече", "боцIи", "чу", "гIака"], "correct": 3, "explanation": "чу — лошадь (мн.ч. чуял)", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0036", "question": "корова", "options": ["бече", "гIака", "оц", "чу"], "correct": 2, "explanation": "гIака — корова", "tags": ["noun", "animals"], "source": "llm"}
+{"id": "A1-001-0037", "question": "голова", "options": ["квер", "бетIер", "ракI", "бох"], "correct": 2, "explanation": "бетIер — голова", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0038", "question": "рука", "options": ["бох", "бер", "квер", "бетIер"], "correct": 3, "explanation": "квер — рука", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0039", "question": "нога", "options": ["бох", "бетIер", "квер", "гьино"], "correct": 1, "explanation": "бох — нога", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0040", "question": "глаз", "options": ["квер", "гIин", "бер", "бетIер"], "correct": 3, "explanation": "бер — глаз", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0041", "question": "сердце", "options": ["ракI", "бер", "бетIер", "квер"], "correct": 1, "explanation": "ракI — сердце", "tags": ["noun", "body"], "source": "llm"}
+{"id": "A1-001-0042", "question": "сегодня", "options": ["сон", "некIо", "жакъа", "метер"], "correct": 3, "explanation": "жакъа — сегодня", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-001-0043", "question": "завтра", "options": ["сон", "некIо", "метер", "жакъа"], "correct": 3, "explanation": "метер — завтра", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-001-0044", "question": "вчера", "options": ["метер", "некIо", "жакъа", "сон"], "correct": 4, "explanation": "сон — вчера", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A1-001-0045", "question": "быстро", "options": ["хехго", "разиго", "пашманго", "кIодого"], "correct": 1, "explanation": "хехго — быстро", "tags": ["adverb", "quality"], "source": "llm"}
+{"id": "A1-001-0046", "question": "красивый", "options": ["берцинаб", "квешаб", "гьитIинаб", "лъикIаб"], "correct": 1, "explanation": "берцинаб — красивый (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A1-001-0047", "question": "новый", "options": ["цIияб", "лъикIаб", "берцинаб", "басрияб"], "correct": 1, "explanation": "цIияб — новый (класс б)", "tags": ["adjective", "age"], "source": "llm"}
+{"id": "A1-001-0048", "question": "старый", "options": ["лъикIаб", "берцинаб", "цIияб", "басрияб"], "correct": 4, "explanation": "басрияб — старый (о вещах)", "tags": ["adjective", "age"], "source": "llm"}
+{"id": "A1-001-0049", "question": "город", "options": ["шагьар", "росу", "бакI", "мина"], "correct": 1, "explanation": "шагьар — город", "tags": ["noun", "place"], "source": "llm"}
+{"id": "A1-001-0050", "question": "село", "options": ["росу", "бакI", "мина", "шагьар"], "correct": 1, "explanation": "росу — село, деревня", "tags": ["noun", "place"], "source": "llm"}

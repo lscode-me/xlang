@@ -1,0 +1,12 @@
+{"id": "A1-005-0002", "question": "Школа", "options": ["Hastane", "Banka", "Market", "Okul"], "correct": 4, "explanation": "okul — школа", "tags": ["education"], "source": "llm"}
+{"id": "A1-005-0004", "question": "Ручка", "options": ["Kitap", "Kağıt", "Kalem", "Çanta"], "correct": 3, "explanation": "kalem — ручка/карандаш", "tags": ["objects"], "source": "llm"}
+{"id": "A1-005-0006", "question": "Мать", "options": ["Abi", "Anne", "Baba", "Abla"], "correct": 2, "explanation": "anne — мать", "tags": ["family"], "source": "llm"}
+{"id": "A1-005-0007", "question": "Отец", "options": ["Amca", "Baba", "Anne", "Dede"], "correct": 2, "explanation": "baba — отец", "tags": ["family"], "source": "llm"}
+{"id": "A1-005-0008", "question": "Брат (старший)", "options": ["Abi", "Kardeş", "Dayı", "Abla"], "correct": 1, "explanation": "abi — старший брат", "tags": ["family"], "source": "llm"}
+{"id": "A1-005-0009", "question": "Сестра (старшая)", "options": ["Teyze", "Hala", "Abla", "Abi"], "correct": 3, "explanation": "abla — старшая сестра", "tags": ["family"], "source": "llm"}
+{"id": "A1-005-0020", "question": "Зеленый", "options": ["Pembe", "Yeşil", "Sarı", "Turuncu"], "correct": 2, "explanation": "yeşil — зеленый", "tags": ["colors"], "source": "llm"}
+{"id": "A1-005-0040", "question": "День (как время суток)", "options": ["Gece", "Sabah", "Gündüz", "Akşam"], "correct": 3, "explanation": "gündüz — день (светлое время)", "tags": ["time"], "source": "llm"}
+{"id": "A1-005-0041", "question": "Город", "options": ["Ülke", "Köy", "Mahalle", "Şehir"], "correct": 4, "explanation": "şehir — город", "tags": ["places"], "source": "llm"}
+{"id": "A1-005-0042", "question": "Деревня", "options": ["Köy", "Sokak", "Kasaba", "Şehir"], "correct": 1, "explanation": "köy — деревня", "tags": ["places"], "source": "llm"}
+{"id": "A1-005-0043", "question": "Улица", "options": ["Sokak", "Yol", "Cadde", "Meydan"], "correct": 1, "explanation": "sokak — улица", "tags": ["places"], "source": "llm"}
+{"id": "A1-005-0044", "question": "Магазин", "options": ["Banka", "Ofis", "Hastane", "Mağaza"], "correct": 4, "explanation": "mağaza — магазин", "tags": ["places"], "source": "llm"}

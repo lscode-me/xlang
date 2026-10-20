@@ -1,0 +1,50 @@
+{"id": "A2-001-0001", "question": "друг", "options": ["молла", "вац", "гьудул", "гIалим"], "correct": 3, "explanation": "гьудул — друг (мн.ч. гьудулзаби)", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A2-001-0002", "question": "враг", "options": ["вац", "тушман", "гьудул", "квеш"], "correct": 2, "explanation": "тушман — враг", "tags": ["noun", "people"], "source": "llm"}
+{"id": "A2-001-0003", "question": "работа", "options": ["ине", "лъазе", "хIалтIи", "кванай"], "correct": 3, "explanation": "хIалтIи — работа, труд", "tags": ["noun", "daily"], "source": "llm"}
+{"id": "A2-001-0004", "question": "учитель", "options": ["студент", "вас", "магIалим", "хIалтIухъан"], "correct": 3, "explanation": "магIалим — учитель (арабское заимствование)", "tags": ["noun", "occupations"], "source": "llm"}
+{"id": "A2-001-0005", "question": "ученик", "options": ["студент", "магIалим", "вас", "цIалдохъан"], "correct": 4, "explanation": "цIалдохъан — ученик, учащийся", "tags": ["noun", "occupations"], "source": "llm"}
+{"id": "A2-001-0006", "question": "читать", "options": ["лъазе", "бицине", "хъвазе", "цIализе"], "correct": 4, "explanation": "цIализе — читать, учиться", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A2-001-0007", "question": "писать", "options": ["хъвазе", "бицине", "цIализе", "лъазе"], "correct": 1, "explanation": "хъвазе — писать", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A2-001-0008", "question": "книга", "options": ["тIехь", "кагъат", "хъвай", "цIали"], "correct": 1, "explanation": "тIехь — книга (мн.ч. тIухьдул)", "tags": ["noun", "education"], "source": "llm"}
+{"id": "A2-001-0009", "question": "письмо", "options": ["кагъат", "хъвай-цIали", "бицине", "тIехь"], "correct": 1, "explanation": "кагъат — письмо, бумага (мн.ч. кагътал)", "tags": ["noun", "communication"], "source": "llm"}
+{"id": "A2-001-0010", "question": "время", "options": ["къо", "сагIат", "заман", "номер"], "correct": 3, "explanation": "заман — время (мн.ч. заманал)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0011", "question": "час", "options": ["заман", "къо", "минута", "сагIат"], "correct": 4, "explanation": "сагIат — час, часы", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0012", "question": "день", "options": ["бухье", "къо", "сагIат", "сордо"], "correct": 2, "explanation": "къо — день (мн.ч. къоял)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0013", "question": "ночь", "options": ["рии", "къо", "сордо", "заман"], "correct": 3, "explanation": "сордо — ночь (мн.ч. сардаби)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0014", "question": "год", "options": ["сон", "къо", "нии", "моцI"], "correct": 1, "explanation": "сон — год (мн.ч. сонал)", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0015", "question": "неделя", "options": ["анцIила кIиго къо", "анкь", "рии", "заман"], "correct": 2, "explanation": "анкь — неделя", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0016", "question": "дорога", "options": ["нух", "хур", "майдан", "рокью"], "correct": 1, "explanation": "нух — дорога, путь (мн.ч. нухал)", "tags": ["noun", "place"], "source": "llm"}
+{"id": "A2-001-0017", "question": "гора", "options": ["хур", "гIор", "мегIер", "лагълъи"], "correct": 3, "explanation": "мегIер — гора (мн.ч. мугIрул)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0018", "question": "река", "options": ["мегIер", "майдан", "гIака", "гIор"], "correct": 4, "explanation": "гIор — река (мн.ч. гIорал)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0019", "question": "сад", "options": ["бакI", "ах", "майдан", "рокъ"], "correct": 2, "explanation": "ах — сад (мн.ч. ахал)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0020", "question": "дерево", "options": ["хур", "тIанчI", "тIегь", "гъветI"], "correct": 4, "explanation": "гъветI — дерево (мн.ч. гъутIби)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0021", "question": "цветок", "options": ["мичI", "тIегь", "тIанчI", "гъветI"], "correct": 2, "explanation": "тIегь — цветок (мн.ч. тIугьдул)", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0022", "question": "весна", "options": ["хас", "рии", "хасел", "нии"], "correct": 4, "explanation": "нии — весна", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0023", "question": "лето", "options": ["рии", "хасел", "хасалихълъи", "нии"], "correct": 1, "explanation": "рии — лето", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0024", "question": "осень", "options": ["нии", "хасел", "рии", "хасалихълъи"], "correct": 4, "explanation": "хасалихълъи — осень", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0025", "question": "зима", "options": ["нии", "рии", "хасел", "хасалихълъи"], "correct": 3, "explanation": "хасел — зима", "tags": ["noun", "time"], "source": "llm"}
+{"id": "A2-001-0026", "question": "холодный", "options": ["меседил", "цIорораб", "хинаб", "гьуинаб"], "correct": 2, "explanation": "цIорораб — холодный (класс б)", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-001-0027", "question": "горячий", "options": ["хинаб", "квешаб", "цIорораб", "бацIадаб"], "correct": 1, "explanation": "хинаб — теплый, горячий (класс б)", "tags": ["adjective", "weather"], "source": "llm"}
+{"id": "A2-001-0028", "question": "чистый", "options": ["бацIадаб", "хинаб", "цIияб", "чIедераб"], "correct": 1, "explanation": "бацIадаб — чистый (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A2-001-0029", "question": "грязный", "options": ["цIияб", "бацIадаб", "хIамилаб", "басрияб"], "correct": 3, "explanation": "хIамилаб — грязный (класс б)", "tags": ["adjective", "quality"], "source": "llm"}
+{"id": "A2-001-0030", "question": "дорогой (цена)", "options": ["бигьаяб", "багьаяб", "лъикIаб", "гьуинаб"], "correct": 2, "explanation": "багьаяб — дорогой (класс б)", "tags": ["adjective", "money"], "source": "llm"}
+{"id": "A2-001-0031", "question": "дешевый", "options": ["гьуинаб", "квешаб", "бигьаяб", "багьаяб"], "correct": 3, "explanation": "бигьаяб — легкий, дешевый (класс б)", "tags": ["adjective", "money"], "source": "llm"}
+{"id": "A2-001-0032", "question": "купить", "options": ["лъазе", "босизе", "гьабизе", "бичизе"], "correct": 2, "explanation": "босизе — купить, брать", "tags": ["verb", "money"], "source": "llm"}
+{"id": "A2-001-0033", "question": "продать", "options": ["гьабизе", "босизе", "тезе", "бичизе"], "correct": 4, "explanation": "бичизе — продать", "tags": ["verb", "money"], "source": "llm"}
+{"id": "A2-001-0034", "question": "деньги", "options": ["гIарац", "месед", "чед", "гьан"], "correct": 1, "explanation": "гIарац — серебро, деньги", "tags": ["noun", "money"], "source": "llm"}
+{"id": "A2-001-0035", "question": "золото", "options": ["цIа", "месед", "ракь", "гIарац"], "correct": 2, "explanation": "месед — золото", "tags": ["noun", "nature"], "source": "llm"}
+{"id": "A2-001-0036", "question": "больной", "options": ["сахаб", "квешаб", "лъикIаб", "унтараб"], "correct": 4, "explanation": "унтараб — больной (класс б)", "tags": ["adjective", "health"], "source": "llm"}
+{"id": "A2-001-0037", "question": "здоровый", "options": ["кIудияб", "сахаб", "унтараб", "лъикIаб"], "correct": 2, "explanation": "сахаб — здоровый, целый (класс б)", "tags": ["adjective", "health"], "source": "llm"}
+{"id": "A2-001-0038", "question": "помочь", "options": ["кумек гьабизе", "ине", "лъазе", "бицине"], "correct": 1, "explanation": "кумек гьабизе — помочь", "tags": ["verb", "action"], "source": "llm"}
+{"id": "A2-001-0039", "question": "нужно", "options": ["тезе буго", "лъалеб буго", "къваригIун буго", "бегьулеб буго"], "correct": 3, "explanation": "къваригIун буго — нужно, необходимо (класс б)", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A2-001-0040", "question": "можно", "options": ["къваригIунаро", "лъаларо", "бина", "бегьула"], "correct": 4, "explanation": "бегьула — можно, разрешено", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A2-001-0041", "question": "нельзя", "options": ["къваригIуна", "лъала", "бегьула", "бегьуларо"], "correct": 4, "explanation": "бегьуларо — нельзя, запрещено", "tags": ["verb", "mental"], "source": "llm"}
+{"id": "A2-001-0042", "question": "здесь", "options": ["гьанив", "гьанир", "гьаниб", "гьаний"], "correct": 3, "explanation": "гьаниб — здесь (класс б)", "tags": ["adverb", "place"], "source": "llm"}
+{"id": "A2-001-0043", "question": "там", "options": ["жвака", "киб", "добна", "гьаниб"], "correct": 3, "explanation": "добна — там (далеко)", "tags": ["adverb", "place"], "source": "llm"}
+{"id": "A2-001-0044", "question": "где", "options": ["киб", "лъица", "кица", "щиб"], "correct": 1, "explanation": "киб — где (класс б)", "tags": ["adverb", "place"], "source": "llm"}
+{"id": "A2-001-0045", "question": "когда", "options": ["киб", "кида", "лъица", "кица"], "correct": 2, "explanation": "кида — когда", "tags": ["adverb", "time"], "source": "llm"}
+{"id": "A2-001-0046", "question": "почему", "options": ["щай", "киб", "щиб", "кида"], "correct": 1, "explanation": "щай — почему", "tags": ["adverb", "logic"], "source": "llm"}
+{"id": "A2-001-0047", "question": "как", "options": ["кида", "кин", "щай", "кица"], "correct": 2, "explanation": "кин — как", "tags": ["adverb", "logic"], "source": "llm"}
+{"id": "A2-001-0048", "question": "кто", "options": ["лъив", "лъица", "лъиб", "лъий"], "correct": 1, "explanation": "лъив — кто (мужской класс)", "tags": ["pronoun", "people"], "source": "llm"}
+{"id": "A2-001-0049", "question": "что", "options": ["лъив", "щиб", "лъий", "лъиб"], "correct": 2, "explanation": "щиб — что (средний класс)", "tags": ["pronoun", "objects"], "source": "llm"}
+{"id": "A2-001-0050", "question": "мы", "options": ["дал", "нижеца", "ниж", "нуж"], "correct": 3, "explanation": "ниж — мы (эксклюзивное)", "tags": ["pronoun", "people"], "source": "llm"}

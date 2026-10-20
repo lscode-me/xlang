@@ -1,0 +1,64 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build language courses
+        run: |
+          rm -rf Courses/__pycache__/
+          build_html/build_html.sh
+          build_tma/build_tma.sh
+
+      - name: Build tma mini-app courses
+        run: |
+          cd tma
+          for course_id in $(jq -r '.courses[].id' data/config.json); do
+            dest_folder=$(jq -r ".courses[] | select(.id == \"$course_id\") | .dest_folder" data/config.json)
+            echo "=== Building $course_id -> $dest_folder ==="
+            build/build_ma.sh "$course_id"
+            mkdir -p "../html/$dest_folder"
+            cp -r "html/$dest_folder/." "../html/$dest_folder/"
+          done
+
+      - name: Add CNAME
+        run: echo "xlang.lscode.me" > html/CNAME
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: html
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -30,6 +30,17 @@ build_tma/__pycache__/
 build_ma/venv/
 build_ma/__pycache__/
 
+# Telegram Mini App courses (merged repo)
+!tma/
+!tma/**
+tma/**/__pycache__/
+tma/**/venv/
+tma/html/
+
+# CI
+!.github/
+!.github/**
+
 # HTML вывод (генерируется автоматически)
 html/
 
